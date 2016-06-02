@@ -1,0 +1,1235 @@
+ 27249369   Zhu F et al (2016) "Sequence Evolution and Expression of the Androgen Receptor and Other Pathway-Related Genes in a Unisexual Fish, the Amazon Molly, Poecilia formosa, and Its Bisexual Ancestors." PLoS One 11(6), e0156209
+
+The all-female Amazon molly (Poecilia formosa) originated from a single
+hybridization of two bisexual ancestors, Atlantic molly (Poecilia mexicana)
+and sailfin molly (Poecilia latipinna). As a gynogenetic species, the
+Amazon molly needs to copulate with a heterospecific male, but the
+genetic information of the  sperm-donor does not contribute to the
+next generation, as the sperm only acts as the trigger for the diploid
+eggs' embryogenesis. Here, we study the sequence evolution and gene
+expression of the duplicated genes coding for androgen receptors (ars)
+and other pathway-related genes, i.e., the estrogen receptors (ers)
+and cytochrome P450, family19, subfamily A, aromatase genes (cyp19as),
+in the Amazon molly, in comparison to its bisexual ancestors. Mollies
+possess-as most other teleost fish-two copies of the ar, er, and cyp19a
+genes, i.e., aralpha/arbeta, eralpha/erbeta1, and cyp19a1 (also referred
+as cyp19a1a)/cyp19a2  (also referred to as cyp19a1b), respectively.
+Non-synonymous single nucleotide polymorphisms (SNPs) among the ancestral
+bisexual species were generally predicted not to alter protein function.
+Some derived substitutions in the P. mexicana and one in P. formosa
+are predicted to impact protein function. We also  describe the gene
+expression pattern of the ars and pathway-related genes in various
+tissues (i.e., brain, gill, and ovary) and provide SNP markers for
+allele specific expression research. As a general tendency, the levels
+of gene expression were lowest in gill and highest in ovarian tissues,
+while expression levels in the brain were intermediate in most cases.
+Expression levels in P. formosa were conserved where expression did
+not differ between the two bisexual ancestors. In those cases where
+gene expression levels significantly differed between the bisexual
+species, P. formosa expression was always comparable to the  higher
+expression level among the two ancestors. Interestingly, erbeta1 was
+expressed neither in brain nor in gill in the analyzed three molly
+species, which implies a more important role of eralpha in the estradiol
+synthesis pathway in these tissues. Furthermore, our data suggest that
+interactions of steroid-signaling pathway genes differ across tissues,
+in particular the interactions of ars and cyp19as.
+
+ 27247144   Wu Y et al (2016) "Quantitative proteomics analysis of the liver reveals immune regulation and lipid metabolism dysregulation in a mouse model of depression." Behav Brain Res
+
+Major depressive disorder (MDD) is a highly prevalent and debilitating
+mental illness with substantial impairments in quality of life and
+functioning. However, the pathophysiology of major depression remains
+poorly understood. Combining the  brain and body should provide a comprehensive
+understanding of the etiology of MDD. As the largest internal organ
+of the human body, the liver has an important  function, yet no proteomic
+study has assessed liver protein expression in a preclinical model
+of depression. Using the chronic unpredictable mild stress (CUMS) mouse
+model of depression, differential protein expression between CUMS and
+control (CON) mice was examined in the liver proteome using isobaric
+tag for  relative and absolute quantitation (iTRAQ) coupled with tandem
+mass spectrometry. More than 4000 proteins were identified and 66 most
+significantly differentiated  proteins were used for further bioinformatic
+analysis. According to the ingenuity pathway analysis (IPA), we found
+that proteins related to the inflammation response, immune regulation,
+lipid metabolism and NFkappaB signaling network were altered by CUMS.
+Moreover, four proteins closely associated with these processes, hemopexin,
+haptoglobin, cytochrome P450 2A4 (CYP2A4) and bile salt sulfotransferase
+1 (SULT2A1), were validated by western blotting. In conclusion,  we
+report, for the first time, the liver protein expression profile in
+the CUMS mouse model of depression. Our findings provide novel insight
+(liver-brain axis)  into the multifaceted mechanisms of major depressive
+disorder.
+
+ 27246748   Lim DW et al (2016) "Amomum cardamomum L. ethyl acetate fraction protects against carbon tetrachloride-induced liver injury via an antioxidant mechanism in rats." BMC Complement Altern Med 16(1), 155
+
+BACKGROUND: Medicinal herb-derived drug development has become important
+in the relief of liver pathology. Amomun cardamomum is traditionally
+used therapeutically in Korea to treat various human ailments including
+dyspepsia, hiccupping, and vomiting. We investigated to assess the
+protective effect of A. cardamomum on carbon tetrachloride (CCl4)-induced
+liver damage through antioxidant activity in hepatic tissues of Sprague-Dawley
+rats. METHODS: Antioxidant properties of different fractions from A.
+cardamomum from ethanol extracts were evaluated by an in vitro free
+radical scavenging systems. The protective effect of the ethyl acetate
+fraction from A. cardamomum (EAAC) against CCl4-induced cytotoxicity
+was determined by a cell viability assay using HepG2 hepatocarcinoma
+cells. In vivo study, the influence of EAAC concentrations of 100 and
+200 mg/kg following CCl4-induced hepatic injury was assessed. Serum
+levels of glutamic oxaloacetic transaminase (GOT), glutamic pyruvic
+transaminase (GPT), and alkaline phosphatase (ALP) were determined,
+as was lipid peroxidation (malondialdehyde, MDA). Effect of EAAC on
+liver detoxification enzymes including  superoxide dismutase (SOD),
+total glutathione (GSH), and glutathione S-transferase (GST) activity
+was measured in rat liver homogenates. Liver cytochrome P450 (CYP2E1)
+expression level was determined by quantification of mRNA. RESULTS:
+Phytochemical analysis of A. cardamomum indicated that EAAC was enriched
+in total polyphenol and total flavonoid. Most of the tannins were confined
+to the hexane fraction. Hepatoprotective properties of EAAC were evident,
+with significantly reduced serum levels of GOT, GPT, and ALP compared
+with the control group. Improved hepatic antioxidant status was evident
+by increased SOD, GSH, and GST enzymes in rat liver tissue. Liver lipid
+peroxidation induced by CCl4 was apparent by increased intracellular
+MDA level. EAAC suppressed lipid peroxidation as evidenced by the significant
+decrease in MDA production. Expression of CYP2E1 was also significantly
+decreased at the higher concentration of EAAC, indicating the hepatoprotective
+efficacy of EAAC on acute  liver damage. CONCLUSION: These results
+indicated that EAAC has a significant hepatoprotective activity on
+CCl4-induced acute hepatic injury in rats, which might be derived from
+its antioxidant properties and CYP2E1 downregulation.
+
+ 27246733   Hsieh CH et al (2016) "Expanding the substrate scope and reactivity of cytochrome P450 OleT." Biochem Biophys Res Commun
+
+The efficient hydrogen peroxide-dependent hydroxylation and epoxidation
+of hydrocarbons is catalysed by a P450 fatty acid decarboxylase (OleT)
+active-site variant. The introduction of an acidic functionality in
+the protein framework circumvents the necessity for a carboxylate that
+is typically provided by the substrate for efficient H2O2 heterolysis.
+Spectroscopic and turnover studies show that the mutation eliminates
+the binding and metabolism of prototypical fatty acid substrates, but
+permits the oxidation of a broad range of inert hydrocarbon  substrates.
+
+ 27245908   Snider NT et al (2016) "Assay of Endocannabinoid Oxidation by Cytochrome P450." Methods Mol Biol 1412, 227-236
+
+Cytochrome P450 enzymes are a large family of heme-containing proteins
+that have  important functions in the biotransformation of xenobiotics,
+including pharmacologic and environmental agents, as well as of endogenously
+produced chemicals with broad structural and functional diversity.
+Anandamide and 2-arachidonoylglycerol (2-AG) are substrates for P450s
+expressed in multiple tissues, leading to the production of a diverse
+set of mono- and di-oxygenated metabolites. This chapter describes
+tools and methods that have been used to identify major endocannabinoid-metabolizing
+P450s and their corresponding products, by using subcellular tissue
+fractions, cultured cells, and purified recombinant enzymes in a reconstituted
+system.
+
+ 27245167   Hassan MH et al (2016) "Antifibrotic effect of meloxicam in rat liver: role of nuclear factor kappa B, proinflammatory cytokines, and oxidative stress." Naunyn Schmiedebergs Arch Pharmacol
+
+This study was aimed at investigating the antifibrotic effect of meloxicam
+in CCl4-induced liver fibrosis and elucidating its underlying mechanism.
+Forty male  rats were equally randomized for 8-week treatment with
+corn oil (negative control), CCl4 (to induce liver fibrosis), and/or
+meloxicam. Meloxicam effectively ameliorated the CCl4-induced alterations
+in liver histology, liver weight to body weight ratio, liver functions,
+and serum markers for liver fibrosis (hyaluronic acid, laminin, and
+PCIII). Meloxicam significantly abrogated CCl4-induced elevation of
+messenger RNA (mRNA) expressions for collagen I and alpha smooth muscle
+actin (alpha-SMA) and hepatic contents of hydroxyproline, transforming
+growth factor beta (TGF-beta), and tissue inhibitor of matrix metalloproteases
+(TIMP-1). Meloxicam mitigated CCl4-induced elevation in hepatic  levels
+of nuclear factor kappa B (NF-kappaB), tumor necrosis factor alpha
+(TNF-alpha), total nitric oxide (NO), interleukin-l beta (IL 1beta),
+and prostaglandin E2 (PGE2). Meloxicam modulated CCl4-induced disturbance
+of liver cytochrome P450 subfamily 2E1 (CYP2E1) and glutathione-S-transferase
+(GST). The attenuation of meloxicam to liver fibrosis was associated
+with suppression of oxidative stress via reduction of lipid peroxides
+along with induction of reduced glutathione content and enhancement
+of superoxide dismutase, glutathione peroxidase, and catalase activities.
+This study provides an evidence for antifibrotic effect of meloxicam
+against CCl4-induced liver fibrosis in rat. The  antifibrotic mechanism
+of meloxicam could be through decreasing NF-kappaB level and subsequent
+proinflammatory cytokine production (TNF-alpha, NO, IL-1 beta, and
+PGE2) and, hence, collagen deposition through inhibition of TIMP-1
+and TGF-beta.  Abrogation of oxidative stress and modulation of liver-metabolizing
+enzymes (CYP2E1 and GST) were also involved.
+
+ 27243976   Banerjee A et al (2016) "Functional and Structural Analyses of CYP1B1 Variants Linked to Congenital and Adult-Onset Glaucoma to Investigate the Molecular Basis of These Diseases." PLoS One 11(5), e0156252
+
+Glaucoma, the leading cause of irreversible blindness, appears in various
+forms.  Mutations in CYP1B1 result in primary congenital glaucoma (PCG)
+by an autosomal recessive mode of inheritance while it acts as a modifier
+locus for primary open  angle glaucoma (POAG). We investigated the
+molecular basis of the variable phenotypes resulting from the defects
+in CYP1B1 by using subclones of 23 CYP1B1 mutants reported in glaucoma
+patients, in a cell based system by measuring the dual activity of
+the enzyme to metabolize both retinol and 17beta-estradiol. Most variants
+linked to POAG showed low steroid metabolism while null or very high
+retinol metabolism was observed in variants identified in PCG. We examined
+the translational turnover rates of mutant proteins after the addition
+of cycloheximide and observed that the levels of enzyme activity mostly
+corroborated the translational turnover rate. We performed extensive
+normal mode analysis and  molecular-dynamics-simulations-based structural
+analyses and observed significant variation of fluctuation in certain
+segmental parts of the mutant proteins, especially at the B-C and F-G
+loops, which were previously shown to affect the dynamic behavior and
+ligand entry/exit properties of the cytochrome P450 family of proteins.
+Our molecular study corroborates the structural analysis, and suggests
+that the pathologic state of the carrier of CYP1B1 mutations is determined
+by the allelic state of the gene. To our knowledge, this is the first
+attempt to dissect biological activities of CYP1B1 for correlation
+with congenital and adult onset glaucomas.
+
+ 27243445   Tanvir S et al (2016) "Effects of 3G cell phone exposure on the structure and function of the human cytochrome P450 reductase." Bioelectrochemistry 111, 62-69
+
+Cell phones increase exposure to radiofrequency (RF) electromagnetic
+fields (EMFs). Whether EMFs exert specific effects on biological systems
+remains debatable. This study investigated the effect of cell phone
+exposure on the structure and function of human NADPH-cytochrome P450
+reductase (CPR). CPR plays  a key role in the electron transfer to
+cytochrome P450, which takes part in a wide range of oxidative metabolic
+reactions in various organisms from microbes to humans. Human CPR was
+exposed for 60min to 1966-MHz RF inside a transverse electromagnetic
+cell (TEM-cell) placed in an incubator. The specific absorption rate
+(SAR) was 5W.kg-1. Conformation changes have been detected through
+fluorescent spectroscopy of flavin and tryptophan residues, and investigated
+through circular dichroism, dynamic light scattering and microelectrophoresis.
+These showed that CPR was narrowed. By using cytochrome C reductase
+activity to assess the electron flux through the CPR, the Michaelis
+Menten constant (Km) and  the maximum initial velocity (Vmax) decreased
+by 22% as compared with controls. This change was due to small changes
+in the tertiary and secondary structures of  the protein at 37 degrees
+C. The relevance of these findings to an actual RF exposure scenario
+demands further biochemical and in-vivo confirmation.
+
+ 27242873   Ma CH et al (2016) "Candidate Genes Involved in the Biosynthesis of Triterpenoid Saponins in Platycodon grandiflorum Identified by Transcriptome Analysis." Front Plant Sci 7, 673
+
+BACKGROUND: Platycodon grandiflorum is the only species in the genus
+Platycodon of the family Campanulaceae, which has been traditionally
+used as a medicinal plant for its lung-heat-clearing, antitussive,
+and expectorant properties in China, Japanese, and Korean. Oleanane-type
+triterpenoid saponins were the main chemical components of P. grandiflorum
+and platycodin D was the abundant and main bioactive component, but
+little is known about their biosynthesis in plants. Hence, P. grandiflorum
+is an ideal medicinal plant for studying the biosynthesis  of Oleanane-type
+saponins. In addition, the genomic information of this important herbal
+plant is unavailable. PRINCIPAL FINDINGS: A total of 58,580,566 clean
+reads were obtained, which were assembled into 34,053 unigenes, with
+an average length of 936 bp and N50 of 1,661 bp by analyzing the transcriptome
+data of P. grandiflorum. Among these 34,053 unigenes, 22,409 unigenes
+(65.80%) were annotated based on the information available from public
+databases, including Nr, NCBI, Swiss-Prot, KOG, and KEGG. Furthermore,
+21 candidate cytochrome P450 genes  and 17 candidate UDP-glycosyltransferase
+genes most likely involved in triterpenoid saponins biosynthesis pathway
+were discovered from the transcriptome sequencing of P. grandiflorum.
+In addition, 10,626 SSRs were identified based on  the transcriptome
+data, which would provide abundant candidates of molecular markers
+for genetic diversity and genetic map for this medicinal plant. CONCLUSION:
+The genomic data obtained from P. grandiflorum, especially the identification
+of putative genes involved in triterpenoid saponins biosynthesis pathway,
+will facilitate our understanding of the biosynthesis of triterpenoid
+saponins at molecular level.
+
+ 27242531   Samokhvalov V et al (2016) "SIRT Is Required for EDP-Mediated Protective Responses toward Hypoxia-Reoxygenation Injury in Cardiac Cells." Front Pharmacol 7, 124
+
+Hypoxia-reoxygenation (H/R) injury is known to cause extensive injury
+to cardiac  myocardium promoting development of cardiac dysfunction.
+Despite the vast number  of studies dedicated to studying H/R injury,
+the molecular mechanisms behind it are multiple, complex, and remain
+very poorly understood, which makes development of novel pharmacological
+agents challenging. Docosahexaenoic acid (DHA, 22:6n3) is an n - 3
+polyunsaturated fatty acid obtained from dietary sources, which produces
+numerous effects including regulation of cell survival and death mechanisms.
+The beneficial effects of DHA toward the cardiovascular system are
+well documented but the relative role of DHA or one of its more potent
+metabolites is unresolved. Emerging evidence indicates that cytochrome
+P450 (CYP) epoxygenase metabolites of DHA, epoxydocosapentaenoic acids
+(EDPs), have more potent biological activity than DHA in cardiac cells.
+In this study we examined whether EDPs protect HL-1 cardiac cells from
+H/R injury. Our observations demonstrate that treatment with 19,20-EDP
+protected HL-1 cardiac cells from H/R damage through a mechanism(s)
+protecting and enhancing mitochondrial quality. EDP treatment increased
+the relative rates of mitobiogenesis and mitochondrial respiration
+in control and H/R exposed cardiac cells. The observed EDP protective
+response toward H/R injury involved SIRT1-dependent pathways.
+
+ 27241061   Reis-Pardal J et al (2016) "Comparing cytochrome P450 pharmacogenetic information available on United States  drug labels and European Union Summaries of Product Characteristics." Pharmacogenomics J
+
+Regulatory agencies are increasing the pharmacogenomic information
+in their official drug labeling. However, despite the importance of
+regulatory harmonization, this implementation may not be running in
+parallel among major agencies. Comparing labeling of medicines approved
+by different agencies may identify gaps to solve. Our study compared
+the cytochrome P450 pharmacogenetic information included in the United
+States (US) Food and Drug Administration (FDA) drug labels and European
+Union (EU) Summaries of Product Characteristics (SmPCs). US labels
+presented significantly more specific pharmacogenetic subheadings (51
+vs 26%), more prevalence and pharmacokinetic data for each metabolic
+phenotype (59 vs 25% and 82 vs 48%, respectively) and more applicable
+information about dose modifications required (25 vs 5%). Approximately
+75% of the US labels evaluated scored higher on the overall quality
+than the analogous EU SmPCs, and this difference was not associated
+with the time since the EU SmPCs' last review. To enhance harmonization,
+regulatory agencies should simultaneously introduce the pharmacogenetic
+information in their drug labeling.The Pharmacogenomics Journal advance
+online publication, 31 May 2016; doi:10.1038/tpj.2016.40.
+
+ 27241012   Scott JG (2016) "Evolution of resistance to pyrethroid insecticides in Musca domestica." Pest Manag Sci
+
+BACKGROUND: House flies, Musca domestica L., are a significant pest
+because of the numerous diseases they transmit. Control of house fly
+populations, particularly at animal production facilities, is frequently
+done using pyrethroid insecticides which kill insects by prolonging
+the open time of the voltage sensitive sodium channel (VSSC). RESULTS:
+House flies have evolved resistance to  pyrethroids due to mutations
+in Vssc and by cytochrome P450-mediated detoxification. Three Vssc
+mutations are known: kdr (L1014F), kdr-his (L1014H) and super-kdr (M918T+L1014F).
+Generally, the levels of resistance conferred by these mutations are
+kdr-his < kdr < super-kdr, but this pattern does not hold for multi-halogenated
+benzyl pyrethroids for which super-kdr confers less resistance  than
+kdr. P450-mediated resistance can result from overexpression of CYP6D1
+or to another P450 (unidentified) whose overexpression is linked to
+autosomes II or V.  CONCLUSIONS: The initial use of field-stable pyrethroids
+resulted in different patterns of evolution across the globe, but with
+time these mutations have become more widespread in their distribution.
+What is known about the fitness costs of the resistance alleles in
+the absence of insecticide is discussed, particularly with respect
+to the current and future utility of pyrethroid insecticides.
+
+ 27240349   Cong L et al (2016) "Transcriptome and Difference Analysis of Fenpropathrin Resistant Predatory Mite,  Neoseiulus barkeri (Hughes)." Int J Mol Sci 17(6)
+
+Several fenpropathrin-resistant predatory mites have been reported.
+However, the  molecular mechanism of the resistance remains unknown.
+In the present study, the  Neoseiulus barkeri (N. barkeri) transcriptome
+was generated using the Illumina sequencing platform, 34,211 unigenes
+were obtained, and 15,987 were manually annotated. After manual annotation,
+attentions were attracted to resistance-related genes, such as voltage-gated
+sodium channel (VGSC), cytochrome P450s (P450s), and glutathione S-transferases
+(GSTs). A polymorphism analysis detected two point mutations (E1233G
+and S1282G) in the linker region between VGSC domain II and III. In
+addition, 43 putative P450 genes and 10 putative GST genes were identified
+from the transcriptome. Among them, two P450 genes, NbCYP4EV2 and NbCYP4EZ1,
+and four GST genes, NbGSTd01, NbGSTd02, NbGSTd03 and NbGSTm03, were
+remarkably overexpressed 3.64-46.69-fold in the fenpropathrin resistant
+strain compared to that in the susceptible strain. These results suggest
+that fenpropathrin resistance in N. barkeri is a complex biological
+process involving many genetic changes and provide new insight into
+the N. barkeri resistance mechanism.
+
+ 27238232   Milhim M et al (2016) "A Novel NADPH-dependent flavoprotein reductase from Bacillus megaterium acts as an efficient cytochrome P450 reductase." J Biotechnol
+
+Cytochromes P450 (P450s) require electron transfer partners to catalyze
+substrate conversions. With regard to biotechnological approaches,
+the elucidation of novel electron transfer proteins is of special interest,
+as they can influence the enzymatic activity and specificity of the
+P450s. In the current work we present the identification and characterization
+of a novel soluble NADPH-dependent diflavin reductase from Bacillus
+megaterium with activity towards a bacterial (CYP106A1) and a microsomal
+(CYP21A2) P450 and, therefore, we referred to it as B. megaterium cytochrome
+P450 reductase (BmCPR). Sequence analysis of the protein revealed besides
+the conserved FMN-, FAD- and NADPH-binding motifs, the presence  of
+negatively charged cluster, which is thought to represent the interaction
+domain with P450s and/or cytochrome c. BmCPR was expressed and purified
+to homogeneity in E. coli. The purified BmCPR exhibited a characteristic
+diflavin reductase spectrum, and showed a cytochrome c reducing activity.
+Furthermore, in  an in vitro reconstituted system, the BmCPR was able
+to support the hydroxylation of testosterone and progesterone with
+CYP106A1 and CYP21A2, respectively. Moreover, in view of the biotechnological
+application, the BmCPR is very promising, as it could be successfully
+utilized to establish CYP106A1- and CYP21A2-based whole-cell biotransformation
+systems, which yielded 0.3g/L hydroxy-testosterone products within
+8h and 0.16g/L 21-hydroxyprogesterone within 6h, respectively. In conclusion,
+the BmCPR reported herein owns a great potential for further applications
+and studies and should be taken into consideration for bacterial and/or
+microsomal CYP-dependent bioconversions.
+
+ 27236320   Hohmann N et al (2016) "Dose-Dependent Bioavailability and CYP3A Inhibition Contribute to Non-Linear Pharmacokinetics of Voriconazole." Clin Pharmacokinet
+
+Voriconazole is both a substrate and a potent inhibitor of cytochrome
+P450 (CYP)  3A. It has a high bioavailability and non-linear pharmacokinetics.
+We investigated the pharmacokinetics and metabolism of 50 mg and 400
+mg doses of intravenous and oral voriconazole in 14 healthy volunteers.
+Concurrently, we determined systemic and presystemic CYP3A activity
+with microdosed midazolam. Bioavailability of voriconazole 50 mg was
+39 % compared with 86 % of the 400 mg dose. Voriconazole area under
+the concentration-time curve extrapolated to infinity (AUCinfinity)
+was 416 and 16,700 h.ng/mL for the 50 and 400 mg oral doses, respectively,
+and 1110 and 19,760 h.ng/mL for the 50 and 400 mg intravenous doses,
+respectively. Midazolam metabolism was dose-dependently inhibited by
+voriconazole. Dose-dependent autoinhibition of CYP3A-dependent first-pass
+metabolism and systemic metabolism is a possible explanation for the
+dose-dependent bioavailability and elimination of voriconazole, either
+as additional mechanism to, or instead of, saturation of presystemic
+metabolism. Higher bioavailability and non-linear pharmacokinetics
+are expected to be a common property of drugs that are substrates and
+inhibitors of CYP3A, e.g. clarithromycin.
+
+ 27236227   Loh SC et al (2016) "Identification of differentially expressed genes and signalling pathways in bark  of Hevea brasiliensis seedlings associated with secondary laticifer differentiation using gene expression microarray." Plant Physiol Biochem 107, 45-55
+
+The natural rubber of Para rubber tree, Hevea brasiliensis, is the
+main crop involved in industrial rubber production due to its superior
+quality. The Hevea bark is commercially exploited to obtain latex,
+which is produced from the articulated secondary laticifer. The laticifer
+is well defined in the aspect of morphology; however, only some genes
+associated with its development have been reported. We successfully
+induced secondary laticifer in the jasmonic acid (JA)-treated and linolenic
+acid (LA)-treated Hevea bark but secondary laticifer is not observed
+in the ethephon (ET)-treated and untreated Hevea bark. In this study,
+we analysed 27,195 gene models using NimbleGen microarrays based on
+the Hevea draft genome. 491 filtered differentially expressed (FDE)
+transcripts that  are common to both JA- and LA-treated bark samples
+but not ET-treated bark samples were identified. In the Eukaryotic
+Orthologous Group (KOG) analysis, 491  FDE transcripts belong to different
+functional categories that reflect the diverse processes and pathways
+involved in laticifer differentiation. In the Kyoto Encyclopedia of
+Genes and Genomes (KEGG) and KOG analysis, the profile of the FDE transcripts
+suggest that JA- and LA-treated bark samples have a sufficient molecular
+basis for secondary laticifer differentiation, especially regarding
+secondary metabolites metabolism. FDE genes in this category are from
+the cytochrome (CYP) P450 family, ATP-binding cassette (ABC) transporter
+family,  short-chain dehydrogenase/reductase (SDR) family, or cinnamyl
+alcohol dehydrogenase (CAD) family. The data includes many genes involved
+in cell division, cell wall synthesis, and cell differentiation. The
+most abundant transcript in FDE list was SDR65C, reflecting its importance
+in laticifer differentiation. Using the Basic Local Alignment Search
+Tool (BLAST) as part of annotation and functional prediction, several
+characterised as well as uncharacterized transcription factors and
+genes were found in the dataset. Hence, the further characterization
+of these genes is necessary to unveil their role in  laticifer differentiation.
+This study provides a platform for the further characterization and
+identification of the key genes involved in secondary laticifer differentiation.
+
+ 27235555   Dinu D et al (2016) "Mechanistic role of cytochrome P450 (CYP)1B1 in oxygen-mediated toxicity in pulmonary cells: A novel target for prevention of hyperoxic lung injury." Biochem Biophys Res Commun
+
+Supplemental oxygen, which is routinely administered to preterm infants
+with pulmonary insufficiency, contributes to bronchopulmonary dysplasia
+(BPD) in these infants. Hyperoxia also contributes to the development
+of acute lung injury (ALI) and acute respiratory distress syndrome
+(ARDS) in adults. The mechanisms of oxygen-mediated pulmonary toxicity
+are not completely understood. Recent studies  have suggested an important
+role for cytochrome P450 (CYP)1A1/1A2 in the protection against hyperoxic
+lung injury. The role of CYP1B1 in oxygen-mediated pulmonary toxicity
+has not been studied. In this investigation, we tested the hypothesis
+that CYP1B1 plays a mechanistic role in oxygen toxicity in pulmonary
+cells in vitro. In human bronchial epithelial cell line BEAS-2B, hyperoxic
+treatment for 1-3 days led to decreased cell viability by about 50-80%.
+Hyperoxic cytotoxicity was accompanied by an increase in levels of
+reactive oxygen species  (ROS) by up to 110%, and an increase of TUNEL-positive
+cells by up to 4.8-fold. Western blot analysis showed hyperoxia to
+significantly down-regulated CYP1B1 protein level. Also, there was
+a decrease of CYP1B1 mRNA by up to 38% and Cyp1b1  promoter activity
+by up to 65%. On the other hand, CYP1B1 siRNA appeared to rescue the
+cell viability under hyperoxia stress, and overexpression of CYP1B1
+significantly attenuated hyperoxic cytotoxicity after 48 h of incubation.
+In immortalized lung endothelial cells derived from Cyp1b1-null and
+wild-type mice,  hyperoxia increased caspase 3/7 activities in a time-dependent
+manner, but endothelial cells lacking the Cyp1b1 gene showed significantly
+decreased caspase  3/7 activities after 48 and 72 h of incubation,
+implying that CYP1B1 might promote apoptosis in wild type lung endothelial
+cells under hyperoxic stress. In  conclusion, our results support the
+hypothesis that CYP1B1 plays a mechanistic role in pulmonary oxygen
+toxicity, and CYP1B1-mediated apoptosis could be one of  the mechanisms
+of oxygen toxicity. Thus, CYP1B1 could be a novel target for preventative
+and/or therapeutic interventions against BPD in infants and ALI/ARDS
+in adults.
+
+ 27234251   Zhang J et al (2016) "Effects of Fluoride on Expression of P450, CREM and ACT Proteins in Rat Testes." Biol Trace Elem Res
+
+Fluoride (F) is an essential trace element that humans and animals
+ingest from water, air, and fluoride-containing products; however,
+excessive fluoride absorption can damage a variety of organs and tissues,
+including the male reproductive system. Our previous studies found
+that fluoride exposure lowered sperm quality and interfered with spermatogenesis;
+however, the exact mechanism remained unclear. Proteins cytochrome
+P450 (P450), cAMP-responsive element modulator (CREM), and activator
+of CREM in testis (ACT) play the key roles in spermatogenesis and sperm
+motility. To investigate whether fluoride affects the expression of
+P450, CREM, and ACT, we used immunohistochemical techniques to determine
+expression levels of these proteins in testes of rats administered
+100  mg NaF/L for 2 weeks via drinking water. The results showed that
+P450 expression  was decreased while CREM and ACT expression was increased
+in the fluoride group,  compared to the control. These data suggest
+that fluoride can impair male reproduction by affecting expression
+of P450, CREM, and ACT in the testes.
+
+ 27234138   Duan Y et al (2016) "Semi-rational engineering of cytochrome CYP153A from Marinobacter aquaeolei for improved omega-hydroxylation activity towards oleic acid." Appl Microbiol Biotechnol
+
+omega-Hydroxy oleic acid is an important intermediate for the synthesis
+of certain polyesters and polyamides. In this study, a functional CYP153A/putidaredoxin
+(Pdx)/putidaredoxin reductase (Pdr) hybrid system was engineered for
+improved omega-hydroxylation activity towards oleic acid. By the combination
+of site-directed saturation mutagenesis (SDSM) and iterative saturation
+mutagenesis (ISM), a best mutant (Variant II) was obtained with mutations
+at two sites (S120 and P165) at the Pdx interaction interface with
+CYP153A, and one site (S453) in the substrate binding pocket. The in
+vitro-reconstituted activity of Variant II with purified Pdx and Pdr
+was 2.7-fold that of the template, while the whole cell transformation
+activity was 2.0-fold that of the template. A 96-well format-based
+screening scheme for CYP153A was also developed, which should be useful
+for engineering of other P450s with low activity. Kinetic analyses
+indicated that the activity improvement for CYP153A variants largely
+resulted from enhanced electron transfer. This further demonstrates
+the importance of the electron transfer between P450s and the non-native
+redox partners for the overall performance of hybrid P450 systems.
+
+ 27233747   Yi X et al (2016) "Interaction of CYP2C19, P2Y12, and GPIIIa Variants Associates With Efficacy of Clopidogrel and Adverse Events on Patients With Ischemic Stroke." Clin Appl Thromb Hemost
+
+OBJECTIVE: Clopidogrel is a clinically important oral antiplatelet
+agent for the  treatment or prevention of cerebrovascular disease.
+However, different individuals have different sensitivities to clopidogrel.
+This study assessed variants of different genes for association with
+response to clopidogrel, clinical outcome, and side effects in patients
+with ischemic stroke (IS). METHODS: We consecutively enrolled 375 patients
+with IS after they received clopidogrel therapy, and venous blood samples
+were subjected to genotyping allelic variants of genes modulating clopidogrel
+absorption (ATP binding cassette subfamily B1, ABCB1), metabolic activation
+(cytochrome P450[CYP] 3A and CYP2C19), and biologic activity (platelet
+membrane receptor [P2Y12, P2Y1)], and glycoprotein IIIa [GPIIIa]) and
+statistically analyzing their interactions with clopidogrel sensitivity
+(CS) and adverse events, risk of IS recurrence, myocardial infarction,
+and death during 6 months of follow-up. RESULTS: Adverse events occurred
+in 37 patients (31 had IS recurrence, 4 died, and 2 had myocardial
+infarction) during the first 6 months of follow-up. Single locus analysis
+showed that only the CYP2C19*2(rs4244285) variant was independently
+associated with CS and risk of adverse events after adjusting covariates.
+However, there was significant gene-gene interaction among CYP2C19*2(rs4244285),
+P2Y12(rs16863323), and GPIIIa (rs2317676) analyzed by generalized multifactor
+dimensionality reduction methods. The rate of adverse events among
+patients with  the 3-loci interaction was 2.82 times the rate among
+those with no interaction (95% confidence interval: 2.04-8.63). CONCLUSION:
+Sensitivity of patients with IS to clopidogrel and clopidogrel-induced
+adverse clinical events may be multifactorial but is not determined
+by single gene polymorphisms.
+
+ 27233287   Brignac-Huber LM et al (2016) "Cytochrome P450 Organization and Function Are Modulated by Endoplasmic Reticulum  Phospholipid Heterogeneity." Drug Metab Dispos
+
+Cytochrome P450s comprise a superfamily of proteins that catalyze numerous
+monooxygenase reactions in animals, plants and bacteria. In eukaryotic
+organisms, these proteins not only carry out reactions necessary for
+the metabolism of endogenous compounds, but also are important in the
+oxidation of exogenous drugs  and other foreign compounds. Eukaryotic
+cytochrome P450 system proteins generally reside in membranes, primarily
+the endoplasmic reticulum or the mitochondrial membrane. These membranes
+provide a scaffold for the P450 system proteins that facilitate interactions
+with their redox partners as well as other P450s. This review focuses
+on the ability of specific lipid components to influence P450 activities,
+as well as the role of the membrane in P450 function. These studies
+have shown that P450s and NADPH-cytochrome P450 reductase appear to
+selectively associate with specific phospholipids, and that these lipid-protein
+interactions  influence P450 activities. Finally, due to the heterogeneous
+nature of the endoplasmic reticulum as well as other biological membranes,
+the phospholipids are not arranged randomly, but associate to generate
+lipid microdomains. Together, these characteristics can affect P450
+function by (1) altering the conformation of the proteins, (2) influencing
+the P450 interactions with their redox partners, and (3) affecting
+the localization of the proteins into specific  membrane microdomains.
+
+ 27233123   Hatakeyama M et al (2016) "Heterologous expression of fungal cytochromes P450 (CYP5136A1 and CYP5136A3) from the white-rot basidiomycete Phanerochaete chrysosporium: Functionalization with cytochrome b5 in Escherichia coli." Enzyme Microb Technol 89, 7-14
+
+Cytochromes P450 from the white-rot basidiomycete Phanerochaete chrysosporium,
+CYP5136A1 and CYP5136A3, are capable of catalyzing oxygenation reactions
+of a wide variety of exogenous compounds, implying their significant
+roles in the metabolism of xenobiotics by the fungus. It is therefore
+interesting to explore their biochemistry to better understand fungal
+biology and to enable the use of fungal enzymes in the biotechnology
+sector. In the present study, we developed heterologous expression
+systems for CYP5136A1 and CYP5136A3 using the T7 RNA polymerase/promoter
+system in Escherichia coli. Expression levels of recombinant  P450s
+were dramatically improved by modifications and optimization of their
+N-terminal amino acid sequences. A CYP5136A1 reaction system was reconstructed
+in E. coli whole cells by coexpression of CYP5136A1 and a redox partner,
+NADPH-dependent P450 reductase (CPR). The catalytic activity of CYP5136A1
+was significantly increased when cytochrome b5 (Cyt-b5) was further
+coexpressed with  CPR, indicating that Cyt-b5 supports electron transfer
+reactions from NAD(P)H to  CYP5136A1. Notably, P450 reaction occurred
+in E. coli cells that harbored CYP5136A1 and Cyt-b5 but not CPR, implying
+that the reducing equivalents required for the P450 catalytic cycle
+were transferred via a CPR-independent pathway. Such an "alternative"
+electron transfer system in CYP5136A1 reaction was also demonstrated
+using purified enzymes in vitro. The fungal P450 reaction system may
+be associated with sophisticated electron transfer pathways.
+
+ 27233048   Vasiliadou IA et al (2016) "Biological removal of pharmaceutical compounds using white-rot fungi with concomitant FAME production of the residual biomass." J Environ Manage 180, 228-237
+
+The efficiency of two white-rot fungi (WRF), Trametes versicolor and
+Ganoderma lucidum, to eliminate thirteen pharmaceutical pollutants
+with concomitant biodiesel production from the accumulating lipid content
+after treatment, was examined. The removal efficiency was studied using
+both individual and combined strains. The results of individual and
+combined strains showed a total removal (100%) of diclofenac (DCF),
+gemfibrozil (GFZ), ibuprofen (IBP), progesterone (PGT) and ranitidine
+(RNT). Lower removals were achieved for 4-acetamidoantipyrin (AAA),
+clofibric acid (ACF), atenolol (ATN), caffeine (CFN), carbamazepine
+(CZP), hydrochlorothiazide (HCT), sulfamethoxazole (SMX) and sulpiride
+(SPD), although the combination of both strains enhanced the system's
+efficiency, with removals ranging from 15 to 41%. This increase of
+the removal efficiency when combining both strains was attributed to
+the interactions developed between them (i.e., competition). Results
+from enzymatic and cytochrome P450 examination suggested that both
+extracellular (laccase, MnP, LiP) and intracellular oxidation mechanisms
+participate in the biological removal of pharmaceuticals. On the other
+hand, the "green" potential of the fungal sludge generated during the
+biological  removal process was assessed for biodiesel production by
+means of one-step direct (in-situ) transformation. This process consists
+of the simultaneous extraction and conversion of lipids contained in
+the sludge by catalytic esterification/transesterification using a
+robust acid heterogeneous Zr-SBA-15 catalyst. This catalytic system
+provided conversions close to 80% of the saponifiable fraction (including
+free fatty acids and glycerides) in the presence of high amount of
+impurities. The overall weight FAME yield, based on the initial dried
+mass, was close to 30% for both strains.
+
+ 27232632   Malayeri MR et al (2016) "Chemotherapeutic effect of Berberis integerrima hydroalcoholic extract on colon cancer development in the 1,2-dimethyl hydrazine rat model." Z Naturforsch C
+
+The aim of this study was to investigate the efficacy of a Berberis
+integerrima hydroalcoholic extract as a chemotherapeutic agent in colon
+carcinogenesis in the rat induced by 1,2-dimethyl hydrazine (DMH).
+Male Wistar rats were divided into five groups: a negative control
+group without DMH treatment; a control group injected DMH (20 mg/kg
+b.w); two groups receiving B. integerrima extract (50 and  100 mg/kg
+b.w), concomitant with injected DMH, as chemotherapeutic groups; a
+positive control group receiving 5-fluorouracil (5-FU) along with DMH.
+The effects of the extracts were determined by assessment of hepatic
+malondialdehyde  (MDA), glutathione (GSH), ferric reducing ability
+of plasma (FRAP), and the activities of hepatic glutathione S-transferase
+and cytochrome P450 (GST and CYP450). Additionally, colon tissues were
+assessed for colonic beta-catenin and histopathological analysis. In
+DMH-treated rats, the extracts partially normalized the levels of FRAP,
+CYP450, beta-catenin, and GST. Likewise, formation of aberrant crypt
+foci (ACF) in colon tissue of DMH-treated was reduced by the extracts.
+Thus, the extracts possess chemotherapeutic activity against colon
+carcinogenesis.
+
+ 27231904   He LX et al (2016) "Effects of Endobacterium (Stenotrophomonas maltophilia) on Pathogenesis-Related Gene Expression of Pine Wood Nematode (Bursaphelenchus xylophilus) and Pine Wilt  Disease." Int J Mol Sci 17(6)
+
+Pine wilt disease (PWD) caused by the pine wood nematode (PWN), Bursaphelenchus
+xylophilus, is responsible for devastating epidemics in pine trees
+in Asia and Europe. Recent studies showed that bacteria carried by
+the PWN might be involved  in PWD. However, the molecular mechanism
+of the interaction between bacteria and  the PWN remained unclear.
+Now that the whole genome of B. xylophilus (Bursaphelenchus xylophilus)
+is published, transcriptome analysis is a unique method to study the
+role played by bacteria in PWN. In this study, the transcriptome of
+aseptic B. xylophilus, B. xylophilus treated with endobacterium  (Stenotrophomonas
+maltophilia NSPmBx03) and fungus B. xylophilus were sequenced.  We
+found that 61 genes were up-regulated and 830 were down-regulated in
+B. xylophilus after treatment with the endobacterium; 178 genes were
+up-regulated and 1122 were down-regulated in fungus B. xylophilus compared
+with aseptic B. xylophilus. Gene Ontology and Kyoto Encyclopedia of
+Genes and Genomes analyses were used to study the significantly changed
+biological functions and pathways for these differentially expressed
+genes. Many pathogenesis-related genes, including glutathinone S-transferase,
+pectate lyase, ATP-binding cassette transporter and cytochrome P450,
+were up-regulated after B. xylophilus were treated with the endobacterium.
+In addition, we found that bacteria enhanced the  virulence of PWN.
+These findings indicate that endobacteria might play an important role
+in the development and virulence of PWN and will improve our understanding
+of the regulatory mechanisms involved in the interaction between bacteria
+and the PWN.
+
+ 27231902   Lee CW et al (2016) "Crystal Structure of Cytochrome P450 (CYP105P2) from Streptomyces peucetius and Its Conformational Changes in Response to Substrate Binding." Int J Mol Sci 17(6)
+
+Cytochrome P450 monooxygenases (CYP, EC 1.14.14.1) belong to a large
+family of enzymes that catalyze the hydroxylation of various substrates.
+Here, we present the crystal structure of CYP105P2 isolated from Streptomyces
+peucetius ATCC27952  at a 2.1 A resolution. The structure shows the
+presence of a pseudo-ligand molecule in the active site, which was
+co-purified fortuitously and is presumed to be a biphenyl derivative.
+Comparison with previously determined substrate-bound CYP structures
+showed that binding of the ligand produces large and distinctive conformational
+changes in alpha2-alpha3, alpha7-alpha9, and the C-terminal loop regions.
+This structural flexibility confirms our previous observation that
+CYP105P2 can accommodate a broad range of ligands. The structure complexed
+with a pseudo-ligand provides the first molecular view of CYP105P2-ligand
+interactions, and it indicates the involvement of hydrophobic residues
+(Pro82, Ala181, Met187, Leu189, Leu193, and Ile236) in the interactions
+between hydrophobic ligands and CYP105P2. These results provide useful
+insights into the structural changes involved in the recognition of
+different ligands by CYP105P2.
+
+ 27231827   Bhat IA et al (2016) "Molecular cloning, computational analysis and expression pattern of forkhead box  l2 (Foxl2) gene in catfish." Comput Biol Chem 64, 9-18
+
+Foxl2 belongs to forkhead/HNF-3-related family of transcription factors
+which is  involved in ovarian differentiation and development. In present
+study, the Foxl2  mRNA was cloned from ovary of C. batrachus. The full
+length cDNA sequence of the  Foxl2 was 1056bp which consists of 5'
+(41bp) and 3' (106bp) non-coding regions, as well as a 909bp of open
+reading frame (ORF) that encodes 302 amino acids. The  putative protein
+was having the theoretical molecular weight (MW) of 34.018kD and a
+calculated isoelectric point (pI) of 9.38. There were 11 serine (Ser),
+5 threonine (Thr), and 5 tyrosine (Tyr) phosphorylation sites and 2
+putative N-glycosylation sites on the predicted protein. The ligand
+binding sites were predicted to be present on amino acids 42, 49, 50,
+91, 92 and 95 respectively. The signal peptide analysis predicted that
+C. batrachus Foxl2 is a non-secretory  protein. The hydropathy profile
+of Foxl2 protein revealed that this protein is hydrophilic in nature.
+Protein-protein interaction demonstrated that Foxl2 protein chiefly
+interacts with cytochrome P450 protein family. The mRNA transcript
+analysis of various tissues indicated that the C. batrachus Foxl2 mRNA
+was more expressed in the brain, pituitary and ovary in female while,
+the former  two tissues and testis showed low expression in male. This
+study provides a basis for further structural and functional exploration
+of the Foxl2 from C. batrachus, including its deduced protein and its
+signal transduction function.
+
+ 27230024   Lu TQ et al (2016) "Regulation of Hydroxylation and Nitroreduction Pathways during Metabolism of the  Neonicotinoid Insecticide Imidacloprid by Pseudomonas putida." J Agric Food Chem
+
+Imidacloprid (IMI) is mainly metabolized via nitroreduction and hydroxylation
+pathways, which produce different metabolites that are toxic to mammals
+and insects. However, regulation of IMI metabolic flux between nitroreduction
+and hydroxylation pathways is still unclear. In this study, Pseudomonas
+putida was found to metabolize IMI to 5-hydroxy and nitroso IMI and
+was therefore used for investigating the regulation of IMI metabolic
+flux. The cell growth time, co-substrate, dissolved oxygen concentration,
+and pH showed significant effect on IMI degradation and nitroso and
+5-hydroxy IMI formation. Gene cloning and overexpression in Escherichia
+coli proved that P. putida KT2440 aldehyde oxidase  mediated IMI nitroreduction
+to nitroso IMI, while cytochrome P450 monooxygenase (CYP) failed to
+improve IMI hydroxylation. Moreover, E. coli cells without CYP could
+hydroxylate IMI, demonstrating the role of a non-CYP enzyme in IMI
+hydroxylation. Thus, the present study helps to further understand
+the environmental fate of IMI and its underlying mechanism.
+
+ 27230023   Lu J et al (2016) "Enhanced light-driven catalytic performance of cytochrome P450 confined in macroporous silica." Chem Commun (Camb)
+
+A light-driven approach combined with a macroporous reactor for the
+enzymatic biocatalytic reaction has been developed by confining the
+enzyme/photosensitizer  nanohybrids in a macroporous material, which
+exhibits high bio-conversion efficiency due to the fast diffusion and
+collision between the enzyme/photosensitizer nanohybrid and the substrate
+in the reactor.
+
+ 27228617   Mao XL et al (2016) "[Resistance risk, cross-resistance and biochemical resistance mechanism of Laodelphax striatellus to buprofezin]." Ying Yong Sheng Tai Xue Bao 27(1), 255-262
+
+In order to investigate the resistance development law and biochemical
+resistance mechanism of Laodelphax striatellus to buprofezin, spraying
+rice seedlings was used to continuously screen resistant strains of
+L. striatellus and dipping rice  seedlings was applied to determine
+the toxicity and cross-resistance of L. striatellus to insecticides.
+After 32-generation screening with buprofezin, L. striatellus developed
+168.49 folds resistance and its reality heritability (h2) was 0.11.
+If the killing rate was 80%-90%, L. striatellus was expected to develop
+10-fold resistance to buprofezin only after 5 to 6 generations breeding.
+Because  the actual reality heritability of field populations was usually
+lower than that  of the resistant strains, the production of field
+populations increasing with 10-fold resistance would need much longer
+time. The results of cross-resistance showed that resistant strain
+had high level cross-resistance with thiamethoxam and imidacloprid,
+low level cross-resistance with acetamiprid, and no cross-resistance
+with pymetrozine and chlorpyrifos. The activity of detoxification enzymes
+of different strains and the syergism of synergist were measured. The
+results showed that cytochrome P450 monooxygenase played a major role
+in the resistance of L. striatellus to buprofezin, the esterase played
+a minor role and the GSH-S-transferase had no effect. Therefore, L.
+striatellus would have high risk to develop resistance to buprofezin
+when used in the field and might be delayed by using pymetrozine and
+chlorpyrifos.
+
+ 27228199   Feng R et al (2016) "Interaction effects on cytochrome P450 both in vitro and in vivo studies by two major bioactive xanthones from Halenia elliptica D. Don." Biomed Chromatogr
+
+The major components, 1-hydroxy-2, 3, 5-trimethoxy-xanthone (HM-1)
+and 1, 5-dihydroxy-2, 3-dimethoxy-xanthone (HM-5) isolated from Halenia
+elliptica D. Don (Gentianaceae), could cause vasodilatation in rat
+coronary artery with different  mechanisms. In this work, high performance
+liquid chromatography coupled to ion trap time-of-flight mass spectrometry
+(LCMS-IT-TOF) was used to clarify the metabolic pathways, and CYP450
+isoforms involvement of HM-1 and HM-5 were also studied in rat. At
+the same time, in vivo inhibition effects of HM-1 and ethyl acetate
+extracts from origin herb were studied. Three metabolites of HM-5 were
+found in rat liver microsomes (RLMs); demethylation and hydroxylation
+were the major phase I metabolic reactions for HM-5. Multi-CYP450s
+involved in metabolism  of HM-1 and HM-5. The inhibition study presented
+that HM-5 inhibited Cyp1a2, 2c6  and 2d2 in RLMs. HM-1 inhibited activities
+of Cyp1a2, Cyp2c6 and Cyp3a2. In vivo  experiment demonstrated that
+both HM-1 and ethyl acetate extracts could inhibit Cyp3a2 in rats.
+In conclusion, the metabolism of xanthones from the origin herb were
+multi-CYP450 isoforms involved; in vitro, metabolism of HM-5 was similar
+to  its parent drug HM-1, but their inhibition effects upon CYP450s
+were different; in vivo, Cyp3a2 was accessible to be inhibited by HM-1
+and ethyl acetate extracts.
+
+ 27228076   Ng DS et al (2016) "Genetics of Bietti Crystalline Dystrophy." Asia Pac J Ophthalmol (Phila)
+
+Bietti crystalline dystrophy (BCD) is an inherited retinal degenerative
+disease characterized by crystalline deposits in the retina, followed
+by progressive atrophy of the retinal pigment epithelium (RPE), choriocapillaris,
+and photoreceptors. CYP4V2 has been identified as the causative gene
+for BCD. The CYP4V2 gene belongs to the cytochrome P450 superfamily
+and encodes for fatty acid omega-hydroxylase of both saturated and
+unsaturated fatty acids. The CYP4V2 protein is localized most abundantly
+within the endoplasmic reticulum in the RPE  and is postulated to play
+a role in the physiological lipid recycling system between the RPE
+and photoreceptors to maintain visual function. Electroretinographic
+assessments have revealed progressive dysfunction of rod and cone photoreceptors
+in patients with BCD. Several genotypes have been associated  with
+more severe phenotypes based on clinical and electrophysiological findings.
+With the advent of multimodal imaging with spectral domain optical
+coherence tomography, fundus autofluorescence, and adaptive optics
+scanning laser ophthalmoscopy, more precise delineation of BCD severity
+and progression is now possible, allowing for the potential future
+development of targets for gene therapy.
+
+ 27227433   Petersen BK et al (2016) "Virtual Experiments Enable Exploring and Challenging Explanatory Mechanisms of Immune-Mediated P450 Down-Regulation." PLoS One 11(5), e0155855
+
+Hepatic cytochrome P450 levels are down-regulated during inflammatory
+disease states, which can cause changes in downstream drug metabolism
+and hepatotoxicity. Long-term, we seek sufficient new insight into
+P450-regulating mechanisms to correctly anticipate how an individual's
+P450 expressions will respond when health and/or therapeutic interventions
+change. To date, improving explanatory mechanistic insight relies on
+knowledge gleaned from in vitro, in vivo, and clinical experiments
+augmented by case reports. We are working to improve that reality by
+developing means to undertake scientifically useful virtual experiments.
+So doing requires translating an accepted theory of immune system influence
+on P450 regulation into a computational model, and then challenging
+the model via in silico experiments. We build upon two existing agent-based
+models-an in silico hepatocyte culture and an in silico liver-capable
+of exploring and challenging concrete mechanistic hypotheses. We instantiate
+an in silico version  of this hypothesis: in response to lipopolysaccharide,
+Kupffer cells down-regulate hepatic P450 levels via inflammatory cytokines,
+thus leading to a reduction in metabolic capacity. We achieve multiple
+in vitro and in vivo validation targets gathered from five wet-lab
+experiments, including a lipopolysaccharide-cytokine dose-response
+curve, time-course P450 down-regulation, and changes in several different
+measures of drug clearance spanning three drugs: acetaminophen, antipyrine,
+and chlorzoxazone. Along the way to achieving validation targets, various
+aspects of each model are falsified and  subsequently refined. This
+iterative process of falsification-refinement-validation leads to biomimetic
+yet parsimonious mechanisms, which can provide explanatory insight
+into how, where, and when various features are generated. We argue
+that as models such as these are incrementally improved through multiple
+rounds of mechanistic falsification and validation, we will generate
+virtual systems that embody deeper credible, actionable, explanatory
+insight into immune system-drug metabolism interactions within individuals.
+
+ 27226491   Huffman MP et al (2016) "An in vitro study on the genotoxic effect of substituted furans in cells transfected with human metabolizing enzymes: 2,5-dimethylfuran and furfuryl alcohol." Mutagenesis
+
+2,5-Dimethylfuran (DMF) and furfuryl alcohol (FFA) are two substituted
+furans that are formed during the processing of foods and have also
+been used as food flavorings. DMF and FFA are proposed to be bioactivated
+by human sulfotransferases (SULTs) which are not expressed in conventional
+cell lines used for genotoxicity testing. Therefore, in addition to
+the standard V79 cell line, we used a transfected V79 derived cell
+line co-expressing human cytochrome P450 (CYP) 2E1 and human SULT1A1
+to assess the genotoxicity of DMF and FFA. The alkaline single cell
+gel electrophoresis (SCGE) assay was used to detect DNA damage in the
+form of single strand breaks and alkali-labile sites after exposure
+to DMF (0.5h; 0.5, 1, 1.5 or 2mM) or FFA (3h; 1, 3, 6 or 15mM). DMF
+induced DNA damage in V79 cells in a concentration-dependent manner
+irrespective of the expression of human CYP2E1 and SULT1A1. Almost
+no increase in the level of DNA damage was detected after exposure
+to FFA, except for a weak effect at the highest concentration in the
+transfected cell line. The results suggest that DNA  damage in V79
+cells from exposure to DMF detected by the alkaline SCGE assay is independent
+of human CYP2E1 and SULT1A1, and the genotoxic effect of FFA, as assessed
+by SCGE, is minimal in V79 cells.
+
+ 27226420   Srinivas NR (2016) "Clinical pharmacokinetics of panobinostat, a novel histone deacetylase (HDAC) inhibitor: review and perspectives." Xenobiotica, 1-15
+
+1. Panobinostat is a recently approved histone deacetylase (HDAC) inhibitor.
+2. The pharmacokinetic data of panobinostat in patients with hematologic
+malignancies and advanced solid tumors have been collated and reviewed
+from the various published clinical studies for over a decade. Further
+perspectives and anticipated challenges in the clinical therapy with
+panobinostat are discussed in the review. 3. Regardless of intravenous
+or oral dosing, panobinostat showed a high degree of inter-patient
+variability in the pharmacokinetics. After oral administration, most
+of the administered dose is extensively metabolized and the  metabolites
+are either fecally or renally excreted with trace amount of intact
+panobinostat. Both cytochrome p450 (CYP) 3A4 and non-CYP mechanisms
+govern the clearance of panobinostat. CYP3A4-related drug-drug interactions
+with panobinostat have been documented with ketoconazole (inhibitor)
+and dexamethasone (inducer). 4. In summary, the clinical pharmacokinetic
+data of panobinostat, a promising HDAC inhibitor, obtained from various
+clinical studies do not appear to limit the utility of panobinostat
+in the clinic.
+
+ 27226306   Gilroy DW et al (2016) "CYP450-derived oxylipins mediate inflammatory resolution." Proc Natl Acad Sci U S A
+
+Resolution of inflammation has emerged as an active process in immunobiology,
+with cells of the mononuclear phagocyte system being critical in mediating
+efferocytosis and wound debridement and bridging the gap between innate
+and adaptive immunity. Here we investigated the roles of cytochrome
+P450 (CYP)-derived epoxy-oxylipins in a well-characterized model of
+sterile resolving  peritonitis in the mouse. Epoxy-oxylipins were produced
+in a biphasic manner during the peaks of acute (4 h) and resolution
+phases (24-48 h) of the response.  The epoxygenase inhibitor SKF525A
+(epoxI) given at 24 h selectively inhibited arachidonic acid- and linoleic
+acid-derived CYP450-epoxy-oxlipins and resulted in a dramatic influx
+in monocytes. The epoxI-recruited monocytes were strongly GR1+, Ly6chi,
+CCR2hi, CCL2hi, and CX3CR1lo In addition, expression of F4/80 and the
+recruitment of T cells, B cells, and dendritic cells were suppressed.
+sEH (Ephx2)-/- mice, which have elevated epoxy-oxylipins, demonstrated
+opposing effects to epoxI-treated mice: reduced Ly6chi monocytes and
+elevated F4/80hi macrophages and B, T, and dendritic cells. Ly6chi
+and Ly6clo monocytes, resident  macrophages, and recruited dendritic
+cells all showed a dramatic change in their  resolution signature following
+in vivo epoxI treatment. Markers of macrophage differentiation CD11b,
+MerTK, and CD103 were reduced, and monocyte-derived macrophages and
+resident macrophages ex vivo showed greatly impaired phagocytosis of
+zymosan and efferocytosis of apoptotic thymocytes following epoxI treatment.
+These findings demonstrate that epoxy-oxylipins have a critical role
+in monocyte  lineage recruitment and activity to promote inflammatory
+resolution and represent a previously unidentified internal regulatory
+system governing the establishment  of adaptive immunity.
+
+ 27225997   Budha NR et al (2016) "Evaluation of Cytochrome P450 3A4-Mediated Drug-Drug Interaction Potential for Cobimetinib Using Physiologically Based Pharmacokinetic Modeling and Simulation." Clin Pharmacokinet
+
+BACKGROUND AND OBJECTIVES: Cobimetinib is eliminated mainly through
+cytochrome P450 (CYP) 3A4-mediated hepatic metabolism in humans. A
+clinical drug-drug interaction (DDI) study with the potent CYP3A4 inhibitor
+itraconazole resulted in an approximately sevenfold increase in cobimetinib
+exposure. The DDI risk for cobimetinib with other CYP3A4 inhibitors
+and inducers needs to be assessed in order to provide dosing instructions.
+METHODS: A physiologically based pharmacokinetic (PBPK) model was developed
+for cobimetinib using in vitro data. It was then optimized and verified
+using clinical pharmacokinetic data and itraconazole-cobimetinib DDI
+data. The contribution of CYP3A4 to the clearance of cobimetinib in
+humans was confirmed using sensitivity analysis in a retrospective
+simulation of itraconazole-cobimetinib DDI data. The verified PBPK
+model was then used to predict the effect of other CYP3A4 inhibitors
+and inducers on cobimetinib pharmacokinetics. RESULTS: The PBPK model
+described cobimetinib pharmacokinetic profiles after both intravenous
+and oral administration of cobimetinib well and accurately simulated
+the itraconazole-cobimetinib DDI. Sensitivity analysis suggested that
+CYP3A4 contributes ~78 % of the total clearance of cobimetinib. The
+PBPK model predicted no change in cobimetinib exposure (area under
+the plasma concentration-time curve, AUC) with the weak CYP3A inhibitor
+fluvoxamine and a three to fourfold increase with the moderate CYP3A
+inhibitors, erythromycin and diltiazem. Similarly, cobimetinib exposure
+in the presence of strong (rifampicin) and moderate (efavirenz) CYP3A
+inducers was predicted to decrease by 83 and 72 %, respectively. CONCLUSION:
+This study demonstrates the value of using PBPK simulation to assess
+the clinical DDI risk inorder to provide dosing instructions with other
+CYP3A4 perpetrators.
+
+ 27225995   Chenge J et al (2016) "Structural characterization of CYP144A1 - a cytochrome P450 enzyme expressed from alternative transcripts in Mycobacterium tuberculosis." Sci Rep 6, 26628
+
+Mycobacterium tuberculosis (Mtb) causes the disease tuberculosis (TB).
+The virulent Mtb H37Rv strain encodes 20 cytochrome P450 (CYP) enzymes,
+many of which are implicated in Mtb survival and pathogenicity in the
+human host. Bioinformatics analysis revealed that CYP144A1 is retained
+exclusively within the Mycobacterium genus, particularly in species
+causing human and animal disease. Transcriptomic annotation revealed
+two possible CYP144A1 start codons, leading to expression of (i) a
+"full-length" 434 amino acid version (CYP144A1-FLV) and (ii)  a "truncated"
+404 amino acid version (CYP144A1-TRV). Computational analysis predicted
+that the extended N-terminal region of CYP144A1-FLV is largely unstructured.
+CYP144A1 FLV and TRV forms were purified in heme-bound states. Mass
+spectrometry confirmed production of intact, His6-tagged forms of CYP144A1-FLV
+and -TRV, with EPR demonstrating cysteine thiolate coordination of
+heme iron in both cases. Hydrodynamic analysis indicated that both
+CYP144A1 forms are monomeric. CYP144A1-TRV was crystallized and the
+first structure of a CYP144 family P450 protein determined. CYP144A1-TRV
+has an open structure primed for substrate binding, with a large active
+site cavity. Our data provide the first evidence that Mtb produces
+two different forms of CYP144A1 from alternative transcripts, with
+CYP144A1-TRV generated from a leaderless transcript lacking a 5'-untranslated
+region and Shine-Dalgarno ribosome binding site.
+
+ 27225395   Di Taranto MD et al (2016) "Cerebrotendinous xanthomatosis, a metabolic disease with different neurological signs: two case reports." Metab Brain Dis
+
+Cerebrotendinous xanthomatosis (CTX) is an autosomal recessive inborn
+error of bile acids synthesis and lipid accumulation caused by a deficiency
+of the mitochondrial cytochrome P450 sterol 27-hydroxylase enzyme encoded
+by CYP27A1. Pathogenic variants in CYP27A1 cause elevated cholestanol
+levels in the body, which leads to a variable clinical presentation
+that often includes cataracts, intellectual disability, neurological
+features, tendon xanthomas, and chronic diarrhea. Herein we describe
+the cases of two unrelated adult CTX patients. Case  1 is a patient
+with neurological dysfunction, including moderate intellectual disability,
+cataract of right eye, and xanthomas; Case 2 is a patient with tendon
+xanthomas without neurological symptoms. Plasma sterols profile obtained
+from both cases showed higher levels of cholestanol and cholesterol
+biosynthetic precursors compared to unaffected subjects. Case 1 and
+Case 2 were homozygous for the c.1263 + 5G > T (p.Leu396Profs29X) and
+c.1435C > G (p.Arg479Gly) pathogenic variants, respectively, in the
+CYP27A1 gene. Interestingly, for the first time, Case 2 variant has
+been identified in a homozygous state. Our results highlight that the
+sterol profile and genetic analyses are essential to make the diagnosis
+of CTX and to exclude other dyslipidemias.
+
+ 27224941   Ramakrishna R et al (2016) "Evaluation of the impact of 16-dehydropregnenolone on the activity and expression of rat hepatic cytochrome P450 enzymes." J Steroid Biochem Mol Biol
+
+16-dehydropregnenolone (DHP) is a promising novel antihyperlipidemic
+agent developed and patented by Central Drug Research Institute (CDRI),
+India. The purpose of the present study was to investigate whether
+DHP influences the activities and mRNA expression of hepatic drug-metabolizing
+cytochrome P450 (CYP) enzymes (CYP1A2, CYP2C11, CYP2D2, CYP2E1 and
+CYP3A1) in Sprague-Dawley (SD) rats. A cocktail suspension of CYP probe
+substrates which contained caffeine (CYP1A2),  tolbutamide (CYP2C11),
+dextromethorphan (CYP2D2), chlorzoxazone (CYP2E1) and dapsone (CYP3A1)
+was administered orally on eighth- or fifteenth-day to rats pre-treated
+with DHP intragastrically at a dose of 36 and 72mg/kg for one week
+and two weeks. The concentrations of probe drugs in plasma were estimated
+by liquid chromatography-tandem mass spectrometry (LC-MS/MS). Alongside,
+the effect  of DHP on CYPs activity and mRNA expression levels were
+assayed in isolated rat liver microsomes and by real-time reverse transcription-polymerase
+chain reaction (RT-PCR), respectively. DHP had significant inducing
+effects on CYP1A2, 2C11, 2D2 and 2E1 with no effect on CYP3A1 in dose-
+and time-dependent manner, as revealed  from the pharmacokinetic profiles
+of the probe drugs in rats. In-vitro microsomal activities and mRNA
+expression results were in good agreement with the in-vivo pharmacokinetic
+results. Collectively, the results unveiled that DHP is an inducer
+of rat hepatic CYP enzymes. Hence, intense attention should be paid
+when  DHP is co-administered with drugs metabolized by CYP1A2, 2C11,
+2D2 and 2E1, which might result in drug-drug interactions and therapeutic
+failure.
+
+ 27222744   El-Fishawy H et al (2016) "Antiviral treatment prioritization in HCV-infected patients with extrahepatic manifestations - An Egyptian perspective." J Adv Res 7(3), 391-402
+
+Egypt, the single country with highest incidence of HCV infection in
+the world, has embarked on a government-sponsored mass treatment program
+using several combinations of DAAs. Recognizing the importance of extrahepatic
+manifestations,  independently of the hepatic, a subcommittee was assigned
+to develop national guidelines for respective prioritizing indications
+and protocols. It evaluated the benefit of treating patients with different
+extrahepatic manifestations, and  reviewed relevant clinical trials
+and guidelines concerning DAA combinations available in Egypt. The
+latter included Sofosbuvir plus either peg-interferon, Simeprevir,
+Ledipasvir or daclatasvir, and the Viekera family comprising paritaprevir/ritonavir
++ ombitasvir with (GT-1) or without (GT-4) Dasabuvir. Any  of these
+protocols may be used with or without Ribavirin according to indication.
+A blueprint was subjected to peer debate in dedicated workshops in
+two national meetings and subsequently to an online professional review,
+eventually leading to a final report that was adopted by the health
+authorities. Seven compelling and 10 optional indications were identified
+for treating patients with predominantly  extrahepatic manifestations.
+The former include kidney disease at different stages, cryoglobulinemic
+vasculitis and non-Hodgkin lymphoma. Selected treatment  protocols,
+were encoded and their use was prioritized on the basis of evidence
+of efficacy and safety. We concluded that any of the studied protocols
+may be used,  preferably with ribavirin, for 12-week treatment in all
+patients with extrahepatic manifestations without cirrhosis and with
+eGFR above 30 ml/min/1.73  sqm. Ribavirin should be included in protocols
+for treating patients with compensated cirrhosis. Daclatasvir-based
+protocols are recommended for decompensated cirrhosis, while the Viekera
+family is recommended in patients with eGFR < 30 ml/min/1.73 sqm, including
+those on dialysis. In kidney-transplanted patents, caution is due to
+avoidance of the pharmacokinetic interaction with the  Cytochrome-P450
+enzyme system, in-between immunosuppressive agents and most DAAs, particularly
+the Viekera family.
+
+ 27220560   Guryn R et al (2016) "Non-imidazole histamine H3 ligands. Part VI. Synthesis and preliminary pharmacological investigation of thiazole-type histamine H3-receptor antagonists  with lacking a nitrogen nucleus in the side chain." Med Chem
+
+BACKGROUND: Antagonists to the H3 receptor are considered to be potential
+drugs for the treatment of Alzheimer's disease, attention deficit-hyperactive
+disorder, memory and learning deficits, and epilepsy. The initial development
+of potent H3  receptor antagonists focused on extensive modification
+of the natural ligand histamine. However, it has appeared that imidazole-containing
+ligands are associated with inhibition of cytochrome P450 enzymes,
+caused by imidazole nitrogen complexation to heme iron in the active
+site of the enzyme. For these reasons, the development of potent non-imidazole
+H3 receptor antagonists was eagerly awaited. OBJECTIVE: Previously,
+we reported the synthesis and pharmacological in vitro characterization
+of series of potent histamine H3-receptor non-imidazole antagonists
+belonging to the class of substituted 2-thiazol-4-n-propylpiperazines.
+A lead compound 1 of this family was derivative  carrying the ethylaminomethylpropyl
+chain. With the aim of increasing lipophilicity, that will help the
+ligands to cross the blood-brain barrier, Methods: we synthesised series
+of new 2-thiazol-4-n-propylpiperazines where the ethylaminomethylpropyl
+moiety was replaced by a p-substituted-, an unsubstituted  benzene
+ring , and omega-phenylalkyl substituent at position 4 and 5 of thiazole
+ring, respectively. All compounds were tested for H3 antagonistic effects
+in vitro using the electrically contracting guinea pig jejunum. RESULTS:
+The most active compounds of presented series 3d, 3e, and 3j showed
+lower affinity than the lead compound 1 and additionally, derivatives
+3d and 3j possessed weak, competitive H1-antagonistic activity. This
+is in contrast to the lead compound 1  that has no affinity at H1 receptor.
+CONCLUSION: We can conclude that a side chain in the 2-thiazol-4-n-propylpiperazine
+scaffold should contain a basic center and should be present at a favourable
+position 5 of thiazole ring.
+
+ 27218144   Qu B et al (2016) "Multiple effects of magnesium isoglycyrrhizinate on the disposition of docetaxel  in docetaxel-induced liver injury." Xenobiotica, 1-7
+
+1. Magnesium isoglycyrrhizinate (MgIg) has been extensively used in
+treating liver injury which is the common adverse reaction of docetaxel
+(DOC). Due to the  narrow therapeutic window, small changes in pharmacokinetic
+profiles can alter the toxicity and therapeutic efficacy of DOC significantly.
+The study aimed to explore the effects of MgIg on the disposition of
+DOC and the potential mechanism in DOC-induced liver injury. 2. Pharmacokinetics
+and tissues distribution behaviors showed that there was no significant
+difference between DOC group (DOCG) and MgIg + DOC group (MDOCG). The
+mRNA and protein levels of cytochrome P450 3A1 (CYP3A1) in liver, intestine,
+and kidney were significantly upregulated, and the P-glycoprotein (P-gp)
+was obviously downregulated in MDOCG when compared  with DOCG. 3. Immunoglobulin
+M (IgM), CD8+ were upregulated in DOCG; while in MDOCG, IgM, CD8+ recovered
+to normal levels and complement C3; CD4+ were upregulated. 4. MgIg
+had no significant effects on the disposition of DOC in docetaxel-induced
+liver injury. Additional, potential drug-drug interaction may happen
+if MgIg co-administered with antitumor drugs which are the substrates
+of CYP3A4 or P-gp. Hepatoprotective mechanism of MgIg perhaps was through
+upregulation of C3, CD4+ and downregulation of IgM, CD8+.
+
+ 27217490   Zhou X et al (2016) "Difference in the pharmacokinetics and hepatic metabolism of anti-diabetic drugs  in Zucker Diabetic Fatty and Sprague-Dawley rats." Drug Metab Dispos
+
+The Zucker Diabetic Fatty (ZDF) rat, an inbred strain of obese Zucker
+fatty rat,  develops early onset of insulin resistance and displays
+hyperglycemia and hyperlipidemia. The phenotypic changes resemble human
+type 2 diabetes associated  with obesity and therefore the strain is
+used as a pharmacological model for type 2 diabetes. The aim of the
+current study was to compare the pharmacokinetics and  hepatic metabolism
+of five anti-diabetic drugs in male ZDF and Sprague-Dawley (SD) rats,
+which are known to be cleared via various mechanisms. Among the drugs
+examined, metformin, cleared through renal excretion, and rosiglitazone,
+metabolized by hepatic cytochrome P450 (CYP) 2C, did not exhibit differences
+in the plasma clearance in ZDF and SD rats. In contrast, glibenclamide,
+metabolized  by hepatic CYP3A, canagliflozin, metabolized mainly by
+UDP-glucuronosyltransferases (UGT), and troglitazone metabolized by
+sulfotransferase and UGT, exhibited significantly lower plasma clearance
+in ZDF than in SD rats after a single intravenous administration. To
+elucidate the mechanisms for the difference in the drug clearance,
+studies were performed to characterize the activity of hepatic drug-metabolizing
+enzymes using liver S9 fractions from the two strains. The results
+revealed that the activity for CYP3A  and UGT was decreased in ZDF
+rats using the probe substrates, and decreased unbound intrinsic clearance
+in vitro for glibenclamide, canagliflozin and troglitazone was consistent
+with lower plasma clearance in vivo. The difference in pharmacokinetics
+of these two strains may complicate PK/PD correlations, given that
+ZDF is used as a pharmacological model, and SD rat as the pharmacokinetics
+and toxicology strain.
+
+ 27217047   Yamashita T et al (2016) "Effects of CYP3A5 polymorphism on the pharmacokinetics of a once-daily modified-release tacrolimus formulation and acute kidney injury in hematopoietic  stem cell transplantation." Cancer Chemother Pharmacol
+
+BACKGROUND: Tacrolimus is metabolized by cytochrome P450 (CYP) 3A4
+and 3A5. We investigated the influence of CYP3A5 polymorphism and concurrent
+use of azole antifungal agents (AZ) on the pharmacokinetics of a once-daily
+modified-release tacrolimus formulation (Tac-QD) in patients after
+hematopoietic stem cell transplantation (HSCT). DESIGN AND METHODS:
+Twenty-four patients receiving allogeneic HSCT were enrolled. Genotyping
+for CYP3A5*3 was done by a PCR-restriction fragment length polymorphism
+method. Trough blood concentrations  (C0) of tacrolimus were measured
+by chemiluminescence magnetic microparticle immunoassay. Continuous
+infusion of tacrolimus was administered from the day before transplantation
+and was switched to Tac-QD after adequate oral intake. RESULTS: Thirteen
+patients had a CYP3A5*3/*3 genotype, and 11 patients had a CYP3A5*1/*1
+or *1/*3 genotype. No significant difference was observed in daily
+dosages and the C0 of tacrolimus between the two genotype groups without
+AZ. However, in patients who were co-administered AZ, the C0 values
+of tacrolimus were higher in patients with the CYP3A5*3/*3 allele than
+with the CYP3A5*1 allele (P = 0.034), although daily doses of Tac-QD
+in patients with CYP3A5*3/*3 were significantly lower than those with
+the CYP3A5*1 allele (P = 0.041). The cumulative incidence of acute
+kidney injury was higher in patients with the CYP3A5*3/*3 than with
+the CYP3A5*1 allele when AZ was co-administered. The decrement for
+daily dosage of Tac-QD was significantly greater in patients expressing
+the CYP3A5*3/*3 than the CYP3A5*1 allele. CONCLUSIONS: CYP3A5 genotyping
+may be useful for safe and effective immunosuppressive therapy with
+Tac-QD in HSCT patients in whom the use of AZ is anticipated.
+
+ 27216792   Yang R et al (2016) "Drug Interactions with Angiotensin Receptor Blockers: Role of Human Cytochromes P450." Curr Drug Metab
+
+Angiotensin receptor blockers (ARBs) are the most recent class of agents
+for the  treatment of hypertension. However, ARBs may cause a low incidence
+of headache, upper respiratory infection, back pain, muscle cramps,
+fatigue, dizziness, and many other side effects. In some cases, such
+toxicity is associated with pharmacokinetic alterations. The cytochrome
+P450 (CYP) enzyme system plays an important role in a lot of clinically
+important pharmacokinetic drug interactions. Specific cytochrome P450
+(CYP) enzymes have been recently shown to  be involved in the metabolism
+of several essential ARBs. Losartan is metabolized  by the cytochrome
+P450 (CYP) 3A4 and 2C9 isoenzymes. Irbesartan is metabolized primarily
+by CYP2C9 and to a lesser extent by CYP3A4. Valsartan, candesartan,
+and azilsartan are metabolized by cytochrome P450 (CYP) 2C9. Eprosartan,
+telmisartan  and olmesartan are not metabolized by CYP system. Therefore,
+according to these pharmacokinetic findings, no dosage adjustment is
+recommended when eprosartan, telmisartan and olmesartan are combined
+with other pharmacological agents in patients with hypertension. However,
+as indicated above, several of antihypertensive agents are metabolized
+by CYP enzymes, and physicians should be  aware of coadministered drugs
+that may inhibit or induce these CYP enzymes. This  review summarize
+the available data on cytochrome P450 - related drug-drug interactions
+reported in the literature for the eight ARBs. Knowledge of the pharmacokinetic
+properties of the ARBs should allow the avoidance of the majority of
+drug interactions without compromising therapeutic benefits.
+
+ 27216294   Achterbergh R et al (2016) "A short-term high fat diet increases exposure to midazolam and omeprazole in healthy subjects." Expert Opin Drug Metab Toxicol
+
+OBJECTIVES: Knowledge of factors contributing to variation in drug
+metabolism is  of vital importance to optimize drug treatment. This
+study assesses the effects of a short-term hypercaloric high fat diet
+on metabolism of five oral drugs, which are each specific for a single
+P450 isoform: midazolam (CYP3A4), omeprazole (CYP2C19), metoprolol
+(CYP2D6), S-warfarin (CYP2C9) and caffeine (CYP1A2). METHODS: In 9
+healthy volunteers, pharmacokinetics of the five drugs were assessed
+after an overnight fast at two separate occasions: after a regular
+diet  and after 3 days of a hypercaloric high fat diet (i.e. regular
+diet supplemented  with 500 mL cream [1715 kcal, 35% fat]). Pharmacokinetic
+parameters (mean [SEM])  were estimated by non-compartmental analysis.
+RESULTS: The high fat diet increased exposure to midazolam by 19% from
+24.7 (2.6) to 29.5 (3.6) ng ml-1h-1 (p=0.04) and exposure to omeprazole
+by 31 % from 726 (104) to 951 (168) ng ml-1h-1 (p=0.05). Exposure to
+metoprolol, caffeine and S-warfarin was not affected by the high fat
+diet. CONCLUSION: A short-term hypercaloric high fat diet increases
+exposure to midazolam and omeprazole, possibly reflecting modulation
+of CYP3A4 and CYP2C19.
+
+ 27214556   Lenti E et al (2016) "Transcription factor TLX1 controls retinoic acid signaling to ensure spleen development." J Clin Invest
+
+The molecular mechanisms that underlie spleen development and congenital
+asplenia, a condition linked to increased risk of overwhelming infections,
+remain largely unknown. The transcription factor TLX1 controls cell
+fate specification and organ expansion during spleen development, and
+Tlx1 deletion causes asplenia  in mice. Deregulation of TLX1 expression
+has recently been proposed in the pathogenesis of congenital asplenia
+in patients carrying mutations of the gene-encoding transcription factor
+SF-1. Herein, we have shown that TLX1-dependent regulation of retinoic
+acid (RA) metabolism is critical for spleen organogenesis. In a murine
+model, loss of Tlx1 during formation of the splenic anlage increased
+RA signaling by regulating several genes involved in RA metabolism.
+Uncontrolled RA activity resulted in premature differentiation of mesenchymal
+cells and reduced vasculogenesis of the splenic primordium. Pharmacological
+inhibition of RA signaling in Tlx1-deficient animals partially rescued
+the spleen defect. Finally, spleen growth was impaired in mice lacking
+either cytochrome P450 26B1 (Cyp26b1), which results in excess RA,
+or retinol dehydrogenase 10 (Rdh10), which results in RA deficiency.
+Together, these findings establish TLX1 as a critical regulator of
+RA metabolism and provide mechanistic insights into the molecular determinants
+of human congenital asplenia.
+
+ 27214242   Andre CM et al (2016) "Multifunctional oxidosqualene cyclases and cytochrome P450 involved in the biosynthesis of apple fruit triterpenic acids." New Phytol
+
+Apple (Malus x domestica) accumulates bioactive ursane-, oleanane-,
+and lupane-type triterpenes in its fruit cuticle, but their biosynthetic
+pathway is still poorly understood. We used a homology-based approach
+to identify and functionally characterize two new oxidosqualene cyclases
+(MdOSC4 and MdOSC5) and  one cytochrome P450 (CYP716A175). The gene
+expression patterns of these enzymes and of previously described oxidosqualene
+cyclases were further studied in 20 apple cultivars with contrasting
+triterpene profiles. MdOSC4 encodes a multifunctional oxidosqualene
+cyclase producing an oleanane-type triterpene, putatively identified
+as germanicol, as well as beta-amyrin and lupeol, in the proportion
+82 : 14 : 4. MdOSC5 cyclizes 2,3-oxidosqualene into lupeol and beta-amyrin
+at a ratio of 95 : 5. CYP716A175 catalyses the C-28 oxidation of alpha-amyrin,
+beta-amyrin, lupeol and germanicol, producing ursolic acid, oleanolic
+acid, betulinic acid, and putatively morolic acid. The gene expression
+of MdOSC1 was linked to the concentrations of ursolic and oleanolic
+acid, whereas the expression of MdOSC5 was correlated with the concentrations
+of betulinic acid and its caffeate derivatives. Two new multifuntional
+triterpene synthases as well as a multifunctional triterpene C-28 oxidase
+were identified in Malus x domestica. This study also suggests that
+MdOSC1 and MdOSC5 are key genes in apple fruit triterpene biosynthesis.
+
+ 27214159   Ohtani H et al (2016) "In silico evaluation of warfarin-bucolome therapy." Biopharm Drug Dispos 37(4), 233-242
+
+PURPOSE: Some reports have suggested that bucolome, an inhibitor of
+cytochrome P450 2C9, is useful for decreasing inter-patient variation
+in warfarin clearance. The purpose of the present study was to evaluate
+the utility of the concomitant administration of bucolome and warfarin
+using an in silico approach. METHODS: In  vitro data regarding the
+enzymatic kinetics of (S)-warfarin and bucolome were collected from
+the literature. As a validation study, the geometric mean (GM) of  the
+oral unbound clearance of (S)-warfarin and its inter-patient variation
+(assessed using the standard deviation of its natural logarithm (sigma))
+were predicted using a physiologically based population pharmacokinetic
+simulator (Simcyp(TM) ) and compared with clinical data. The utility
+of the concomitant administration was evaluated by comparing the GM
+and sigma values predicted under various conditions (the prediction
+study). RESULTS AND DISCUSSION: The sigma values in the presence and
+absence of bucolome were predicted to be 0.73 and 0.68, respectively,
+suggesting that bucolome might increase the inter-patient variation,
+as clinically observed. In the prediction study, the sigma value of
+the bucolome co-administered group was greater in almost all of the
+examined conditions. In conclusion, the concomitant administration
+of bucolome might not be useful for reducing the inter-patient variation
+of (S)-warfarin pharmacokinetics. Copyright (c) 2016 John Wiley & Sons,
+Ltd.
+
