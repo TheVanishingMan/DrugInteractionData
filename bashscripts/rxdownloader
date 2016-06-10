@@ -1,0 +1,32 @@
+#!/bin/bash
+
+echo " "
+echo " "
+echo " "
+echo You have selected rxdownloader, would you like to continue? [Y/N]
+read SELECTION
+
+function runthetest {
+    rm -f drugInteractionsFolder/* #remove contents if it exists
+    rmdir drugInteractionsFolder   #remove the folder completely
+    mkdir drugInteractionsFolder   #make sure the folder exists
+    #rm -f TESTINGSTUFF.txt #line for testing
+    rm -f drugslist.txt #remove before filling a new one
+    bash builddruglist
+    #grep 'W' drugslist.txt | head  > TESTINGSTUFF.txt #line for testing
+    BYTES=$(wc --bytes drugslist.txt | cut -d ' ' -f 1)
+    if [ $BYTES = 0 ]; then
+	echo " "
+	echo drugslist.txt is empty, file may have been corrupted
+	echo " "
+	exit
+    else
+	cat drugslist.txt | while read line; do bash fdainteractions "$line"; done
+    fi
+}
+
+if [ $SELECTION = Y ]; then
+    runthetest
+else
+    exit
+fi
