@@ -6,15 +6,24 @@ LETTERS=abcdefghijklmnopqrstuvwxyz
 CURRENT=0
 FILENAME=drugslist.txt
 
+clear
 echo " "
 echo " "
-echo RXDownloader written by Alexander Hayes
-echo Indiana University \| STARAI \| Dr. Sriraam Natarajan
-echo Information pulled from rxlist.com
+echo "                                    RXDownloader written by Alexander L. Hayes"
+echo "                               Indiana University | STARAI | Dr. Sriraam Natarajan"
+echo "                                    Drug Names will be pulled from rxlist.com"
+echo "                                       Labeling information from openFDA"
 echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+echo " "
+sleep 3
 echo Results will be output to file: $FILENAME
 echo " "
-
 touch $FILENAME
 
 until [ $CURRENT = 26 ]; do
