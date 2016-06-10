@@ -3,7 +3,9 @@
 echo " "
 echo " "
 echo " "
-echo You have selected rxdownloader, would you like to continue? [Y/N]
+echo Welcome! You have selected rxdownloader,
+echo running this will likely take some time,
+echo would you like to continue? [Y/N]
 read SELECTION
 
 function runthetest {
