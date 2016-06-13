@@ -1,0 +1,60 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amino+AND+Acid&limit=1&skip=0
+Page 0 of 6
+        "generic_name": [
+          "AMINO ACIDS, APIS MELLIFICA, ARNICA MONTANA, FUCUS VESICULSUS, GAMBOGIA, HEPAR SUIS, PHOSPHORICUM ACIDUM,"
+        "brand_name": [
+          "Extreme Thyro pro"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amino+AND+Acid&limit=1&skip=1
+Page 1 of 6
+        "generic_name": [
+          "AMINO ACIDS, APIS MELLIFICA, BIOTIN, EPIDERMIS, GALIUM APARINE, HAMAMELIS VIRGINIANA, HEPAR SUIS, HGH, NATRUM MURIATICUM,"
+        "brand_name": [
+          "Vital HGH Skin, Hair and Nails"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amino+AND+Acid&limit=1&skip=2
+Page 2 of 6
+        "generic_name": [
+          "AMINO ACIDS, APIS MELLIFICA, BIOTIN, EPIDERMIS, GALIUM APARINE, HAMAMELIS VIRGINIANA, HEPAR SUIS, HGH, NATRUM MURIATICUM, PANTOTHENIC ACID, PHOSPHORICUM ACIDUM, PITUITARIA GLANDULA (SUIS), RIBOFLAVINUM, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "VITAL HGH SKIN HAIR NAILS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amino+AND+Acid&limit=1&skip=3
+Page 3 of 6
+        "generic_name": [
+          "AMINO ACIDS, APIS MELLIFICA, ARNICA MONTANA, FUCUS VESICULOSUS, GAMBOGIA, HEPAR SUIS, PHOSPHORICUM ACIDUM, PITUITARIA GLANDULA SUIS, THUJA OCCIDENTALIS, THYROIDINUM SUIS,"
+        "brand_name": [
+          "Weight Loss Solution"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amino+AND+Acid&limit=1&skip=4
+Page 4 of 6
+        "generic_name": [
+          "AMINO ACIDS, APIS MELLIFICA, ARNICA MONTANA, FUCUS VESICULOSUS, GAMBOGIA, HEPAR SUIS, PHOSPHORICUM ACIDUM, PITUITARIA GLANDULA SUIS, THUJA OCCIDENTALIS, THYROIDINUM,"
+        "brand_name": [
+          "Winnie Flex"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amino+AND+Acid&limit=1&skip=5
+Page 5 of 6
+        "generic_name": [
+          "AMINO ACIDS, APIS MELLIFICA, ARNICA MONTANA, FUCUS VESICULOSUS, GAMBOGIA, HEPAR SUIS, PHOSPHORICUM ACIDUM PITUITARY SUIS,"
+        "brand_name": [
+          "Weight Loss Solution"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

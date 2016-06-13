@@ -1,0 +1,108 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acyclovir+AND+Ointment&limit=1&skip=0
+Page 0 of 8
+        "generic_name": [
+          "ACYCLOVIR"
+        "brand_name": [
+          "Acyclovir"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the controlled clinical trials, mild pain (including transient burning and stinging) was reported by about 30% of patients in both the active and placebo arms; treatment was discontinued in 2 of these patients. Local pruritus occurred in 4% of these patients. In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings. Observed During Clinical Practice: Based on clinical practice experience in patients treated with acyclovir ointment 5% in the US, spontaneously reported adverse events are uncommon. Data are insufficient to support an estimate of their incidence or to establish causation. These events may also occur as part of the underlying disease process. Voluntary reports of adverse events that have been received since market introduction include: General: Edema and/or pain at the application site. Skin: Pruritus, rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acyclovir+AND+Ointment&limit=1&skip=1
+Page 1 of 8
+        "generic_name": [
+          "ACYCLOVIR"
+        "brand_name": [
+          "Zovirax"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with ZOVIRAX Ointment 5%."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the controlled clinical trials, mild pain (including transient burning and stinging) was reported by about 30% of patients in both the active and placebo arms; treatment was discontinued in 2 of these patients. Local pruritus occurred in 4% of these patients. In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings. Observed During Clinical Practice: Based on clinical practice experience in patients treated with ZOVIRAX Ointment in the US, spontaneously reported adverse events are uncommon. Data are insufficient to support an estimate of their incidence or to establish causation. These events may also occur as part of the underlying disease process. Voluntary reports of adverse events that have been received since market introduction include: General: Edema and/or pain at the application site. Skin: Pruritus, rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acyclovir+AND+Ointment&limit=1&skip=2
+Page 2 of 8
+        "generic_name": [
+          "ACYCLOVIR"
+        "brand_name": [
+          "Acyclovir"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the controlled clinical trials, mild pain (including transient burning and stinging) was reported by about 30% of patients in both the active and placebo arms; treatment was discontinued in 2 of these patients. Local pruritus occurred in 4% of these patients. In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings. Observed During Clinical Practice: Based on clinical practice experience in patients treated with acyclovir ointment 5% in the US, spontaneously reported adverse events are uncommon. Data are insufficient to support an estimate of their incidence or to establish causation. These events may also occur as part of the underlying disease process. Voluntary reports of adverse events that have been received since market introduction include: General: Edema and/or pain at the application site. Skin: Pruritus, rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acyclovir+AND+Ointment&limit=1&skip=3
+Page 3 of 8
+        "generic_name": [
+          "ACYCLOVIR"
+        "brand_name": [
+          "Acyclovir"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with Acyclovir Ointment 5%."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the controlled clinical trials, mild pain (including transient burning and stinging) was reported by about 30% of patients in both the active and placebo arms; treatment was discontinued in 2 of these patients. Local pruritus occurred in 4% of these patients. In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings. Observed During Clinical Practice: Based on clinical practice experience in patients treated with Acyclovir Ointment in the US, spontaneously reported adverse events are uncommon. Data are insufficient to support an estimate of their incidence or to establish causation. These events may also occur as part of the underlying disease process. Voluntary reports of adverse events that have been received since market introduction include: General: Edema and/or pain at the application site. Skin: Pruritus, rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acyclovir+AND+Ointment&limit=1&skip=4
+Page 4 of 8
+        "generic_name": [
+          "ACYCLOVIR"
+        "brand_name": [
+          "Acyclovir"
+ 
+      "drug_interactions": [
+        "Drug Interactions Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with acyclovir ointment 5%."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the controlled clinical trials, mild pain (including transient burning and stinging) was reported by about 30% of patients in both the active and placebo arms; treatment was discontinued in two of these patients. Local pruritus occurred in 4% of these patients. In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings. Observed During Clinical Practice Based on clinical practice experience in patients treated with acyclovir ointment in the U.S., spontaneously reported adverse events are uncommon. Data are insufficient to support an estimate of their incidence or to establish causation. These events may also occur as part of the underlying disease process. Voluntary reports of adverse events that have been received since market introduction include: General: Edema and/or pain at the application site. Skin: Pruritus, rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acyclovir+AND+Ointment&limit=1&skip=5
+Page 5 of 8
+        "generic_name": [
+          "ACYCLOVIR"
+        "brand_name": [
+          "Acyclovir"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with acyclovir ointment 5 %."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the controlled clinical trials, mild pain (including transient burning and stinging) was reported by about 30% of patients in both the active and placebo arms; treatment was discontinued in 2 of these patients. Local pruritus occurred in 4% of these patients. In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings. Observed During Clinical Practice: Based on clinical practice experience in patients treated with acyclovir ointment in the US, spontaneously reported adverse events are uncommon. Data are insufficient to support an estimate of their incidence or to establish causation. These events may also occur as part of the underlying disease process. Voluntary reports of adverse events that have been received since market introduction include: General: Edema and/or pain at the application site. Skin: Pruritus, rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acyclovir+AND+Ointment&limit=1&skip=6
+Page 6 of 8
+        "generic_name": [
+          "ACYCLOVIR"
+        "brand_name": [
+          "Acyclovir"
+ 
+      "drug_interactions": [
+        "Drug Interactions Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with acyclovir ointment 5%."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the controlled clinical trials, mild pain (including transient burning and stinging) was reported by about 30% of patients in both the active and placebo arms; treatment was discontinued in two of these patients. Local pruritus occurred in 4% of these patients. In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings. Observed During Clinical Practice Based on clinical practice experience in patients treated with acyclovir ointment in the U.S., spontaneously reported adverse events are uncommon. Data are insufficient to support an estimate of their incidence or to establish causation. These events may also occur as part of the underlying disease process. Voluntary reports of adverse events that have been received since market introduction include: General: Edema and/or pain at the application site. Skin: Pruritus, rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acyclovir+AND+Ointment&limit=1&skip=7
+Page 7 of 8
+        "generic_name": [
+          "ACYCLOVIR"
+        "brand_name": [
+          "acyclovir"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with acyclovir ointment USP 5%."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the controlled clinical trials, mild pain (including transient burning and stinging) was reported by about 30% of patients in both the active and placebo arms; treatment was discontinued in 2 of these patients. Local pruritus occurred in 4% of these patients. In all studies, there was no significant difference between the drug and placebo group in the rate or type of reported adverse reactions nor were there any differences in abnormal clinical laboratory findings. Observed During Clinical Practice: Based on clinical practice experience in patients treated with acyclovir ointment USP 5% in the US, spontaneously reported adverse events are uncommon. Data are insufficient to support an estimate of their incidence or to establish causation. These events may also occur as part of the underlying disease process. Voluntary reports of adverse events that have been received since market introduction include: General: Edema and/or pain at the application site. Skin: Pruritus, rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

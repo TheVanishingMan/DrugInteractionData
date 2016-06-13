@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acyclovir+AND+Buccal+AND+Tablets&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "ACYCLOVIR"
+        "brand_name": [
+          "Sitavig"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Due to low dose and minimal systemic absorption of SITAVIG, drug interactions are unlikely (7).",
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Most common adverse reactions (> or =1%) are: headache and application site pain (6.1). To report SUSPECTED ADVERSE REACTIONS, contact Innocutis Holdings, LLC at 1-800-499-4468 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

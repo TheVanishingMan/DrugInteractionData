@@ -1,0 +1,122 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=0
+Page 0 of 12
+        "generic_name": [
+          "AMYL NITRITE, SANGUINARIA CANADENSIS ROOT, AND LACHESIS MUTA VENOM"
+        "brand_name": [
+          "Menopause"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=1
+Page 1 of 12
+        "generic_name": [
+          "AMYL NITROSUM, CALCAREA CARBONICA, CIMICIFUGA RACEMOSA, FERRUM METALLICUM, SANGUINARIA CANADENSIS, SEPIA"
+        "brand_name": [
+          "FEM Remedy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=2
+Page 2 of 12
+        "generic_name": [
+          "LACHESIS MUTUS, AMYL NITROSUM, BRYONIA ALBA, AURUM METALLICUM, SANGUINARIA CANADENSIS"
+        "brand_name": [
+          "MENOPAUSE SUPPORT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=3
+Page 3 of 12
+        "generic_name": [
+          "AMYL NITROSUM"
+        "brand_name": [
+          "AMYL NITROSUM"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=4
+Page 4 of 12
+        "generic_name": [
+          "AMYL NITROSUM, ARGENTUM NITRICUM, BRYONIA, CALENDULA OFFICINALIS, COCCULUS INDICUS, GLONOINUM, LAC DEFLORATUM, NUX VOMICA"
+        "brand_name": [
+          "Vertaway"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=5
+Page 5 of 12
+        "generic_name": [
+          "AMYL NITRITE - LACHESIS MUTA VENOM - SANGUINARIA CANADENSIS ROOT"
+        "brand_name": [
+          "Hot Flashes"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=6
+Page 6 of 12
+        "generic_name": [
+          "AMYL NITRITE"
+        "brand_name": [
+          "HEADACHE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=7
+Page 7 of 12
+        "generic_name": [
+          "AMYL NITRITE"
+        "brand_name": [
+          "Amyl Nitrite"
+ 
+      "adverse_reactions": [
+        "Mild transitory headache, dizziness and flushing of the face are common with the use of amyl nitrite. The following adverse reactions may occur in susceptible patients syncope, involuntary passing of urine and feces, hypotension, pallor, cold sweat, tachycardia, restlessness, weakness, vomiting and nausea. Excessively high doses of amyl nitrite administered chronically may cause methemoglobinemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=8
+Page 8 of 12
+        "generic_name": [
+          "AMYL NITRITE - LACHESIS MUTA VENOM - SANGUINARIA CANADENSIS ROOT"
+        "brand_name": [
+          "WHP Be gone Hot Flashes TM"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=9
+Page 9 of 12
+        "generic_name": [
+          "AMYL NITROSUM, CALCAREA CARBONICA, CAULOPHYLLUM THALICTROIDES, CIMICIFUGA RACEMOSA, FERRUM METALLICUM, GELSEMIUM SEMPERVIRENS, LACHESIS MUTUS, PULSATILLA, SANGUINARIA CANADENSIS, SEPIA, SULPHUR, SULPHURICUM ACIDUM"
+        "brand_name": [
+          "Menopause Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=10
+Page 10 of 12
+        "generic_name": [
+          "AMYL NITROSUM, CALCAREA CARBONICA, CAULOPHYLLUM THALICTROIDES, CIMICIFUGA RACEMOSA, FERRUM METALLICUM, GELSEMIUM SEMPERVIRENS, LACHESIS MUTUS, PULSATILLA, SANGUINARIA CANADENSIS, SEPIA, SULPHUR, SULPHURICUM ACIDUM"
+        "brand_name": [
+          "Menopause"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Amyl+AND+Nitrite&limit=1&skip=11
+Page 11 of 12
+        "generic_name": [
+          "AMYL NITROSUM"
+        "brand_name": [
+          "AMYL NITROSUM"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

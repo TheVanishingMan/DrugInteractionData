@@ -35,6 +35,16 @@ if [[ -z "$TOTAL" ]]; then
 STATE=1
 fi
 
+if [[ $TOTAL -gt 1000 ]]; then
+touch drugInteractionsFolder/WARNINGS.txt
+echo " "
+echo "WARNING! $QUE has $TOTAL pages, capping at 1000."
+echo " "
+echo "WARNING! $QUE has $TOTAL pages, capping at 1000." >> drugInteractionsFolder/WARNINGS.txt
+echo " "
+TOTAL=1000
+fi
+
 #There is one problem: 0-indexing, we have to subtract 1 from TOTAL
 REALTOTAL=$[TOTAL-1]
 
@@ -42,6 +52,7 @@ FILENAME=drugInteractionsFolder/$QUE-data.txt
 STARTTIME=$(date '+%s')
 sleep 1
 
+<<<<<<< HEAD
 if [[ $TOTAL -gt 1000 ]]; then
 touch drugInteractionsFolder/WARNINGS.txt
 echo " "
@@ -50,6 +61,8 @@ echo " "
 echo "WARNING! $QUE has $TOTAL pages, capping at 1000." >> drugInteractionsFolder/WARNINGS.txt
 TOTAL=1000
 fi
+=======
+>>>>>>> 3133a08ed9ea8f1d8c4d46bd25a11d08484c671c
 
 SKIP=0
 function pullgeneric {
@@ -59,7 +72,7 @@ function pullgeneric {
           echo Progress: $SKIP / $TOTAL " | " Elapsed seconds: $ELAPSED " | " Checking: $QUE [generic] " | " Editing: $FILENAME
           URL5="`echo $URL3`"\&skip=$SKIP
           DRUG="`wget --no-check-certificate -q -O - $URL5`"
-if [ $SPEED -gt 4 ]; then #make sure we stay under 240 articles per minute
+if [ $SPEED -ge 4 ]; then #make sure we stay under 240 articles per minute
 sleep 1
 fi
 echo $URL5 >> $FILENAME
@@ -102,3 +115,9 @@ echo " "
 touch drugInteractionsFolder/UNKNOWNDRUGS.txt
 echo "$QUE" >> drugInteractionsFolder/UNKNOWNDRUGS.txt
 fi
+<<<<<<< HEAD
+=======
+
+touch drugInteractionsFolder/LOG.txt
+echo "FINISHED PULLING $TOTAL articles for $QUE at" $('date') >> drugInteractionsFolder/LOG.txt
+>>>>>>> 3133a08ed9ea8f1d8c4d46bd25a11d08484c671c
