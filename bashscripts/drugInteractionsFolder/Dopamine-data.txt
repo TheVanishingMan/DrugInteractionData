@@ -1,0 +1,544 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=0
+Page 0 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, ADRENALINUM, DOPAMINE, GABA, NOREPINEPHRINE, OCTOPAMINE, SEROTONIN, TAURINE, ADENOSINUM CYCLOPHOSPHORICUM, CEREBRUM (SUIS), DIENCEPHALON, PINEAL GLAND (SUIS), THALAMUS OPTICUS (SUIS)"
+        "brand_name": [
+          "Cerebromax"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=1
+Page 1 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride and Dextrose"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System azotemia Central Nervous System headache anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=2
+Page 2 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOPamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Central Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=3
+Page 3 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, ADRENALINUM, DOPAMINE HYDROCHLORIDE, GABA (GAMMA AMINOBUTYRIC ACID), NOREPINEPHRINE, OCTOPAMINE, SEROTONIN (HYDROCHLORIDE), TAURINE, ADENOSINUM CYCLOPHOSPHORICUM, CEREBRUM (SUIS), DIENCEPHALON (SUIS), PINEAL GLAND (SUIS), THALAMUS OPTICUS (SUIS)"
+        "brand_name": [
+          "Brain Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=4
+Page 4 of 51
+        "generic_name": [
+          "DOPAMINE,"
+        "brand_name": [
+          "Dopamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=5
+Page 5 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, DOPAMINE HYDROCHLORIDE, GABA (GAMMA-AMINOBUTYRIC ACID), OCTOPAMINE, SEROTONIN (HYDROCHLORIDE), TAURINE,"
+        "brand_name": [
+          "Brain Balance Core Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=6
+Page 6 of 51
+        "generic_name": [
+          "HYDRASTIS CANADENSIS, TARAXACUM OFFICINALE, DOPAMINE, L-DOPA, MELATONIN, SEROTONIN (HYDROCHLORIDE)"
+        "brand_name": [
+          "Neuro I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=7
+Page 7 of 51
+        "generic_name": [
+          "5-METHOXYTRYPTAMINE, ACETYLCHOLINE CHLORIDE, DOPAMINE HYDROCHLORIDE, GABA (GAMMA-AMINOBUTYRIC ACID),"
+        "brand_name": [
+          "Neuro Links"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=8
+Page 8 of 51
+        "generic_name": [
+          ".ALPHA.-KETOGLUTARIC ACID - CHASTE TREE - CONIUM MACULATUM FLOWERING TOP - CORTICOTROPIN - DOPAMINE - FOLLITROPIN - GOLD - INTERLEUKIN-10 - LUTRELIN - LUTROPIN ALFA - LYCOPODIUM CLAVATUM SPORE - MALIC"
+        "brand_name": [
+          "GUNA-MARS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=9
+Page 9 of 51
+        "generic_name": [
+          "DOPAMINE"
+        "brand_name": [
+          "Dopamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=10
+Page 10 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOPamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions 1.Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine HCl should receive initial doses of dopamine HCl no greater than one-tenth (1/10) of the usual dose. 2.Concurrent administration of dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. 3. Tricyclic antidepressants may potentiate the pressor response to adrenergic agents. 4.Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents , such as propranolol and metoprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents . Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. 5. Haloperidol appears to have strong central antidopaminergic properties. Haloperidol and haloperidol-like drugs suppress the dopaminergic renal and mesenteric vasodilation induced at low rates of dopamine infusion. 6. Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. This interaction appears to be related both to pressor activity and to beta-adrenergic stimulating properties of these catecholamines and may produce ventricular arrhythmias and hypertension. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. It has been reported that results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. 7.The concomitant use of vasopressors and some oxytocic drugs may result in severe persistent hypertension. See Labor and Delivery below. 8.Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed. Pregnancy: Teratogenic Effects: Pregnancy Category C Animal studies have revealed no evidence of teratogenic effects due to dopamine. However, in one study, administration of dopamine HCl to pregnant rats resulted in a decreased survival rate of the newborn and a potential for cataract formation in the survivors. There are no adequate and well-controlled studies in pregnant women and it is not known if dopamine crosses the placental barrier. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if, in the judgment of the physician, the potential benefit justifies the potential risk to the fetus."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Central Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=11
+Page 11 of 51
+        "generic_name": [
+          "DOPAMINE,"
+        "brand_name": [
+          "Dopamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=12
+Page 12 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, ADRENALINUM, DOPAMINE, GABA, NOREPINEPHRINE, OCTOPAMINE, SEROTONIN (HYDROCHLORIDE), TAURINE, ADENOSINUM CYCLOPHOSPHORICUM, CEREBRUM (SUIS), DIENCEPHALON, PINEAL GLAND (SUIS), THALAMUS OPTICUS (SUIS)"
+        "brand_name": [
+          "Cerebromax"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=13
+Page 13 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to suport an estimate of their frequency. Cardiovascular System: ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Cetnral Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=14
+Page 14 of 51
+        "generic_name": [
+          "ADENOSINUM TRIPHOSPHORICUM DINATRUM, ALPHA-KETOGLUTARICUM ACIDUM, FORMICUM ACIDUM, MALICUM ACIDUM, SARCOLACTICUM ACID, DULCAMARA, HYOSCYAMUS NIGER, PHOSPHORUS, SABINA, ACETYLCHOLINE CHLORIDE, ADRENALINUM, DOPAMINE HYDROCHLORIDE, GABA(GAMMA-AMINOBUTYRIC ACID), NOREPINEPHRINE, OCTOPAMINE (HYDROCHLORIDE), PHENYLETHYLAMINE (HYDROCHLORIDE), SEROTONIN (HYDROCHLORIDE), TAURINE, TYRAMINE, ADENOSINUM CYCLOPHOSPHORICUM, BRAIN STEM (SUIS), CEREBRUM SUIS, DIENCEPHALON (SUIS), PINEAL GLAND (SUIS)"
+        "brand_name": [
+          "Focus"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=15
+Page 15 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, DOPAMINE HYDROCHLORIDE, GABA (GAMMA-AMINOBUTYRIC ACID), OCTOPAMINE (HYDROCHLORIDE), SEROTONIN (HYDROCHLORIDE), TAURINE, ADENOSINUM CYCLOPHOSPHORICUM, CEREBRUM (SUIS), DIENCEPHALON (SUIS), PINEAL GLAND (SUIS), THALAMUS OPTICUS (SUIS)"
+        "brand_name": [
+          "Brain Balance Core Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=16
+Page 16 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, DOPAMINE, GABA, OCTOPAMINE, SEROTONIN, TAURINE, ADENOSINUM CYCLOPHOSPHORICUM, CEREBRUM, DIENCEPHALON, PINEAL GLAND, THALAMUS OPTICUS"
+        "brand_name": [
+          "Brain Balance Core Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=17
+Page 17 of 51
+        "generic_name": [
+          "CHOLINUM, INOSITOL, LITHIUM CARBONICUM, PULSATILLA, IGNATIA AMARA, GABA, PITUITARIA GLANDULA (SUIS), PINEAL (SUIS), DOPAMINE, SEROTONIN"
+        "brand_name": [
+          "DepressionComposition"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=18
+Page 18 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=19
+Page 19 of 51
+        "generic_name": [
+          "LYCOPODIUM CLAVATUM, NATRUM MURIATICUM, SEPIA, BELLADONNA, CAUSTICUM, PHOSPHORUS, SULPHUR, 5-HYDROXYTRYPTOPHAN, ALUMINA, SILICEA, ACETYLCHOLINE CHLORIDE, DOPAMINE HYDROCHLORIDE, NOREPINEPHRINE, PHENYLETHYLAMINE, SEROTONIN (HYDROCHLORIDE), ADENOSINUM CYCLOPHOSPHORICUM, CEREBRUM (SUIS), DIENCEPHALON (SUIS), FUNICULUS UMBILICALIS SUIS, PANTOTHENIC ACID, PINEAL GLAND (SUIS), SARCOLACTICUM ACIDUM, FAECALIS BACH, GAERTNER BACILLUS (BACH), PROTEUS (VULGARIS)"
+        "brand_name": [
+          "Elevate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=20
+Page 20 of 51
+        "generic_name": [
+          "ALPHA-KETOGLUTARICUM ACIDUM, ATP (ADENOSINE TRIPHOSPHATE DISODIUM), FORMICUM ACIDUM, MALIC ACID, SARCOLACTICUM ACIDUM, DULCAMARA, HYOSCYAMUS NIGER, PHOSPHORUS, SABINA, ACETYLCHOLINE CHLORIDE, ADRENALINUM, DOPAMINE HYDROCHLORIDE, , GABA (GAMMA-AMINOBUTRYIC ACID), NOREPINEPHRINE, OCTOPAMINE, PHENYLETHYLAMINE, SEROTONIN (HYDROCHLORIDE), TAURINE, TRYAMINE, ADENOSINUM CYCLOPHOSPHORICUM, BRAIN (SUIS), BRAIN STEM (SUIS), CEREBRUM (SUIS), DIENCEPHALON (SUIS), PINEAL GLAND (SUIS), THALAMUS OPTICUS (SUIS)"
+        "brand_name": [
+          "Focus RXS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=21
+Page 21 of 51
+        "generic_name": [
+          "ALPHA-KETOGLUTARICUM ACIDUM, ATP, FORMICUM ACIDUM, MALICUM ACIDUM, SARCOLACTICUM ACIDUM, DULCAMARA, HYOSCYAMUS NIGER, PHOSPHORUS, SABINA, ACETYLCHOLINE CHLORICE, ADRRENALINUM, DOPAMINE, GABA, NOREPINEPHRINE, OCTOPAMINE, PHENYLETYLAMINE, SEROTONIN,"
+        "brand_name": [
+          "Focus RxS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=22
+Page 22 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=23
+Page 23 of 51
+        "generic_name": [
+          "CHELIDONIUM MAJUS, PHYTOLACCA DECANDRA, ARNICA MONTANA, NITRICUM ACIDUM, NUX VOMICA, PHOSPHORICUM ACIDUM, ASPARTIC ACID, DIKETOPIPERAZINE, DOPAMINE, FORMALINUM, FORMICUM ACIDUM, METHYL ALCOHOL, MONOSODIUM GLUTAMATE, PHENYLALANINE"
+        "brand_name": [
+          "Aspartame MSG Detox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=24
+Page 24 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=25
+Page 25 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOPamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Central Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=26
+Page 26 of 51
+        "generic_name": [
+          "CHELIDONIUM MAJUS, PHYTOLACCA DECANDRA, ARNICA MONTANA, NITRICUM ACIDUM, NUX VOMICA, PHOSPHORICUM ACIDUM, BISPHENOL A (BPA), DEXTROSE, MALTODEXTRIN, SUCRALOSE, ASPARTIC ACID, DIKETOPIPERAZINE, DOPAMINE HYDROCHLORIDE, FORMALINUM, METHYL ALCOHOL, MONOSODIUM GLUTAMATE, PHENYLALANINE"
+        "brand_name": [
+          "Aspartame MSG Detox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=27
+Page 27 of 51
+        "generic_name": [
+          "LYCOPODIUM CLAVATUM, NATRUM MURIATICUM, SEPIA, BELLADONNA, CAUSTICUM, PHOSPHORUS, SULPHUR, 5-HYDROXYTRYPTOPHAN, ALUMINA, SILICEA, ACETYLCHOLINE CHLORIDE, DOPAMINE HYDROCHLORIDE, NOREPINEPHRINE, PHENYLETHYLAMINE, SEROTONIN (HYDROCHLORIDE), ADENOSINUM CYCLOPHOSPHORICUM, CEREBRUM (SUIS), COENZYME A, DIENCEPHALON (SUIS), FUNICULUS UMBILICALIS SUIS, PINEAL GLAND (SUIS), SARCOLACTICUM ACIDUM, FAECALIS BACH, GAERTNER BACILLUS (BACH), PROTEUS (VULGARIS)"
+        "brand_name": [
+          "Elevate RXS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=28
+Page 28 of 51
+        "generic_name": [
+          "ACTIVATED CHARCOAL - ANTIMONY TRISULFIDE - BISMUTH SUBNITRATE - DIOSCOREA VILLOSA ROOT - DOPAMINE - HUMAN EPIDERMAL GROWTH FACTOR - IPECAC - OREGANO - PICEA MARIANA RESIN - ROBINIA PSEUDOACACIA BARK -"
+        "brand_name": [
+          "GUNA-STOMACH"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=29
+Page 29 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, DOPAMINE, GABA, OCTOPAMINE, SEROTONIN, TAURINE, ADENOSINUM CYCLOPHOSPHORICUM, CEREBRUM (SUIS), DIENCEPHALON (SUIS), PINEAL GLAND (SUIS), THALAMUS OPTICUS (SUIS),"
+        "brand_name": [
+          "Brain Blance Core Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=30
+Page 30 of 51
+        "generic_name": [
+          "CHELIDONIUM MAJUS, PHYTOLACCA DECANDRA, ARNICA MONTANA, NITRICUM ACIDUM, NUX VOMICA, PHOSPHORICUM ACIDUM, ASPARTIC ACID, DIKETOPIPERAZINE, DOPAMINE, FORMALINUM,"
+        "brand_name": [
+          "Aspartame MSG Detox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=31
+Page 31 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, ADRENALINUM, DOPAMINE HYDROCHLORIDE, GABA, NOREPINEPHRINE, OCTOPAMINE, SEROTONIN (HYDROCHLORIDE), TAURINE,"
+        "brand_name": [
+          "Cerebromax"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=32
+Page 32 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: ventricular arrhythmia (at very high doses) ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Central Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=33
+Page 33 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, ADRENALINUM, DOPAMINE HYDROCHLORIDE, GABA, NOREPINEPHRINE, OCTOPAMINE, SEROTONIN (HYDROCHLORIDE), TAURINE, ADENOSINUM CYCLOPHOSPHORICUM, CEREBRUM (SUIS), DIENCEPHALON (SUIS), PINEAL GLAND (SUIS), THALAMUS OPTICUS (SUIS)"
+        "brand_name": [
+          "Cerebromax"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=34
+Page 34 of 51
+        "generic_name": [
+          "ALETRIS FARINOSA ROOT - ALDESLEUKIN - ALPHA LIPOIC ACID - ATOSIBAN - CHASTE TREE - COBALAMIN - COPPER - CORTICOTROPIN - COTTON - CYCLAMEN PURPURASCENS TUBER - DOPAMINE - FOLIC ACID - FOLLICLE STIMULAT"
+        "brand_name": [
+          "GUNA-VENUS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=35
+Page 35 of 51
+        "generic_name": [
+          "CHELIDONIUM MAJUS, PHYTOLACCA DECANDRA, ARNICA MONTANA, NITRICUM ACIDUM, NUX VOMICA, PHOSPHORICUM ACIDUM, BISPHENOL A (BPA), DEXTROSE, MALTODEXTRIN, SUCRALOSE, ASPARTIC ACID, DIKETOPIPERAZINE, DOPAMINE, FORMALINUM, FORMICUM ACIDUM, METHYL ALCOHOL, MONOSODIUM GLUTAMATE, PHENYLALANINE"
+        "brand_name": [
+          "Aspartame MSG Detox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=36
+Page 36 of 51
+        "generic_name": [
+          "DOPAMINE HCL"
+        "brand_name": [
+          "Dopamine HCl"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. The interaction appears to be related both to pressor activity and to the beta adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. Results of studies in animals indicate that dopamine induced ventricular arrhythmias during anesthesia can be reversed by propranolol. Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine should receive initial doses of dopamine HCl not greater than one-tenth (1/10) of the usual dose. Concurrent administration of low-dose dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. Tricyclic antidepressants may potentiate the cardiovascular effects of adrenergic agents. Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents, such as propranolol and metroprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents. Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. Butyrophenones (such as haloperidol) and phenothiazines can suppress the dopaminergic renal and mesenteric vasodilation induced with low-dose dopamine infusion. The concomitant use of vasopressors, vasoconstricting agents (such as ergonovine) and some oxytocic drugs may result in severe hypertension. Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be considered if anticonvulsant therapy is needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia (at very high doses) ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System Dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System Azotemia Central Nervous System headache anxiety Dermatological System Piloerection Other Gangrene of the extremities has occurred when moderate to high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl. A few cases of peripheral cyanosis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=37
+Page 37 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, DOPAMINE, GABA, OCTOPHAMINE"
+        "brand_name": [
+          "Brain Balance Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=38
+Page 38 of 51
+        "generic_name": [
+          "HYDRASTIS CANADENSIS, TARAXACUM OFFICINALE, DOPAMINE, L-DOPA, MELATONIN, SEROTONIN,"
+        "brand_name": [
+          "Neuro I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=39
+Page 39 of 51
+        "generic_name": [
+          "DOPAMINE"
+        "brand_name": [
+          "Dopamine"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia (at very high doses) ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System azotemia Central Nervous System headache anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when moderate to high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl. A few cases of peripheral cyanosis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=40
+Page 40 of 51
+        "generic_name": [
+          "DOPAMINE"
+        "brand_name": [
+          "Dopamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=41
+Page 41 of 51
+        "generic_name": [
+          "HYDRASTIS CANADENSIS, TARAXACUM OFFICINALE, DOPAMINE (HYDROCHLORIDE), L-DOPA, MELATONIN, SEROTONIN"
+        "brand_name": [
+          "Neuro I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=42
+Page 42 of 51
+        "generic_name": [
+          "OXITRIPTAN, ACETYLCHOLINESTERASE HUMAN, CHOLINE CHLORIDE, DOPAMINE, GLUTAMIC ACID, GLYCINE, HISTIDINE, LEVODOPA, MALVIN, MELANIN SYNTHETIC (TYROSINE, PEROXIDE), NITRIC OXIDE, NOREPINEPHRINE, OCTOPAMINE, WATER, PHENYLALANINE, SEROTONIN, TAURINE, TRYPTOPHAN, TYROSINE"
+        "brand_name": [
+          "Neuro 3"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=43
+Page 43 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride and Dextrose"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. This interaction appears to be related both to pressor activity and to the beta-adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. Results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine should receive initial doses of dopamine hydrochloride no greater than one-tenth (1/10) of the usual dose. Concurrent administration of low-dose dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. Tricyclic antidepressants may potentiate the cardiovascular effects of adrenergic agents. Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents, such as propranolol and metoprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents. Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. Butyrophenones (such as haloperidol) and phenothiazines can suppress the dopaminergic renal and mesenteric vasodilation induced with low-dose dopamine infusion. The concomitant use of vasopressors, vasoconstrictor agents (such as ergonovine) and some oxytocic drugs may result in severe hypertension. Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be considered if anticonvulsant therapy is needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System azotemia Central Nervous System headache anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=44
+Page 44 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOPAMINE PHENOLIC"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=45
+Page 45 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia (at very high doses) ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System azotemia Central Nervous System headache anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when moderate to high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl. A few cases of peripheral cyanosis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=46
+Page 46 of 51
+        "generic_name": [
+          "DOPAMINE HCL"
+        "brand_name": [
+          "Dopamine HCl"
+ 
+      "drug_interactions": [
+        "Drug Interactions: 1. Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine HCl should receive initial doses of dopamine HCl no greater than one-tenth (1/10) of the usual dose. 2. Concurrent administration of dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. 3. Tricyclic antidepressants may potentiate the pressor response to adrenergic agents. 4. Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents , such as propranolol and metroprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents . Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. 5. Haloperidol appears to have strong central antidopaminergic properties. Haloperidol and haloperidol-like drugs suppress the dopaminergic renal and mesenteric vasodilation induced at low rates of dopamine infusion. 6. Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. The interaction appears to be related both to pressor activity and to the beta-adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. It has been reported that results of studies in animals indicated that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. 7. The concomitant use of vasopressors, vasoconstricting agents and some oxytocic drugs may result in severe persistent hypertension. See Labor and Delivery below. 8. Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia (at very high doses), atrial fibrillation, ectopic beats, tachycardia, anginal pain, palpitation, cardiac conduction abnormalities, widened QRS complex, bradycardia, hypotension, hypertension, vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea, vomiting Metabolic/Nutritional System azotemia Central Nervous System headache, anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=47
+Page 47 of 51
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE AND DEXTROSE"
+        "brand_name": [
+          "DOPamine HYDROCHLORIDE AND DEXTROSE"
+ 
+      "drug_interactions": [
+        "Drug Interactions 1.Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine HCl should receive initial doses of dopamine HCl no greater than one tenth (1/10) of the usual dose. 2.Concurrent administration of dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. 3.Tricyclic antidepressants may potentiate the pressor response to adrenergic agents. 4.Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents, such as propranolol and metoprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents. Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. 5.Haloperidol appears to have strong central antidopaminergic properties. Haloperidol and haloperidol-like drugs suppress the dopaminergic renal and mesenteric vasodilation induced at low rates of dopamine infusion. 6.Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. This interaction appears to be related both to pressor activity and to beta-adrenergic stimulating properties of these catecholamines and may produce ventricular arrhythmias and hypertension. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. It has been reported that results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. 7.The concomitant use of vasopressors and some oxytocic drugs may result in severe persistent hypertension. See Labor and Delivery below. 8.Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed. Pregnancy: Teratogenic Effects: Pregnancy Category C — Animal studies have revealed no evidence of teratogenic effects due to dopamine. However, in one study, administration of dopamine HCl to pregnant rats resulted in a decreased survival rate of the newborn and a potential for cataract formation in the survivors. There are no adequate and well-controlled studies in pregnant women and it is not known if dopamine crosses the placental barrier. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if, in the judgment of the physician, the potential benefit justifies the potential risk to the fetus. Labor and Delivery — In obstetrics, if vasopressor drugs are used to correct hypotension or are added to a local anesthetic solution, some oxytocic drugs may cause severe persistent hypertension and may even cause rupture of a cerebral blood vessel to occur during the postpartum period. Nursing Mothers — It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when dopamine HCl is administered to a nursing woman. Pediatric Use — Safety and effectiveness in children have not been established. Dopamine HCl has been used in a limited number of pediatric patients, but such use has been inadequate to fully define proper dosage and limitations for use."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: Ventricular arrhythmia, atrial fibrillation, ectopic beats, tachycardia, anginal pain, palpitation, cardiac conduction abnormalities, widened QRS complex, bradycardia, hypotension, hypertension and vasoconstriction. Respiratory System: Dyspnea. Gastrointestinal System: Nausea and vomiting. Metabolic/Nutritional System: Azotemia. Central Nervous System: Headache and anxiety. Dermatological System: Piloerection. Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=48
+Page 48 of 51
+        "generic_name": [
+          "SEROTONIN HYDROCHLORIDE, 5-HYDROXYTRYPTOPHAN, ACETALDEHYDE, ACETYLCHOLINE CHLORIDE, APIOLUM, ASCORBIC ACID, ASPARTAME, BUTYLATED HYDROXYTOLUENE, CAFFEIC ACID, CHLOROGENIC ACID, CINNAMIC ACID, CONIFERYL ALCOHOL, COUMARINUM, DOPAMINE HYDROCHLORIDE, ESTRADIOL, GALLICUM ACIDUM, GAMMA AMINOBUTYRIC ACID, HISTAMINUM HYDROCHLORICUM, HYDROCORTISONE (CORTISOL), INDOLUM, L-DOPA, MALVIN, MANNAN, MELATONIN, MENADIONE, NOREPINEPHRINE, OCTOPAMINE, PHENYL ISOTHIOCYANATE, PHLORIDZINUM, PIPERINE, PROGESTERONE, PYRROLE"
+        "brand_name": [
+          "Multi-Phenolic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=49
+Page 49 of 51
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, ACETALDEHYDE, APIOLUM, ASCORBIC ACID, BHT, CAFFEIC ACID, CANDIDA ALBICANS, CHLOROGENIC ACID, CINNAMIC ACID, CONIFERYL ALCOHOL, COUMARIN, DOPAMINE, ESTROGEN, GABA, GALLIC ACID, HISTAMINE, INDOLE, L-DOPA, MALVIN, MANNAN, MELATONIN, MENADIONE, NOREPINEPHRINE, OCTOPAMINE, PHENYLALANINE, PHENYLI-SOTHIOCYANATE, PHLORIZIN, PIPERINE, PROGESTERONE, PYRROLE, QUERCETIN, RUTIN, SALSOLINOL, SEROTONIN, TAURINE, TESTOSTERONE, TRYPTOPHAN"
+        "brand_name": [
+          "BioPhenolics"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine&limit=1&skip=50
+Page 50 of 51
+        "generic_name": [
+          "HISTAMINUM HYDROCHLORICUM, DOPAMINE, KIDNEY, L-THEANINE, PENYLETHYLAMINE HYDROCHLORICUM,"
+        "brand_name": [
+          "Relax"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

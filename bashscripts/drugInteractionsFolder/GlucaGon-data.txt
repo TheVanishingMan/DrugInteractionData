@@ -1,0 +1,306 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=0
+Page 0 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, GAMBOGIA, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO (3-ACETYL-7-OXO-DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM (SUIS), SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "Metabolic Rewire Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=1
+Page 1 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), HEPAR SUIS, KIDNEY (SUIS) METHYLCOBALAMIN, GAMBOGIA, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO-DHEA (DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM, SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "Professional Weight Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=2
+Page 2 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, GAMBOGIA, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 3-ACETYL-7-OXO-DEHYDROEPIANDROSTERONE, ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM (SUIS), SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "Professional Weight Maintenance"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=3
+Page 3 of 27
+        "generic_name": [
+          "ASCORBIC ACID, PYRIDOXINUM HYDROCHLORICUM, RIBOFLAVINUM, SARCOLACTICUM ACIDUM, THIAMINUM HYDROCHLORICUM, ACETALDEHYDE, DHEA (DEHYDROEPIANDROSTERONE), INSULINUM, PHLORIDZINUM, ALPHA-LIPOICUM ACIDUM, ADENOSINUM TRIPHOSPHORICUM DISODIUM, CITRICUM ACIDUM, COENZYME A, FUMARICUM ACIDUM, GLYOXAL TRIMER DIHYDRATE, NADIDUM, HEPAR SUIS, PANCREAS SUIS, GLUCAGON, BARYTA OXALICA, ALLOXANUM, BERBERIS VULGARIS, CARCINOSIN, LYCOPODIUM CLAVATUM, MOMORDICA BALSAMINA, PHOSPHORICUM ACIDUM, PHOSPHORUS, SYZYGIUM JAMBOLANUM,"
+        "brand_name": [
+          "Glucoreg"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=4
+Page 4 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACHEA, HYPOTHALAMUS, BRAIN, HEPAR SUIS, METHYLCOBALAMIN, PANCREAS SUIS, RENAL, STOMACH(SUIS), AACG-A, AACG-B, CALCAREA CARBONICA, GAMBOGIA, GELSEMIUM SEMPERVIRENS, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO DHEA, ATP, GLUCAGON, INSULIN, SARCOLACTICUM ACIDUM, PROTEUS BACH"
+        "brand_name": [
+          "Healthy Weight Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=5
+Page 5 of 27
+        "generic_name": [
+          "GLUCAGON"
+        "brand_name": [
+          "Glucagon"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=6
+Page 6 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), BRAIN (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, PANCREAS SUIS, STOMACH (SUIS), AACG-A, AACG-B, CALCAREA CARBONICA, GAMBOGIA, GELSEMIUM SEMPERVIRENS, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO DHEA (DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM, SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "WLP40"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=7
+Page 7 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), HEPAR SUIS, METHYLCOBALAMIN, RENAL (SUIS), GAMBOGIA, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO DEHYDROEPIANDROSTERONE, ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULIN, SARCOLACTICUM ACIDUM, PROTEUS BACH"
+        "brand_name": [
+          "Professional Weight Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=8
+Page 8 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), BRAIN (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, PANCREAS SUIS, STOMACH (SUIS), AACG-A, AACG-B, CALCAREA CARBONICA, GAMBOGIA, GELSEMIUM SEMPERVIRENS, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO-DHEA (3- ACETYL-OXO-DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM (SUIS), SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "hA2cg EVOLUTION"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=9
+Page 9 of 27
+        "generic_name": [
+          "GLUCAGON"
+        "brand_name": [
+          "Glucagon"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=10
+Page 10 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA, HYPOTHLAMUS (SUIS), HEPAR SUIS, METHYLCOBALAMIN, RENAL (SUIS), GAMBOGIA, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO DEHYDROEPIANDROSTERONE, ADENOSINE TRIPHOSPHATE, GLUCAGON, INSULIN, SARCOLACTICUM ACIDUM, PROTEUS BACH"
+        "brand_name": [
+          "Professional Weight Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=11
+Page 11 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), CEREBRUM (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, PANCREAS SUIS, STOMACH (SUIS), AACG-A, AACG-B, CALCAREA CARBONICA, GAMBOGIA, GELSEMIUM SEMPERVIRENS, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO (3-ACETYL-7-OXO-DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM, SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "Weight Management Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=12
+Page 12 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), BRAIN (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, PANCREAS SUIS, STOMACH (SUIS), AACG-A, AACG-B, CALCAREA CARBONICA, GAMBOGIA, GELSEMIUM SEMPERVIRENS, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO DHEA (DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM, SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "WEIGHT MANAGEMENT SUPPORT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=13
+Page 13 of 27
+        "generic_name": [
+          "GLUCAGON HYDROCHLORIDE"
+        "brand_name": [
+          "GlucaGen"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS •Beta-blockers may cause a greater increase in both pulse and blood pressure after administration. (7.1) •Glucagon may lose its ability to raise blood glucose or may produce hypoglycemia when given with indomethacin. (7.2) •Coadministration with an anticholinergic drug is not recommended due to increased gastrointestinal side effects. (7.3) •Glucagon may increase the anticoagulant effect of warfarin. (7.4) •Insulin reacts antagonistically towards glucagon. (7.5) 7.1 Beta-blockers Patients taking beta-blockers might be expected to have a greater increase in both pulse and blood pressure, an increase of which will be temporary because of glucagon’s short half-life. The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease. 7.2 Indomethacin When used with indomethacin, glucagon may lose its ability to raise blood glucose or may even produce hypoglycemia. Therefore, caution should be exercised for patients taking indomethacin when glucagon will be administered. 7.3 Anticholinergic Drugs Coadministration with an anticholinergic drug is not recommended due to increased gastrointestinal side effects. 7.4 Warfarin Glucagon may increase the anticoagulant effect of warfarin. Therefore, caution should be exercised for patients taking warfarin when glucagon will be administered. 7.5 Insulin Insulin reacts antagonistically towards glucagon. Therefore, caution should be exercised when glucagon is used as a diagnostic aid in diabetes patients."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Side effects may include nausea and vomiting at doses above 1 mg or with rapid injection. Hypotension has been reported up to 2 hours after administration in patients receiving GlucaGen as premedication for upper GI endoscopy procedures. Glucagon exerts positive inotropic and chronotropic effects and may, therefore, cause tachycardia and hypertension. Adverse reactions indicating toxicity of GlucaGen have not been reported. A temporary increase in both blood pressure and pulse rate may occur following the administration of glucagon. Patients taking beta-blockers might be expected to have a greater increase in both pulse and blood pressure, an increase of which will be temporary because of glucagon’s short half-life [see Drug Interactions (7.1)] . The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease [see Warnings and Precautions (5.1)]. Anaphylactic reactions may occur in some cases [see Warnings and Precautions (5.3)] . The following adverse reactions have been identified during postapproval use of GlucaGen. Because these adverse reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency. Table 1 Frequency of Adverse Reactions Treatment of severe hypoglycemia Frequency (%) Adverse Reaction < 10 Nausea < 1 Vomiting Use as a diagnostic aid < 10 Nausea < 1 Vomiting < 1 Hypoglycemia <1 Hypoglycemic coma Adverse reactions seen with GlucaGen are: •Nausea and vomiting (6) •Temporary increase in blood pressure and pulse may occur after administration. (6) To report SUSPECTED ADVERSE REACTIONS, contact Novo Nordisk Inc. at 1-800-727-6500 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS •Administer cautiously to patients suspected of having pheochromocytoma, insulinoma or glucagonoma due to risk of secondary hypoglycemia. Glucagon may release catecholamines from pheochromocytomas and is contraindicated in patients with this condition. (5.1, 5.2) •Allergic reactions may occur and include generalized rash, and in rare cases anaphylactic shock with breathing difficulties, and hypotension. (5.3) •In order for GlucaGen treatment to reverse hypoglycemia, there must be adequate amounts of glycogen stored in the liver. GlucaGen should be used with caution in patients with conditions resulting in low levels of releasable glucose in the liver. (5.4) •Use caution when glucagon is used as a diagnostic aid in diabetic patients because it may cause hyperglycemia. (5.4) •Use with caution in patients with known cardiac disease, as glucagon increases myocardial oxygen demand. (5.5) 5.1 Pheochromocytoma Glucagon is contraindicated in patients with pheochromocytoma because Glucagon may stimulate the release of catecholamines from the tumor. If the patient develops a dramatic increase in blood pressure, 5 to 10 mg of phentolamine mesylate has been shown to be effective in lowering blood pressure for the short time that control would be needed. 5.2 Insulinoma and Glucagonoma GlucaGen should be administered cautiously to patients suspected of having insulinoma or glucagonoma. In patients with insulinoma, intravenous administration of glucagon may produce an initial increase in blood glucose; however, glucagon administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma. A patient developing symptoms of hypoglycemia after a dose of glucagon should be given glucose orally or intravenously, whichever is most appropriate. Caution should also be observed in administering GlucaGen to patients with glucagonoma. 5.3 Hypersensitivity and Allergic Reactions Allergic reactions may occur and include generalized rash, and in some cases anaphylactic shock with breathing difficulties, and hypotension. The anaphylactic reactions have generally occurred in association with endoscopic examination during which patients often received other agents including contrast media and local anesthetics. The patients should be given standard treatment for anaphylaxis including an injection of epinephrine if they encounter respiratory difficulties after GlucaGen injection. 5.4 Glycogen Stores and Hypoglycemia In order for GlucaGen treatment to reverse hypoglycemia, adequate amounts of glucose must be stored in the liver (as glycogen). Therefore, GlucaGen should be used with caution in patients with conditions such as prolonged fasting, starvation, adrenal insufficiency or chronic hypoglycemia because these conditions result in low levels of releasable glucose in the liver and an inadequate reversal of hypoglycemia by GlucaGen treatment. 5.5 Cardiac Disease Caution should be observed when glucagon is used as an adjunct in endoscopic or radiographic procedures to inhibit gastrointestinal motility in patients with known cardiac disease. 5.6 Laboratory Tests Blood glucose measurements may be considered to monitor the patient’s response."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=14
+Page 14 of 27
+        "generic_name": [
+          "GLUCAGON"
+        "brand_name": [
+          "Glucagon"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Table 2 includes clinically significant drug interactions with Glucagon for Injection. Table 2: Clinically Significant Drug Interactions with Glucagon for Injection Beta-Blockers Clinical Impact: The concomitant use of beta-blockers and Glucagon for Injection may increase the risk of a temporary increase in heart rate and blood pressure. Intervention: The increase in blood pressure and heart rate may require therapy in patients with coronary artery disease. Insulin Clinical Impact: Insulin reacts antagonistically towards glucagon. Intervention: Monitor blood glucose when Glucagon for Injection is used as a diagnostic aid in diabetes patients. Indomethacin Clinical Impact: The concomitant use of indomethacin and Glucagon for Injection may lead to hypoglycemia. Intervention: Monitor blood glucose levels during glucagon treatment of patients taking indomethacin. Anticholinergic Drugs Clinical Impact: The concomitant use of anticholinergic drugs and Glucagon for Injection increase the risk of gastrointestinal adverse reactions due to additive effects on inhibition of gastrointestinal motility. Intervention: Concomitant use is not recommended. Warfarin Clinical Impact: Glucagon may increase the anticoagulant effect of warfarin. Intervention: Monitor patients for unusual bruising or bleeding, as adjustments in warfarin dosage may be required. Beta-blockers: May cause a greater increase in both heart rate and blood pressure (7) Insulin: Reacts antagonistically towards glucagon; monitor glucose (7) Indomethacin: May produce hypoglycemia; monitor glucose (7) Anticholinergic Drugs: Concomitant use not recommended due to increased gastrointestinal adverse reactions (7) Warfarin: May increase anticoagulant effect of warfarin; may require an adjustment in warfarin dosage (7)"
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following serious adverse reactions are described below and elsewhere in the labeling: Hypertension in patients with Pheochromocytoma [see Contraindications (4) and Warnings and Precautions (5.1)] Hypoglycemia in Patients with Insulinoma and Glucagonoma [see Contraindications (4) and Warnings and Precautions (5.2)] Hyperglycemia in Patients with Diabetes Mellitus [see Warnings and Precautions (5.3)] Hypersensitivity and Allergic Reactions; generalized allergic reactions including generalized rash, and in some cases anaphylactic shock with breathing difficulties, and hypotension [see Warnings and Precautions (5.5)] Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in clinical trials of another drug and may not reflect the rates observed in practice. In an open-label clinical study of Glucagon for Injection, 29 healthy volunteers received a single dose of 1 mg Glucagon for Injection intramuscularly. Table 1 shows the most common adverse reactions that were not present at baseline and occurred in at least 5% of patients. Table 1: Adverse Reactions in Healthy Volunteers Who Received Glucagon for Injection, 1 mg Administered Intramuscularly (N=29) % of Patients Vomiting 17 Nausea 7 Adverse Reactions from the Literature and Other Clinical Studies The following adverse reactions have been identified from the literature and clinical studies with the use of glucagon. Therefore, it is not possible to reliably estimate their frequency. Nausea and vomiting occurred with doses above 1 mg administered by rapid intravenous injection (within 1 to 2 seconds). Doses above 1 mg are not recommended for intravenous use [see Dosage and Administration (2.1)]. Hypotension was reported up to 2 hours after administration in patients receiving glucagon as premedication for upper GI endoscopy procedures. A temporary increase in both blood pressure and pulse rate occurred following the administration of glucagon. Patients taking beta-blockers experienced a temporary increase in both pulse and blood pressure that was greater than normal [see Drug Interactions (7)]. Other adverse reactions included hypoglycemia and hypoglycemic coma, as described in postmarketing reports. Patients taking indomethacin may be more likely to experience hypoglycemia following glucagon administration [see Drug Interactions (7)]. Adverse reactions seen with glucagon are transient changes in blood pressure, increase in heart rate, hypersensitivity reactions, nausea and vomiting, and hypoglycemia (6) To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Hyperglycemia in patients with diabetes: Monitor blood glucose and treat with insulin if indicated (5.3) Increased blood pressure and heart rate in patients with cardiac disease: Monitor patients with known cardiac disease (5.4) Allergic reactions including anaphylactic shock with breathing difficulties, and hypotension, generalized rash: Discontinue and treat as indicated (5.5) 5.1 Hypertension in Patients with Pheochromocytoma Glucagon for Injection is contraindicated in patients with pheochromocytoma because glucagon may stimulate the release of catecholamines from the tumor, which may result in a sudden and marked increase in blood pressure. 5.2 Hypoglycemia in Patients with Insulinoma or Glucagonoma Glucagon for Injection is contraindicated in patients with insulinoma or glucagonoma as it may cause secondary hypoglycemia. Test patients suspected of having glucagonoma for blood levels of glucagon prior to treatment, and monitor for changes in blood glucose levels during treatment. If a patient develops symptoms of hypoglycemia after a dose of Glucagon for Injection, administer glucose orally or intravenously. 5.3 Hyperglycemia in Patients with Diabetes Mellitus Treatment with Glucagon for Injection in patients with diabetes mellitus may cause hyperglycemia. Monitor diabetic patients for changes in blood glucose levels during treatment. If patients develop symptoms of hyperglycemia after a dose of Glucagon for Injection, administer insulin. 5.4 Blood Pressure and Heart Rate Increase in Patients with Cardiac Disease Glucagon for Injection may increase myocardial oxygen demand, blood pressure, and pulse rate which may be life-threatening in patients with cardiac disease. Cardiac monitoring is recommended in patients with cardiac disease during glucagon treatment, and an increase in blood pressure and pulse rate may require therapy. 5.5 Hypersensitivity and Allergic Reactions Generalized allergic reactions and hypersensitivity, including generalized rash, and anaphylactic shock with breathing difficulties, and hypotension, have been reported with glucagon treatment or lactose. Discontinue Glucagon for Injection and administer standard treatment for anaphylaxis if needed.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=15
+Page 15 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), BRAIN (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, PANCREAS SUIS, STOMACH (SUIS), AACG-A, AACG-B, CALCAREA CARBONICA, GAMBOGIA, GELSEMIUM SEMPERVIRENS, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO (3-ACETYL-7-OXO-DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM, SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "Weight Management Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=16
+Page 16 of 27
+        "generic_name": [
+          "GLUCAGON"
+        "brand_name": [
+          "Glucagon"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe adverse reactions are very rare, although nausea and vomiting may occur occasionally. These reactions may also occur with hypoglycemia. Generalized allergic reactions have been reported ( ). In a three month controlled study of 75 volunteers comparing animal-sourced glucagon with glucagon manufactured through rDNA technology, no glucagon-specific antibodies were detected in either treatment group. see WARNINGS"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=17
+Page 17 of 27
+        "generic_name": [
+          "ASCORBIC ACID, PYRIDOXINUM HYDROCHLORICUM, RIBOFLAVINUM, SARCOLACTICUM ACIDUM, THIAMINUM HYDROCHLORICUM, ACETALDEHYDE, DHEA (DEHYDROEPIANDROSTERONE), PHLORIDZINUM, ADENOSINUM TRIPHOSPHORICUM DINATRUM, ALPHA-LIPOICUM ACIDUM, CITRICUM ACIDUM, COENZYME A, FUMARICUM ACIDUM, GLYOXAL TRIMER DIHYDRATE, NADIDUM, INSULINUM, HEPAR SUIS, PANCREAS SUIS, GLUCAGON, BARYTA OXALICA, ALLOXANUM, BERBERIS VULGARIS, CARCINOSIN, LYCOPODIUM CLAVATUM, MOMORDICA BALSAMINA, PHOSPHORICUM ACIDUM, PHOSPHORUS, SYZYGIUM JAMBOLANUM"
+        "brand_name": [
+          "Glucoreg"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=18
+Page 18 of 27
+        "generic_name": [
+          "GLUCAGON"
+        "brand_name": [
+          "Glucagon"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe adverse reactions are very rare, although nausea and vomiting may occur occasionally. These reactions may also occur with hypoglycemia. Generalized allergic reactions have been reported (see WARNINGS). In a three month controlled study of 75 volunteers comparing animal-sourced glucagon with glucagon manufactured through rDNA technology, no glucagon-specific antibodies were detected in either treatment group."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=19
+Page 19 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), BRAIN (SUIS), HEPAR SUIS, METHYLCOBALAMIN, PANCREAS SUIS, KIDNEY (SUIS), STOMACH (SUIS), AACG-A, AACG-B, CALCAREA CARBONICA, GAMBOGIA, GELSEMIUM SEMPERVIRENS, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO-DHEA, ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM, SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "HA2CG EVOLUTION"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=20
+Page 20 of 27
+        "generic_name": [
+          "GLUCAGON"
+        "brand_name": [
+          "Glucagon"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Table 2 includes clinically significant drug interactions with Glucagon for Injection. Table 2: Clinically Significant Drug Interactions with Glucagon for Injection Beta-Blockers Clinical Impact: The concomitant use of beta-blockers and Glucagon for Injection may increase the risk of a temporary increase in heart rate and blood pressure. Intervention: The increase in blood pressure and heart rate may require therapy in patients with coronary artery disease. Insulin Clinical Impact: Insulin reacts antagonistically towards glucagon. Intervention: Monitor blood glucose when Glucagon for Injection is used as a diagnostic aid in diabetes patients. Indomethacin Clinical Impact: The concomitant use of indomethacin and Glucagon for Injection may lead to hypoglycemia. Intervention: Monitor blood glucose levels during glucagon treatment of patients taking indomethacin. Anticholinergic Drugs Clinical Impact: The concomitant use of anticholinergic drugs and Glucagon for Injection increase the risk of gastrointestinal adverse reactions due to additive effects on inhibition of gastrointestinal motility. Intervention: Concomitant use is not recommended. Warfarin Clinical Impact: Glucagon may increase the anticoagulant effect of warfarin. Intervention: Monitor patients for unusual bruising or bleeding, as adjustments in warfarin dosage may be required. Beta-blockers: May cause a greater increase in both heart rate and blood pressure (7) Insulin: Reacts antagonistically towards glucagon; monitor glucose (7) Indomethacin: May produce hypoglycemia; monitor glucose (7) Anticholinergic Drugs: Concomitant use not recommended due to increased gastrointestinal adverse reactions (7) Warfarin: May increase anticoagulant effect of warfarin; may require an adjustment in warfarin dosage (7)"
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following serious adverse reactions are described below and elsewhere in the labeling: Hypertension in patients with Pheochromocytoma [see Contraindications (4) and Warnings and Precautions (5.1)] Hypoglycemia in Patients with Insulinoma and Glucagonoma [see Contraindications (4) and Warnings and Precautions (5.2)] Hyperglycemia in Patients with Diabetes Mellitus [see Warnings and Precautions (5.3)] Hypersensitivity and Allergic Reactions; generalized allergic reactions including generalized rash, and in some cases anaphylactic shock with breathing difficulties, and hypotension [see Warnings and Precautions (5.5)] Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in clinical trials of another drug and may not reflect the rates observed in practice. In an open-label clinical study of Glucagon for Injection, 29 healthy volunteers received a single dose of 1 mg Glucagon for Injection intramuscularly. Table 1 shows the most common adverse reactions that were not present at baseline and occurred in at least 5% of patients. Table 1: Adverse Reactions in Healthy Volunteers Who Received Glucagon for Injection, 1 mg Administered Intramuscularly (N=29) % of Patients Vomiting 17 Nausea 7 Adverse Reactions from the Literature and Other Clinical Studies The following adverse reactions have been identified from the literature and clinical studies with the use of glucagon. Therefore, it is not possible to reliably estimate their frequency. Nausea and vomiting occurred with doses above 1 mg administered by rapid intravenous injection (within 1 to 2 seconds). Doses above 1 mg are not recommended for intravenous use [see Dosage and Administration (2.1)]. Hypotension was reported up to 2 hours after administration in patients receiving glucagon as premedication for upper GI endoscopy procedures. A temporary increase in both blood pressure and pulse rate occurred following the administration of glucagon. Patients taking beta-blockers experienced a temporary increase in both pulse and blood pressure that was greater than normal [see Drug Interactions (7)]. Other adverse reactions included hypoglycemia and hypoglycemic coma, as described in postmarketing reports. Patients taking indomethacin may be more likely to experience hypoglycemia following glucagon administration [see Drug Interactions (7)]. Adverse reactions seen with glucagon are transient changes in blood pressure, increase in heart rate, hypersensitivity reactions, nausea and vomiting, and hypoglycemia (6) To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi, Vigilance & Medical Affairs at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Hyperglycemia in patients with diabetes: Monitor blood glucose and treat with insulin if indicated (5.3) Increased blood pressure and heart rate in patients with cardiac disease: Monitor patients with known cardiac disease (5.4) Allergic reactions including anaphylactic shock with breathing difficulties, and hypotension, generalized rash: Discontinue and treat as indicated (5.5) 5.1 Hypertension in Patients with Pheochromocytoma Glucagon for Injection is contraindicated in patients with pheochromocytoma because glucagon may stimulate the release of catecholamines from the tumor, which may result in a sudden and marked increase in blood pressure. 5.2 Hypoglycemia in Patients with Insulinoma or Glucagonoma Glucagon for Injection is contraindicated in patients with insulinoma or glucagonoma as it may cause secondary hypoglycemia. Test patients suspected of having glucagonoma for blood levels of glucagon prior to treatment, and monitor for changes in blood glucose levels during treatment. If a patient develops symptoms of hypoglycemia after a dose of Glucagon for Injection, administer glucose orally or intravenously. 5.3 Hyperglycemia in Patients with Diabetes Mellitus Treatment with Glucagon for Injection in patients with diabetes mellitus may cause hyperglycemia. Monitor diabetic patients for changes in blood glucose levels during treatment. If patients develop symptoms of hyperglycemia after a dose of Glucagon for Injection, administer insulin. 5.4 Blood Pressure and Heart Rate Increase in Patients with Cardiac Disease Glucagon for Injection may increase myocardial oxygen demand, blood pressure, and pulse rate which may be life-threatening in patients with cardiac disease. Cardiac monitoring is recommended in patients with cardiac disease during glucagon treatment, and an increase in blood pressure and pulse rate may require therapy. 5.5 Hypersensitivity and Allergic Reactions Generalized allergic reactions and hypersensitivity, including generalized rash, and anaphylactic shock with breathing difficulties, and hypotension, have been reported with glucagon treatment or lactose. Discontinue Glucagon for Injection and administer standard treatment for anaphylaxis if needed.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=21
+Page 21 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), BRAIN (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, PANCREAS SUIS, STOMACH (SUIS), AACG-A, AACG-B, CALCAREA CARBONICA, GAMBOGIA, GELSEMIUM SEMPERVIRENS, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO DHEA (DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM, SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "WLP40"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=22
+Page 22 of 27
+        "generic_name": [
+          "GLUCAGON HYDROCHLORIDE"
+        "brand_name": [
+          "GlucaGen HypoKit"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS •Beta-blockers may cause a greater increase in both pulse and blood pressure after administration. (7.1) •Glucagon may lose its ability to raise blood glucose or may produce hypoglycemia when given with indomethacin. (7.2) •Coadministration with an anticholinergic drug is not recommended due to increased gastrointestinal side effects. (7.3) •Glucagon may increase the anticoagulant effect of warfarin. (7.4) •Insulin reacts antagonistically towards glucagon. (7.5) 7.1 Beta-blockers Patients taking beta-blockers might be expected to have a greater increase in both pulse and blood pressure, an increase of which will be temporary because of glucagon’s short half-life. The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease. 7.2 Indomethacin When used with indomethacin, glucagon may lose its ability to raise blood glucose or may even produce hypoglycemia. Therefore, caution should be exercised for patients taking indomethacin when glucagon will be administered. 7.3 Anticholinergic Drugs Coadministration with an anticholinergic drug is not recommended due to increased gastrointestinal side effects. 7.4 Warfarin Glucagon may increase the anticoagulant effect of warfarin. Therefore, caution should be exercised for patients taking warfarin when glucagon will be administered. 7.5 Insulin Insulin reacts antagonistically towards glucagon. Therefore, caution should be exercised when glucagon is used as a diagnostic aid in diabetes patients."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Side effects may include nausea and vomiting at doses above 1 mg or with rapid injection. Hypotension has been reported up to 2 hours after administration in patients receiving GlucaGen as premedication for upper GI endoscopy procedures. Glucagon exerts positive inotropic and chronotropic effects and may, therefore, cause tachycardia and hypertension. Adverse reactions indicating toxicity of GlucaGen have not been reported. A temporary increase in both blood pressure and pulse rate may occur following the administration of glucagon. Patients taking beta-blockers might be expected to have a greater increase in both pulse and blood pressure, an increase of which will be temporary because of glucagon’s short half-life [see Drug Interactions (7.1)] . The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease [see Warnings and Precautions (5.1)]. Anaphylactic reactions may occur in some cases [see Warnings and Precautions (5.3)] . The following adverse reactions have been identified during postapproval use of GlucaGen. Because these adverse reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency. Table 1 Frequency of Adverse Reactions Treatment of severe hypoglycemia Frequency (%) Adverse Reaction < 10 Nausea < 1 Vomiting Use as a diagnostic aid < 10 Nausea < 1 Vomiting < 1 Hypoglycemia <1 Hypoglycemic coma Adverse reactions seen with GlucaGen are: •Nausea and vomiting (6) •Temporary increase in blood pressure and pulse may occur after administration. (6) To report SUSPECTED ADVERSE REACTIONS, contact Novo Nordisk Inc. at 1-800-727-6500 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS •Administer cautiously to patients suspected of having pheochromocytoma, insulinoma or glucagonoma due to risk of secondary hypoglycemia. Glucagon may release catecholamines from pheochromocytomas and is contraindicated in patients with this condition. (5.1, 5.2) •Allergic reactions may occur and include generalized rash, and in rare cases anaphylactic shock with breathing difficulties, and hypotension. (5.3) •In order for GlucaGen treatment to reverse hypoglycemia, there must be adequate amounts of glycogen stored in the liver. GlucaGen should be used with caution in patients with conditions resulting in low levels of releasable glucose in the liver. (5.4) •Use caution when glucagon is used as a diagnostic aid in diabetic patients because it may cause hyperglycemia. (5.4) •Use with caution in patients with known cardiac disease, as glucagon increases myocardial oxygen demand. (5.5) 5.1 Pheochromocytoma Glucagon is contraindicated in patients with pheochromocytoma because Glucagon may stimulate the release of catecholamines from the tumor. If the patient develops a dramatic increase in blood pressure, 5 to 10 mg of phentolamine mesylate has been shown to be effective in lowering blood pressure for the short time that control would be needed. 5.2 Insulinoma and Glucagonoma GlucaGen should be administered cautiously to patients suspected of having insulinoma or glucagonoma. In patients with insulinoma, intravenous administration of glucagon may produce an initial increase in blood glucose; however, glucagon administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma. A patient developing symptoms of hypoglycemia after a dose of glucagon should be given glucose orally or intravenously, whichever is most appropriate. Caution should also be observed in administering GlucaGen to patients with glucagonoma. 5.3 Hypersensitivity and Allergic Reactions Allergic reactions may occur and include generalized rash, and in some cases anaphylactic shock with breathing difficulties, and hypotension. The anaphylactic reactions have generally occurred in association with endoscopic examination during which patients often received other agents including contrast media and local anesthetics. The patients should be given standard treatment for anaphylaxis including an injection of epinephrine if they encounter respiratory difficulties after GlucaGen injection. 5.4 Glycogen Stores and Hypoglycemia In order for GlucaGen treatment to reverse hypoglycemia, adequate amounts of glucose must be stored in the liver (as glycogen). Therefore, GlucaGen should be used with caution in patients with conditions such as prolonged fasting, starvation, adrenal insufficiency or chronic hypoglycemia because these conditions result in low levels of releasable glucose in the liver and an inadequate reversal of hypoglycemia by GlucaGen treatment. 5.5 Cardiac Disease Caution should be observed when glucagon is used as an adjunct in endoscopic or radiographic procedures to inhibit gastrointestinal motility in patients with known cardiac disease. 5.6 Laboratory Tests Blood glucose measurements may be considered to monitor the patient’s response."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=23
+Page 23 of 27
+        "generic_name": [
+          "GLUCAGON"
+        "brand_name": [
+          "Glucagon"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe adverse reactions are very rare, although nausea and vomiting may occur occasionally. These reactions may also occur with hypoglycemia. Generalized allergic reactions have been reported (see WARNINGS). In a three month controlled study of 75 volunteers comparing animal-sourced glucagon with glucagon manufactured through rDNA technology, no glucagon-specific antibodies were detected in either treatment group."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=24
+Page 24 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), BRAIN (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, PANCREAS SUIS, STOMACH (SUIS), AACG-A, AACG-B, CALCAREA CARBONICA, GAMBOGIA, GELSEMIUM SEMPERVIRENS, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO DHEA (DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM, SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "Nexgen Restore"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=25
+Page 25 of 27
+        "generic_name": [
+          "ASCLEPIAS VINCETOXICUM, ECHINACEA (ANGUSTIFOLIA), HYPOTHALAMUS (SUIS), HEPAR SUIS, KIDNEY (SUIS), METHYLCOBALAMIN, GAMBOGIA, GRAPHITES, NUX VOMICA, PHYTOLACCA DECANDRA, 7-KETO (3-ACETYL-7-OXO-DEHYDROEPIANDROSTERONE), ADENOSINUM TRIPHOSPHORICUM DINATRUM, GLUCAGON, INSULINUM (SUIS), SARCOLACTICUM ACIDUM, PROTEUS (VULGARIS)"
+        "brand_name": [
+          "Professional Weight Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:GlucaGon&limit=1&skip=26
+Page 26 of 27
+        "generic_name": [
+          "GLUCAGON HYDROCHLORIDE"
+        "brand_name": [
+          "GlucaGen"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS •Beta-blockers may cause a greater increase in both pulse and blood pressure after administration. (7.1) •Glucagon may lose its ability to raise blood glucose or may produce hypoglycemia when given with indomethacin. (7.2) •Coadministration with an anticholinergic drug is not recommended due to increased gastrointestinal side effects. (7.3) •Glucagon may increase the anticoagulant effect of warfarin. (7.4) •Insulin reacts antagonistically towards glucagon. (7.5) 7.1 Beta-blockers Patients taking beta-blockers might be expected to have a greater increase in both pulse and blood pressure, an increase of which will be temporary because of glucagon’s short half-life. The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease. 7.2 Indomethacin When used with indomethacin, glucagon may lose its ability to raise blood glucose or may even produce hypoglycemia. Therefore, caution should be exercised for patients taking indomethacin when glucagon will be administered. 7.3 Anticholinergic Drugs Coadministration with an anticholinergic drug is not recommended due to increased gastrointestinal side effects. 7.4 Warfarin Glucagon may increase the anticoagulant effect of warfarin. Therefore, caution should be exercised for patients taking warfarin when glucagon will be administered. 7.5 Insulin Insulin reacts antagonistically towards glucagon. Therefore, caution should be exercised when glucagon is used as a diagnostic aid in diabetes patients."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Side effects may include nausea and vomiting at doses above 1 mg or with rapid injection. Hypotension has been reported up to 2 hours after administration in patients receiving GlucaGen as premedication for upper GI endoscopy procedures. Glucagon exerts positive inotropic and chronotropic effects and may, therefore, cause tachycardia and hypertension. Adverse reactions indicating toxicity of GlucaGen have not been reported. A temporary increase in both blood pressure and pulse rate may occur following the administration of glucagon. Patients taking beta-blockers might be expected to have a greater increase in both pulse and blood pressure, an increase of which will be temporary because of glucagon’s short half-life [see Drug Interactions (7.1)] . The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease [see Warnings and Precautions (5.1)]. Anaphylactic reactions may occur in some cases [see Warnings and Precautions (5.3)] . The following adverse reactions have been identified during postapproval use of GlucaGen. Because these adverse reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency. Table 1 Frequency of Adverse Reactions Treatment of severe hypoglycemia Frequency (%) Adverse Reaction < 10 Nausea < 1 Vomiting Use as a diagnostic aid < 10 Nausea < 1 Vomiting < 1 Hypoglycemia <1 Hypoglycemic coma Adverse reactions seen with GlucaGen are: •Nausea and vomiting (6) •Temporary increase in blood pressure and pulse may occur after administration. (6) To report SUSPECTED ADVERSE REACTIONS, contact Novo Nordisk Inc. at 1-800-727-6500 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS •Administer cautiously to patients suspected of having pheochromocytoma, insulinoma or glucagonoma due to risk of secondary hypoglycemia. Glucagon may release catecholamines from pheochromocytomas and is contraindicated in patients with this condition. (5.1, 5.2) •Allergic reactions may occur and include generalized rash, and in rare cases anaphylactic shock with breathing difficulties, and hypotension. (5.3) •In order for GlucaGen treatment to reverse hypoglycemia, there must be adequate amounts of glycogen stored in the liver. GlucaGen should be used with caution in patients with conditions resulting in low levels of releasable glucose in the liver. (5.4) •Use caution when glucagon is used as a diagnostic aid in diabetic patients because it may cause hyperglycemia. (5.4) •Use with caution in patients with known cardiac disease, as glucagon increases myocardial oxygen demand. (5.5) 5.1 Pheochromocytoma Glucagon is contraindicated in patients with pheochromocytoma because Glucagon may stimulate the release of catecholamines from the tumor. If the patient develops a dramatic increase in blood pressure, 5 to 10 mg of phentolamine mesylate has been shown to be effective in lowering blood pressure for the short time that control would be needed. 5.2 Insulinoma and Glucagonoma GlucaGen should be administered cautiously to patients suspected of having insulinoma or glucagonoma. In patients with insulinoma, intravenous administration of glucagon may produce an initial increase in blood glucose; however, glucagon administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma. A patient developing symptoms of hypoglycemia after a dose of glucagon should be given glucose orally or intravenously, whichever is most appropriate. Caution should also be observed in administering GlucaGen to patients with glucagonoma. 5.3 Hypersensitivity and Allergic Reactions Allergic reactions may occur and include generalized rash, and in some cases anaphylactic shock with breathing difficulties, and hypotension. The anaphylactic reactions have generally occurred in association with endoscopic examination during which patients often received other agents including contrast media and local anesthetics. The patients should be given standard treatment for anaphylaxis including an injection of epinephrine if they encounter respiratory difficulties after GlucaGen injection. 5.4 Glycogen Stores and Hypoglycemia In order for GlucaGen treatment to reverse hypoglycemia, adequate amounts of glucose must be stored in the liver (as glycogen). Therefore, GlucaGen should be used with caution in patients with conditions such as prolonged fasting, starvation, adrenal insufficiency or chronic hypoglycemia because these conditions result in low levels of releasable glucose in the liver and an inadequate reversal of hypoglycemia by GlucaGen treatment. 5.5 Cardiac Disease Caution should be observed when glucagon is used as an adjunct in endoscopic or radiographic procedures to inhibit gastrointestinal motility in patients with known cardiac disease. 5.6 Laboratory Tests Blood glucose measurements may be considered to monitor the patient’s response."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

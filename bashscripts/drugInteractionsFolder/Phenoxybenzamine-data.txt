@@ -1,0 +1,54 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenoxybenzamine&limit=1&skip=0
+Page 0 of 4
+        "generic_name": [
+          "PHENOXYBENZAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenoxybenzamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions2 Phenoxybenzamine hydrochloride may interact with compounds that stimulate both alpha- and beta-adrenergic receptors (i.e., epinephrine) to produce an exaggerated hypotensive response and tachycardia. (See WARNING.) Phenoxybenzamine blocks hyperthermia production by levarterenol, and blocks hypothermia production by reserpine."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are insufficient data to support an estimate of their frequency. Autonomic Nervous System*: Postural hypotension, tachycardia, inhibition of ejaculation, nasal congestion, miosis. *These so-called \"side effects\" are actually evidence of adrenergic blockade and vary according to the degree of blockade. Miscellaneous: Gastrointestinal irritation, drowsiness, fatigue. To report SUSPECTED ADVERSE REACTIONS, contact WellSpring Pharmaceutical Corporation at 1-866-337-4500 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenoxybenzamine&limit=1&skip=1
+Page 1 of 4
+        "generic_name": [
+          "PHENOXYBENZAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dibenzyline"
+ 
+      "drug_interactions": [
+        "Drug Interactions ² Dibenzyline (phenoxybenzamine hydrochloride) may interact with compounds that stimulate both alpha- and beta-adrenergic receptors (i.e., epinephrine) to produce an exaggerated hypotensive response and tachycardia.(See WARNING.) Dibenzyline blocks hyperthermia production by levarterenol, and blocks hypothermia production by reserpine."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are insufficient data to support an estimate of their frequency. Autonomic Nervous System* :Postural hypotension, tachycardia, inhibition of ejaculation, nasal congestion, miosis. *These so-called \"side effects\" are actually evidence of adrenergic blockade and vary according to the degree of blockade. Miscellaneous: Gastrointestinal irritation, drowsiness, fatigue. To report SUSPECTED ADVERSE REACTIONS, contact WellSpring Pharmaceutical Corporation at 1-866-337-4500 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenoxybenzamine&limit=1&skip=2
+Page 2 of 4
+        "generic_name": [
+          "PHENOXYBENZAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenoxybenzamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are insufficient data to support an estimate of their frequency. Autonomic Nervous System*: Postural hypotension, tachycardia, inhibition of ejaculation, nasal congestion, miosis. *These so-called “side effects” are actually evidence of adrenergic blockade and vary according to the degree of blockade. Miscellaneous: Gastrointestinal irritation, drowsiness, fatigue."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenoxybenzamine&limit=1&skip=3
+Page 3 of 4
+        "generic_name": [
+          "PHENOXYBENZAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dibenzyline"
+ 
+      "drug_interactions": [
+        "Drug Interactions 2 Dibenzyline (phenoxybenzamine hydrochloride) may interact with compounds that stimulate both alpha- and beta-adrenergic receptors (i.e., epinephrine) to produce an exaggerated hypotensive response and tachycardia. (See WARNING.) Dibenzyline blocks hyperthermia production by levarterenol, and blocks hypothermia production by reserpine."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are insufficient data to support an estimate of their frequency. Autonomic Nervous System*: Postural hypotension, tachycardia, inhibition of ejaculation, nasal congestion, miosis. *These so-called \"side effects\" are actually evidence of adrenergic blockade and vary according to the degree of blockade. Miscellaneous: Gastrointestinal irritation, drowsiness, fatigue. To report SUSPECTED ADVERSE REACTIONS, contact Concordia Pharmaceuticals Inc. at 1-877-370-1142 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

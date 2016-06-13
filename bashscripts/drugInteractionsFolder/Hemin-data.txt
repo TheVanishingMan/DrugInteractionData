@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hemin&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "HEMIN"
+        "brand_name": [
+          "Panhematin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Clinical Trials Experience Phlebitis with or without leucocytosis and with or without mild pyrexia has occurred after administration of hematin through small arm veins. Post-marketing Experience Reversible renal shutdown has occurred with administration of excessive doses (See “PRECAUTIONS” section). There have been post-marketing literature reports of thrombocytopenia and coagulopathy (including prolonged prothrombin time and prolonged partial thromboplastin time) in patients receiving PANHEMATIN.[8] Iron overload and serum ferritin increased have also been reported (See “PRECAUTIONS” section). To report SUSPECTED ADVERSE REACTIONS, contact Recordati Rare Diseases at 1-888-575-8344 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

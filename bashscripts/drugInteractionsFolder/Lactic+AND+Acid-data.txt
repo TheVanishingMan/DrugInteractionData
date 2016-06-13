@@ -1,0 +1,306 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=0
+Page 0 of 28
+        "generic_name": [
+          "MAGNESIUM CHLORIDE, DEXTROSE MONOHYDRATE, LACTIC ACID, SODIUM CHLORIDE, SODIUM BICARBONATE, AND POTASSIUM CHLORIDE"
+        "brand_name": [
+          "PrismaSol BGK2/0"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS As with the use of other replacement solutions, blood concentrations of filterable drugs may be influenced by CRRT. The blood concentrations of certain drugs may need to be monitored and appropriate therapy implemented to correct for removal during treatment. In patients with cardiovascular disease, especially those using cardiac glycoside medications, plasma levels of calcium, potassium and magnesium must be carefully monitored."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Adverse reactions can result from the solution or the CRRT procedure. Improper use can lead to fluid imbalance and disturbances in electrolyte, acid-base and glucose balance. Improper use can lead to fluid imbalance and disturbances in electrolyte, acid-base and glucose balance. To report SUSPECTED ADVERSE REACTIONS, contact Gambro at 1800-651-2623 / www.gambro.com or FDA 1-800-FDA-1088 or www.fda.gov/medwatch"
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS The electrolyte solution contained in compartment A must be mixed with the buffer solution of compartment B before use in order to obtain the reconstituted solution suitable for hemofiltration /hemodiafiltration. Due to chemical reasons, after removal of the overwrap, the solution is stable for 24 hours including the duration of the treatment. Do not administer the reconstituted solution unless it is clear and free of visible particulate matter. PrismaSol solution includes several formulations. Selection of a specific formulation depends on the patient's condition and treatment procedures. Administration of the solution should only be under the direction of a physician competent in intensive care treatment including CRRT. The patient's hemodynamic fluid, electrolyte and acid-base balance should be monitored throughout the procedure. Note that citrate, when used as an anticoagulant, contributes to the base load and can reduce plasma calcium levels. During hemofiltration or hemodiafiltration, abnormalities in the plasma concentration of potassium, calcium, and glucose may develop. These abnormalities may be corrected by the use of appropriate formulations of PrismaSol solution. Abnormalities in plasma phosphate concentration, especially hypophosphatemia, may also occur. Hypophosphatemia may require phosphate supplementation to maintain plasma concentrations in the physiologic range. Use only with continuous extra-corporeal blood purification equipment in CRRT. When connecting solution bags, follow the instructions in this leaflet for correct use of the access ports. Incorrect use of the access port or other restrictions to fluid flow might lead to incorrect patient weight loss and may result in machine alarms. Continuing treatment without resolving the originating cause may result in patient injury or death. The solution may be heated to no more than 40°C/104°F inside of the overwrap and this must be carefully controlled. After heating, verify that the solution remains clear and contains no particulate matter. The solution in compartment A must be mixed with the solution of compartment B before use. Due to chemical reasons, after removal of the overwrap, the solution is stable for 24 hours including the duration of the treatment. Do not administer the reconstituted solution unless it is clear and free of visible particulate matter. The patient's hemodynamic fluid, electrolyte and acid-base balance should be monitored throughout the procedure. Abnormalities in the plasma concentration of potassium, calcium, and glucose may be corrected by the use of appropriate formulations of PrismaSol solution. Use only with continuous extra-corporeal blood purification equipment in CRRT. The solution may be heated to no more than 40°C/104°F inside of the overwrap and this must be carefully controlled. Diabetes Mellitus or Glucose Intolerance Patients may require initiation of insulin therapy or modification of insulin dosage during treatment with PrismaSol solution. Appropriate monitoring of blood glucose should be performed and insulin dosage adjusted accordingly."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=1
+Page 1 of 28
+        "generic_name": [
+          "LACTIC ACID"
+        "brand_name": [
+          "Cheongin Haejanghwan"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=2
+Page 2 of 28
+        "generic_name": [
+          "ASCORBIC ACID, CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, FOLIC ACID, PYRIDOXINE HYDROCHLORIDE, CYANOCOBALAMIN, BIOTIN, CALCIUM CARBONATE, FERROUS FUMARATE, MAGNESIUM OXIDE, LACTIC ACID AND DOCONEXENT"
+        "brand_name": [
+          "PRENATE Restore"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=3
+Page 3 of 28
+        "generic_name": [
+          "LACTIC ACID, L-"
+        "brand_name": [
+          "Pleo Sanuvis"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=4
+Page 4 of 28
+        "generic_name": [
+          "HORSE CHESTNUT AND LACTIC ACID, L- AND CLAVICEPS PURPUREA SCLEROTIUM AND CUPRIC SULFATE AND MELILOTUS OFFICINALIS TOP AND SUS SCROFA PLACENTA AND SOLANUM NIGRUM WHOLE AND STROPHANTHUS HISPIDUS SEED AND SUS SCROFA EMBRYO AND SODIUM PYRUVATE AND SUS SCROFA VEIN AND SUS SCROFA ARTERY AND SUS SCROFA UMBILICAL CORD AND TOBACCO LEAF AND VIPERA BERUS VENOM AND BARIUM CARBONATE AND LEAD IODIDE"
+        "brand_name": [
+          "Placenta Compositum"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=5
+Page 5 of 28
+        "generic_name": [
+          "LACTIC ACID, L-"
+        "brand_name": [
+          "Pleo Sanuvis"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=6
+Page 6 of 28
+        "generic_name": [
+          "ARNICA MONTANA, LACTIC ACID, L-, ZINC OXIDE"
+        "brand_name": [
+          "Sportenine"
+ 
+      "drug_interactions": [
+        ""
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=7
+Page 7 of 28
+        "generic_name": [
+          "LACTIC ACID"
+        "brand_name": [
+          "Lactic Acid"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=8
+Page 8 of 28
+        "generic_name": [
+          "LACTIC ACID"
+        "brand_name": [
+          "Lactic Acid"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=9
+Page 9 of 28
+        "generic_name": [
+          "LACTIC ACID, WILD HOPS"
+        "brand_name": [
+          "Nauzene"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=10
+Page 10 of 28
+        "generic_name": [
+          "ARNICA MONTANA,COPPER,POTASSIUM PHOSPHATE, DIBASIC,LACTIC ACID, DL-,MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE."
+        "brand_name": [
+          "Muscular Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=11
+Page 11 of 28
+        "generic_name": [
+          "MAGNESIUM CHLORIDE, DEXTROSE MONOHYDRATE, LACTIC ACID, SODIUM CHLORIDE, SODIUM BICARBONATE, AND POTASSIUM CHLORIDE"
+        "brand_name": [
+          "PrismaSol BGK2/0"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS As with the use of other replacement solutions, blood concentrations of filterable drugs may be influenced by CRRT. The blood concentrations of certain drugs may need to be monitored and appropriate therapy implemented to correct for removal during treatment. In patients with cardiovascular disease, especially those using cardiac glycoside medications, plasma levels of calcium, potassium and magnesium must be carefully monitored."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Adverse reactions can result from the solution or the CRRT procedure. Improper use can lead to fluid imbalance and disturbances in electrolyte, acid-base and glucose balance. Improper use can lead to fluid imbalance and disturbances in electrolyte, acid-base and glucose balance To report SUSPECTED ADVERSE REACTIONS, contact Gambro at 1800-651-2623 / www.gambro.com or FDA 1-800-FDA-1088 or www.fda.gov/medwatch"
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS The electrolyte solution contained in compartment A must be mixed with the buffer solution of compartment B before use in order to obtain the reconstituted solution suitable for hemofiltration /hemodiafiltration. Due to chemical reasons, after removal of the overwrap, the solution is stable for 24 hours including the duration of the treatment. Do not administer the reconstituted solution unless it is clear and free of visible particulate matter. PrismaSol solution includes several formulations. Selection of a specific formulation depends on the patient's condition and treatment procedures. Administration of the solution should only be under the direction of a physician competent in intensive care treatment including CRRT. The patient's hemodynamic fluid, electrolyte and acid-base balance should be monitored throughout the procedure. Note that citrate, when used as an anticoagulant, contributes to the base load and can reduce plasma calcium levels. During hemofiltration or hemodiafiltration, abnormalities in the plasma concentration of potassium, calcium, and glucose may develop. These abnormalities may be corrected by the use of appropriate formulations of PrismaSol solution. Abnormalities in plasma phosphate concentration, especially hypophosphatemia, may also occur. Hypophosphatemia may require phosphate supplementation to maintain plasma concentrations in the physiologic range. Use only with continuous extra-corporeal blood purification equipment in CRRT. When connecting solution bags, follow the instructions in this leaflet for correct use of the access ports. Incorrect use of the access port or other restrictions to fluid flow might lead to incorrect patient weight loss and may result in machine alarms. Continuing treatment without resolving the originating cause may result in patient injury or death. The solution may be heated to no more than 40°C/104°F inside of the overwrap and this must be carefully controlled. After heating, verify that the solution remains clear and contains no particulate matter. The solution in compartment A must be mixed with the solution of compartment B before use. Due to chemical reasons, after removal of the overwrap, the solution is stable for 24 hours including the duration of the treatment. Do not administer the reconstituted solution unless it is clear and free of visible particulate matter. The patient's hemodynamic fluid, electrolyte and acid-base balance should be monitored throughout the procedure. Abnormalities in the plasma concentration of potassium, calcium, and glucose may be corrected by the use of appropriate formulations of PrismaSol solution. Use only with continuous extra-corporeal blood purification equipment in CRRT. The solution may be heated to no more than 40°C/104°F inside of the overwrap and this must be carefully controlled. Diabetes Mellitus or Glucose Intolerance Patients may require initiation of insulin therapy or modification of insulin dosage during treatment with PrismaSol solution. Appropriate monitoring of blood glucose should be performed and insulin dosage adjusted accordingly."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=12
+Page 12 of 28
+        "generic_name": [
+          "LACTIC ACID, L-"
+        "brand_name": [
+          "Pleo Sanuvis"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=13
+Page 13 of 28
+        "generic_name": [
+          "LACTIC ACID, L- AND VISCUM ALBUM AND COLCHICUM AUTUMNALE BULB AND CONIUM MACULATUM FLOWERING TOP AND GALIUM APARINE AND FUCUS VESICULOSUS AND SEDUM ACRE AND SEMPERVIVUM TECTORUM LEAF AND ADENOSINE TRI"
+        "brand_name": [
+          "Thyreoidea Compositum"
+ 
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS If pain persists or worsens, if new symptoms occur, or if redness or swelling is present, the patient should be carefully re-evaluated because these could be signs of a serious condition.Pregnancy Category C. Animal reproduction studies have not been conducted with this drug. It is also not known whether this drug can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. This drug should be given to a pregnant woman only if clearly needed. To report SUSPECTED ADVERSE REACTIONS, contact Heel Inc. at 1.800.920.9203 or info@heelusa.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=14
+Page 14 of 28
+        "generic_name": [
+          "LACTIC ACID, L-"
+        "brand_name": [
+          "Pleo Sanuvis"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=15
+Page 15 of 28
+        "generic_name": [
+          "ARNICA MONTANA,LACTIC ACID,STRYCHNOS NUX-VOMICA SEED,POTASSIUM PHOSPHATE, DIBASIC,CUPRIC ARSENITE."
+        "brand_name": [
+          "Fibromyalgia Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=16
+Page 16 of 28
+        "generic_name": [
+          "CONIUM MACULATUM FLOWERING TOP, SOLANUM DULCAMARA TOP, ECHINACEA, UNSPECIFIED, HORSE CHESTNUT,ANTIMONY POTASSIUM TARTRATE, ASCORBIC ACID, PROTORTONIA CACTI,GALIUM APARINE,GENTIANA LUTEA ROOT,GERANIUM ROBERTIANUM, PULSATILLA VULGARIS,LACTIC ACID, L-, SUS SCROFA ADRENAL GLAND,SULFUR,TRIBASIC CALCIUM PHOSPHATE,FERROSOFERRIC PHOSPHATE,SUS SCROFA UMBILICAL CORD,PORK LIVER,SUS SCROFA HYPOTHALAMUSSUS SCROFA BONE MARROW,SUS SCROFA SPLEEN,SUS SCROFA ADRENAL GLAND, CORTISONE ACETATE, SUS SCROFA EMBRYO,"
+        "brand_name": [
+          "Tonsilla compositum"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS No adverse events have been reported with a causal relationship Thonsilla compositum® Oral Vials."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS Warnings and Precautions None"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=17
+Page 17 of 28
+        "generic_name": [
+          "SILVER, GIANT PUFFBALL, COLCHICUM AUTUMNALE BULB, CHAMAELIRIUM LUTEUM ROOT, STRYCHNOS IGNATII SEED, LACTIC ACID, DL-, LYCOPODIUM CLAVATUM SPORE, PHOSPHORIC ACID, PHOSPHORUS, SYZYGIUM CUMINI SEED, URANYL NITRATE HEXAHYDRATE"
+        "brand_name": [
+          "SUCUR II"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=18
+Page 18 of 28
+        "generic_name": [
+          "LACTIC ACID 6 SPECIAL ORDER"
+        "brand_name": [
+          "Lactic acid 6 Special Order"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=19
+Page 19 of 28
+        "generic_name": [
+          "UREA IN A WATER AND LIPID BASED FOAM CONTAINING LACTIC ACID"
+        "brand_name": [
+          "Hydro 35"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Transient stinging, burning, itching or irritation is possible."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=20
+Page 20 of 28
+        "generic_name": [
+          "LACTIC ACID"
+        "brand_name": [
+          "HERBAL STEMCELL AHA PEEL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=21
+Page 21 of 28
+        "generic_name": [
+          "ASCORBIC ACID, CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, FOLIC ACID, PYRIDOXINE HYDROCHLORIDE, CYANOCOBALAMIN, BIOTIN, CALCIUM CARBONATE, FERROUS FUMARATE, MAGNESIUM OXIDE, LACTIC ACID AND DOCONEXENT"
+        "brand_name": [
+          "PRENATE Enhance"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=22
+Page 22 of 28
+        "generic_name": [
+          "LACTIC ACID"
+        "brand_name": [
+          "Cheongin Samrakhwan"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=23
+Page 23 of 28
+        "generic_name": [
+          "CUPRIC ARSENITE,COPPER,POTASSIUM PHOSPHATE, DIBASIC,LACTIC ACID, L-,MAGNESIUM PHOSPHATE, TRIBASIC, PENTAHYDRATE."
+        "brand_name": [
+          "Leg Cramps Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=24
+Page 24 of 28
+        "generic_name": [
+          "ARNICA MONTANA ROOT, ILEX AQUIFOLIUM FLOWERING TOP, NERIUM OLEANDER LEAF, OVIS ARIES TESTICLE, AND LACTIC ACID, L-"
+        "brand_name": [
+          "BHI Restore"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=25
+Page 25 of 28
+        "generic_name": [
+          "LACTIC ACID, WILD HOPS"
+        "brand_name": [
+          "Nauzene Homeopathic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=26
+Page 26 of 28
+        "generic_name": [
+          "ASCORBIC ACID - DODECAHYDROXYCYCLOHEXANE DIHYDRATE - FUCUS VESICULOSUS - HISTIDINE MONOHYDROCHLORIDE - HUMAN INTERLEUKIN-6 (NONGLYCOSYLATED) - HYALURONIDASE - LACTIC ACID, DL - MALIC ACID - NADIDE - P"
+        "brand_name": [
+          "GUNA-MATRIX"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lactic+AND+Acid&limit=1&skip=27
+Page 27 of 28
+        "generic_name": [
+          "LACTIC ACID"
+        "brand_name": [
+          "Cheongin Haewoohwan"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

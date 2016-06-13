@@ -1,0 +1,1056 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=0
+Page 0 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=1
+Page 1 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness, tremors, muscle cramps, psychotic reactions characterized by depression, disorientation or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=2
+Page 2 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug /Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE . When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent:Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=3
+Page 3 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions: Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility: In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when hydralazine is administered to a nursing woman. Pediatric Use: Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary : difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=4
+Page 4 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS MAO inhibitors should be used with caution in patients receiving HydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with HydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and HydrALAZINE are used concomitantly. Drug/Food Interactions Administration of HydrALAZINE with food results in higher plasma levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with HydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent:Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Genitourinary: difficulty in urination. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=5
+Page 5 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=6
+Page 6 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Administration of hydralazine with food results in higher plasma levels. In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when hydralazine is administered to a nursing woman. Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary : difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=7
+Page 7 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other:nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=8
+Page 8 of 81
+        "generic_name": [
+          "HYDRALAZINE"
+        "brand_name": [
+          "Hydralazine"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydrALAzine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAzine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAzine are used concomitantly.",
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAzine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=9
+Page 9 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "HydrALAZINE Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels.",
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent:Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=10
+Page 10 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=11
+Page 11 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=12
+Page 12 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with HydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=13
+Page 13 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness, tremors, muscle cramps, psychotic reactions characterized by depression, disorientation or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=14
+Page 14 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving HydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with HydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and HydrALAZINE are used concomitantly. Drug/Food Interactions Administration of HydrALAZINE with food results in higher plasma levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS ADVERSE REACTIONS Adverse reactions with HydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent:Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=15
+Page 15 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=16
+Page 16 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with HydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=17
+Page 17 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=18
+Page 18 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive: constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=19
+Page 19 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions: Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility: In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when hydralazine is administered to a nursing woman. Pediatric Use: Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary : difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=20
+Page 20 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Common: constipation, paralytic ileus. Less Frequent: Digestive: hypotension, paradoxical pressor response, edema. Cardiovascular : dyspnea. Respiratory : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Neurologic : difficulty in urination. Genitourinary: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hematologic: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Hypersensitive Reactions: nasal congestion, flushing, lacrimation, conjunctivitis. Other:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=21
+Page 21 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other:nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=22
+Page 22 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=23
+Page 23 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions: Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility: In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when hydralazine is administered to a nursing woman. Pediatric Use: Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary : difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=24
+Page 24 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive-constipation, paralytic ileus. Cardiovascular - hypotension, paradoxical pressor response, edema. Respiratory - dyspnea. Neurologic - peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps, psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary - difficulty in urination. Hematologic - blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions - rash, urticaria, pruritis, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other - nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=25
+Page 25 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent:Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=26
+Page 26 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=27
+Page 27 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=28
+Page 28 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=29
+Page 29 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Common: constipation, paralytic ileus. Less Frequent: Digestive: hypotension, paradoxical pressor response, edema. Cardiovascular : dyspnea. Respiratory : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Neurologic : difficulty in urination. Genitourinary: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hematologic: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Hypersensitive Reactions: nasal congestion, flushing, lacrimation, conjunctivitis. Other:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=30
+Page 30 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=31
+Page 31 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive-constipation, paralytic ileus. Cardivascular-hypotension, paradoxical pressor response, edema Respiratory-dyspnea. Neurologic-peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps, psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary-difficulty in urination. Hernatologic-blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions-rash, urticaria, pruritis, fever, chill, arthralgia, eosinophilia, and, rarely, hepatitis. Other-nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=32
+Page 32 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=33
+Page 33 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug /Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular : hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=34
+Page 34 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug /Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE . When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent:Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=35
+Page 35 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness, tremors, muscle cramps, psychotic reactions characterized by depression, disorientation or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=36
+Page 36 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=37
+Page 37 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions: Administration of hydrALAZINE with food results in higher plasma levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common:Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent:Digestive:constipation, paralytic ileus. ● Cardiovascular: hypotension, paradoxical pressor response, edema. ● Respiratory: dyspnea ● Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. ● Genitourinary: difficulty in urination ● Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. ● Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. ● Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=38
+Page 38 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=39
+Page 39 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=40
+Page 40 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular : hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=41
+Page 41 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug /Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE . When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular : hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=42
+Page 42 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "HydrALAZINE Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=43
+Page 43 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive-constipation, paralytic ileus. Cardiovascular-hypotension, paradoxical pressor response, edema. Respiratory-dyspnea. Neurologic-peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps, psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary-difficulty in urination. Hematologic-blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions-rash, urticaria, pruritis, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other-nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=44
+Page 44 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions: Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility: In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when hydralazine is administered to a nursing woman. Pediatric Use: Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary : difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=45
+Page 45 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine hydrochloride injection are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive-constipation, paralytic ileus. Cardiovascular-hypotension, paradoxical pressor response, edema. Respiratory-dyspnea. Neurologic-peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps, psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary-difficulty in urination. Hematologic-blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions-rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other-nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=46
+Page 46 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=47
+Page 47 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Common: constipation, paralytic ileus. Less Frequent: Digestive: hypotension, paradoxical pressor response, edema. Cardiovascular : dyspnea. Respiratory : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Neurologic : difficulty in urination. Genitourinary: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hematologic: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Hypersensitive Reactions: nasal congestion, flushing, lacrimation, conjunctivitis. Other:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=48
+Page 48 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with HydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=49
+Page 49 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=50
+Page 50 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug /Drug Interactions MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular : hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=51
+Page 51 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=52
+Page 52 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=53
+Page 53 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=54
+Page 54 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "HydrALAZINE Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis. Call your doctor for medical advice about side effects. You may report side effects to strides Pharma Inc. at 1-877-244-9825 or go to www.stridesshasun.com"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=55
+Page 55 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "HydrALAZINE Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=56
+Page 56 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular : hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=57
+Page 57 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food InteractionsAdministration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of FertilityIn a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=58
+Page 58 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular : hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=59
+Page 59 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness, tremors, muscle cramps, psychotic reactions characterized by depression, disorientation or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=60
+Page 60 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE AND ISOSORBIDE DINITRATE"
+        "brand_name": [
+          "BiDil"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions Due to the hydralazine component of BiDil, monoamine-oxidase inhibitors should be used with caution in patients receiving BiDil. Patients treated with BiDil who receive any potent parenteral antihypertensive agent should be continuously observed for several hours for excessive fall in blood pressure. The effects of BiDil on vasodilators including alcohol may be additive. Sildenafil: See WARNINGS. Vardenafil: See WARNINGS. Tadalafil: See WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS To report SUSPECTED ADVERSE REACTIONS, contact NitroMed, Inc. at 1-888-692-4345 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. BiDil BiDil has been evaluated for safety in 517 heart failure patients in A-HeFT. A total of 317 of these patients received BiDil for at least 6 months, and 220 received BiDil for at least 12 months. In A-HeFT, 21% of the patients discontinued BiDil for adverse experiences compared to 12% who discontinued placebo. Overall, adverse events were more common in BiDil-treated than in placebo-treated patients. Table 2 lists adverse events reported with an incidence of ≥ 2% in patients treated with BiDil in A-HeFT, and, after rounding to the nearest 1%, occurring more frequently than in the placebo group, regardless of causality. Headache and dizziness were the two most frequent adverse events and were more than twice as frequent in the BiDil group. The most common reasons for discontinuing BiDil in the A-HeFT trial were headache (7%) and dizziness (4%). Table 2. Adverse Events Occurring in the A-HeFT Study in ≥ 2% of Patients Treated with BiDil. BiDil (N=517) (% of patients) Placebo (N=527) (% of patients) Headache 50 21 Dizziness 32 14 Chest pain 16 15 Asthenia 14 11 Nausea 10 6 Bronchitis 8 7 Hypotension 8 4 Sinusitis 4 2 Ventricular tachycardia 4 2 Palpitations 4 3 Hyperglycemia 4 3 Rhinitis 4 3 Paresthesia 4 2 Vomiting 4 2 Amblyopia 3 1 Hyperlipidemia 3 2 Tachycardia 2 1 The following adverse events were reported in A-HeFT in at least 1% but less than 2% of patients treated with BiDil, and also occurred in at least 0.5% more patients than in placebo-treated patients; all such events are included unless they are too non-specific to be meaningful or appear to reflect underlying disease. Body as a Whole: Allergic reaction, malaise. Central nervous system: Somnolence. Gastrointestinal: Cholecystitis. Metabolic: Hypercholesteremia. Musculoskeletal: Arthralgia, myalgia, tendon disorder. Skin: Alopecia, angioedema, sweating. In the V-HeFT I and II studies, a total of 587 patients with heart failure were treated with the combination of isosorbide dinitrate and hydralazine hydrochloride. The type, pattern, frequency and severity of adverse experiences reported in these studies were similar to those reported in A-HeFT, and no unusual adverse experiences were reported. Prior experience with BiDil components The following additional adverse events have been reported with hydralazine hydrochloride or isosorbide dinitrate but not necessarily with BiDil: Digestive: paralytic ileus. Cardiovascular: paradoxical pressor response, crescendo angina. Neurologic: peripheral neuritis, numbness, tingling, muscle cramps, psychotic reactions, disorientation. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, agranulocytosis, purpura, splenomegaly. Hypersensitive Reactions: eosinophilia, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=61
+Page 61 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine hydrochloride injection are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive-constipation, paralytic ileus. Cardiovascular -hypotension, paradoxical pressor response, edema. Respiratory -dyspnea. Neurologic -peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps, psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary -difficulty in urination. Hematologic -blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions -rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other -nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=62
+Page 62 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular : hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=63
+Page 63 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly. Drug/Food Interactions Administration of hydrALAZINE with food results in higher plasma levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common:Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent:Digestive: constipation, paralytic ileus. Cardiovascular:hypotension, paradoxical pressor response, edema. Respiratory:dyspnea. Neurologic: Genitourinary:difficulty in urination. Hematologic: Hypersensitive Reactions:rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other:nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=64
+Page 64 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=65
+Page 65 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness, tremors, muscle cramps, psychotic reactions characterized by depression, disorientation or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=66
+Page 66 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=67
+Page 67 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=68
+Page 68 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Administration of hydralazine with food results in higher plasma levels. In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when hydralazine is administered to a nursing woman. Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary : difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=69
+Page 69 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent Digestive constipation, paralytic ileus. Cardiovascular hypotension, paradoxical pressor response, edema. Respiratory dyspnea. Neurologic peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary difficulty in urination. Hematologic blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=70
+Page 70 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE AND ISOSORBIDE DINITRATE"
+        "brand_name": [
+          "BiDil"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS 7.1 Phosphodiesterase Inhibitors BiDil is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5), PDE5 inhibitors such as avanafil, sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates. Do not use BiDil in patients who are taking the soluble guanylate cyclase (sGC) stimulator riociguat. Comcomitant use can cause hypotension [see Contraindications (4)]."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions (≥ 5% more on BiDil than on placebo) were headache and dizziness (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Arbor Pharmaceuticals, LLC at 1-866-516-4950 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. BiDil has been evaluated for safety in 517 heart failure patients in A-HeFT. A total of 317 of these patients received BiDil for at least 6 months, and 220 received BiDil for at least 12 months. In A-HeFT, 21% of the patients discontinued BiDil for adverse reactions compared to 12% who discontinued placebo. Overall, adverse reactions were more common in BiDil -treated than in placebo-treated patients. Table 1 lists adverse reactions reported with an incidence, after rounding, ≥ 2% higher on BiDil than on placebo in A-HeFT, regardless of causality. The most common reasons for discontinuing BiDil in the A-HeFT trial was headache (7%). Table 1. Adverse Reactions Occurring in the A-HeFT Study in ≥ 2% of Patients Treated with BiDil. BiDil (N=517) % Placebo (N=527) % Headache 50 21 Dizziness 32 14 Asthenia 14 11 Nausea 10 6 Hypotension 8 4 Sinusitis 4 2 Ventricular tachycardia 4 2 Paresthesia 4 2 Vomiting 4 2 Amblyopia 3 1 In the V-HeFT I and II clinical studies, a total of 587 patients with heart failure were treated with the combination of isosorbide dinitrate and hydralazine hydrochloride. The type, pattern, frequency and severity of adverse reactions reported in these studies were similar to those reported in A-HeFT, described above and no unusual adverse reactions were reported. 6.2 Postmarketing Experience The following adverse reactions have been identified during post-approval use of BiDil. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Use of BiDil: The following adverse reactions have been identified with use of BiDil. Cardiac Disorders: Palpitations Ear and labyrinth disorders: Tinnitus, vertigo Eye Disorders: Eyelid edema, vision blurred Gastrointestinal Disorders: Abdominal discomfort, constipation General Disorders and Administration Site Conditions: Facial pain, flushing, chest discomfort, chest pain, peripheral edema Musculoskeletal and Connective Tissue Disorders: Pain in extremity, myalgia Nervous Disorders: Dysgeusia, hypoaesthesia, migraine, syncope Renal and Urinary Disorders: Chromaturia, pulmonary renal syndrome Respiratory, Thoracic and Mediastinal Disorders: Dyspnea Reproductive System and Breast Disorders: Erectile dysfunction Skin and Subcutaneous Tissue Disorders: Erythema, hyperhidrosis, pruritus, face swelling Use of Hydralazine Hydrochloride or Isosorbide Dinitrate: The following reactions have been reported with use of either hydralazine hydrochloride or isosorbide dinitrate. Blood and Lymphatic System Disorders: Blood dyscrasias, agranulocytosis, purpura, eosinophilia, splenomegaly. Eye Disorders: Lacrimation, conjunctivitis. Gastrointestinal Disorders: Paralytic ileus. Hepatobiliary Disorders: Hepatitis. Psychiatric Disorders: Psychotic reactions, disorientation. Renal and Urinary Disorders: Difficulty in urination."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS May cause symptomatic hypotension (5.1) Symptomatic Lupus Erythematosus Syndromes: Consider discontinuation if clinically appropriate (5.2) Myocardial ischemia and angina ( 5.3) Peripheral Neuritis: May be treated with Pyridoxine (5.4) 5.1 Hypotension Symptomatic hypotension, particularly with upright posture, may occur with even small doses of BiDil. Hypotension is most likely to occur in patients who have been volume or salt depleted; correct prior to initiation of BiDil [see Adverse Reactions (6.1)]. 5.2 Systemic Lupus Erythematosus Hydralazine hydrochloride has been reported to cause a drug-induced systemic lupus erythematosus (SLE) syndrome. Symptoms and signs usually regress when hydralazine hydrochloride is discontinued. 5.3 Worsening Ischemic Heart Disease Hydralazine hydrochloride can cause tachycardia and hypotension potentially leading to myocardial ischemia and angina, particularly in patients with hypertrophic cardiomyopathy. 5.4 Peripheral Neuritis Hydralazine hydrochloride has been associated with peripheral neuritis, evidenced by paresthesia, numbness, and tingling, which may be related to an antipyridoxine effect. Pyridoxine should be added to BiDil therapy if such symptoms develop."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=71
+Page 71 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=72
+Page 72 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=73
+Page 73 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine are used concomitantly. Drug/Food Interactions: Administration of hydralazine with food results in higher plasma levels. Carcinogenesis, Mutagenesis, Impairment of Fertility: In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydralazine continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose). In a 2-year carcinogenicity study of rats given hydralazine by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group. Benign interstitial cell tumors of the testes were also significantly increased in male rats from the high-dose group. The tumors observed are common in aged rats and a significantly increased incidence was not observed until 18 months of treatment. Hydralazine was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rats and one rabbit hepatocyte in vitro DNA repair studies. Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydralazine. The extent to which these findings indicate a risk to man is uncertain. While long-term clinical observation has not suggested that human cancer is associated with hydralazine use, epidemiologic studies have so far been insufficient to arrive at any conclusions. Pregnancy Category C: Animal studies indicate that hydralazine is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that is nonteratogenic in rats. Teratogenic effects observed were cleft palate and malformations of facial and cranial bones. There are no adequate and well-controlled studies in pregnant women. Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydralazine should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus. Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when hydralazine is administered to a nursing woman. Pediatric Use: Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydralazine in pediatric patients. The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses. Dosage may be increased gradually over the next 3 to 4 weeks to a maximum of 7.5 mg/kg or 200 mg daily."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary : difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=74
+Page 74 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular : hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=75
+Page 75 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with HydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent:Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=76
+Page 76 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular : hypotension, paradoxical pressor response, edema. Respiratory : dyspnea. Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=77
+Page 77 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent Digestive: constipation, paralytic ileus. Cardiovascular:hypotension, paradoxical pressor response, edema. Respiratory : dyspnea Neurologic : peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary:difficulty in urination Hematologic : blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other : nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=78
+Page 78 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors should be used with caution in patients receiving hydralazine. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydralazine, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydralazine injection are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea. Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination. Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=79
+Page 79 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug/Drug Interactions: MAO inhibitors should be used with caution in patients receiving hydrALAZINE. When other potent parenteral antihypertensive drugs, such as diazoxide, are used in combination with hydrALAZINE, patients should be continuously observed for several hours for any excessive fall in blood pressure. Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE are used concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions with hydrALAZINE are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris Less Frequent: Digestive: constipation, paralytic ileus. Cardiovascular: hypotension, paradoxical pressor response, edema. Respiratory: dyspnea Neurologic: peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps; psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary: difficulty in urination Hematologic: blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitivity Reactions: rash, urticaria, pruritus, fever, chills, arthralgia, eosinophilia, and rarely, hepatitis. Other: nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydralazine&limit=1&skip=80
+Page 80 of 81
+        "generic_name": [
+          "HYDRALAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydralazine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced. However, in some cases it may be necessary to discontinue the drug. The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency. Common: Headache, anorexia, nausea, vomiting, diarrhea, palpitations, tachycardia, angina pectoris. Less Frequent: Digestive -constipation, paralytic ileus. Cardiovascular - hypotension, paradoxical pressor response, edema. Respiratory - dyspnea. Neurologic - peripheral neuritis, evidenced by paresthesia, numbness, and tingling; dizziness; tremors; muscle cramps, psychotic reactions characterized by depression, disorientation, or anxiety. Genitourinary - difficulty in urination. Hematologic - blood dyscrasias, consisting of reduction in hemoglobin and red cell count, leukopenia, agranulocytosis, purpura; lymphadenopathy; splenomegaly. Hypersensitive Reactions - rash, urticaria, pruritis, fever, chills, arthralgia, eosinophilia, and, rarely, hepatitis. Other - nasal congestion, flushing, lacrimation, conjunctivitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

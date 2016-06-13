@@ -1,0 +1,24 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Indigotindisulfonate&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "INDIGOTINDISULFONATE SODIUM"
+        "brand_name": [
+          "INDIGO CARMINE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: See \"Warnings\" section."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Indigotindisulfonate&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "INDIGOTINDISULFONATE SODIUM"
+        "brand_name": [
+          "INDIGO CARMINE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: See \"Warnings\" section."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

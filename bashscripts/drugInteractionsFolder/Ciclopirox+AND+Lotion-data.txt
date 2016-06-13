@@ -1,0 +1,24 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ciclopirox+AND+Lotion&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "CICLOPIROX"
+        "brand_name": [
+          "Ciclopirox"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In the controlled clinical trial with 89 patients using Ciclopirox Topical Suspension USP, 0.77% (Lotion) and 89 patients using the lotion vehicle, the incidence of adverse reactions was low. Those considered possibly related to treatment or occurring in more than one patient were pruritus, which occurred in two patients using Ciclopirox Topical Suspension USP, 0.77% (Lotion) and one patient using the lotion vehicle; and burning, which occurred in one patient using Ciclopirox Topical Suspension USP, 0.77% (Lotion)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ciclopirox+AND+Lotion&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "CICLOPIROX OLAMINE"
+        "brand_name": [
+          "Ciclopirox Olamine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the controlled clinical trial with 89 patients using ciclopirox olamine topical suspension and 89 patients using the vehicle, the incidence of adverse reactions was low. Those considered possibly related to treatment or occurring in more than one patient were pruritus, which occurred in two patients using ciclopirox olamine topical suspension and one patient using the suspension vehicle, and burning, which occurred in one patient using ciclopirox olamine topical suspension."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

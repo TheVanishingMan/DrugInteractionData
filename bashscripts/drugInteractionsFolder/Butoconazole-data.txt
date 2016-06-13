@@ -1,0 +1,24 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butoconazole&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "BUTOCONAZOLE NITRATE"
+        "brand_name": [
+          "gynazole 1"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Of the 314 patients treated with GYNAZOLE • 1® Butoconazole Nitrate Vaginal Cream USP, 2% for 1 day in controlled clinical trials, 18 patients (5.7%) reported complaints such as vulvar/vaginal burning, itching, soreness and swelling, pelvic or abdominal pain or cramping, or a combination of two or more of these symptoms. In 3 patients (1%) these complaints were considered treatment-related. Five of the 18 patients reporting adverse events discontinued the study because of them."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butoconazole&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "BUTOCONAZOLE NITRATE"
+        "brand_name": [
+          "gynazole 1"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Of the 314 patients treated with GYNAZOLE • 1® Butoconazole Nitrate Vaginal Cream USP, 2% for 1 day in controlled clinical trials, 18 patients (5.7%) reported complaints such as vulvar/vaginal burning, itching, soreness and swelling, pelvic or abdominal pain or cramping, or a combination of two or more of these symptoms. In 3 patients (1%) these complaints were considered treatment-related. Five of the 18 patients reporting adverse events discontinued the study because of them."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

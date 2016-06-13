@@ -1,0 +1,300 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=0
+Page 0 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "BETHANECHOL CHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=1
+Page 1 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=2
+Page 2 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating Respiratory: bronchial constriction, asthmatic attacks Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=3
+Page 3 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating Respiratory: bronchial constriction, asthmatic attacks Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=4
+Page 4 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Urecholine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol chloride, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation Renal: urinary urgency Nervous System: headache Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating Respiratory: bronchial constriction, asthmatic attacks Special Senses: lacrimation, miosis Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol chloride has not been established: Body as a Whole: malaise Nervous System: seizures"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=5
+Page 5 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "BETHANECHOL CHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; \"Respiratory:\" bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures. To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals at 1-866-562-4579 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=6
+Page 6 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole. malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=7
+Page 7 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating Respiratory: bronchial constriction, asthmatic attacks Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=8
+Page 8 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "bethanechol chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol chloride, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=9
+Page 9 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol chloride, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol chloride has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=10
+Page 10 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol chloride, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation Renal: urinary urgency Nervous System: headache Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks Special Senses: lacrimation, miosis Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol chloride has not been established: Body as a Whole: malaise Nervous System: seizures"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=11
+Page 11 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE 5 MG"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole. malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=12
+Page 12 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear there in such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflux tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=13
+Page 13 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "bethanechol chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol chloride, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=14
+Page 14 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating Respiratory: bronchial constriction, asthmatic attacks Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=15
+Page 15 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "BETHANECHOL CHLORIDE"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Section Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=16
+Page 16 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating Respiratory: bronchial constriction, asthmatic attacks Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=17
+Page 17 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=18
+Page 18 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating Respiratory: bronchial constriction, asthmatic attacks Special Senses: lacrimation, miosis. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=19
+Page 19 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Special care is required if this drug is given to patients receiving ganglion blocking compounds because a critical fall in blood pressure may occur. Usually, severe abdominal symptoms appear before there is such a fall in the blood pressure."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole. malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=20
+Page 20 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating Respiratory: bronchial constriction, asthmatic attacks Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=21
+Page 21 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "BETHANECHOL CHLORIDE"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Section Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bethanechol+AND+Chloride&limit=1&skip=22
+Page 22 of 23
+        "generic_name": [
+          "BETHANECHOL CHLORIDE"
+        "brand_name": [
+          "Bethanechol Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are rare following oral administration of bethanechol, but are more common following subcutaneous injection. Adverse reactions are more likely to occur when dosage is increased. The following adverse reactions have been observed: Body as a Whole: malaise; Digestive: abdominal cramps or discomfort, colicky pain, nausea and belching, diarrhea, borborygmi, salivation; Renal: urinary urgency; Nervous System: headache; Cardiovascular: a fall in blood pressure with reflex tachycardia, vasomotor response; Skin: flushing producing a feeling of warmth, sensation of heat about the face, sweating; Respiratory: bronchial constriction, asthmatic attacks; Special Senses: lacrimation, miosis. Causal Relationship Unknown: The following adverse reactions have been reported, and a causal relationship to therapy with bethanechol has not been established: Body as a Whole: malaise; Nervous System: seizures."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

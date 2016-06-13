@@ -1,0 +1,46 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Nitric+AND+Oxide&limit=1&skip=0
+Page 0 of 4
+        "generic_name": [
+          "NITRIC OXIDE NITROGEN MIX"
+        "brand_name": [
+          "Nitric Oxide Nitrogen Mix"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Nitric+AND+Oxide&limit=1&skip=1
+Page 1 of 4
+        "generic_name": [
+          "NITRIC OXIDE"
+        "brand_name": [
+          "INOmax"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Nitric oxide donor compounds may increase the risk of developing methemoglobinemia (7). 7.1 Nitric Oxide Donor Agents Nitric oxide donor agents such as prilocaine, sodium nitroprusside and nitroglycerine may increase the risk of developing methemoglobinemia."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following adverse reactions are discussed elsewhere in the label; Hypoxemia [see Warnings and Precautions (5.2)] Worsening Heart Failure [see Warnings and Precautions (5.4)] The most common adverse reaction is hypotension. (6). To report SUSPECTED ADVERSE REACTIONS, contact INO Therapeutics at 1-877-566-9466 and http://www.inomax.com/ or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from the clinical studies does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates. Controlled studies have included 325 patients on INOmax doses of 5 to 80 ppm and 251 patients on placebo. Total mortality in the pooled trials was 11% on placebo and 9% on INOmax, a result adequate to exclude INOmax mortality being more than 40% worse than placebo. In both the NINOS and CINRGI studies, the duration of hospitalization was similar in INOmax and placebo-treated groups. From all controlled studies, at least 6 months of follow-up is available for 278 patients who received INOmax and 212 patients who received placebo. Among these patients, there was no evidence of an adverse effect of treatment on the need for rehospitalization, special medical services, pulmonary disease, or neurological sequelae. In the NINOS study, treatment groups were similar with respect to the incidence and severity of intracranial hemorrhage, Grade IV hemorrhage, periventricular leukomalacia, cerebral infarction, seizures requiring anticonvulsant therapy, pulmonary hemorrhage, or gastrointestinal hemorrhage. In CINRGI, the only adverse reaction (>2% higher incidence on INOmax than on placebo) was hypotension (14% vs. 11%). 6.2 Post-Marketing Experience Post marketing reports of accidental exposure to nitric oxide for inhalation in hospital staff has been associated with chest discomfort, dizziness, dry throat, dyspnea, and headache."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Rebound: Abrupt discontinuation of INOmax may lead to worsening oxygenation and increasing pulmonary artery pressure (5.1). Methemoglobinemia: Methemoglobin increases with the dose of nitric oxide; following discontinuation or reduction of nitric oxide, methemoglobin levels return to baseline over a period of hours (5.2). Elevated NO2 Levels: Monitor NO2 levels (5.3). Heart Failure: In patients with pre-existing left ventricular dysfunction, INOmax may increase pulmonary capillary wedge pressure leading to pulmonary edema (5.4). 5.1 Rebound Pulmonary Hypertension Syndrome following Abrupt Discontinuation Wean from INOmax [see Dosage and Administration (2.2)]. Abrupt discontinuation of INOmax may lead to worsening oxygenation and increasing pulmonary artery pressure, i.e., Rebound Pulmonary Hypertension Syndrome. Signs and symptoms of Rebound Pulmonary Hypertension Syndrome include hypoxemia, systemic hypotension, bradycardia, and decreased cardiac output. If Rebound Pulmonary Hypertension occurs, reinstate INOmax therapy immediately. 5.2 Hypoxemia from Methemoglobinemia Nitric oxide combines with hemoglobin to form methemoglobin, which does not transport oxygen. Methemoglobin levels increase with the dose of INOmax; it can take 8 hours or more before steady-state methemoglobin levels are attained. Monitor methemoglobin and adjust the dose of INOmax to optimize oxygenation. If methemoglobin levels do not resolve with decrease in dose or discontinuation of INOmax, additional therapy may be warranted to treat methemoglobinemia [see Overdosage (10)]. 5.3 Airway Injury from Nitrogen Dioxide Nitrogen dioxide (NO2) forms in gas mixtures containing NO and O2. Nitrogen dioxide may cause airway inflammation and damage to lung tissues. If there is an unexpected change in NO2 concentration, or if the NO2 concentration reaches 3 ppm when measured in the breathing circuit, then the delivery system should be assessed in accordance with the Nitric Oxide Delivery System O&M Manual troubleshooting section, and the NO2 analyzer should be recalibrated. The dose of INOmax and/or FiO2 should be adjusted as appropriate. 5.4 Worsening Heart Failure Patients with left ventricular dysfunction treated with INOmax may experience pulmonary edema, increased pulmonary capillary wedge pressure, worsening of left ventricular dysfunction, systemic hypotension, bradycardia and cardiac arrest. Discontinue INOmax while providing symptomatic care."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Nitric+AND+Oxide&limit=1&skip=2
+Page 2 of 4
+        "generic_name": [
+          "CHOLESTERINUM, FORMALINUM, GELSEMIUM SEMPERVIRENS, MELATONIN, ARGININE, CITRULLINE, COUMARINUM, UBIDECARENONUM, MERCURIUS CORROSIVUS, MEVALONOLACTONE, LANOSTEROL, SQUALENE, CALCAREA CARBONICA, ALPHA-LIPOICUM ACIDUM, PLUMBUM METALLICUM, COENZYME A, GLONOINUM, LYCOPODIUM CLAVATUM, PHOSPHORUS, BERBERIS VULGARIS, RED YEAST RICE, NITRIC OXIDE, MORGAN PURE, RHUS TOX"
+        "brand_name": [
+          "Vascuflow RXS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Nitric+AND+Oxide&limit=1&skip=3
+Page 3 of 4
+        "generic_name": [
+          "OXITRIPTAN, ACETYLCHOLINESTERASE HUMAN, CHOLINE CHLORIDE, DOPAMINE, GLUTAMIC ACID, GLYCINE, HISTIDINE, LEVODOPA, MALVIN, MELANIN SYNTHETIC (TYROSINE, PEROXIDE), NITRIC OXIDE, NOREPINEPHRINE, OCTOPAMINE, WATER, PHENYLALANINE, SEROTONIN, TAURINE, TRYPTOPHAN, TYROSINE"
+        "brand_name": [
+          "Neuro 3"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

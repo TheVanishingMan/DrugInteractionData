@@ -1,0 +1,124 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=0
+Page 0 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=1
+Page 1 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=2
+Page 2 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=3
+Page 3 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=4
+Page 4 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=5
+Page 5 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=6
+Page 6 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "ECOZA"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS 7.1 Warfarin Concomitant administration of econazole and warfarin has resulted in enhancement of anticoagulant effect. Most cases reported product application with use under occlusion, genital application, or application to a large body surface area which may increase the systemic absorption of econazole nitrate. Monitoring of International Normalized Ratio (INR) and/or prothrombin time may be indicated especially for patients who apply econazole to large body surface areas, in the genital area, or under occlusion."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS During clinical trials with Ecoza topical foam, the most common adverse reactions were application site reactions which occurred in less than 1% of subjects in both the Ecoza and vehicle arms. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Quinnova Pharmaceuticals at 1-877-660-6263 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In two double-blind, vehicle-controlled clinical trials, 495 subjects were exposed to Ecoza topical foam or vehicle (246 subjects were exposed to Ecoza topical foam, 1% and 249 were exposed to vehicle). Subjects with interdigital tinea pedis applied foam or vehicle once daily for approximately 28 days. During clinical trials with Ecoza topical foam, the most common adverse reactions were application site reactions which occurred in less than 1% of subjects in both the Ecoza and vehicle arms."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Contents are flammable. Instruct the patient to avoid heat, flame, and/or smoking during and immediately following application. (5.1) 5.1 Flammability Ecoza topical foam is flammable. Avoid heat, flame, and smoking during and immediately following application. Contents under pressure. Do not puncture and/or incinerate the containers. Do not expose containers to heat and/or store at temperatures above 120°F (49°C) even when empty. Do not store in direct sunlight."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=7
+Page 7 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=8
+Page 8 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate&limit=1&skip=9
+Page 9 of 10
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

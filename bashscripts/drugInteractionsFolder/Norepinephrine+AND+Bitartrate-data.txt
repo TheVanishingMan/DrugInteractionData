@@ -1,0 +1,206 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=0
+Page 0 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Norepinephrine bitartrate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine. Hence, the use of norepinephrine during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation. The same type of cardiac arrhythmias may result from the use of norepinephrine in patients with profound hypoxia or hypercarbia. Norepinephrine should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions can occur: Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System: Anxiety, transient headache. Respiratory System: Respiratory difficulty. Skin and Appendages: Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when norepinephrine is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=1
+Page 1 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Norepinephrine Bitartrate"
+ 
+      "adverse_reactions": [
+        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+      "warnings_and_cautions": [
+        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=2
+Page 2 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Norepinephrine Bitartrate"
+ 
+      "adverse_reactions": [
+        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+      "warnings_and_cautions": [
+        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=3
+Page 3 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Levophed"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine. Hence, the use of LEVOPHED during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation. The same type of cardiac arrhythmias may result from the use of LEVOPHED in patients with profound hypoxia or hypercarbia. LEVOPHED should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions can occur: Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System: Anxiety, transient headache. Respiratory System: Respiratory difficulty. Skin and Appendages: Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when LEVOPHED is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=4
+Page 4 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Norepinephrine bitartrate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine. Hence, the use of norepinephrine during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation. The same type of cardiac arrhythmias may result from the use of norepinephrine in patients with profound hypoxia or hypercarbia. Norepinephrine should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions can occur: Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System: Anxiety, transient headache. Respiratory System: Respiratory difficulty. Skin and Appendages: Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when norepinephrine is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=5
+Page 5 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Norepinephrine Bitartrate"
+ 
+      "adverse_reactions": [
+        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+      "warnings_and_cautions": [
+        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=6
+Page 6 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Levophed"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions The following reactions can occur: Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System: Anxiety, transient headache. Respiratory System: Respiratory difficulty. Skin and Appendages: Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when LEVOPHED is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreasedrenal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=7
+Page 7 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Norepinephrine Bitartrate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine. Hence, the use of norepinephrine bitartrate injection during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation. The same type of cardiac arrhythmias may result from the use of norepinephrine bitartrate injection in patients with profound hypoxia or hypercarbia. Norepinephrine bitartrate injection should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions can occur: Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System: Anxiety, transient headache. Respiratory System: Respiratory difficulty. Skin and Appendages: Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when norepinephrine bitartrate injection is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=8
+Page 8 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Norepinephrine Bitartrate"
+ 
+      "adverse_reactions": [
+        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+      "warnings_and_cautions": [
+        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=9
+Page 9 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "LEVOPHED"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine. Hence, the use of LEVOPHED during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation. The same type of cardiac arrhythmias may result from the use of LEVOPHED in patients with profound hypoxia or hypercarbia. LEVOPHED should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions can occur: Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System: Anxiety, transient headache. Respiratory System: Respiratory difficulty. Skin and Appendages: Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when LEVOPHED is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=10
+Page 10 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Norepinephrine Bitartrate"
+ 
+      "adverse_reactions": [
+        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+      "warnings_and_cautions": [
+        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=11
+Page 11 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Norepinephrine bitartrate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine. Hence, the use of norepinephrine during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation. The same type of cardiac arrhythmias may result from the use of norepinephrine in patients with profound hypoxia or hypercarbia. Norepinephrine should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions can occur: Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System: Anxiety, transient headache. Respiratory System: Respiratory difficulty. Skin and Appendages: Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when norepinephrine is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=12
+Page 12 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "Levophed"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine. Hence, the use of LEVOPHED during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation. The same type of cardiac arrhythmias may result from the use of LEVOPHED in patients with profound hypoxia or hypercarbia. LEVOPHED should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions can occur: Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System: Anxiety, transient headache. Respiratory System: Respiratory difficulty. Skin and Appendages: Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when LEVOPHED is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=13
+Page 13 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "LEVOPHED"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions can occur: Body As A Whole: Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System: Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System: Anxiety, transient headache. Respiratory System: Respiratory difficulty. Skin and Appendages: Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when LEVOPHED is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Norepinephrine+AND+Bitartrate&limit=1&skip=14
+Page 14 of 15
+        "generic_name": [
+          "NOREPINEPHRINE BITARTRATE"
+        "brand_name": [
+          "LEVOPHED"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine. Hence, the use of LEVOPHED during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation. The same type of cardiac arrhythmias may result from the use of LEVOPHED in patients with profound hypoxia or hypercarbia. LEVOPHED should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions can occur: Body As A Whole : Ischemic injury due to potent vasoconstrictor action and tissue hypoxia. Cardiovascular System : Bradycardia, probably as a reflex result of a rise in blood pressure, arrhythmias. Nervous System : Anxiety, transient headache. Respiratory System : Respiratory difficulty. Skin and Appendages : Extravasation necrosis at injection site. Prolonged administration of any potent vasopressor may result in plasma volume depletion which should be continuously corrected by appropriate fluid and electrolyte replacement therapy. If plasma volumes are not corrected, hypotension may recur when LEVOPHED is discontinued, or blood pressure may be maintained at the risk of severe peripheral and visceral vasoconstriction (e.g., decreased renal perfusion) with diminution in blood flow and tissue perfusion with subsequent tissue hypoxia and lactic acidosis and possible ischemic injury. Gangrene of extremities has been rarely reported. Overdoses or conventional doses in hypersensitive persons (e.g., hyperthyroid patients) cause severe hypertension with violent headache, photophobia, stabbing retrosternal pain, pallor, intense sweating, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

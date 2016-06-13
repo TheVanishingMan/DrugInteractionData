@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Carbachol+AND+Intraocular+AND+Solution&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "CARBACHOL"
+        "brand_name": [
+          "MIOSTAT"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Ocular: Corneal clouding, persistent bullous keratopathy, retinal detachment and postoperative iritis following cataract extraction have been reported. Systemic: Side effects such as flushing, sweating, epigastric distress, abdominal cramps, tightness in urinary bladder, and headache have been reported with topical or systemic application of carbachol. The following additional reactions have been identified during post-approval use of MIOSTAT (carbachol intraocular solution, USP) in clinical practice. Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made. The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to MIOSTAT, or a combination of these factors, include: corneal edema, drug effect prolonged (miosis), eye inflammation, eye pain, intraocular pressure increased, ocular hyperemia, vision blurred, visual impairment, and vomiting."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

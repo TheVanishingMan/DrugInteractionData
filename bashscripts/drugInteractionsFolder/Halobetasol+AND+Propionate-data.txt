@@ -1,0 +1,204 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=0
+Page 0 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Ultravate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Ultravate Cream included stinging, burning or itching in 4.4% of the patients. Less frequently reported adverse reactions were dry skin, erythema, skin atrophy, leukoderma, vesicles and rash. In controlled clinical trials, the most frequent adverse events reported for Ultravate Ointment included stinging or burning in 1.6% of the patients. Less frequently reported adverse reactions were pustulation, erythema, skin atrophy, leukoderma, acne, itching, secondary infection, telangiectasia, urticaria, dry skin, miliaria, paresthesia, and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Ultravate. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=1
+Page 1 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Halobetasol Propionate Ointment included stinging or burning in 1.6% of the patients. Less frequently reported adverse reactions were pustulation, erythema, skin atrophy, leukoderma, acne, itching, secondary infection, telangiectasia, urticaria, dry skin, miliaria, paresthesia, and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Halobetasol Propionate Ointment. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=2
+Page 2 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Halobetasol Propionate Cream included stinging, burning or itching in 4.4% of the patients. Less frequently reported adverse reactions were dry skin, erythema, skin atrophy, leukoderma, vesicles and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Halobetasol Propionate Cream. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=3
+Page 3 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Ultravate X"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Ultravate Ointment included stinging or burning in 1.6% of the patients. Less frequently reported adverse reactions were pustulation, erythema, skin atrophy, leukoderma, acne, itching, secondary infection, telangiectasia, urticaria, dry skin, miliaria, paresthesia, and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Ultravate Ointment. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=4
+Page 4 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Halobetasol Propionate Cream included stinging, burning or itching in 4.4% of the patients. Less frequently reported adverse reactions were dry skin, erythema, skin atrophy, leukoderma, vesicles and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Halobetasol Propionate Cream. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=5
+Page 5 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Halobetasol Propionate Cream included stinging, burning or itching in 4.4% of the patients. Less frequently reported adverse reactions were: dry skin, erythema, skin atrophy, leukoderma, vesicles and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Halobetasol Propionate Cream. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=6
+Page 6 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Ultravate PAC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Ultravate Ointment included stinging or burning in 1.6% of the patients. Less frequently reported adverse reactions were pustulation, erythema, skin atrophy, leukoderma, acne, itching, secondary infection, telangiectasia, urticaria, dry skin, miliaria, paresthesia, and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Ultravate Ointment. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=7
+Page 7 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Halobetasol Propionate Ointment included stinging or burning in 1.6% of the patients. Less frequently reported adverse reactions were pustulation, erythema, skin atrophy, leukoderma, acne, itching, secondary infection, telangiectasia, urticara, dry skin, miliaria, paresthesia, and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Halobetasol Propionate Ointment. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=8
+Page 8 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for halobetasol propionate cream included stinging, burning or itching in 4.4% of the patients. Less frequently reported adverse reactions were dry skin, erythema, skin atrophy, leukoderma, vesicles and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as halobetasol propionate cream. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=9
+Page 9 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Ultravate X"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Ultravate Cream included stinging, burning or itching in 4.4% of the patients. Less frequently reported adverse reactions were dry skin, erythema, skin atrophy, leukoderma, vesicles and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Ultravate Cream. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=10
+Page 10 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for halobetasol propionate ointment, 0.05% included stinging or burning in 1.6% of the patients. Less frequently reported adverse reactions were pustulation, erythema, skin atrophy, leukoderma, acne, itching, secondary infection, telangiectasia, urticara, dry skin, miliaria, paresthesia, and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as halobetasol propionate ointment, 0.05%. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=11
+Page 11 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for halobetasol propionate cream, 0.05% included stinging, burning or itching in 4.4% of the patients. Less frequently reported adverse reactions were dry skin, erythema, skin atrophy, leukoderma, vesicles and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as halobetasol propionate cream, 0.05%. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=12
+Page 12 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for halobetasol propionate ointment, 0.05% included stinging or burning in 1.6% of the patients. Less frequently reported adverse reactions were pustulation, erythema, skin atrophy, leukoderma, acne, itching, secondary infection, telangiectasia, urticara, dry skin, miliaria, paresthesia, and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as halobetasol propionate ointment, 0.05%. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=13
+Page 13 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Ultravate PAC-Cream"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for Ultravate Cream included stinging or burning in 4.4% of the patients. Less frequently reported adverse reactions were dry skin, erythema, skin atrophy, leukoderma, vesicles and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Ultravate Cream. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=14
+Page 14 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for halobetasol propionate ointment included stinging or burning in 1.6% of the patients. Less frequently reported adverse reactions were: pustulation, erythema, skin atrophy, leukoderma, acne, itching, secondary infection, telangiectasia, urticara, dry skin, miliaria, paresthesia, and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as halobetasol propionate ointment. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=15
+Page 15 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for halobetasol propionate cream, 0.05% included stinging, burning or itching in 4.4% of the patients. Less frequently reported adverse reactions were dry skin, erythema, skin atrophy, leukoderma, vesicles and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as halobetasol propionate cream, 0.05%. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Halobetasol+AND+Propionate&limit=1&skip=16
+Page 16 of 17
+        "generic_name": [
+          "HALOBETASOL PROPIONATE"
+        "brand_name": [
+          "Halobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for halobetasol propionate ointment, 0.05% included stinging or burning in 1.6% of the patients. Less frequently reported adverse reactions were pustulation, erythema, skin atrophy, leukoderma, acne, itching, secondary infection, telangiectasia, urticara, dry skin, miliaria, paresthesia, and rash. The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as halobetasol propionate ointment, 0.05%. These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

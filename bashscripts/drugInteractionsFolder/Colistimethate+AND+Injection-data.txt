@@ -1,0 +1,110 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colistimethate+AND+Injection&limit=1&skip=0
+Page 0 of 8
+        "generic_name": [
+          "COLISTIMETHATE SODIUM"
+        "brand_name": [
+          "Colistimethate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Certain other antibiotics (aminoglycosides and polymyxin) have also been reported to interfere with the nerve transmission at the neuromuscular junction. Based on this reported activity, they should not be given concomitantly with colistimethate for injection except with the greatest caution. Curariform muscle relaxants (e.g., tubocurarine) and other drugs, including ether, succinylcholine, gallamine, decamethonium and sodium citrate, potentiate the neuromuscular blocking effect and should be used with extreme caution in patients being treated with colistimethate for injection. Sodium cephalothin may enhance the nephrotoxicity of colistimethate for injection. The concomitant use of sodium cephalothin and colistimethate for injection should be avoided."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported: Gastrointestinal - gastrointestinal upset Nervous System - tingling of extremities and tongue, slurred speech, dizziness, vertigo and paresthesia Integumentary - generalized itching, urticaria and rash Body as a Whole - fever Laboratory Deviations - increased blood urea nitrogen (BUN), elevated creatinine and decreased creatinine clearance Respiratory System - respiratory distress and apnea Renal System - nephrotoxicity and decreased urine output For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact Sagent Pharmaceuticals, Inc. at 1-866-625-1618 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colistimethate+AND+Injection&limit=1&skip=1
+Page 1 of 8
+        "generic_name": [
+          "COLISTIMETHATE SODIUM"
+        "brand_name": [
+          "COLISTIMETHATE SODIUM"
+ 
+      "drug_interactions": [
+        "Drug Interactions Certain other antibiotics (aminoglycosides and polymyxin) have also been reported to interfere with the nerve transmission at the neuromuscular junction. Based on this reported activity, they should not be given concomitantly with Colistimethate for Injection, USP except with the greatest caution. Curariform muscle relaxants (e.g., tubocurarine) and other drugs, including ether, succinylcholine, gallamine, decamethonium and sodium citrate, potentiate the neuromuscular blocking effect and should be used with extreme caution in patients being treated with Colistimethate for Injection, USP. Sodium cephalothin may enhance the nephrotoxicity of Colistimethate for Injection, USP. The concomitant use of sodium cephalothin and Colistimethate for Injection, USP should be avoided."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported: Gastrointestinal: gastrointestinal upset Nervous System: tingling of extremities and tongue, slurred speech, dizziness, vertigo and paresthesia Integumentary: generalized itching, urticaria and rash Body as a Whole: fever Laboratory Deviations: increased blood urea nitrogen (BUN), elevated creatinine and decreased creatinine clearance Respiratory System: respiratory distress and apnea Renal System: nephrotoxicity and decreased urine output To report SUSPECTED ADVERSE REACTIONS, contact Heritage Pharmaceuticals Inc. at 1-866-901-DRUG (3784) or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colistimethate+AND+Injection&limit=1&skip=2
+Page 2 of 8
+        "generic_name": [
+          "COLISTIMETHATE"
+        "brand_name": [
+          "Coly-Mycin M"
+ 
+      "drug_interactions": [
+        "Drug Interactions Certain other antibiotics (aminoglycosides and polymyxin) have also been reported to interfere with the nerve transmission at the neuromuscular junction. Based on this reported activity, they should not be given concomitantly with Coly-Mycin M Parenteral except with the greatest caution. Curariform muscle relaxants (e.g., tubocurarine) and other drugs, including ether, succinylcholine, gallamine, decamethonium and sodium citrate, potentiate the neuromuscular blocking effect and should be used with extreme caution in patients being treated with Coly-Mycin M Parenteral. Sodium cephalothin may enhance the nephrotoxicity of Coly-Mycin M Parenteral. The concomitant use of sodium cephalothin and Coly-Mycin M Parenteral should be avoided."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported: Gastrointestinal: gastrointestinal upset Nervous System: tingling of extremities and tongue, slurred speech, dizziness, vertigo and paresthesia Integumentary: generalized itching, urticaria and rash Body as a Whole: fever Laboratory Deviations: increased blood urea nitrogen (BUN), elevated creatinine and decreased creatinine clearance Respiratory System: respiratory distress and apnea Renal System: nephrotoxicity and decreased urine output For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colistimethate+AND+Injection&limit=1&skip=3
+Page 3 of 8
+        "generic_name": [
+          "COLISTIMETHATE SODIUM"
+        "brand_name": [
+          "Colistimethate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Certain other antibiotics (aminoglycosides and polymyxin) have also been reported to interfere with the nerve transmission at the neuromuscular junction. Based on this reported activity, they should not be given concomitantly with colistimethate for injection except with the greatest caution. Curariform muscle relaxants (e.g., tubocurarine) and other drugs, including ether, succinylcholine, gallamine, decamethonium and sodium citrate, potentiate the neuromuscular blocking effect and should be used with extreme caution in patients being treated with colistimethate for injection. Sodium cephalothin may enhance the nephrotoxicity of colistimethate for injection. The concomitant use of sodium cephalothin and colistimethate for injection should be avoided."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported: Gastrointestinal: gastrointestinal upset Nervous System: tingling of extremities and tongue, slurred speech, dizziness, vertigo and paresthesia Integumentary: generalized itching, urticaria and rash Body as a Whole: fever Laboratory Deviations: increased blood urea nitrogen (BUN), elevated creatinine and decreased creatinine clearance Respiratory System: respiratory distress and apnea Renal System: nephrotoxicity and decreased urine output For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colistimethate+AND+Injection&limit=1&skip=4
+Page 4 of 8
+        "generic_name": [
+          "COLISTIMETHATE SODIUM"
+        "brand_name": [
+          "Colistimethate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Certain other antibiotics (aminoglycosides and polymyxin) have also been reported to interfere with the nerve transmission at the neuromuscular junction. Based on this reported activity, they should not be given concomitantly with Colistimethate for injection, USP except with the greatest caution. Curariform muscle relaxants (e.g., tubocurarine) and other drugs, including ether, succinylcholine, gallamine, decamethonium and sodium citrate, potentiate the neuromuscular blocking effect and should be used with extreme caution in patients being treated with Colistimethate for injection, USP. Sodium cephalothin may enhance the nephrotoxicity of Colistimethate for injection, USP. The concomitant use of sodium cephalothin and Colistimethate for injection, USP should be avoided."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported: Gastrointestinal: gastrointestinal upset Nervous System: tingling of extremities and tongue, slurred speech, dizziness, vertigo and paresthesia Integumentary: generalized itching, urticaria and rash Body as a Whole: fever Laboratory Deviations: increased blood urea nitrogen (BUN), elevated creatinine and decreased creatinine clearance Respiratory System: respiratory distress and apnea Renal System: nephrotoxicity and decreased urine output For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact Xellia Pharmaceuticals at 1-855-642-2594 or e-mail safety@xellia.com or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or www.fda.gov/medwatch"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colistimethate+AND+Injection&limit=1&skip=5
+Page 5 of 8
+        "generic_name": [
+          "COLISTIMETHATE SODIUM"
+        "brand_name": [
+          "Colistimethate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported: Gastrointestinal - gastrointestinal upset Nervous System - tingling of extremities and tongue, slurred speech, dizziness, vertigo and paresthesia Integumentary - generalized itching, urticaria and rash Body as a Whole - fever Laboratory Deviations - increased blood urea nitrogen (BUN), elevated creatinine and decreased creatinine clearance Respiratory System - respiratory distress and apnea Renal System - nephrotoxicity and decreased urine output For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC, Vigilance & Medical Affairs at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colistimethate+AND+Injection&limit=1&skip=6
+Page 6 of 8
+        "generic_name": [
+          "COLISTIMETHATE"
+        "brand_name": [
+          "Colistimethate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Certain other antibiotics (aminoglycosides and polymyxin) have also been reported to interfere with the nerve transmission at the neuromuscular junction. Based on this reported activity, they should not be given concomitantly with Colistimethate for Injection except with greatest caution. Curariform muscle relaxants (e.g., tubocurarine) and other drugs, including ether, succinylcholine, gallamine, decamethonium, and sodium citrate, potentiate the neuromuscular blocking effect and should be used with extreme caution in patients being treated with Colistimethate for Injection. Sodium cephalothin may enhance the nephrotoxicity of Colistimethate for Injection. The concomitant use of sodium cephalothin and Colistimethate for Injection should be avoided."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported: Gastrointestinal: gastrointestinal upset Nervous System: tingling of extremities and tongue, slurred speech, dizziness, vertigo and paresthesia. Integumentary: generalized itching, urticaria and rash Body as a Whole: fever Laboratory Deviations: increased blood urea nitrogen (BUN), elevated creatinine and decreased creatinine clearance Respiratory System: respiratory distress and apnea Renal System: nephrotoxicity and decreased urine output For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colistimethate+AND+Injection&limit=1&skip=7
+Page 7 of 8
+        "generic_name": [
+          "COLISTIMETHATE SODIUM"
+        "brand_name": [
+          "Colistimethate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Certain other antibiotics (aminoglycosides and polymyxin) have also been reported to interfere with the nerve transmission at the neuromuscular junction. Based on this reported activity, they should not be given concomitantly with colistimethate for injection except with the greatest caution. Curariform muscle relaxants (e.g., tubocurarine) and other drugs, including ether, succinylcholine, gallamine, decamethonium and sodium citrate, potentiate the neuromuscular blocking effect and should be used with extreme caution in patients being treated with colistimethate for injection. Sodium cephalothin may enhance the nephrotoxicity of colistimethate for injection. The concomitant use of sodium cephalothin and colistimethate for injection should be avoided."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported: Gastrointestinal: gastrointestinal upset Nervous System: tingling of extremities and tongue, slurred speech, dizziness, vertigo and paresthesia Integumentary: generalized itching, urticaria and rash Body as a Whole: fever Laboratory Deviations: increased blood urea nitrogen (BUN), elevated creatinine and decreased creatinine clearance Respiratory System: respiratory distress and apnea Renal System: nephrotoxicity and decreased urine output For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

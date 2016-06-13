@@ -1,0 +1,482 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=0
+Page 0 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "Drug-Drug Interactions Drug-drug interactions with Fludeoxyglucose F 18 Injection have not been evaluated."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The Fludeoxyglucose F 18 Injection safety database for epilepsy included of 374 patients. Of these, 245 were male and 105 were female. For 24 patients, gender was not specified. The mean age was 47.8 years (range under 2 to over 65 years). Eighteen patients were between the age of 0 and 2 years; 42 patients were between the ages of 2 and 21 years; 213 patients were between 21 and 65 years; 98 patients were older than 65 years; and the ages of 3 male patients were not specified. A racial distribution is not available. In this database, adverse drug reactions that required medical intervention were not reported. In a small, 42 patient subset of the 374 patients studied, 4 patients had transient hypotension, 6 had hypo- or hyperglycemia and 3 had transient increases in alkaline phosphatase. Reviews of the oncology and cardiology literature did not reveal reported adverse reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=1
+Page 1 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F-18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F-18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Cardinal Health at 1-800-618-2768 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS •Radiation risks: use smallest dose necessary for imaging (5.1). •Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F-18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F-18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=2
+Page 2 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F-18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available ( 6). To report SUSPECTED ADVERSE REACTIONS, contact Precision Nuclear, LLC at 423-467-0050 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging ( 5.1). Blood glucose abnormalities: may cause suboptimal imaging ( 5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration (2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=3
+Page 3 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18 INJECTION"
+        "brand_name": [
+          "Fludeoxyglucose F-18"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The [ 18F]FDG safety data base was evaluated for 374 patients. Of these, 245 were male and 105 were female. For 24 patients, gender was not specified. The mean age was 47.8 years (range under 2 to over 65 years). Eighteen patients were between the age of 0 and 2 years; 42 patients were between the ages of 2 and 21 years old; 213 patients were between 21 and 65 years old and 98 patients were older than 65 years and the ages of 3 male patients were not specified. A racial distribution is not available. In this database, adverse drug reactions that required medical intervention were not reported. In a small, 42 patient subset of the 374 patients studied, 4 patients had transient hypotension, 6 had hypo- or hyperglycemia and 3 had transient increases in alkaline phosphatase."
+      "warnings_and_cautions": [
+        "RADIATION DOSIMETRY The estimated absorbed radiation doses to an average human adult (70 kg) from intravenous injection of 185 MBq (5 mCi) and 370 MBq (10 mCi) of [ 18F]FDG are shown in Table 4. These estimates were calculated based on human 1 data and using the data published by the International Commission on Radiological Protection 2 for [ 18F]FDG. Table 4. Estimated Absorbed Radiation Doses after intravenous administration of 2-deoxy-2-[ 18F]fluoro-D-glucose, [ 18F]FDG to a 70 kg patient. Organ mGy/185MBq Rads/5mCi mGy/370 MBq rads/10 mCi Bladder Wall 31.45 3.15 62.90 6.29 1Bladder* 11.00 1.10 22.00 2.20 1Bladder** 22.00 2.20 44.00 4.40 Heart 12.03 1.20 24.05 2.41 Brain 4.81 0.48 9.62 0.96 Kidneys 3.88 0.39 7.77 0.78 Uterus 3.70 0.37 7.40 0.74 Ovaries 2.78 0.28 5.55 0.56 Testes 2.78 0.28 5.55 0.56 Adrenals 2.59 0.26 5.18 0.52 Sm Intestine 2.40 0.24 4.81 0.48 ULI wall 2.40 0.24 4.81 0.48 LLI wall 2.96 0.30 5.92 0.59 Stomach wall 2.22 0.22 4.44 0.44 Liver 2.22 0.22 4.44 0.44 Pancreas 2.22 0.22 4.44 0.44 Spleen 2.22 0.22 4.44 0.44 Breast 2.04 0.20 4.07 0.41 Lungs 2.04 0.20 4.07 0.41 Red marrow 2.04 0.20 4.07 0.41 Other Tissue 2.04 0.20 4.07 0.41 Bone Surfaces 1.85 0.18 3.70 0.37 Thyroid 1.70 0.18 3.59 0.36 *With void 1 hour after administration **With void 2 hours after administration. The [18F]FDG Effective dose equivalent (Adult)2 is 0.027 mSv/MBq. 1Jones, S.C. , Alavi, A., Christman, D., Montanez, I., Wolf, A.P., and Reivich, M. (1982). The Radiation Dosimetry of 2-F-18 fluoro-2-deoxy-D-glucose in man. J. Nucl. Med. 23, 613-617. 2ICRP Publication 53, Volume 18, No. 1-4, 1987, page 76."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=4
+Page 4 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection USP with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact The Feinstein Institute for Medical Research at 516-562-1042 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection USP, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration (2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection USP administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=5
+Page 5 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F 18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "adverse_reactions": [
+        "Adverse Ractions 6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. ADVERSE REACTIONS Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Spectron mrc, LLC at 574-271-2800 or FDA at 1-800-332-1088 or www.fda.gov/medwatch. (6)"
+      "warnings_and_cautions": [
+        "Warnings and Precautions 5 WARNINGS AND PRECAUTIONS 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker[see Dosage and Administration(2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration. WARNINGS AND PRECAUTIONS • Radiation risks: use smallest dose necessary for imaging(5.1). • Blood glucose abnormalities: may cause suboptimal imaging(5.2)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=6
+Page 6 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Biomedical Research Foundation of Northwest Louisiana at 318-675-4100 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging(5.1). Blood glucose abnormalities: may cause suboptimal imaging(5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker[see Dosage and Administration(2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=7
+Page 7 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available ( 6 ). To report SUSPECTED ADVERSE REACTIONS, contact IBA Molecular North America, Inc. at 1-800-753-5368 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging ( 5.1 ). Blood glucose abnormalities: may cause suboptimal imaging ( 5.2 ). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration ( 2.5 )]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=8
+Page 8 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available ( 6). To report SUSPECTED ADVERSE REACTIONS, contact Massachusetts General Hospital at 1-617-726-8356 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration (2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=9
+Page 9 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F 18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Zevacor Molecular at 866-364-4478 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F18 Injection administration.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=10
+Page 10 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F 18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Centre for Probe Development and Commercialization at 905-525-9140, ext. 21486 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging(5.1). Blood glucose abnormalities: may cause suboptimal imaging(5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker[see Dosage and Administration(2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=11
+Page 11 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F-18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Shertech Laboratories, LLC at 864-661-1001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=12
+Page 12 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Children's Hospital of Michigan at (313) 993-2873 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging(5.1). Blood glucose abnormalities: may cause suboptimal imaging(5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker[see Dosage and Administration(2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=13
+Page 13 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F18"
+        "brand_name": [
+          "Fludeoxyglucose F18"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact MDACC CRF at 713-563-5455 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=14
+Page 14 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F 18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F-18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the postmarketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact The University of Utah DBA Cyclotron Radiochemistry Lab Huntsman Cancer Institute at 801-581-8745 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS • Radiation risks: use smallest dose necessary for imaging (5.1). • Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F-18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration(2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F-18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=15
+Page 15 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "FLUDEOXYGLUCOSE F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available ( 6). To report SUSPECTED ADVERSE REACTIONS, contact UIHC - P E T Imaging Center at 319-356-1616 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=16
+Page 16 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F-18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Lantheus Medical Imaging, Inc. at 1-800-362-2668 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=17
+Page 17 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Triad Isotopes, Inc. at 1-877-301-0106 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging(5.1). Blood glucose abnormalities: may cause suboptimal imaging(5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker[see Dosage and Administration(2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=18
+Page 18 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F 18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact the UCLA Nuclear Medicine Clinic at 1-310-794-1005 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging(5.1). Blood glucose abnormalities: may cause suboptimal imaging(5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration (2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=19
+Page 19 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "FLUDEOXYGLUCOSE F-18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Brigham and Women's Hospital, Inc. at 617-732-7171 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging(5.1). Blood glucose abnormalities: may cause suboptimal imaging(5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker[see Dosage and Administration(2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=20
+Page 20 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F18"
+        "brand_name": [
+          "Fludeoxyglucose F18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available ( 6). To report SUSPECTED ADVERSE REACTIONS, contact UCSF Radiopharmaceutical Facility at 415-353-4435 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=21
+Page 21 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F-18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available ( 6). To report SUSPECTED ADVERSE REACTIONS, contact The Cyclotron Facility, Department of Radiology, University of Pennsylvania at 215-746-8233 or 215-573-9456 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging ( 5.1). Blood glucose abnormalities: may cause suboptimal imaging ( 5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration ( 2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=22
+Page 22 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F18"
+        "brand_name": [
+          "Fludeoxyglucose F18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available ( 6). To report SUSPECTED ADVERSE REACTIONS, contact The Feinstein Institute for Medical Research at 516-562-1042 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=23
+Page 23 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F18"
+        "brand_name": [
+          "Fludeoxyglucose F18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection USP with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available ( 6). To report SUSPECTED ADVERSE REACTIONS, contact Essential Isotopes LLC at 573-882-0245 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection USP, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=24
+Page 24 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F 18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available ( 6). To report SUSPECTED ADVERSE REACTIONS, contact The Washington University School of Medicine at 314-362-8426 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=25
+Page 25 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F 18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact PETNET Solutions, Inc. at 877-473-8638 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [see Dosage and Administration ( 2.5 )]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=26
+Page 26 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F18"
+        "brand_name": [
+          "Fludeoxyglucose F18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact The Feinstein Institute for Medical Research at 516-562-1042 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker [ see Dosage and Administration (2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=27
+Page 27 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F18"
+        "brand_name": [
+          "Fludeoxyglucose F18"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact CYCLOTOPE at 1-713-747-5686 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=28
+Page 28 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F18 Injection, USP with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Wisconsin Medical Cyclotron, LLC at 414-771-4208 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging (5.1). Blood glucose abnormalities: may cause suboptimal imaging (5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F18 Injection, USP, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker[see Dosage and Administration(2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F18 Injection, USP administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=29
+Page 29 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F-18"
+        "brand_name": [
+          "Fludeoxyglucose F18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Biomedical Research Foundation of Northwest Louisiana at 318-675-4100 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging(5.1). Blood glucose abnormalities: may cause suboptimal imaging(5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker[see Dosage and Administration(2.5)]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fludeoxyglucose+AND+F+AND+18+AND+Injection&limit=1&skip=30
+Page 30 of 31
+        "generic_name": [
+          "FLUDEOXYGLUCOSE F 18"
+        "brand_name": [
+          "Fludeoxyglucose F 18"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS The possibility of interactions of Fludeoxyglucose F 18 Injection with other drugs taken by patients undergoing PET imaging has not been studied."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Hypersensitivity reactions with pruritus, edema and rash have been reported in the post-marketing setting. Have emergency resuscitation equipment and personnel immediately available. Hypersensitivity reactions have occurred; have emergency resuscitation equipment and personnel immediately available (6). To report SUSPECTED ADVERSE REACTIONS, contact Midwest Positron Technology P.E.T.Operations at 563-391-0404 x125 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Radiation risks: use smallest dose necessary for imaging(5.1). Blood glucose abnormalities: may cause suboptimal imaging(5.2). 5.1 Radiation Risks Radiation-emitting products, including Fludeoxyglucose F 18 Injection, may increase the risk for cancer, especially in pediatric patients. Use the smallest dose necessary for imaging and ensure safe handling to protect the patient and health care worker[see Dosage and Administration(2.5) ]. 5.2 Blood Glucose Abnormalities In the oncology and neurology setting, suboptimal imaging may occur in patients with inadequately regulated blood glucose levels. In these patients, consider medical therapy and laboratory testing to assure at least two days of normoglycemia prior to Fludeoxyglucose F 18 Injection administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

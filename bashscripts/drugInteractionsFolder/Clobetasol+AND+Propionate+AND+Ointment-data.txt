@@ -1,0 +1,348 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=0
+Page 0 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact Hi-Tech Pharmacal Co., Inc. at 1-800-262-9010 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=1
+Page 1 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Clobetasol propionate topical solution is generally well tolerated when used for 2-week treatment periods. The most frequent adverse events reported for clobetasol propionate topical solution have been local and have included burning and/ or stinging sensation, which occurred in 29 of 294 patients; scalp pustules, which occurred in 3 of 294 patients; and tingling and folliculitis, each of which occurred in 2 of 294 patients. Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation, each of which occurred in 1 of 294 patients. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended. To report SUSPECTED ADVERSE REACTIONS, contact Hi-Tech Pharmacal Co., Inc. at 1-800-262-9010 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=2
+Page 2 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Cormax"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cormax Ointment is generally well tolerated when used for two-week treatment periods. The most frequent adverse reactions reported for clobetasol propionate ointment have been local and have included burning sensation, irritation, and itching. These occured in approximately 0.5% of the patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia, which occurred in approximately 0.3% of the patients. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatifis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=3
+Page 3 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In a controlled clinical trial with clobetasol propionate gel, the only reported adverse reaction that was considered to be drug related was a report of burning sensation (1.8% of treated patients). In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=4
+Page 4 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled clinical trial with clobetasol propionate gel, the only reported adverse reaction that was considered to be drug related was a report of burning sensation (1.8% of treated patients). In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=5
+Page 5 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact Hi-Tech Pharmacal Co., Inc. at 1-800-262-9010 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=6
+Page 6 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled clinical trial with clobetasol propionate gel, the only reported adverse reaction that was considered to be drug related was a report of burning sensation (1.8% of treated patients). In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=7
+Page 7 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Clobetasol propionate topical solution is generally well tolerated when used for 2-week treatment periods. The most frequent adverse events reported for clobetasol propionate topical solution have been local and have included burning and/or stinging sensation, which occurred in 29 of 294 patients; scalp pustules, which occurred in 3 of 294 patients; and tingling and folliculitis, each of which occurred in 2 of 294 patients. Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation, each of which occurred in 1 of 294 patients. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence; burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glycosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended. To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=8
+Page 8 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Clobetasol propionate topical solution is generally well tolerated when used for 2-week treatment periods. The most frequent adverse events reported for clobetasol propionate topical solution have been local and have included burning and/or stinging sensation, which occurred in 29 of 294 patients; scalp pustules, which occurred in 3 of 294 patients; and tingling and folliculitis, each of which occurred in 2 of 294 patients. Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation, each of which occurred in 1 of 294 patients. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended. To report SUSPECTED ADVERSE REACTIONS, contact Fougera Pharmaceuticals Inc., at 1-800-645-9833 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=9
+Page 9 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE OINTMENT"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse reactions reported for Clobetasol Propionate Ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=10
+Page 10 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact Hi-Tech Pharmacal Co., Inc. at 1-800-262-9010 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=11
+Page 11 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Clobetasol propionate topical solution is generally well tolerated when used for two-week treatment periods. The most frequent adverse events reported for clobetasol propionate topical solution have been local and have included burning and/or stinging sensation, which occurred in approximately 10% of the patients; scalp pustules, which occurred in approximately 1% of the patients; and tingling and folliculitis, each of which occurred in 0.7% of the patients. Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=12
+Page 12 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Cormax"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cormax Scalp Application is generally well tolerated when used for 2-week treatment periods. The most frequent adverse events reported for Cormax Scalp Application have been local and have included burning and/or stinging sensation, which occurred in 29 of 294 patients; scalp pustules, which occurred in 3 of 294 patients; and tingling and folliculitis, each of which occurred in 2 of 294 patients. Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation, each of which occurred in 1 of 294 patients. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended. To report SUSPECTED ADVERSE REACTIONS, contact ECR Pharmaceuticals Co., Inc. at 1-800-527-1955 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=13
+Page 13 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Temovate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse reactions reported for TEMOVATE® Cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for TEMOVATE® Ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=14
+Page 14 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=15
+Page 15 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Temovate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse reactions reported for TEMOVATE® Cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for TEMOVATE® Ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=16
+Page 16 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled clinical trial with clobetasol propionate gel, the only reported adverse reaction that was considered to be drug related was a report of burning sensation (1.8% of treated patients). In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=17
+Page 17 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Temovate Scalp Application"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS TEMOVATE® Scalp Application is generally well tolerated when used for 2-week treatment periods. The most frequent adverse events reported for TEMOVATE® Scalp Application have been local and have included burning and/or stinging sensation, which occurred in 29 of 294 patients; scalp pustules, which occurred in 3 of 294 patients; and tingling and folliculitis, each of which occurred in 2 of 294 patients. Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation, each of which occurred in 1 of 294 patients. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=18
+Page 18 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact Hi-Tech Pharmacal Co., Inc. at 1-800-262-9010 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=19
+Page 19 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Clobetasol propionate topical solution is generally well tolerated when used for two-week treatment periods. The most frequent adverse events reported for clobetasol propionate topical solution have been local and have included burning and/or stinging sensation, which occurred in approximately 10% of the patients; scalp pustules, which occurred in approximately 1% of the patients; and tingling and folliculitis, each of which occurred in 0.7% of the patients. Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=20
+Page 20 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled clinical trial with clobetasol propionate gel, the only reported adverse reaction that was considered to be drug related was a report of burning sensation (1.8% of treated patients). In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=21
+Page 21 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled clinical trial with clobetasol propionate gel, the only reported adverse reaction that was considered to be drug related was a report of burning sensation (1.8% of treated patients). In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=22
+Page 22 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=23
+Page 23 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Clobetasol propionate topical solution is generally well tolerated when used for 2-week treatment periods. The most frequent adverse events reported for clobetasol propionate topical solution have been local and have included burning and/ or stinging sensation, which occurred in 29 of 294 patients; scalp pustules, which occurred in 3 of 294 patients; and tingling and folliculitis, each of which occurred in 2 of 294 patients. Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation, each of which occurred in 1 of 294 patients. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended. To report SUSPECTED ADVERSE REACTIONS, contact Hi-Tech Pharmacal Co., Inc. at 1-800-262-9010 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=24
+Page 24 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In a controlled clinical trial with clobetasol propionate gel, the only reported adverse reaction that was considered to be drug related was a report of burning sensation (1.8% of treated patients). In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=25
+Page 25 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "clobetasol propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled clinical trial with clobetasol propionate gel, the only reported adverse reaction that was considered to be drug related was a report of burning sensation (1.8% of treated patients). In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=26
+Page 26 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Temovate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled trial with TEMOVATE® Gel, the only reported adverse reaction that was considered to be drug related was a report of burning sensation (1.8% of treated patients). In larger controlled clinical trials with other clobetasol propionate formulations, the most frequently reported adverse reactions have included burning, stinging, irritation, pruritus, erythema, folliculitis, cracking and fissuring of the skin, numbness of fingers, skin atrophy, and telangiectasia (all less than 2%). Cushing syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions are reported infrequently with topical corti-costeroids, but may occur more frequently with super-high potency corticosteroids such as TEMOVATE® Gel. These reactions are listed in approximate decreasing order of occurrence: dryness, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=27
+Page 27 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Clobetasol propionate topical solution is generally well tolerated when used for 2-week treatment periods. The most frequent adverse events reported for clobetasol propionate topical solution have been local and have included burning and/or stinging sensation, which occurred in 29 of 294 patients; scalp pustules, which occurred in 3 of 294 patients; and tingling and folliculitis, each of which occurred in 2 of 294 patients. Less frequent adverse events were itching and tightness of the scalp, dermatitis, tenderness, headache, hair loss, and eye irritation, each of which occurred in 1 of 294 patients. The following local adverse reactions are reported infrequently when topical corticosteroids are used as recommended. These reactions are listed in an approximately decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced reversible HPA axis suppression, manifestations of Cushing syndrome, hyperglycemia, and glucosuria in some patients. In rare instances, treatment (or withdrawal of treatment) of psoriasis with corticosteroids is thought to have exacerbated the disease or provoked the pustular form of the disease, so careful patient supervision is recommended. To report SUSPECTED ADVERSE REACTIONS, contact Taro Pharmaceuticals U.S.A., Inc., at 1-866-923-4914 or FDA at 1-800-FDA-1088."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clobetasol+AND+Propionate+AND+Ointment&limit=1&skip=28
+Page 28 of 29
+        "generic_name": [
+          "CLOBETASOL PROPIONATE"
+        "brand_name": [
+          "Clobetasol Propionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the most frequent adverse reactions reported for clobetasol propionate cream were burning and stinging sensation in 1% of treated patients. Less frequent adverse reactions were itching, skin atrophy, and cracking and fissuring of the skin. In controlled clinical trials, the most frequent adverse events reported for clobetasol propionate ointment were burning sensation, irritation, and itching in 0.5% of treated patients. Less frequent adverse reactions were stinging, cracking, erythema, folliculitis, numbness of fingers, skin atrophy, and telangiectasia. Cushing syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact Hi-Tech Pharmacal Co., Inc. at 1-800-262-9010 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

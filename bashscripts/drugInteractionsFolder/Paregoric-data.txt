@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Paregoric&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "PAREGORIC"
+        "brand_name": [
+          "Paregoric"
+ 
+      "drug_interactions": [
+        "Drug Interactions Morphine in combination with other narcotic analgesics, general anesthetics, phenothiazines, tranquilizers, sedative/hypnotics, or other CNS depressants (including alcohol) has additive depressant effects, and the patient should be so advised. When such combination therapy is contemplated, the dosage of one or both agents should be reduced."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions include lightheadedness, dizziness, sedation, nausea, and vomiting. These effects seem to be more prominent in ambulatory than in nonambulatory patients, and some of these adverse reactions may be alleviated if the patient lies down. Other adverse reactions include euphoria, dysphoria, constipation, and pruritus. To report SUSPECTED ADVERSE REACTIONS, contact Hi-Tech Pharmacal Co., Inc. at 1-800-262-9010 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

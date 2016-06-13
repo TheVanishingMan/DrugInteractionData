@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Corticorelin+AND+Ovine+AND+Triflutate+AND+for+AND+Injection&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "CORTICORELIN OVINE TRIFLUTATE"
+        "brand_name": [
+          "Acthrel"
+ 
+      "drug_interactions": [
+        "Drug Interactions The plasma ACTH response to corticorelin injection is inhibited or blunted in normal subjects pretreated with dexamethasone. The use of a heparin solution to maintain i.v. cannula patency during the corticorelin test is not recommended. A possible interaction between corticorelin and heparin may have been responsible for a major hypotensive reaction that occurred after corticorelin administration (see ADVERSE REACTIONS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypersensitivity reactions have been reported with 1 mcg/kg or 100 mcg/patient and include flushing of the face, neck, and upper chest; dyspnea, wheezing, urticaria, and angioedema (involving tongue, lip and facial swelling). Subjects have also reported an urge to take a deep breath, which occurs with a timing similar to, but less frequently than, that of flushing. Higher doses (>3 mcg/kg) are associated with more prolonged flushing, tachycardia, hypotension, dyspnea, and \"chest compression\" or tightness. In addition, at doses of >5 mcg/kg, significant increases in heart rate and decreases in blood pressure were observed. The cardiovascular effects occurred 2-3 minutes after injection and lasted for 30-60 minutes. The facial flushing was more prolonged, lasting up to 4 hours in some subjects. All signs and symptoms could be reduced by administering the drug as a 30-second infusion instead of by bolus injection. Total doses of up to 200 mcg of corticorelin were administered as a bolus injection to 60 men and women, including both healthy normal subjects and patients with endocrine disorders. In most cases, only minor adverse effects, such as transient flushing and feelings of dyspnea, were noted. However, a few patients with disorders of the pituitary-adrenal axis had major symptoms. One patient had a precipitous fall in blood pressure and pulse rate and developed asystole, which required resuscitation. In two patients with Cushing's disease and in one with secondary adrenal insufficiency, an \"absence-like\" loss of consciousness occurred, which started within a few seconds after injection of corticorelin and lasted from 10 seconds to 5 minutes. This was accompanied by a slight fall in blood pressure. One patient with a well documented seizure diathesis experienced a grand mal epileptic seizure following ACTHREL® administration. The patient had discontinued anti-convulsant therapy the day of the procedure (see PRECAUTIONS - Drug Interactions )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

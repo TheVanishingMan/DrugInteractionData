@@ -1,0 +1,340 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=0
+Page 0 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "METHIMAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) - The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. β-adrenergic blocking agents – Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides - Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be required. Theophylline - Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white blood cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=1
+Page 1 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=2
+Page 2 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "TAPAZOLE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupus-like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=3
+Page 3 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. ß-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be required. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=4
+Page 4 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupuslike syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=5
+Page 5 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. ß-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be required. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=6
+Page 6 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "METHIMAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) - The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. β-adrenergic blocking agents – Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides - Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be required. Theophylline - Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white blood cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=7
+Page 7 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "TAPAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) Due to potential inhibition of vitamin K activity by methimazole, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, especially before surgical procedures. β-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupus-like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=8
+Page 8 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) Due to potential inhibition of vitamin K activity by methimazole, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, especially before surgical procedures. ß-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A reduced dose of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupuslike syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=9
+Page 9 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. ß-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be required. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=10
+Page 10 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "TAPAZOLE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupus-like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=11
+Page 11 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "METHIMAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) - The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. β-adrenergic blocking agents – Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides - Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be required. Theophylline - Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white blood cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=12
+Page 12 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. ß-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be required. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=13
+Page 13 of 26
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=14
+Page 14 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral): Due to potential inhibition of vitamin K activity by methimazole, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, especially before surgical procedures. ß−adrenergic blocking agents: Hyperthyroidism may cause an increased clearance of beta-blockers with a high extraction ratio. A reduced dose of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides: Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed. Theophylline: Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupus-like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=15
+Page 15 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. ß-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be required. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=16
+Page 16 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupus-like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=17
+Page 17 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupus-like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=18
+Page 18 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. ß-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be required. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=19
+Page 19 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) Due to potential inhibition of vitamin K activity by methimazole, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, especially before surgical procedures. ß-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupus-like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc. at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=20
+Page 20 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral): The activity of oral anticoagulants may be potentiated by antivitamin- K activity attributed to methimazole. b−adrenergic blocking agents:Hyperthyroidism may cause increased clearance of beta blockers with a high extraction ratio. A dose reduction of betaadrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides: Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; reduced dosage of digitalis glycosides may be required. Theophylline: Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupuslike syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=21
+Page 21 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupuslike syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=22
+Page 22 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Anticoagulants (oral) Due to potential inhibition of vitamin K activity by methimazole, the activity of oral anticoagulants (e.g., warfarin) may be increased; additional monitoring of PT/INR should be considered, especially before surgical procedures. ß-adrenergic blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A reduced dose of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Serum digitalis levels may be increased when hyperthyroid patients on a stable digitalis glycoside regimen become euthyroid; a reduced dosage of digitalis glycosides may be needed. Theophylline Theophylline clearance may decrease when hyperthyroid patients on a stable theophylline regimen become euthyroid; a reduced dose of theophylline may be needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupuslike syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=23
+Page 23 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=24
+Page 24 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Anticoagulants (oral) The activity of oral anticoagulants may be potentiated by anti-vitamin-K activity attributed to methimazole. blocking agents Hyperthyroidism may cause an increased clearance of beta blockers with a high extraction ratio. A dose reduction of beta-adrenergic blockers may be needed when a hyperthyroid patient becomes euthyroid. Digitalis glycosides Theophylline"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoiesis (agranulocytosis, granulocytopenia, and thrombocytopenia), aplastic anemia, drug fever, a lupus like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy. It should be noted that about 10% of patients with untreated hyperthyroidism have leukopenia (white-blood-cell count of less than 4,000/mm3), often with relative granulopenia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methimazole&limit=1&skip=25
+Page 25 of 26
+        "generic_name": [
+          "METHIMAZOLE"
+        "brand_name": [
+          "Methimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Major adverse reactions (which occur with much less frequency than the minor adverse reactions) include inhibition of myelopoieses (agranulocytosis, granulocytopenia, thrombocytopenia, and aplastic anemia), drug fever, a lupus-like syndrome, insulin autoimmune syndrome (which can result in hypoglycemic coma), hepatitis (jaundice may persist for several weeks after discontinuation of the drug), periarteritis, and hypoprothrombinemia. Nephritis occurs very rarely. Minor adverse reactions include skin rash, urticaria, nausea, vomiting, epigastric distress, arthralgia, paresthesia, loss of taste, abnormal loss of hair, myalgia, headache, pruritus, drowsiness, neuritis, edema, vertigo, skin pigmentation, jaundice, sialadenopathy, and lymphadenopathy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,28 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colchicinum+AND+4X+AND+Transdermal+AND+Gel&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "ECHINACEA ANGUSTIFOLIA, ECHINACEA PURPUREA, ACONITUM NAPELLUS, ARNICA MONTANA, CALENDULA OFFICIANALIS, HAMAMELIS VIRGINIANA, BELLADONNA, BELLIS PERENNIS, CHAMOMILLIA, MILLEFOLIUM, HYPERICUM PERFORATUM, SYMPHYTUM OFFICINALE, COLCHICINUM"
+        "brand_name": [
+          "TRANZGEL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Rarely, allergic skin reactions may occur. These effects are transient and will clear after a few days."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS For external use only. direct patient not to ingest TRANZEL and to avoid contact with they eyes, mucous membranes, wounds, and damaged skin. If a rash develops, patient should discontinue use until rash clears. After the disappearance of rash, patient can try TRANZGEL again on a test area and monitor the site for additional results. If no rash or redness results, then patient can resume use. However, if the rash persists or redevelops, use should be discontinued. Direct the patient to keep this product out of reach of children and seek medical help or contact a Poison Control Center immediately if swallowed. In the homeopathic concentrations used to make TRANZGEL, there are no known or expected interactions with other drugs or laboratory tests. In addition, the homeopathic concentrations used are below any levels with known or suspected toxicities."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Colchicinum+AND+4X+AND+Transdermal+AND+Gel&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "COLCHICINUM 4X"
+        "brand_name": [
+          "COLCIGEL"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS ColciGel® (Colchicinum 4X) is a substrate of the efflux transporter P-glycoprotein (P-gp). Of the cytochrome P450 enzymes tested, CYP3A4 was mainly involved in the metabolism of colchicinum. If ORAL colchicine is administered with drugs that inhibit P-gp, most of which also inhibit CYP3A4, increased concentrations of colchicinum are likely. Fatal drug interactions have been reported. Topical application of ColciGel® has demonstrated insignificant systemic absorption in animal testing and confirmed in limited human pharmacokinetic evaluations and, therefore, poses a limited risk of clinically significant drug interactions. Physicians should, however, ensure that patients are suitable candidates for treatment with ColciGel® and remain alert for signs and symptoms of toxicities related to increased colchicinum exposure as a result of a drug interaction. Signs and symptoms of ColciGel® toxicity should be evaluated promptly and, if toxicity is suspected, ColciGel® should be discontinued immediately."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Prophylaxis and Treatment of Gout Flares: The most commonly reported adverse reaction in clinical trials for the prophylaxis and treatment of gout was mild skin irritation at the site of application."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

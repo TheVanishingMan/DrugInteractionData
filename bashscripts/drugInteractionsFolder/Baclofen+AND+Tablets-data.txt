@@ -1,0 +1,798 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=0
+Page 0 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=1
+Page 1 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=2
+Page 2 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=3
+Page 3 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion.Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=4
+Page 4 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTION The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric Neuropsychiatric : Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular Cardiovascular : Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal Gastrointestinal : Nausea (4 to 12%), constipation (2 to 6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary Genitourinary : Urinary frequency (2 to 6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other Other : Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen; increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=5
+Page 5 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=6
+Page 6 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=7
+Page 7 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=8
+Page 8 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=9
+Page 9 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "BACLOFEN"
+ 
+      "adverse_reactions": [
+        "ADVESE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=10
+Page 10 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=11
+Page 11 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=12
+Page 12 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=13
+Page 13 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=14
+Page 14 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTION The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=15
+Page 15 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=16
+Page 16 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10-63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5-15%), weakness (5-15%) and fatigue (2-4%). Others reported: Neuropsychiatric: Confusion (1-11%), headache (4-8%), insomnia (2-7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0-9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4-12%), constipation (2-6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2-6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=17
+Page 17 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=18
+Page 18 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=19
+Page 19 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "BACLOFEN"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONSThe most common is transient drowsiness (10-63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5-15%), weakness (5-15%) and fatigue (2-4%). Others reported: Neuropsychiatric: Confusion (1-11%), headache (4-8%), insomnia (2-7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0-9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4-12%), constipation (2-6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2-6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=20
+Page 20 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: : Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Neuropsychiatric : Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Cardiovascular : Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Gastrointestinal : Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Genitourinary : Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Other Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=21
+Page 21 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=22
+Page 22 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (1063%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (515%), weakness (515%) and fatigue (24%). Others reported: Neuropsychiatric: Confusion (111%), headache (48%), insomnia (2 Cardiovascular: Hypotension (09%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (412%), constipation (2 Genitourinary: Urinary frequency (2 Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=23
+Page 23 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=24
+Page 24 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=25
+Page 25 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (1063%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (515%), weakness (515%) and fatigue (24%). Others reported: Neuropsychiatric: Confusion (111%), headache (48%), insomnia (2 Cardiovascular: Hypotension (09%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (412%), constipation (2 Genitourinary: Urinary frequency (2 Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=26
+Page 26 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=27
+Page 27 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=28
+Page 28 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTION The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric Neuropsychiatric : Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular Cardiovascular : Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal Gastrointestinal : Nausea (4 to 12%), constipation (2 to 6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary Genitourinary : Urinary frequency (2 to 6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other Other : Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen; increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=29
+Page 29 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=30
+Page 30 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONSThe most common is transient drowsiness (10-63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5-15%), weakness (5-15%) and fatigue (2-4%). Others reported: Neuropsychiatric: Confusion (1-11%), headache (4-8%), insomnia (2-7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0-9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4-12%), constipation (2-6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2-6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=31
+Page 31 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=32
+Page 32 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "BACLOFEN"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=33
+Page 33 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=34
+Page 34 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=35
+Page 35 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Neuropsychiatric: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Cardiovascular: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Gastrointestinal: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Genitourinary: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Other: Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=36
+Page 36 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=37
+Page 37 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=38
+Page 38 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=39
+Page 39 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=40
+Page 40 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=41
+Page 41 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=42
+Page 42 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: : Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Neuropsychiatric : Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Cardiovascular : Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Gastrointestinal : Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Genitourinary : Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar. Other"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=43
+Page 43 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONThe most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritis, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen; increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=44
+Page 44 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=45
+Page 45 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=46
+Page 46 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "BACLOFEN"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=47
+Page 47 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10-63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5-15%), weakness (5-15%) and fatigue(2-4%). Others reported: Neuropsychiatric: Confusion (1-11%), headache (4-8%), insomnia (2-7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0-9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4-12%), constipation (2-6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2-6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to the drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=48
+Page 48 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTION The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=49
+Page 49 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=50
+Page 50 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=51
+Page 51 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=52
+Page 52 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=53
+Page 53 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen; increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=54
+Page 54 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=55
+Page 55 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion.Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=56
+Page 56 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=57
+Page 57 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=58
+Page 58 of 67
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=59
+Page 59 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=60
+Page 60 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=61
+Page 61 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10% to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5% to 15%), weakness (5% to 15%) and fatigue (2% to 4%). Others reported Neuropsychiatric: Confusion (1% to 11%), headache (4% to 8%), insomnia (2% to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0% to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4% to 12%), constipation (2% to 6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2% to 6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=62
+Page 62 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=63
+Page 63 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving Baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: : Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Neuropsychiatric : Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Cardiovascular : Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Gastrointestinal : Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Genitourinary : Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar. Other"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=64
+Page 64 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=65
+Page 65 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10 to 63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5 to 15%), weakness (5 to 15%) and fatigue (2 to 4%). Others reported: Neuropsychiatric: Confusion (1 to 11%), headache (4 to 8%), insomnia (2 to 7%); and rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0 to 9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4 to 12%), constipation (2 to 6%); and rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2 to 6%); and rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Baclofen+AND+Tablets&limit=1&skip=66
+Page 66 of 67
+        "generic_name": [
+          "BACLOFEN"
+        "brand_name": [
+          "Baclofen"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most common is transient drowsiness (10–63%). In one controlled study of 175 patients, transient drowsiness was observed in 63% of those receiving baclofen compared to 36% of those in the placebo group. Other common adverse reactions are dizziness (5–15%), weakness (5–15%) and fatigue (2–4%). Others reported: Neuropsychiatric: Confusion (1–11%), headache (4–8%), insomnia (2–7%); and, rarely, euphoria, excitement, depression, hallucinations, paresthesia, muscle pain, tinnitus, slurred speech, coordination disorder, tremor, rigidity, dystonia, ataxia, blurred vision, nystagmus, strabismus, miosis, mydriasis, diplopia, dysarthria, epileptic seizure. Cardiovascular: Hypotension (0–9%). Rare instances of dyspnea, palpitation, chest pain, syncope. Gastrointestinal: Nausea (4–12%), constipation (2–6%); and, rarely, dry mouth, anorexia, taste disorder, abdominal pain, vomiting, diarrhea, and positive test for occult blood in stool. Genitourinary: Urinary frequency (2–6%); and, rarely, enuresis, urinary retention, dysuria, impotence, inability to ejaculate, nocturia, hematuria. Other: Instances of rash, pruritus, ankle edema, excessive perspiration, weight gain, nasal congestion. Some of the CNS and genitourinary symptoms may be related to the underlying disease rather than to drug therapy. The following laboratory tests have been found to be abnormal in a few patients receiving baclofen: increased SGOT, elevated alkaline phosphatase, and elevation of blood sugar."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

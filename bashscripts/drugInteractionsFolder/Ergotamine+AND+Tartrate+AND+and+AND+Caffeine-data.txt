@@ -1,0 +1,110 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergotamine+AND+Tartrate+AND+and+AND+Caffeine&limit=1&skip=0
+Page 0 of 8
+        "generic_name": [
+          "ERGOTAMINE TARTRATE AND CAFFEINE"
+        "brand_name": [
+          "ERGOTAMINE"
+ 
+      "drug_interactions": [
+        "Drug Interactions CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors) See CONTRAINDICATIONS and WARNINGS. Ergotamine tartrate and caffeine should not be administered with other vasoconstrictors. Use with sympathominetics (pressor agents) may cause extreme elevation of blood pressure. The beta-blocker Inderal (propranolol) has been reported to potentiate the vasoconstrictive action of ergotamine tartrate and caffeine by blocking the vasodilating property of epinephrine. Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy. The blood levels of ergotamine-containing drugs are reported to be elevated by the concomitant administration of macrolide antibiotics and vasospastic reactions have been reported with therapeutic doses of the ergotamine-containing drugs when coadministered with those antibiotics."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Cardiovascular: Vasoconstrictive complications of a serious nature may occur at times. These include ischemia, cyanosis, absence of pulse, cold extremities, gangrene, precordial distress and pain, EKG changes and muscle pains. Although these effects occur most commonly with long-term therapy at relatively high doses, they have also been reported with short-term or normal doses. Other cardiovascular adverse effects include transient tachycardia or bradycardia and hypertension. Gastrointestinal: Nausea and vomiting; rectal or anal ulcer (from overuse of suppositories). Neurological: paresthesias, numbness, weakness, and vertigo. Allergic: Localized edema and itching. Fibrotic Complications: (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergotamine+AND+Tartrate+AND+and+AND+Caffeine&limit=1&skip=1
+Page 1 of 8
+        "generic_name": [
+          "ERGOTAMINE TARTRATE"
+        "brand_name": [
+          "Ergomar"
+ 
+      "drug_interactions": [
+        "Drug Interactions CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease inhibitors) See CONTRAINDICATIONS and WARNINGS. Ergomar® Sublingual Tablets (Ergotamine Tartrate Sublingual Tablets USP) should not be administered with other vasoconstrictors. Use with sympathomimetics (pressor agents) may cause extreme elevation of blood pressure. The beta-blocker Inderal (propranolol) has been reported to potentiate the vasoconstrictive action of ergotamine by blocking the vasodilating property of epinephrine. Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy.The blood levels of ergotamine-containing drugs are reported to be elevated by the concomitant administration of macrolide antibiotics and vasospastic reactions have been reported with therapeutic doses of the ergotamine-containing drugs when coadministered with these antibiotics."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Vasoconstrictive complications of a serious nature may occur at times. These include ischemia, cyanosis, absence of pulse, cold extremities, gangrene, precordial distress and pain, EKG changes and muscle pains. Although these effects occur most commonly with long-term therapy at relatively high doses, they have also been reported with short-term or normal doses. Other cardiovascular adverse effects include transient tachycardia or bradycardia and hypertension. Gastrointestinal: Nausea and vomiting Neurological: paresthesias, numbness, weakness, and vertigo. Allergic: Localized edema and itching. Fibrotic Complications: (See WARNINGS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergotamine+AND+Tartrate+AND+and+AND+Caffeine&limit=1&skip=2
+Page 2 of 8
+        "generic_name": [
+          "ERGOTAMINE TARTRATE AND CAFFEINE"
+        "brand_name": [
+          "CAFERGOT"
+ 
+      "drug_interactions": [
+        "Drug Interactions: CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors): See CONTRAINDICATIONS and WARNINGS CAFERGOT®(ergotamine tartrate and caffeine tablets, USP) should not be administered with other vasoconstrictors. Use with sympathomimetics (pressor agents) may cause extreme elevation of blood pressure. The beta-blocker Inderal (propranolol) has been reported to potentiate the vasoconstrictive action of CAFERGOT®(ergotamine tartrate and caffeine tablets, USP) by blocking the vasodilating property of epinephrine. Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy. The blood levels of ergotamine-containing drugs are reported to be elevated by the concomitant administration of macrolide antibiotics and vasospastic reactions have been reported with therapeutic doses of the ergotamine-containing drugs when coadministered with these antibiotics."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Vasoconstrictive complications of a serious nature may occur at times. These include ischemia, cyanosis, absence of pulse, cold extremities, gangrene, precordial distress and pain, EKG changes and muscle pains. Although these effects occur most commonly with long-term therapy at relatively high doses, they have also been reported with short-term or normal doses. Other cardiovascular adverse effects include transient tachycardia or bradycardia and hypertension. Gastrointestinal: Nausea and vomiting Neurological: Paresthesias, numbness, weakness, and vertigo Allergic: Localized edema and itching. Fibrotic Complications: (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergotamine+AND+Tartrate+AND+and+AND+Caffeine&limit=1&skip=3
+Page 3 of 8
+        "generic_name": [
+          "ERGOTAMINE TARTRATE AND CAFFEINE"
+        "brand_name": [
+          "MIGERGOT"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Vasoconstrictive complications of a serious nature may occur at times. These include ischemia, cyanosis, absence of pulse, cold extremities, gangrene, precordial distress and pain, EKG changes and muscle pains. Although these effects occur most commonly with long-term therapy at relatively high doses, they have also been reported with short-term or normal doses. Other cardiovascular adverse effects include transient tachycardia or bradycardia and hypertension. Gastrointestinal: Nausea and vomiting; rectal or anal ulcer (from overuse of suppositories). Neurological: Paresthesias, numbness, weakness, and vertigo. Allergic: Localized edema and itching. Fibrotic Complications: (See WARNINGS). To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergotamine+AND+Tartrate+AND+and+AND+Caffeine&limit=1&skip=4
+Page 4 of 8
+        "generic_name": [
+          "ERGOTAMINE TARTRATE AND CAFFEINE"
+        "brand_name": [
+          "ergotamine tartrate and caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors) See CONTRAINDICATIONS and WARNINGS . Ergotamine tartrate and caffeine tablets should not be administered with other vasoconstrictors. Use with sympathomimetics (pressor agents) may cause extreme elevation of blood pressure. The beta-blocker Inderal (propranolol) has been reported to potentiate the vasoconstrictive action of ergotamine tartrate and caffeine tablets by blocking the vasodilating property of epinephrine. Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy. The blood levels of ergotamine-containing drugs are reported to be elevated by the concomitant administration of macrolide antibiotics and vasospastic reactions have been reported with therapeutic doses of the ergotamine-containing drugs when coadministered with these antibiotics."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Vasoconstrictive complications of a serious nature may occur at times. These include ischemia, cyanosis, absence of pulse, cold extremities, gangrene, precordial distress and pain, EKG changes and muscle pains. Although these effects occur most commonly with long-term therapy at relatively high doses, they have also been reported with short-term or normal doses. Other cardiovascular adverse effects include transient tachycardia or bradycardia and hypertension. Gastrointestinal: Nausea and vomiting Neurological: Paresthesias, numbness, weakness, and vertigo Allergic: Localized edema and itching. Fibrotic Complications: (see WARNINGS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergotamine+AND+Tartrate+AND+and+AND+Caffeine&limit=1&skip=5
+Page 5 of 8
+        "generic_name": [
+          "ERGOTAMINE TARTRATE AND CAFFEINE"
+        "brand_name": [
+          "Migergot"
+ 
+      "drug_interactions": [
+        "Drug Interactions CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors) See CONTRAINDICATIONS and WARNINGS. Ergotamine tartrate and caffeine should not be administered with other vasoconstrictors. Use with sympathomimetics (pressor agents) may cause extreme elevation of blood pressure. The beta-blocker Inderal (propranolol) has been reported to potentiate the vasoconstrictive action of ergotamine tartrate and caffeine by blocking the vasodilating property of epinephrine. Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy. The blood levels of ergotamine-containing drugs are reported to be elevated by the concomitant administration of macrolide antibiotics and vasospastic reactions have been reported with therapeutic doses of the ergotamine-containing drugs when coadministered with these antibiotics."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Vasoconstrictive complications of a serious nature may occur at times. These include ischemia, cyanosis, absence of pulse, cold extremities, gangrene, precordial distress and pain, EKG changes and muscle pains. Although these effects occur most commonly with long-term therapy at relatively high doses, they have also been reported with short-term or normal doses. Other cardiovascular adverse effects include transient tachycardia or bradycardia and hypertension. Gastrointestinal: Nausea and vomiting; rectal or anal ulcer (from overuse of suppositories). Neurological: Paresthesias, numbness, weakness, and vertigo. Allergic: Localized edema and itching. Fibrotic Complications: (See WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergotamine+AND+Tartrate+AND+and+AND+Caffeine&limit=1&skip=6
+Page 6 of 8
+        "generic_name": [
+          "ERGOTAMINE TARTRATE AND CAFFEINE"
+        "brand_name": [
+          "Cafergot"
+ 
+      "drug_interactions": [
+        "Drug Interactions CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors) See CONTRAINDICATIONS and WARNINGS. CAFERGOT® (ergotamine tartrate and caffeine tablets, USP) should not be administered with other vasoconstrictors. Use with sympathomimetics (pressor agents) may cause extreme elevation of blood pressure. The beta-blocker Inderal (propranolol) has been reported to potentiate the vasoconstrictive action of CAFERGOT® (ergotamine tartrate and caffeine tablets, USP) by blocking the vasodilating property of epinephrine. Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy. The blood levels of ergotamine-containing drugs are reported to be elevated by the concomitant administration of macrolide antibiotics and vasospastic reactions have been reported with therapeutic doses of the ergotamine-containing drugs when coadministered with these antibiotics."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Vasoconstrictive complications of a serious nature may occur at times. These include ischemia, cyanosis, absence of pulse, cold extremities, gangrene, precordial distress and pain, EKG changes and muscle pains. Although these effects occur most commonly with long-term therapy at relatively high doses, they have also been reported with short-term or normal doses. Other cardiovascular adverse effects include transient tachycardia or bradycardia and hypertension. Gastrointestinal: Nausea and vomiting. Neurological: paresthesias, numbness, weakness, and vertigo. Allergic: Localized edema and itching. Fibrotic Complications (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergotamine+AND+Tartrate+AND+and+AND+Caffeine&limit=1&skip=7
+Page 7 of 8
+        "generic_name": [
+          "ERGOTAMINE TARTRATE AND CAFFEINE"
+        "brand_name": [
+          "Ergotamine Tartrate and Caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions: CYP 3A4 Inhibitors (e.g. Macrolide Antibiotics and Protease Inhibitors) SeeCONTRAINDICATIONS and WARNINGS Ergotamine tartrate and caffeine should not be administered with other vasoconstrictors. Use with sympathomimetics (pressor agents) may cause extreme elevation of blood pressure. The beta-blocker Inderal (propranolol) has been reported to potentiate the vasoconstrictive action of ergotamine tartrate and caffeine by blocking the vasodilating property of epinephrine. Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy. The blood levels of ergotamine-containing drugs are reported to be elevated by the concomitant administration of macrolide antibiotics and vasospastic reactions have been reported with therapeutic doses of the ergotamine-containing drugs when coadministered with these antibiotics."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Vasoconstrictive complications of a serious nature may occur at times. These include ischemia, cyanosis, absence of pulse, cold extremities, gangrene, precordial distress and pain, EKG changes and muscle pains. Although these effects occur most commonly with long-term therapy at relatively high doses, they have also been reported with short-term or normal doses. Other cardiovascular adverse effects include transient tachycardia or bradycardia and hypertension. Gastrointestinal: Nausea and vomiting Neurological: Paresthesias, numbness, weakness, and vertigo Allergic: Localized edema and itching. Fibrotic Complications: (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,822 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=0
+Page 0 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "LEADER MAXIMUM STRENGHT URINARY PAIN RELIEF"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=1
+Page 1 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see OVERDOSAGE Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=2
+Page 2 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=3
+Page 3 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "AZO Urinary Pain Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=4
+Page 4 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=5
+Page 5 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HCL"
+        "brand_name": [
+          "Phenazopyridine HCl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse events have been reported: CNS: headache. Gastrointestinal: nausea, vomiting and diarrhea. Dermatologic and Hypersensitivity: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis. Hematologic: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. Other: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=6
+Page 6 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Pyridium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. At anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see OVERDOSAGE section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=7
+Page 7 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDOCHLORIDE"
+        "brand_name": [
+          "Uricalm Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=8
+Page 8 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=9
+Page 9 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=10
+Page 10 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=11
+Page 11 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=12
+Page 12 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "TOPCARE MAXIMUM STRENGTH URINARY PAIN RELIEF"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=13
+Page 13 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "PHENAZOPYRIDINE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=14
+Page 14 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=15
+Page 15 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "AZO Urinary Pain Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=16
+Page 16 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=17
+Page 17 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Preferred Maximum Strength Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=18
+Page 18 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see ). OVERDOSAGE Section"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=19
+Page 19 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Preferred Plus Maximum Strength Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=20
+Page 20 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine HCl 100mg"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The interaction of phenazopyridine with other drugs has not been studied in a systematic manner. However, the medical literature to date suggests that no significant interactions have been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse events have been reported: CNS: headache. Gastrointestinal: nausea, vomiting and diarrhea. Dermatologic and Hypersensitivity: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis Hematologic: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. Other: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=21
+Page 21 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=22
+Page 22 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=23
+Page 23 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Walgreens Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=24
+Page 24 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see OVERDOSAGE Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=25
+Page 25 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=26
+Page 26 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Sunmark Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=27
+Page 27 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=28
+Page 28 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Select Brand Maximum Strength Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=29
+Page 29 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "AZO Urinary Tract Health"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=30
+Page 30 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see OVERDOSAGE Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=31
+Page 31 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see ). Overdosage Section"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=32
+Page 32 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see OVERDOSAGE Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=33
+Page 33 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS The interaction of phenazopyridine with other drugs has not been studied in a systematic manner. However, the medical literature to date suggests that no significant interactions have been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS THE FOLLOWING ADVERSE EVENTS HAVE BEEN REPORTED: CNS: headache. GASTROINTESTINAL: nausea, vomiting and diarrhea. DERMATOLOGIC AND HYPERSENSITIVITY: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis. HEMATOLOGIC: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. OTHER: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=34
+Page 34 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Leader Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=35
+Page 35 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=36
+Page 36 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=37
+Page 37 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HCL"
+        "brand_name": [
+          "Phenazopyridine HCl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse events have been reported: CNS: headache. Gastrointestinal: nausea, vomiting and diarrhea. Dermatologic and Hypersensitivity: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis. Hematologic: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. Other: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=38
+Page 38 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "LEADER Azo Tabs Urinary Tract Analgesic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=39
+Page 39 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HCL"
+        "brand_name": [
+          "Phenazopyridine HCl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse events have been reported: CNS: headache. Gastrointestinal: nausea, vomiting and diarrhea. Dermatologic and Hypersensitivity: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis. Hematologic: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. Other: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=40
+Page 40 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine HCl 200mg"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The interaction of phenazopyridine with other drugs has not been studied in a systematic manner. However, the medical literature to date suggests that no significant interactions have been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse events have been reported: CNS: headache. Gastrointestinal: nausea, vomiting and diarrhea. Dermatologic and Hypersensitivity: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis Hematologic: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. Other: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=41
+Page 41 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Quality Choice Maximum Strength Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=42
+Page 42 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=43
+Page 43 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine hydrochloride"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=44
+Page 44 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=45
+Page 45 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Pyridium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see OVERDOSAGE section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=46
+Page 46 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HCL"
+        "brand_name": [
+          "Phenazopyridine HCl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse events have been reported: headache. CNS: nausea, vomiting and diarrhea. Gastrointestinal: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis. Dermatologic and Hypersensitivity: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. Hematologic: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis. Other:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=47
+Page 47 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "AZO GESIC"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=48
+Page 48 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "AZO Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=49
+Page 49 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=50
+Page 50 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=51
+Page 51 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Walgreens Urinary Pain Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=52
+Page 52 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Preferred Maximum Strength Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=53
+Page 53 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=54
+Page 54 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see OVERDOSAGE Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=55
+Page 55 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride 97.5mg"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=56
+Page 56 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see OVERDOSAGE Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=57
+Page 57 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Sunmark Urinary Pain Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=58
+Page 58 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Preferred Plus Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=59
+Page 59 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HCL"
+        "brand_name": [
+          "Phenazopyridine HCl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse events have been reported: CNS: headache. Gastrointestinal: nausea, vomiting and diarrhea. Dermatologic and Hypersensitivity: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis. Hematologic: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. Other: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=60
+Page 60 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=61
+Page 61 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=62
+Page 62 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=63
+Page 63 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Uristat"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=64
+Page 64 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS The interaction of phenazopyridine with other drugs has not been studied in a systematic manner. However, the medical literature to date suggests that no significant interactions have been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS THE FOLLOWING ADVERSE EVENTS HAVE BEEN REPORTED: CNS: headache. GASTROINTESTINAL: nausea, vomiting and diarrhea. DERMATOLOGIC AND HYPERSENSITIVITY: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis. HEMATOLOGIC: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. OTHER: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis."
+      "warnings_and_cautions": [
+        "PRECAUTIONS"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=65
+Page 65 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Skopko Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=66
+Page 66 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see OVERDOSAGE Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=67
+Page 67 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The interaction of phenazopyridine with other drugs has not been studied in a systematic manner. However, the medical literature to date suggests that no significant interactions have been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse events have been reported: CNS: headache. Gastrointestinal: nausea, vomiting and diarrhea. Dermatologic and Hypersensitivity: rash, pruritus, discoloration, anaphylactoid-like reaction and hypersensitivity hepatitis Hematologic: methemoglobinemia, hemolytic anemia, potential hemolytic agent in G-6-PD deficiency, sulfhemoglobinemia. Other: visual disturbances, renal and hepatic toxicity usually associated with overdose, renal calculi, jaundice, discoloration of body fluids and aseptic meningitis. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=68
+Page 68 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Phenazopyridine hydrochloride 95mg"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=69
+Page 69 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE"
+        "brand_name": [
+          "Phenazopyridine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Headache, rash, pruritus and occasional gastrointestinal disturbance. An anaphylactoid-like reaction has been described. Methemoglobinemia, hemolytic anemia, renal and hepatic toxicity have been reported, usually at overdosage levels (see Overdosage Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=70
+Page 70 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "Leader Maximum Strength Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phenazopyridine&limit=1&skip=71
+Page 71 of 72
+        "generic_name": [
+          "PHENAZOPYRIDINE HYDROCHLORIDE"
+        "brand_name": [
+          "WinCo Maximum Strength Urinary Pain Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

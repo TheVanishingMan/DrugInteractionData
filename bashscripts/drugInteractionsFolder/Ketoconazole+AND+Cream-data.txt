@@ -1,0 +1,216 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=0
+Page 0 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely sodium sulfite or propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=1
+Page 1 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=2
+Page 2 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with Ketoconazole Cream 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with Ketoconazole Cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with Ketoconazole Cream or one of its excipients, namely sodium sulfite or propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=3
+Page 3 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely sodium sulfite or propylene glycol. To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc., at 1-800-922-1036 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=4
+Page 4 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=5
+Page 5 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "KETOCONAZOLE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION During clinical trials 45 (5.0%) of 905 patients treated with Ketoconazole Cream 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with Ketoconazole Cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with Ketoconazole Cream or one of its excipients, namely sodium sulfite or propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=6
+Page 6 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=7
+Page 7 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely sodium sulfite or propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=8
+Page 8 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=9
+Page 9 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=10
+Page 10 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=11
+Page 11 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=12
+Page 12 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with Ketoconazole Cream 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with Ketoconazole Cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with Ketoconazole Cream or one of its excipients, namely sodium sulfite or propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=13
+Page 13 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with Ketoconazole Cream 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with Ketoconazole Cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with Ketoconazole Cream or one of its excipients, namely sodium sulfite or propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=14
+Page 14 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with ketoconazole cream, 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with ketoconazole cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with ketoconazole cream or one of its excipients, namely propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=15
+Page 15 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with Ketoconazole Cream 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with Ketoconazole Cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with Ketoconazole Cream or one of its excipients, namely sodium sulfite or propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=16
+Page 16 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with Ketoconazole Cream 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with Ketoconazole Cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with Ketoconazole Cream or one of its excipients, namely sodium sulfite or propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketoconazole+AND+Cream&limit=1&skip=17
+Page 17 of 18
+        "generic_name": [
+          "KETOCONAZOLE"
+        "brand_name": [
+          "Ketoconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials 45 (5.0%) of 905 patients treated with Ketoconazole Cream 2% and 5 (2.4%) of 208 patients treated with placebo reported side effects consisting mainly of severe irritation, pruritus and stinging. One of the patients treated with Ketoconazole Cream developed a painful allergic reaction. In worldwide postmarketing experience, rare reports of contact dermatitis have been associated with Ketoconazole Cream or one of its excipients, namely sodium sulfite or propylene glycol."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

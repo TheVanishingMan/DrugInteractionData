@@ -1,0 +1,384 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=0
+Page 0 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=1
+Page 1 of 32
+        "generic_name": [
+          "NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE"
+        "brand_name": [
+          "NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of the secondary infection has occurred after use of combination containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs. To report SUSPECTED ADVERSE REACTIONS, contact Fera Pharmaceuticals, LLC at (414) 434-6604, Monday-Friday 9am-5pm EST, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=2
+Page 2 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/anti-infective combination drugs which can be attributed to the corticosteroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the corticosteroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=3
+Page 3 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=4
+Page 4 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE, AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=5
+Page 5 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Maxitrol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/anti-infective combination drugs which can be attributed to the corticosteroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the corticosteroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=6
+Page 6 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE, AND DEXAMETHASONE"
+        "brand_name": [
+          "NPD"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=7
+Page 7 of 32
+        "generic_name": [
+          "NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE"
+        "brand_name": [
+          "NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of the secondary infection has occurred after use of combination containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs. To report SUSPECTED ADVERSE REACTIONS, contact Fera Pharmaceuticals, LLC at (414) 434-6604, Monday-Friday 9am-5pm EST, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=8
+Page 8 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=9
+Page 9 of 32
+        "generic_name": [
+          "NEOMYCIN, POLYMYXIN B AND DEXAMETHASONE"
+        "brand_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/anti-infective combination drugs which can be attributed to the corticosteroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the corticosteroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing corticosteroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=10
+Page 10 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=11
+Page 11 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=12
+Page 12 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/anti-infective combination drugs which can be attributed to the corticosteroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the corticosteroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=13
+Page 13 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=14
+Page 14 of 32
+        "generic_name": [
+          "NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=15
+Page 15 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE, AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=16
+Page 16 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=17
+Page 17 of 32
+        "generic_name": [
+          "NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=18
+Page 18 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/anti-infective combination drugs which can be attributed to the corticosteroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the corticosteroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing corticosteroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=19
+Page 19 of 32
+        "generic_name": [
+          "NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE"
+        "brand_name": [
+          "Methedex"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=20
+Page 20 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE, AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=21
+Page 21 of 32
+        "generic_name": [
+          "NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=22
+Page 22 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE, AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=23
+Page 23 of 32
+        "generic_name": [
+          "NEOMYCIN, POLYMYXIN B SULFATES, DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of the secondary infection has occurred after use of combination containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs. To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=24
+Page 24 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "NEO-POLY-DEX"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=25
+Page 25 of 32
+        "generic_name": [
+          "NEOMYCIN, POLYMYXIN B SULFATES, DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of the secondary infection has occurred after use of combination containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs. To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=26
+Page 26 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE, AND DEXAMETHASONE"
+        "brand_name": [
+          "NEO-POLY-DEX"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=27
+Page 27 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/anti-infective combination drugs which can be attributed to the corticosteroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the corticosteroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=28
+Page 28 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "MAXITROL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation ; and delayed wound healing. Secondary Infection: The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=29
+Page 29 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=30
+Page 30 of 32
+        "generic_name": [
+          "NEOMYCIN POLYMYXIN B SULFATES AND DEXAMETHASONE"
+        "brand_name": [
+          "NEOMYCIN POLYMYXIN B SULFATES AND DEXAMETHASONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the antiinfective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredients are allergic sensitizations. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Neomycin+AND+and+AND+Dexamethasone&limit=1&skip=31
+Page 31 of 32
+        "generic_name": [
+          "NEOMYCIN SULFATE, POLYMYXIN B SULFATE AND DEXAMETHASONE"
+        "brand_name": [
+          "Neomycin and Polymyxin B Sulfates and Dexamethasone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/anti-infective combination drugs which can be attributed to the corticosteroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the corticosteroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Corticosteroid-containing preparations have also been reported to cause perforation of the globe. Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occasionally been reported following use of steroids."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

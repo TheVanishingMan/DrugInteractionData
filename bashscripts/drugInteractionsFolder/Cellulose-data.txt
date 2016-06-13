@@ -1,0 +1,58 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cellulose&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "HYDROXYPROPYL CELLULOSE"
+        "brand_name": [
+          "Lacrisert"
+ 
+      "drug_interactions": [
+        "Drug Interactions Application of hydroxypropyl cellulose ophthalmic inserts to the eyes of unanesthetized rabbits immediately prior to or two hours before instilling pilocarpine, proparacaine HCl (0.5%), or phenylephrine (5%) did not markedly alter the magnitude and/or duration of the miotic, local corneal anesthetic, or mydriatic activity, respectively, of these agents. Under various treatment schedules, the anti-inflammatory effect of ocularly instilled dexamethasone (0.1%) in unanesthetized rabbits with primary uveitis was not affected by the presence of hydroxypropyl cellulose inserts."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in patients treated with LACRISERT, but were in most instances mild and transient: Transient blurring of vision (See PRECAUTIONS) Ocular discomfort or irritation Matting or stickiness of eyelashes Photophobia Hypersensitivity Edema of the eyelids Hyperemia"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cellulose&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "HYDROXYETHYL CELLULOSE"
+        "brand_name": [
+          "Rohto Hydra"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cellulose&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "HYDROXYPROPYL CELLULOSE"
+        "brand_name": [
+          "Lacrisert"
+ 
+      "drug_interactions": [
+        "Drug Interactions Application of hydroxypropyl cellulose ophthalmic inserts to the eyes of unanesthetized rabbits immediately prior to or two hours before instilling pilocarpine, proparacaine HCl (0.5%), or phenylephrine (5%) did not markedly alter the magnitude and/or duration of the miotic, local corneal anesthetic, or mydriatic activity, respectively, of these agents. Under various treatment schedules, the anti-inflammatory effect of ocularly instilled dexamethasone (0.1%) in unanesthetized rabbits with primary uveitis was not affected by the presence of hydroxypropyl cellulose inserts."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in patients treated with LACRISERT, but were in most instances mild and transient: Transient blurring of vision (See PRECAUTIONS) Ocular discomfort or irritation Matting or stickiness of eyelashes Photophobia Hypersensitivity Edema of the eyelids Hyperemia"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cellulose&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "HYDROXYETHYL CELLULOSE"
+        "brand_name": [
+          "Rohto Hydra"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cellulose&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "HYDROXYETHYL CELLULOSE"
+        "brand_name": [
+          "Rohto Hydra"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,264 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=0
+Page 0 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "CHLORZOXAZONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=1
+Page 1 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance. To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=2
+Page 2 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=3
+Page 3 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: After extensive clinical use of chlorzoxazone-containing products, it is apparent that the drug is well-tolerated and seldom produces undesirable side effects. Occasional patients may develop gastrointestinal disturbances. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or overstimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=4
+Page 4 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, light- headedness, malaise, or overstimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=5
+Page 5 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance. To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or for voluntary reporting of adverse reactions. http://www.fda.gov/"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=6
+Page 6 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Parafon DSC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or overstimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=7
+Page 7 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=8
+Page 8 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=9
+Page 9 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=10
+Page 10 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=11
+Page 11 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=12
+Page 12 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance. To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=13
+Page 13 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance. To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=14
+Page 14 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=15
+Page 15 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=16
+Page 16 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=17
+Page 17 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Lorzone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone-containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, light- headedness, malaise, or overstimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=18
+Page 18 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance. To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=19
+Page 19 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "CHLORZOXAZONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=20
+Page 20 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chlorzoxazone+AND+Tablets&limit=1&skip=21
+Page 21 of 22
+        "generic_name": [
+          "CHLORZOXAZONE"
+        "brand_name": [
+          "Chlorzoxazone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or over-stimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

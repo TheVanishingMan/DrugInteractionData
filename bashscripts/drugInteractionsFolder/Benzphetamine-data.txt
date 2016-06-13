@@ -1,0 +1,264 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=0
+Page 0 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of Benzphetamine Hydrochloride Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine Hydrochloride Tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when Benzphetamine Hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=1
+Page 1 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "benzphetamine hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug interactions Efficacy of benzphetamine hydrochloride tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when benzphetamine hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=2
+Page 2 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of Benzphetamine Hydrochloride Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine Hydrochloride Tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when Benzphetamine Hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=3
+Page 3 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DIDREX"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of DIDREX Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. DIDREX should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when DIDREX Tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=4
+Page 4 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Regimex"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of Regimex™ tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Regimex™ tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when Regimex™ tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=5
+Page 5 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Benzphetamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of Benzphetamine hydrochloride tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effects of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when Benzphetamine hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=6
+Page 6 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of Benzphetamine Hydrochloride Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine Hydrochloride Tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when Benzphetamine Hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=7
+Page 7 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE TABLETS"
+        "brand_name": [
+          "Benzphetamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of benzphetamine hydrochloride tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when benzphetamine hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=8
+Page 8 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Benzphetamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when benzphetamine hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=9
+Page 9 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Benzphetamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of Benzphetamine hydrochloride tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effects of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when Benzphetamine hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=10
+Page 10 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "benzphetamine hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of benzphetamine hydrochloride tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when benzphetamine hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=11
+Page 11 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of Benzphetamine Hydrochloride Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine Hydrochloride Tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when Benzphetamine Hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=12
+Page 12 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DIDREX"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of DIDREX Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. DIDREX should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when DIDREX Tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=13
+Page 13 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of Benzphetamine Hydrochloride Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine Hydrochloride Tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when Benzphetamine Hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=14
+Page 14 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "benzphetamine hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug interactions Efficacy of benzphetamine hydrochloride tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when benzphetamine hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=15
+Page 15 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "benzphetamine hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of benzphetamine hydrochloride tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride tablets should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when benzphetamine hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=16
+Page 16 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DIDREX"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of DIDREX Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. DIDREX should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when DIDREX Tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=17
+Page 17 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Benzphetamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of benzphetamine hydrochloride tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. Benzphetamine hydrochloride should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when benzphetamine hydrochloride tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benzphetamine&limit=1&skip=18
+Page 18 of 19
+        "generic_name": [
+          "BENZPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DIDREX"
+ 
+      "drug_interactions": [
+        "Drug Interactions Efficacy of DIDREX Tablets in combination with other anorectic agents has not been studied and the combined use may have the potential for serious cardiac problems. Hypertensive crises have resulted when sympathomimetic amines have been used concomitantly or within 14 days following use of monoamine oxidase inhibitors. DIDREX should not be used concomitantly with other CNS stimulants. Amphetamines may decrease the hypotensive effect of antihypertensives. Amphetamines may enhance the effects of tricyclic antidepressants. Urinary alkalinizing agents increase blood levels and decrease excretion of amphetamines. Urinary acidifying agents decrease blood levels and increase excretion of amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following have been associated with the use of benzphetamine hydrochloride: Cardiovascular Palpitation, tachycardia, elevation of blood pressure. There have been isolated reports of cardiomyopathy and ischemic cardiac events associated with chronic amphetamine use. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no cases of this valvulopathy have been reported when DIDREX Tablets have been used alone. CNS Overstimulation, restlessness, dizziness, insomnia, tremor, sweating, headache; rarely, psychotic episodes at recommended doses; depression following withdrawal of the drug. Gastrointestinal Dryness of the mouth, unpleasant taste, nausea, diarrhea, other gastrointestinal disturbances. Allergic Urticaria and other allergic reactions involving the skin. Endocrine Changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

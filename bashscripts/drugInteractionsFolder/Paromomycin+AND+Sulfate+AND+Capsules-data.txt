@@ -1,0 +1,36 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Paromomycin+AND+Sulfate+AND+Capsules&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "PAROMOMYCIN SULFATE"
+        "brand_name": [
+          "Paromomycin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Nausea, abdominal cramps, and diarrhea have been reported in patients on doses over 3 g daily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Paromomycin+AND+Sulfate+AND+Capsules&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "PAROMOMYCIN SULFATE"
+        "brand_name": [
+          "Paromomycin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Nausea, abdominal cramps, and diarrhea have been reported inpatients on doses over 3 g daily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Paromomycin+AND+Sulfate+AND+Capsules&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "PAROMOMYCIN SULFATE"
+        "brand_name": [
+          "Paromomycin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Nausea, abdominal cramps, and diarrhea have been reported inpatients on doses over 3 g daily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

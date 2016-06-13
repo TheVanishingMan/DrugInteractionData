@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ciprofloxacin+AND+HCl+AND+Ophthalmic+AND+Ointment&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "CIPROFLOXACIN HYDROCHLORIDE"
+        "brand_name": [
+          "CILOXAN"
+ 
+      "drug_interactions": [
+        "Drug Interactions Specific drug interaction studies have not been conducted with ophthalmic ciprofloxacin. However, the systemic administration of some quinolones has been shown to elevate plasma concentrations of theophylline, interfere with the metabolism of caffeine, enhance the effects of the oral anticoagulant, warfarin, and its derivatives, and has been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions (incidences) were reported in 2% of the patients in clinical studies for CILOXAN® (ciprofloxacin hydrochloride ophthalmic ointment): discomfort, keratopathy. Other reactions associated with ciprofloxacin therapy occurring in less than 1% of patients included allergic reactions, blurred vision, corneal staining, decreased visual acuity, dry eye, edema, epitheliopathy, eye pain, foreign body sensation, hyperemia, irritation, keratoconjunctivitis, lid erythema, lid margin hyperemia, photophobia, pruritus, and tearing. Systemic adverse reactions related to ciprofloxacin therapy occurred at an incidence below 1% and included dermatitis, nausea and taste perversion."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

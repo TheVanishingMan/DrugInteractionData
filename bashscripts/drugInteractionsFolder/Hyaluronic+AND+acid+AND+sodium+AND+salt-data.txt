@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyaluronic+AND+acid+AND+sodium+AND+salt&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "HYALURONIC ACID 20MG/ML WITH LIDOCAINE 2% PRESERVATIVE FREE - 3ML SYRINGE"
+        "brand_name": [
+          "Hyaluronic Acid 60mg and Lidocaine 2% PF"
+ 
+      "adverse_reactions": [
+        "Adverse Events Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088"
+      "warnings_and_cautions": [
+        "Warnings and Precautions Office Use Only. Not for Resale. This is a Compounded Drug."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Edetate+AND+Calcium+AND+Disodium+AND+Injection&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "EDETATE CALCIUM DISODIUM"
+        "brand_name": [
+          "Calcium Disodium Versenate"
+ 
+      "drug_interactions": [
+        "Drug Interactions There is no known drug interference with standard clinical laboratory tests. Steroids enhance the renal toxicity of edetate calcium disodium in animals.7 Edetate calcium disodium interferes with the action of zinc insulin preparations by chelating the zinc.7"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse effects have been associated with the use of edetate calcium disodium: Body as a Whole: pain at intramuscular injection site, fever, chills, malaise, fatigue, myalgia, arthralgia. Cardiovascular: hypotension, cardiac rhythm irregularities. Renal: acute necrosis of proximal tubules (which may result in fatal nephrosis), infrequent changes in distal tubules and glomeruli. Urinary: glycosuria, proteinuria, microscopic hematuria and large epithelial cells in urinary sediment. Nervous System: tremors, headache, numbness, tingling. Gastrointestinal: cheilosis, nausea, vomiting, anorexia, excessive thirst. Hepatic: mild increases in SGOT and SGPT are common, and return to normal within 48 hours after cessation of therapy. Immunogenic: histamine-like reactions (sneezing, nasal congestion, lacrimation), rash. Hematopoietic: transient bone marrow depression, anemia. Metabolic: zinc deficiency, hypercalcemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Edetate+AND+Calcium+AND+Disodium+AND+Injection&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "EDETATE CALCIUM DISODIUM"
+        "brand_name": [
+          "Calcium Disodium Versenate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: There is no known drug interference with standard clinical laboratory tests. Steroids enhance the renal toxicity of edetate calcium disodium in animals.7 Edetate calcium disodium interferes with the action of zinc insulin preparations by chelating the zinc.7"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse effects have been associated with the use of edetate calcium disodium: Body as a Whole: pain at intramuscular injection site, fever, chills, malaise, fatigue, myalgia, arthralgia. Cardiovascular: hypotension, cardiac rhythm irregularities. Renal: acute necrosis of proximal tubules (which may result in fatal nephrosis), infrequent changes in distal tubules and glomeruli. Urinary: glycosuria, proteinuria, microscopic hematuria and large epithelial cells in urinary sediment. Nervous System: tremors, headache, numbness, tingling. Gastrointestinal: cheilosis, nausea, vomiting, anorexia, excessive thirst. Hepatic: mild increases in SGOT and SGPT are common, and return to normal within 48 hours after cessation of therapy. Immunogenic: histamine-like reactions (sneezing, nasal congestion, lacrimation), rash. Hematopoietic: transient bone marrow depression, anemia. Metabolic: zinc deficiency, hypercalcemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Edetate+AND+Calcium+AND+Disodium+AND+Injection&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "EDETATE CALCIUM DISODIUM"
+        "brand_name": [
+          "Calcium Disodium Versenate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: There is no known drug interference with standard clinical laboratory tests. Steroids enhance the renal toxicity of edetate calcium disodium in animals. 7 Edetate calcium disodium interferes with the action of zinc insulin preparations by chelating the zinc. 7"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse effects have been associated with the use of edetate calcium disodium: Body as a Whole: pain at intramuscular injection site, fever, chills, malaise, fatigue, myalgia, arthralgia. Cardiovascular: hypotension, cardiac rhythm irregularities. Renal: acute necrosis of proximal tubules (which may result in fatal nephrosis), infrequent changes in distal tubules and glomeruli. Urinary: glycosuria, proteinuria, microscopic hematuria and large epithelial cells in urinary sediment. Nervous System: tremors, headache, numbness, tingling. Gastrointestinal: cheilosis, nausea, vomiting, anorexia, excessive thirst. Hepatic: mild increases in SGOT and SGPT are common, and return to normal within 48 hours after cessation of therapy. Immunogenic: histamine-like reactions (sneezing, nasal congestion, lacrimation), rash. Hematopoietic: transient bone marrow depression, anemia. Metabolic: zinc deficiency, hypercalcemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

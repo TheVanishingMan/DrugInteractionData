@@ -1,0 +1,70 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Melphalan&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "MELPHALAN HYDROCHLORIDE"
+        "brand_name": [
+          "Melphalan Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions The development of severe renal failure has been reported in patients treated with a single dose of IV melphalan followed by standard oral doses of cyclosporine. Cisplatin may affect melphalan kinetics by inducing renal dysfunction and subsequently altering melphalan clearance. IV melphalan may also reduce the threshold for BCNU lung toxicity. When nalidixic acid and IV melphalan are given simultaneously, the incidence of severe hemorrhagic necrotic enterocolitis has been reported to increase in pediatric patients."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (SEE OVERDOSAGE) The following information on adverse reactions is based on data from both oral and IV administration of melphalan as a single agent, using several different dose schedules for treatment of a wide variety of malignancies. Hematologic The most common side effect is bone marrow suppression leading to leukopenia, thrombocytopenia, and anemia. White blood cell count and platelet count nadirs usually occur 2 to 3 weeks after treatment, with recovery in 4 to 5 weeks after treatment. Irreversible bone marrow failure has been reported. Gastrointestinal Gastrointestinal disturbances such as nausea and vomiting, diarrhea, and oral ulceration occur infrequently. Hepatic disorders ranging from abnormal liver function tests to clinical manifestations such as hepatitis and jaundice have been reported. Hepatic veno-occlusive disease has been reported. Hypersensitivity Acute hypersensitivity reactions including anaphylaxis were reported in 2.4% of 425 patients receiving Melphalan Hydrochloride for Injection for myeloma (see WARNINGS ). These reactions were characterized by urticaria, pruritus, edema, skin rashes, and in some patients, tachycardia, bronchospasm, dyspnea, and hypotension. These patients appeared to respond to antihistamine and corticosteroid therapy. If a hypersensitivity reaction occurs, IV or oral melphalan should not be readministered since hypersensitivity reactions have also been reported with oral melphalan. Cardiac arrest has also been reported rarely in association with such reports. Miscellaneous Other reported adverse reactions include skin hypersensitivity, skin ulceration at injection site, skin necrosis rarely requiring skin grafting, maculopapular rashes, vasculitis, alopecia, hemolytic anemia, allergic reaction, pulmonary fibrosis (including fatal outcomes), and interstitial pneumonitis. Temporary significant elevation of the blood urea has been seen in the early stages of therapy in patients with renal damage. Subjective and transient sensation of warmth and/or tingling."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Melphalan&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "MELPHALAN HYDROCHLORIDE"
+        "brand_name": [
+          "ALKERAN"
+ 
+      "drug_interactions": [
+        "Drug Interactions The development of severe renal failure has been reported in patients treated with a single dose of IV melphalan followed by standard oral doses of cyclosporine. Cisplatin may affect melphalan kinetics by inducing renal dysfunction and subsequently altering melphalan clearance. IV melphalan may also reduce the threshold for BCNU lung toxicity. When nalidixic acid and IV melphalan are given simultaneously, the incidence of severe hemorrhagic necrotic enterocolitis has been reported to increase in pediatric patients."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (SEE OVERDOSAGE) The following information on adverse reactions is based on data from both oral and IV administration of melphalan as a single agent, using several different dose schedules for treatment of a wide variety of malignancies. Hematologic The most common side effect is bone marrow suppression leading to leukopenia, thrombocytopenia, and anemia. White blood cell count and platelet count nadirs usually occur 2 to 3 weeks after treatment, with recovery in 4 to 5 weeks after treatment. Irreversible bone marrow failure has been reported. Gastrointestinal Gastrointestinal disturbances such as nausea and vomiting, diarrhea, and oral ulceration occur infrequently. Hepatic disorders ranging from abnormal liver function tests to clinical manifestations such as hepatitis and jaundice have been reported. Hepatic veno-occlusive disease has been reported. Hypersensitivity Acute hypersensitivity reactions including anaphylaxis were reported in 2.4% of 425 patients receiving ALKERAN for Injection for myeloma (see WARNINGS). These reactions were characterized by urticaria, pruritus, edema, skin rashes, and in some patients, tachycardia, bronchospasm, dyspnea, and hypotension. These patients appeared to respond to antihistamine and corticosteroid therapy. If a hypersensitivity reaction occurs, IV or oral melphalan should not be readministered since hypersensitivity reactions have also been reported with oral melphalan. Cardiac arrest has also been reported rarely in association with such reports. Miscellaneous Other reported adverse reactions include skin hypersensitivity, skin ulceration at injection site, skin necrosis rarely requiring skin grafting, maculopapular rashes, vasculitis, alopecia, hemolytic anemia, allergic reaction, pulmonary fibrosis (including fatal outcomes), and interstitial pneumonitis. Temporary significant elevation of the blood urea has been seen in the early stages of therapy in patients with renal damage. Subjective and transient sensation of warmth and/or tingling."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Melphalan&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "MELPHALAN HYDROCHLORIDE"
+        "brand_name": [
+          "Melphalan Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions The development of severe renal failure has been reported in patients treated with a single dose of IV melphalan followed by standard oral doses of cyclosporine. Cisplatin may affect melphalan kinetics by inducing renal dysfunction and subsequently altering melphalan clearance. IV melphalan may also reduce the threshold for BCNU lung toxicity. When nalidixic acid and IV melphalan are given simultaneously, the incidence of severe hemorrhagic necrotic enterocolitis has been reported to increase in pediatric patients."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (SEE OVERDOSAGE) The following information on adverse reactions is based on data from both oral and IV administration of melphalan as a single agent, using several different dose schedules for treatment of a wide variety of malignancies. Hematologic The most common side effect is bone marrow suppression leading to leukopenia, thrombocytopenia, and anemia. White blood cell count and platelet count nadirs usually occur 2 to 3 weeks after treatment, with recovery in 4 to 5 weeks after treatment. Irreversible bone marrow failure has been reported. Gastrointestinal Gastrointestinal disturbances such as nausea and vomiting, diarrhea, and oral ulceration occur infrequently. Hepatic disorders ranging from abnormal liver function tests to clinical manifestations such as hepatitis and jaundice have been reported. Hepatic veno-occlusive disease has been reported. Hypersensitivity Acute hypersensitivity reactions including anaphylaxis were reported in 2.4% of 425 patients receiving Melphalan Hydrochloride for Injection for myeloma (see WARNINGS ). These reactions were characterized by urticaria, pruritus, edema, skin rashes, and in some patients, tachycardia, bronchospasm, dyspnea, and hypotension. These patients appeared to respond to antihistamine and corticosteroid therapy. If a hypersensitivity reaction occurs, IV or oral melphalan should not be readministered since hypersensitivity reactions have also been reported with oral melphalan. Cardiac arrest has also been reported rarely in association with such reports. Miscellaneous Other reported adverse reactions include skin hypersensitivity, skin ulceration at injection site, skin necrosis rarely requiring skin grafting, maculopapular rashes, vasculitis, alopecia, hemolytic anemia, allergic reaction, pulmonary fibrosis (including fatal outcomes), and interstitial pneumonitis. Temporary significant elevation of the blood urea has been seen in the early stages of therapy in patients with renal damage. Subjective and transient sensation of warmth and/or tingling."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Melphalan&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "MELPHALAN HYDROCHLORIDE"
+        "brand_name": [
+          "Melphalan Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions The development of severe renal failure has been reported in patients treated with a single dose of IV melphalan followed by standard oral doses of cyclosporine. Cisplatin may affect melphalan kinetics by inducing renal dysfunction and subsequently altering melphalan clearance. IV melphalan may also reduce the threshold for BCNU lung toxicity. When nalidixic acid and IV melphalan are given simultaneously, the incidence of severe hemorrhagic necrotic enterocolitis has been reported to increase in pediatric patients."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (See OVERDOSAGE) The following information on adverse reactions is based on data from both oral and IV administration of melphalan as a single agent, using several different dose schedules for treatment of a wide variety of malignancies. Hematologic The most common side effect is bone marrow suppression leading to leukopenia, thrombocytopenia, and anemia. White blood cell count and platelet count nadirs usually occur 2 to 3 weeks after treatment, with recovery in 4 to 5 weeks after treatment. Irreversible bone marrow failure has been reported. Gastrointestinal Gastrointestinal disturbances such as nausea and vomiting, diarrhea, and oral ulceration occur infrequently. Hepatic disorders ranging from abnormal liver function tests to clinical manifestations such as hepatitis and jaundice have been reported. Hepatic veno-occlusive disease has been reported. Hypersenstivity Acute hypersensitivity reactions including anaphylaxis were reported in 2.4% of 425 patients receiving Melphalan Hydrochloride for Injection for myeloma (see WARNINGS). These reactions were characterized by urticaria, pruritus, edema, skin rashes, and in some patients, tachycardia, bronchospasm, dyspnea, and hypotension. These patients appeared to respond to antihistamine and corticosteroid therapy. If a hypersensitivity reaction occurs, IV or oral melphalan should not be readministered since hypersensitivity reactions have also been reported with oral melphalan. Cardiac arrest has also been reported rarely in association with such reports. Miscellaneous Other reported adverse reactions include skin hypersensitivity, skin ulceration at injection site, skin necrosis rarely requiring skin grafting, maculopapular rashes, vasculitis, alopecia, hemolytic anemia, allergic reaction, pulmonary fibrosis (including fatal outcomes), and interstitial pneumonitis. Temporary significant elevation of the blood urea has been seen in the early stages of therapy in patients with renal damage. Subjective and transient sensation of warmth and/or tingling."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Melphalan&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "MELPHALAN"
+        "brand_name": [
+          "ALKERAN"
+ 
+      "drug_interactions": [
+        "Drug Interactions There are no known drug/drug interactions with oral ALKERAN."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hematologic The most common side effect is bone marrow suppression leading to leukopenia, thrombocytopenia, and anemia. Although bone marrow suppression frequently occurs, it is usually reversible if melphalan is withdrawn early enough. However, irreversible bone marrow failure has been reported. Gastrointestinal Nausea, vomiting, diarrhea, and oral ulceration occur. Hepatic disorders ranging from abnormal liver function tests to clinical manifestations such as hepatitis and jaundice have been reported. Miscellaneous Other reported adverse reactions include: pulmonary fibrosis (including fatal outcomes) and interstitial pneumonitis, skin hypersensitivity, maculopapular rashes, vasculitis, alopecia, and hemolytic anemia. Allergic reactions, including urticaria, edema, skin rashes, and rare anaphylaxis, have occurred after multiple courses of treatment. Cardiac arrest has also been reported rarely in association with such reports."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

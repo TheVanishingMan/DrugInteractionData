@@ -1,0 +1,202 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=0
+Page 0 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Leader Allerhist"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=1
+Page 1 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Clemastine Fumarate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=2
+Page 2 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=3
+Page 3 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "dayhist allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=4
+Page 4 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Clemastine Fumarate"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Transient drowsiness, the most common adverse reaction associated with clemastine fumarate, occurs relatively frequently and may require discontinuation of therapy in some instances. Antihistaminic Compounds It should be noted that the following reactions have occurred with one or more antihistamines and, therefore, should be kept in mind when prescribing drugs belonging to this class, including clemastine. The most frequent adverse reactions are italicized. 1. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of the mouth, nose, and throat. 2. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. 3. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. 4. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesias, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, hysteria, neuritis, convulsions. 5. GI System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. 6. GU System: Urinary frequency, difficult urination, urinary retention, early menses. 7. Respiratory System: Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=5
+Page 5 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Topcare Dayhist Allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=6
+Page 6 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Clemastine Fumarate"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Transient drowsiness, the most common adverse reaction associated with clemastine fumarate, occurs relatively frequently and may require discontinuation of therapy in some instances. Antihistaminic Compounds It should be noted that the following reactions have occurred with one or more antihistamines and, therefore, should be kept in mind when prescribing drugs belonging to this class, including clemastine fumarate. The most frequent adverse reactions are underlined. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose, and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesias, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, hysteria, neuritis, convulsions. GI System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=7
+Page 7 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "dayhist allergy 12 hour relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=8
+Page 8 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Good Sense dayhist allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=9
+Page 9 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Wal Hist"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=10
+Page 10 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "SUNMARK 12 HOUR ALLERGY RELIEF"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=11
+Page 11 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Clemastine Fumarate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=12
+Page 12 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Good Neighbor Pharmacy Dayhist Allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=13
+Page 13 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "dayhist allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=14
+Page 14 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Clemastine Fumarate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=15
+Page 15 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "wal hist 12 hour relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=16
+Page 16 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Clemastine Fumarate"
+ 
+      "drug_interactions": [
+        "Drug Interactions MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "Adverse Reactions Transient drowsiness, the most common adverse reaction associated with clemastine fumarate, occurs relatively frequently and may require discontinuation of therapy in some instances. Antihistaminic Compounds It should be noted that the following reactions have occurred with one or more antihistamines and, therefore, should be kept in mind when prescribing drugs belonging to this class, including clemastine. The most frequent adverse reactions are italicized. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of the mouth, nose, and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System:Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesias, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, hysteria, neuritis, convulsions. GI System:Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=17
+Page 17 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Dayhist allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Tablets&limit=1&skip=18
+Page 18 of 19
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "TAVIST ALLERGY"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mafenide+AND+Acetate+AND+Cream&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "MAFENIDE ACETATE"
+        "brand_name": [
+          "Sulfamylon"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the clinical setting of severe burns, it is often difficult to distinguish between an adverse reaction to mafenide acetate and burn sequelae. In a clinical study of pediatric patients with acute burns requiring autografts who received SULFAMYLON® (mafenide acetate, USP) For 5% Topical Solution in addition to double antibiotic solution (DAB) wound therapy (neomycin sulfate 40 mg and polymyxin B 200,000 units/liter), the incidence of rash (4.6%) and itching (2.8%) in the group which received SULFAMYLON® 5% Solution was not different from that experienced with (DAB) dressings alone (5.7% and 1.3%, respectively). From other clinical settings, a single case of bone marrow depression and a single case of an acute attack of porphyria have been reported following therapy with mafenide acetate. Fatal hemolytic anemia with disseminated intravascular coagulation, presumably related to a glucose-6-phosphate dehydrogenase deficiency, has been reported following therapy with mafenide acetate. The following adverse reactions have been reported with topical mafenide acetate therapy: Dermatologic and Allergic: Pain or burning sensation, rash and pruritus (often localized to the area covered by the wound dressing), erythema, skin maceration from prolonged wet dressings, facial edema, swelling, hives, blisters, eosinophilia. Respiratory or Metabolic: Tachypnea, hyperventilation, decrease in pCO2, metabolic acidosis, increase in serum chloride."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mafenide+AND+Acetate+AND+Cream&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "MAFENIDE ACETATE"
+        "brand_name": [
+          "Sulfamylon"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS It is frequently difficult to distinguish between an adverse reaction to SULFAMYLON Cream and the effect of a severe burn. A single case of bone marrow depression and a single case of acute attack of porphyria have been reported following therapy with SULFAMYLON Cream. Fatal hemolytic anemia with disseminated intravascular coagulation, presumably related to a glucose-6-phosphate dehydrogenase deficiency, has been reported following therapy with SULFAMYLON Cream. Dermatologic: The most frequently reported reaction was pain on application or a burning sensation. Rare occurrences are excoriation of new skin and bleeding of skin. Allergic: Rash itching, facial edema, swelling, hive, blisters, erythema, and eosinophilia. Respiratory: Tachypnea or hyperventilation, decrease in arterial pCO2. Metabolic: Acidosis, increase in serum chloride. Accidental ingestion of SULFAMYLON Cream has been reported to cause diarrhea."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mafenide+AND+Acetate+AND+Cream&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "MAFENIDE ACETATE"
+        "brand_name": [
+          "Mafenide acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In the clinical setting of severe burns, it is often difficult to distinguish between an adverse reaction to Mafenide Acetate and burn sequelae. In a clinical study of pediatric patients with acute burns requiring autografts who received Mafenide Acetate,USP for 5% SOLUTION in addition to double antibiotic solution (DAB) wound therapy (neomycin sulfate 40 mg and polymyxin B 200,000 units/ liter), the incidence of rash (4.6%) and itching (2.8%) in the group which received Mafenide Acetate USP For 5% Solution was not different from that experienced with (DAB) dressings alone (5.7% and 1.3%, respectively). From other clinical settings, a single case of bone marrow depression and a single case of an acute attack of porphyria have been reported following therapy with Mafenide Acetate. Fatal hemolytic anemia with disseminated intravascular coagulation, presumably related to a glucose-6-phosphate dehydrogenase deficiency, has been reported following therapy with mafenide acetate. The following adverse reactions have been reported with topical Mafenide Acetate therapy: Dermatologic and Allergic: Pain or burning sensation, rash and pruritus (often localized to the area covered by the wound dressing), erythema, skin maceration from prolonged wet dressings, facial edema, swelling, hives, blisters, eosinophilia. Respiratory or Metabolic: Tachypnea, hyperventilation, decrease in pCO2, metabolic acidosis, increase in serum chloride."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

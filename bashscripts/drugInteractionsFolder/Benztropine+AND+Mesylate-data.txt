@@ -1,0 +1,926 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=0
+Page 0 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=1
+Page 1 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=2
+Page 2 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=3
+Page 3 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or lossof appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief ofsymptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=4
+Page 4 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=5
+Page 5 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=6
+Page 6 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. CardiovascularTachycardia. DigestiveParalytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Special SensesBlurred vision, dilated pupils. UrogenitalUrinary retention, dysuria. Metabolic/Immune or SkinOccasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. OtherHeat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=7
+Page 7 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=8
+Page 8 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=9
+Page 9 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=10
+Page 10 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or lossof appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief ofsymptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=11
+Page 11 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=12
+Page 12 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=13
+Page 13 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=14
+Page 14 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=15
+Page 15 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=16
+Page 16 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "benztropine mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=17
+Page 17 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=18
+Page 18 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever. To report SUSPECTED ADVERSE REACTIONS, contact Akorn, Inc. at 1-800-932-5676 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=19
+Page 19 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=20
+Page 20 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Drug Interactions WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=21
+Page 21 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=22
+Page 22 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever. To report SUSPECTED ADVERSE REACTIONS, contact American Regent, Inc. at 1-800-734-9326 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=23
+Page 23 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "benztropine mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=24
+Page 24 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=25
+Page 25 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=26
+Page 26 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=27
+Page 27 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=28
+Page 28 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see ). WARNINGS"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Tachycardia. Cardiovascular Paralytic ileus, constipation, vomiting, nausea, dry mouth. Digestive If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Nervous System Blurred vision, dilated pupils. Special Senses Urinary retention, dysuria. Urogenital Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Metabolic/Immune or Skin Heat stroke, hyperthermia, fever. Other"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=29
+Page 29 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=30
+Page 30 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=31
+Page 31 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=32
+Page 32 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=33
+Page 33 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or lossof appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief ofsymptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=34
+Page 34 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=35
+Page 35 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "benztropine mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=36
+Page 36 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or lossof appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief ofsymptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=37
+Page 37 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever. To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=38
+Page 38 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=39
+Page 39 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=40
+Page 40 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=41
+Page 41 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=42
+Page 42 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=43
+Page 43 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=44
+Page 44 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Cogentin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever. To report SUSPECTED ADVERSE REACTIONS, contact Oak Pharmaceuticals, Inc. at 1-800-932-5676 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=45
+Page 45 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=46
+Page 46 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=47
+Page 47 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=48
+Page 48 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate Injection, USP"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=49
+Page 49 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=50
+Page 50 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see ). WARNINGS"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Tachycardia. Cardiovascular Paralytic ileus, constipation, vomiting, nausea, dry mouth. Digestive If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Nervous System Blurred vision, dilated pupils. Special Senses Urinary retention, dysuria. Urogenital Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Metabolic/Immune or Skin Heat stroke, hyperthermia, fever. Other"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=51
+Page 51 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=52
+Page 52 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=53
+Page 53 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=54
+Page 54 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see ). Drug Interactions: WARNINGS"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Tachycardia. Cardiovascular: Paralytic ileus, constipation, vomiting, nausea, dry mouth. Digestive: If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Nervous System: Blurred vision, dilated pupils. Special Senses: Urinary retention, dysuria. Urogenital: Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Metabolic/Immune or Skin: Heat stroke, hyperthermia, fever. Other: To report SUSPECTED ADVERSE REACTIONS, contact Akorn, Inc. at 1-800-932-5676 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=55
+Page 55 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=56
+Page 56 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see ). WARNINGS"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Tachycardia. Cardiovascular Paralytic ileus, constipation, vomiting, nausea, dry mouth. Digestive If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Nervous System Blurred vision, dilated pupils. Special Senses Urinary retention, dysuria. Urogenital Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Metabolic/Immune or Skin Heat stroke, hyperthermia, fever. Other"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=57
+Page 57 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=58
+Page 58 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=59
+Page 59 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=60
+Page 60 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or lossof appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief ofsymptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=61
+Page 61 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are antichlolinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=62
+Page 62 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardivascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousnessl depression listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=63
+Page 63 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=64
+Page 64 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this cannot be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=65
+Page 65 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular: Tachycardia. Digestive: Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses: Blurred vision, dilated pupils. Urogenital: Urinary retention, dysuria. Metabolic/Immune or Skin: Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other: Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=66
+Page 66 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=67
+Page 67 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=68
+Page 68 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "BENZTROPINE MESYLATE"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of pre-existing psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Benztropine+AND+Mesylate&limit=1&skip=69
+Page 69 of 70
+        "generic_name": [
+          "BENZTROPINE MESYLATE"
+        "brand_name": [
+          "Benztropine Mesylate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Antipsychotic drugs such as phenothiazines or haloperidol; tricyclic antidepressants (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions below, most of which are anticholinergic in nature, have been reported and within each category are listed in order of decreasing severity. Cardiovascular Tachycardia. Digestive Paralytic ileus, constipation, vomiting, nausea, dry mouth. If dry mouth is so severe that there is difficulty in swallowing or speaking, or loss of appetite and weight, reduce dosage, or discontinue the drug temporarily. Slight reduction in dosage may control nausea and still give sufficient relief of symptoms. Vomiting may be controlled by temporary discontinuation, followed by resumption at a lower dosage. Nervous System Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations; exacerbation of preexisting psychotic symptoms; nervousness; depression; listlessness; numbness of fingers. Special Senses Blurred vision, dilated pupils. Urogenital Urinary retention, dysuria. Metabolic/Immune or Skin Occasionally, an allergic reaction, e.g., skin rash, develops. If this can not be controlled by dosage reduction, the medication should be discontinued. Other Heat stroke, hyperthermia, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

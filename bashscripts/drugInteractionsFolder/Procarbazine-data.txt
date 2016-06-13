@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Procarbazine&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "PROCARBAZINE HYDROCHLORIDE"
+        "brand_name": [
+          "Matulane"
+ 
+      "drug_interactions": [
+        "Drug Interactions See WARNINGS section. No cross-resistance with other chemotherapeutic agents, radiotherapy or steroids has been demonstrated."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Leukopenia, anemia and thrombopenia occur frequently. Nausea and vomiting are the most commonly reported side effects. Other adverse reactions are: Hematologic Pancytopenia; eosinophilia; hemolytic anemia; bleeding tendencies such as petechiae, purpura, epistaxis and hemoptysis. Gastrointestinal Hepatic dysfunction, jaundice, stomatitis, hematemesis, melena, diarrhea, dysphagia, anorexia, abdominal pain, constipation, dry mouth. Neurologic Coma, convulsions, neuropathy, ataxia, paresthesia, nystagmus, diminished reflexes, falling, foot drop, headache, dizziness, unsteadiness. Cardiovascular Hypotension, tachycardia, syncope. Ophthalmic Retinal hemorrhage, papilledema, photophobia, diplopia, inability to focus. Respiratory Pneumonitis, pleural effusion, cough. Dermatologic Herpes, dermatitis, pruritus, alopecia, hyperpigmentation, rash, urticaria, flushing. Allergic Generalized allergic reactions. Genitourinary Hematuria, urinary frequency, nocturia. Musculoskeletal Pain, including myalgia and arthralgia; tremors. Psychiatric Hallucinations, depression, apprehension, nervousness, confusion, nightmares. Endocrine Gynecomastia in prepubertal and early pubertal boys. Miscellaneous Intercurrent infections, hearing loss, pyrexia, diaphoresis, lethargy, weakness, fatigue, edema, chills, insomnia, slurred speech, hoarseness, drowsiness. Second nonlymphoid malignancies (including lung cancer, acute myelocytic leukemia and malignant myelosclerosis) and azoospermia have been reported in patients with Hodgkin's disease treated with procarbazine in combination with other chemotherapy and/or radiation. The risks of secondary lung cancer from treatment appear to be multiplied by tobacco use."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

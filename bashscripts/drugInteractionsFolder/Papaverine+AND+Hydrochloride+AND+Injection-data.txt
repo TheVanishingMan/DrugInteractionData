@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Papaverine+AND+Hydrochloride+AND+Injection&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "PAPAVERINE HYDROCHLORIDE"
+        "brand_name": [
+          "Papaverine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following side effects have been reported: general discomfort, nausea, abdominal discomfort, anorexia, constipation or diarrhea, skin rash, malaise, vertigo, headache, intensive flushing of the face, perspiration, increase in the depth of respiration, increase in heart rate, a slight rise in blood pressure, and excessive sedation. Hepatitis, probably related to an immune mechanism, has been reported infrequently. Rarely, this has progressed to cirrhosis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

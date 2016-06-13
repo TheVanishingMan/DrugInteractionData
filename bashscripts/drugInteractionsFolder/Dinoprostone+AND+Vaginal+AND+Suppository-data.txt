@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dinoprostone+AND+Vaginal+AND+Suppository&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "DINOPROSTONE"
+        "brand_name": [
+          "Prostin E2"
+ 
+      "drug_interactions": [
+        "3. Drug interactions PROSTIN E2 may augment the activity of other oxytocic drugs. Concomitant use with other oxytocic agents is not recommended."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions observed with the use of dinoprostone for abortion are related to its contractile effect on smooth muscle. In the patients studied, approximately two-thirds experienced vomiting, one-half temperature elevations, two-fifths diarrhea, one-third some nausea, one-tenth headache, and one-tenth shivering and chills. In addition, approximately one-tenth of the patients studied exhibited transient diastolic blood pressure decreases of greater than 20 mmHg. Two cases of myocardial infarction following the use of dinoprostone have been reported in patients with a history of cardiovascular disease. It is not known whether these events were related to the administration of dinoprostone. Adverse effects in decreasing order of their frequency, observed with the use of dinoprostone, not all of which are clearly drug related include: Vomiting Diarrhea Nausea Fever Headache Chills or shivering Backache Joint inflammation or pain new or exacerbated Flushing or hot flashes Dizziness Arthralgia Vaginal pain Chest pain Dyspnea Endometritis Syncope or fainting sensation Vaginitis or vulvitis Weakness Muscular cramp or pain Tightness in chest Nocturnal leg cramps Uterine rupture Breast tenderness Blurred vision Coughing Rash Myalgia Stiff neck Dehydration Tremor Paresthesia Hearing impairment Urine retention Pharyngitis Laryngitis Diaphoresis Eye pain Wheezing Cardiac arrhythmia Skin discoloration Vaginismus Tension Post-marketing surveillance Immune system disorders: Hypersensitivity reactions (e.g., Anaphylactic reaction, Anaphylactic shock, Anaphylactoid reaction)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

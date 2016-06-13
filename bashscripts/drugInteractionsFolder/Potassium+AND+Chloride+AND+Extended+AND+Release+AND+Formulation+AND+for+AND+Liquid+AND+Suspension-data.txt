@@ -1,0 +1,606 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=0
+Page 0 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor-Con M"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=1
+Page 1 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=2
+Page 2 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=3
+Page 3 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS, and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=4
+Page 4 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "KLOR-CON M"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=5
+Page 5 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see W A RN INGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time. Call your doctor for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=6
+Page 6 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time. Call your doctor for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=7
+Page 7 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor Con M"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=8
+Page 8 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor-Con M"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=9
+Page 9 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=10
+Page 10 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=11
+Page 11 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see ). WARNINGS"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see , and ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see and ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time. CONTRAINDICATIONS WARNINGS OVERDOSAGE CONTRAINDICATIONS WARNINGS"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=12
+Page 12 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=13
+Page 13 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=14
+Page 14 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "POTASSIUM CHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=15
+Page 15 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=16
+Page 16 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=17
+Page 17 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS, and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=18
+Page 18 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "KLOR-CON M"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=19
+Page 19 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=20
+Page 20 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor-Con M20"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=21
+Page 21 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor-Con M10"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=22
+Page 22 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=23
+Page 23 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride ER"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS, and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=24
+Page 24 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS, and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=25
+Page 25 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS, and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=26
+Page 26 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=27
+Page 27 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=28
+Page 28 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "KLOR-CON M"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=29
+Page 29 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=30
+Page 30 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see ). WARNINGS"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see , , and ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see and ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time. CONTRAINDICATIONS WARNINGS OVERDOSAGE CONTRAINDICATIONS WARNINGS"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=31
+Page 31 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS, and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time. To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=32
+Page 32 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor-Con M"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=33
+Page 33 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor-Con M"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=34
+Page 34 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS, and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time. To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or ht tp://www.fda.gov/ for voluntary reporting of adverse reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=35
+Page 35 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=36
+Page 36 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS, and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=37
+Page 37 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor-Con M"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=38
+Page 38 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor-Con M"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=39
+Page 39 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=40
+Page 40 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=41
+Page 41 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS, WARNINGS, and OVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=42
+Page 42 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (see WARNINGS )."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (see CONTRAINDICATIONS , WARNINGS , and OVERDOSAGE ). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (see CONTRAINDICATIONS and WARNINGS ). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Potassium+AND+Chloride+AND+Extended+AND+Release+AND+Formulation+AND+for+AND+Liquid+AND+Suspension&limit=1&skip=43
+Page 43 of 44
+        "generic_name": [
+          "POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Klor-Con M"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Potassium-sparing diuretics, angiotensin-converting enzyme inhibitors (seeWARNINGS)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS One of the most severe adverse effects is hyperkalemia (seeCONTRAINDICATIONS,WARNINGSandOVERDOSAGE). There have also been reports of upper and lower gastrointestinal conditions including obstruction, bleeding, ulceration, and perforation (seeCONTRAINDICATIONSandWARNINGS). The most common adverse reactions to oral potassium salts are nausea, vomiting, flatulence, abdominal pain/discomfort, and diarrhea. These symptoms are due to irritation of the gastrointestinal tract and are best managed by diluting the preparation further, taking the dose with meals or reducing the amount taken at one time."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

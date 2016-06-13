@@ -1,0 +1,42 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Syrup&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Clemastine Fumarate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive CNS depression may occur when antihistamines are administered concomitantly with other CNS depressants including barbiturates, tranquilizers, and alcohol. Patients receiving antihistamines should be advised against the concurrent use of other CNS depressant drugs. Monoamine oxidase (MAO) inhibitors prolong and intensify the anticholinergic effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underlined: Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, hysteria, neuritis, convulsions. Gastrointestinal System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Respiratory System: Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Genitourinary System: Urinary frequency, difficult urination, urinary retention, early menses. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose and throat."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Syrup&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Clemastine Fumarate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive CNS depression may occur when antihistamines are administered concomitantly with other CNS depressants including barbiturates, tranquilizers, and alcohol. Patients receiving antihistamines should be advised against the concurrent use of other CNS depressant drugs. Monoamine oxidase (MAO) inhibitors prolong and intensify the anticholinergic effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underlined: Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, hysteria, neuritis, convulsions. Gastrointestinal System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Respiratory System: Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Genitourinary System: Urinary frequency, difficult urination, urinary retention, early menses. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose and throat."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clemastine+AND+Fumarate+AND+Syrup&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "CLEMASTINE FUMARATE"
+        "brand_name": [
+          "Clemastine Fumarate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive CNS depression may occur when antihistamines are administered concomitantly with other CNS depressants including barbiturates, tranquilizers, and alcohol. Patients receiving antihistamines should be advised against the concurrent use of other CNS depressant drugs. Monoamine oxidase (MAO) inhibitors prolong and intensify the anticholinergic effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized: Nervous System Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, hysteria, neuritis, convulsions. Gastrointestinal System Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Respiratory System Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness. Cardiovascular System Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System Hemolytic anemia, thrombocytopenia, agranulocytosis. Genitourinary System Urinary frequency, difficult urination, urinary retention, early menses. General Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose and throat."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

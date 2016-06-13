@@ -1,0 +1,534 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=0
+Page 0 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GENTAMICIN SULFATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=1
+Page 1 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentak"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=2
+Page 2 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=3
+Page 3 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=4
+Page 4 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GENTAMICIN SULFATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=5
+Page 5 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=6
+Page 6 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In patients with dermatoses treated with gentamicin sulfate, irritation (erythema and pruritis) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with gentamicin sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of gentamicin sulfate followed by exposure to ultraviolet radiation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=7
+Page 7 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=8
+Page 8 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GENTAMICIN SULFATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=9
+Page 9 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=10
+Page 10 of 45
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=11
+Page 11 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In patients with dermatoses treated with Gentamicin Sulfate, irritation (erythema and pruritus) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with Gentamicin Sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of Gentamicin Sulfate followed by exposure to ultraviolet radiation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=12
+Page 12 of 45
+        "generic_name": [
+          "GENTAMICIN, PREDNISOLONE ACETATE"
+        "brand_name": [
+          "PRED-G"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the steroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Burning, stinging and other symptoms of irritation have been reported with PRED-G ®. Superficial punctate keratitis has been reported occasionally with onset occurring typically after several days of use. Secondary Infection The development of secondary ocular infection has occurred after use of combinations containing steroids and antimicrobials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion should be considered in any persistent corneal ulceration where steroid treatment has been used (see WARNINGS). Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=13
+Page 13 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=14
+Page 14 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "gentamicin sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=15
+Page 15 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentak"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=16
+Page 16 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentak"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=17
+Page 17 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GENTAMICIN SULFATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects, and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura, and hallucinations. To report SUSPECTED ADVERSE REACTIONS, contact Fera Pharmaceuticals, LLC at (414) 434-6604, Monday - Friday 9am-5pm EST, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=18
+Page 18 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GENTAMICIN SULFATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=19
+Page 19 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In patients with dermatoses treated with gentamicin sulfate, irritation (erythema and pruritis) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with gentamicin sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of gentamicin sulfate followed by exposure to ultraviolet radiation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=20
+Page 20 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=21
+Page 21 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=22
+Page 22 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GENTAMICIN SULFATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=23
+Page 23 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In patients with dermatoses treated with gentamicin sulfate, irritation (erythema and pruritis) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with gentamicin sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of gentamicin sulfate followed by exposure to ultraviolet radiation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=24
+Page 24 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentak"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=25
+Page 25 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects, and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura, and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=26
+Page 26 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentak"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=27
+Page 27 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE AND PREDNISOLONE ACETATE"
+        "brand_name": [
+          "PRED-G"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. The most frequent reactions observed include ocular discomfort, irritation upon instillation of the medication and punctate keratitis. These reactions have resolved upon discontinuation of the medication. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. The reactions due to the steroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection: The development of secondary ocular infection has occurred after use of combinations containing steroids and antimicrobials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. (See WARNINGS ) Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=28
+Page 28 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In patients with dermatoses treated with Gentamicin Sulfate, irritation (erythema and pruritus) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with gentamicin on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of gentamicin followed by exposure to ultraviolet radiation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=29
+Page 29 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GARAMYCIN"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects, and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura, and hallucinations. To report SUSPECTED ADVERSE REACTIONS, contact Fera Pharmaceuticals, LLC at (414) 434-6604, Monday-Friday 9am-5pm EST, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=30
+Page 30 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=31
+Page 31 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "gentamicin sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects, and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura, and hallucinations. To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-800-328-5113, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=32
+Page 32 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=33
+Page 33 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "garamycin gentamicin sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects, and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura, and hallucinations. To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=34
+Page 34 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=35
+Page 35 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GENTAMICIN SULFATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=36
+Page 36 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects, and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura, and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=37
+Page 37 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentak"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=38
+Page 38 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GENTAMICIN SULFATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=39
+Page 39 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=40
+Page 40 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GENTAMICIN SULFATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In patients with dermatoses treated with gentamicin sulfate, irritation (erythema and pruritis) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with gentamicin sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of gentamicin sulfate followed by exposure to ultraviolet radiation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=41
+Page 41 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In patients with dermatoses treated with gentamicin sulfate, irritation (erythema and pruritis) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with gentamicin sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of gentamicin sulfate followed by exposure to ultraviolet radiation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=42
+Page 42 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "GARAMYCIN"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects, and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura, and hallucinations. To report SUSPECTED ADVERSE REACTIONS, contact Fera Pharmaceuticals, LLC at (414) 434-6604, Monday - Friday 9am-5pm EST, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=43
+Page 43 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In patients with dermatoses treated with gentamicin sulfate, irritation (erythema and pruritis) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with gentamicin sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of gentamicin sulfate followed by exposure to ultraviolet radiation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gentamicin+AND+Sulfate+AND+Ophthalmic&limit=1&skip=44
+Page 44 of 45
+        "generic_name": [
+          "GENTAMICIN SULFATE"
+        "brand_name": [
+          "Gentamicin Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura and hallucinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

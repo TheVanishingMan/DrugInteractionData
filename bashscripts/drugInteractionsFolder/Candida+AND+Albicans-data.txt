@@ -1,0 +1,1042 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=0
+Page 0 of 104
+        "generic_name": [
+          "BERBERIS VULGARIS, COCHLEARIA ARMORACIA, ECHINACEA, HYDRASTIS CANADENSIS, LOMATIUM DISSECTUM, MYRRHA, TABEBUIA IMPETIGINOSA, PROPOLIS, GLANDULA SUPRARENALIS SUIS, THYMUS (SUIS), FERRUM METALLICUM, IRIDIUM METALLICUM LYCOPODIUM CLAVATUM, PHOSPHORICUM ACIDUM, PULSATILLA, SELENIUM METALLICUM, ZINCUM METALLICUM, STACHYBOTRYS CHARTARUM, ALTERNARIA TENUIS, ASPERGILLUS NIGER, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, MUCOR RACEMOSUS, PULLULARIA PULLULANS RHIZOPUS NIGRICANS, TORULA CEREVISIAE"
+        "brand_name": [
+          "FNG"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=1
+Page 1 of 104
+        "generic_name": [
+          "ADRENALINUM, CANDIDA ALBICANS, THYROIDINUM, TORULA CEREVISIAE, TRITICUM, USTILAGO MAIDIS, ANTIMON. CRUD, ARSENICUM ALB., BAPTISIA, BERBER. AQUI., BRYONIA, CALC. PHOS., CINCHONA, HELONIAS DIOICA, HYDRASTIS, IODIUM, IRIS VERSICOLOR, KALI CARB., LACHESIS, LYCOPODIUM, MERC. VIV., NAT.CARB., NAT. PHOS, NITRICUM AC., PHOSPHORUS, PODOPH. PELT, PULSATILLA, SEPIA, ECHINACEA, GINKGO, JUGLANS REGIA, LAPPA, THUJA OCC."
+        "brand_name": [
+          "Candida - Yeast"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=2
+Page 2 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS,"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=3
+Page 3 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "GUNA-TF CANDIDA"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=4
+Page 4 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, SANICULA, TELLURIUM METALLICUM, TORULA CEREVISIAE, ANTIMON. CRUD., ARSENICUM ALB., BARYTA CARB., BRYONIA, CALC. CARB., CARBO VEG., CUPRUM MET., DULCAMARA, GRAPHITES, KALI CARB., LACHESIS, LYCOPODIUM, MEZEREUM, NITRICUM AC., PHOSPHORUS, PHYTOLACCA, SEPIA, SILICEA, SULPHUR, SULPHURICUM AC., ZINC. MET., APIS MEL., THUJA OCC."
+        "brand_name": [
+          "Fungus Fighter"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=5
+Page 5 of 104
+        "generic_name": [
+          "BERBERIS VULGARIS, COCHLEARIA ARMORACIA, ECHINACEA (ANGUSTIFOLIA), HYDRASTIS CANADENSIS, LOMATIUM DISSECTUM, MYRRHA, TABEBUIA IMPETIGINOSA, PROPOLIS, FORMALINUM, GLANDULA SUPRARENALIS SUIS, THYMUS (SUIS), FERRUM METALLICUM, IRIDIUM METALLICUM, LYCOPODIUM CLAVATUM, PHOSPHORICUM ACIDUM, PULSATILLA (VULGARIS), SELENIUM METALLICUM, ZINCUM METALLICUM, ADENOSINUM TRIPHOSPHORICUM DINATRUM, ALTERNARIA TENUIS NEES, ASPERGILLUS NIGER, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, MUCOR RACEMOSUS, PULLULARIA PULLULANS"
+        "brand_name": [
+          "FNG"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=6
+Page 6 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Pleo San Cand"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=7
+Page 7 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Pleo Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=8
+Page 8 of 104
+        "generic_name": [
+          "ECHINACEA (ANGUSTIFOLIA), HYDRASTIS CANADENSIS, LOMATIUM DISSECTUM, NASTURTIUM AQUATICUM, TABEBUIA IMPETIGINOSA, CONDURANGO, GINKO BILOBA, LIGUSTICUM PORTERI, ASTRAGALUS MEMBRANACEUS, PROPOLIS, GLANDULA SUPRARENALIS BOVINE, THYMUS (BOVINE), LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORICUM ACIDUM, PHYTOLACCA DECANDRA, SEPIA, ALTERNARIA TENUIS NEES, ASPERGILLUS NIGER, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, MUCOR RACEMOSUS, PULLULARIA PULLULANS, RHIZOPUS NIGRICANS, TORULA CEREVISIAE"
+        "brand_name": [
+          "FNG I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=9
+Page 9 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "CANDIDA ALBICANS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=10
+Page 10 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "CANDIDA ALB 60X"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=11
+Page 11 of 104
+        "generic_name": [
+          "BAPTISIA, BRYONIA, BORAX, CANDIDA A, CALENDULA, HYDRASTIS, KALI CHLORICUM, MERCURIUS SOL, NAT MUR, NUX MOSCHATA, NUX VOMICA, PHOSPHORUS, SACCHARUM ALBUM, SULPHURICUM ACIDUM, STAPHYSAGRIA,"
+        "brand_name": [
+          "Thrush Nipples"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=12
+Page 12 of 104
+        "generic_name": [
+          "ECHINACEA (ANGUSTIFOLIA), FUCUS VESICULOSUS, HYDRASTIS CANADENSIS, PHYTOLACCA DECANDRA, KREOSOTUM, NATRUM MURIATICUM, CANDIDA ALBICANS, LYCOPODIUM CLAVATUM, PULSATILLA (PRATENSIS), SEPIA,"
+        "brand_name": [
+          "Fungustat II"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=13
+Page 13 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=14
+Page 14 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, WOOD CREOSOTE, SODIUM CHLORIDE, AND SULFUR"
+        "brand_name": [
+          "AZO Yeast Plus"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=15
+Page 15 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS,"
+        "brand_name": [
+          "Candida"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=16
+Page 16 of 104
+        "generic_name": [
+          "AGARICUS MUSC., ARSENICUM ALB., AUR. MET, BERBER. AQUI., CALADIUM SEGUINUM, CANDIDA ALBICANS, CANTHARIS, CONIUM, GRAPHITES, HELONIAS DIOICA, HYDRASTIS, KALI CARB., KREOSOTUM, LYCOPODIUM, MERC. VIV., MUREX PURPUREA, NAT. MUR, NITRICUM AC., PULSATILLA, RHUS TOXICODENDRON, SEPIA, SULPHUR, TARENTULA HISPANA, THUJA OCC., ZINC. MET., APIS MEL, HAMAMELIS"
+        "brand_name": [
+          "Vaginitis - Feminine Care"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=17
+Page 17 of 104
+        "generic_name": [
+          "ACETALDEHYDE, COUMARINUM, HISTAMINUM HYDROCHLORICUM, QUERCETIN, TORULA CEREVISIAE, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, ADRENOCORTICOTROPHIN,"
+        "brand_name": [
+          "Bread Cravings"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=18
+Page 18 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=19
+Page 19 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "CAN ALBEX 30X"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=20
+Page 20 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=21
+Page 21 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, CANDIDA PARAPSILOSIS AND PENICILLIUM ROQUEFORTI"
+        "brand_name": [
+          "Pleo Ex"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=22
+Page 22 of 104
+        "generic_name": [
+          "ABIES NIGRA, ANTIMONIUM CRUDUM, ASAFOETIDA, BAPTISIA TINCTORIA, BORAX, CANDIDA ALBICANS, LACHESIS MUTUS, PHOSPHORICUM ACIDUM, PHYTOLACCA DECANDRA, PULSATILLA, STICTA PULMONARIA, SULPHUR, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Candidol Candida Overgrowth Sympton Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=23
+Page 23 of 104
+        "generic_name": [
+          "ECHINACEA, HYDRASTIS CANADENSIS, LOMATIUM DISSECTUM, NASTURTIUM AQUATICUM, TABEBUIA IMPETIGINOSA, IODIUM, ADRENALINUM, ARGENTUM METALLICUM, THYMUS, THYROIDINUM, PHOSPHORICUM ACIDUM, CANDIDA ALBICANS, LYCOPODIUM CLAVATUM, PULSATILLA, SEPIA,"
+        "brand_name": [
+          "FNG II"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=24
+Page 24 of 104
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, ACETALDEHYDE, ADRENALINUM, CAFFEIC ACID, CANDIDA ALBICANS, CHLOROGENIC ACID, CINNAMIC ACID, COUMARINUM, CYSTEINUM, GALLICUM ACIDUM, HEPAR SUIS, HISTAMINUM HYDROCHLORICUM, INDOLUM, MALVIN, MANNAN, MENADIONE, NOREPINEPHRINE, OCTOPAMINE (HYDROCHLORIDE), PANCREAS SUIS, PHENYL ISOTHIOCYANATE, PHLORIDZINUM, QUERCETIN, SALSOLINOL, SEROTONIN (HYDROCHLORIDE)"
+        "brand_name": [
+          "Allerphenex II"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=25
+Page 25 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Albicans Phenolic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=26
+Page 26 of 104
+        "generic_name": [
+          "CAFFEIC ACID, CANDIDA ALBICANS, TANACETUM PARTHENIUM, CENTELLA ASIATICA, YEAST MANNAN, PENICILLIN G, VACCINIUM VITIS-IDAEA LEAF SPRAY"
+        "brand_name": [
+          "Candida I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=27
+Page 27 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Albicans Remedy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=28
+Page 28 of 104
+        "generic_name": [
+          "ECHINACEA, HYDRASTIS CANADENSIS, LOMATIUM DISSECTUM, NASTURTIUM AQUATICUM, TABEBUIA IMPETIGINOSA, IODIUM, ADRENALINUM, ARGENTUM METALLICUM, THYMUS (SUIS), THYROIDINUM (SUIS), PHOSPHORICUM ACIDUM, CANDIDA ALBICANS, LYCOPODIUM CLAVATUM, PULSATILLA, SEPIA"
+        "brand_name": [
+          "FNG II"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=29
+Page 29 of 104
+        "generic_name": [
+          "ACETALDEHYDE, ACETYLCHOLINE CHLORIDE, ADRENALINUM, CAFFEIC ACID, CHLOROGENIC ACID, CINNAMIC ACID, COUMARINUM, CYSTEINUM, GALLICUM ACIDUM, HEPAR SUIS, HISTAMINUM HYDROCHLORICUM, INDOLUM, MALVIN (CHLORIDE), MANNAN, MENADIONE, NOREPINEPHRINE, OCTOPAMINE, PANCREAS SUIS, PHENYL ISOTHIOCYANATE, PHLORIDZINUM, QUERCETIN, SALSOLINOL (HYDROCHLORIDE), SEROTONIN (HYDROCHLORIDE), CANDIDA ALBICANS,"
+        "brand_name": [
+          "Allerphenex I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=30
+Page 30 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Cord"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=31
+Page 31 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS,"
+        "brand_name": [
+          "Fungal Plus"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=32
+Page 32 of 104
+        "generic_name": [
+          "ABIES NIGRA, ANTIMONIUM CRUDUM, ASAFOETIDA, BAPTISIA TINCTORIA, BORAX, CANDIDA ALBICANS, LACHESIS MUTUS, PHYTOLACCA DECANDRA, PHOSPHORICUM ACIDUM, PULSATILLA, STICTA PULMONARIA, SULPHUR, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Yeast Freee"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=33
+Page 33 of 104
+        "generic_name": [
+          "AGARICUS MUSC., ARSENICUM ALB., AUR. MET., BERBER. AQUI., CALADIUM SEGUINUM, CANDIDA ALBICANS, CANTHARIS, CONIUM, GRAPHITES, HELONIAS DIOICA, HYDRASTIS, KALI CARB., KREOSOTUM, LYCOPODIUM, MERC. VIV., MUREX PURPUREA, NAT. MUR., NITRICUM AC., PULSATILLA, RHUS TOXICODENDRON, SEPIA, SULPHUR, TARENTULA HISPANA, THUJA OCC., ZINC. MET., APIS MEL., HAMAMELIS"
+        "brand_name": [
+          "Feminine Comfort"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=34
+Page 34 of 104
+        "generic_name": [
+          "ABIES NIGRA, ANTIMONIUM CRUDUM, ASAFOETIDA, BAPTISIA TINCTORIA, BORAX, CANDIDA ALBICANS, LACHESIS MUTUS, PHOSPHORICUM ACIDUM, PHYTOLACCA DECANDRA, PULSATILLA, STICTA PLUMONARIA, SULPHUR, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Yeast Freee"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=35
+Page 35 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS,"
+        "brand_name": [
+          "Candida 1M"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=36
+Page 36 of 104
+        "generic_name": [
+          "ASPERGILLUS NIGER, CLADOSPORIUM, CANDIDA ALBICANS, THYROIDINUM, USTILAGO MAIDIS, ACONITUM NAP., ANTIMONIUM TART. ARALIA QUINQUEFOLIA, ARNICA, ARSENICUM ALB., BAPTISIA, BRYONIA, CANTHARIS, CHELIDONIUM MAJUS, CINCHONA, ECHINACEA, IODIUM, KALI CARB. KALI IOD., LACHESIS, LYCOPODIUM LYCOPUS VIRGINICUS, NAT. MUR., NUX VOM., PHOSPHORUS, PHYTOLACCA, PULSATILLA, RHUS TOXICODENDRON, SABAL"
+        "brand_name": [
+          "Multi-System Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=37
+Page 37 of 104
+        "generic_name": [
+          "ECHINACEA ANGUSTIFOLIA, HYDRASTIS CANADENSIS, LOMATIUM, NASTURTIUM AQUATICUM, TABEBUIA IMPETIGINOSA, IODIUM, ADRENALINUM, ARGENTUM METALLICUM, THYMUS, THYROIDINUM, PHOSPHORICUM ACIDUM, CANDIDA ALBICANS, LYCOPODIUM CLAVATUM, PULSATILLA, SEPIA"
+        "brand_name": [
+          "FNG II"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=38
+Page 38 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS,"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=39
+Page 39 of 104
+        "generic_name": [
+          "ADRENALINUM, CANDIDA ALBICANS THYROIDINUM, TORULA CEREVISIAE, TRITICUM, USTILAGO MAIDIS, ANTIMON. CRUD., ARSENICUM ALB., BAPTISIA, BERBER. AQUI, BRYONIA CALC. PHOS., CINCHONA, HELONIAS DIOICA, HYDRASTIS, IODIUM, IRIS VERSICOLOR, KALI CARB., LACHESIS , LYCOPODIUM, MERC. VIV., NAT. CARB, NAT. PHOS., NITRICUM AC., PHOSPHORUS, PODOPH. PELT., PULSATILLA, SEPIA, ECHINACEA, GINKGO, JUGLANS REGIA, LAPPA, THUJA OCC."
+        "brand_name": [
+          "Candidiasis - Yeast"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=40
+Page 40 of 104
+        "generic_name": [
+          "AZADIRACHTA INDICA, BELLADONNA, BERBERIS VULGARIS, BOLDO, CANDIDA ALBICANS, CEANOTHUS AMERICANUS, CETRARIA ISLANDICA, CROTALUS HORRIDUS, ECHINACEA (ANGUSTIFOLIA), GLANDULA SUPRARENALIS SUIS, GLYCYRRHIZA GLABRA, HAMAMELIS VIRGINIANA, HEPAR SUIS, HYDRASTIS CANADENSIS, HYDROCOTYLE ASIATICA, HYPERICUM PERFORATUM, LAPPA MAJOR, LEDUM PALUSTRE, MILLEFOLIUM, MORBILLINUM, MYRRHA, PANCREAS SUIS, PERTUSSINUM, PHOSPHORUS, PLANTAGO MAJOR, PYROGENIUM, SOLIDAGO VIRGAUREA, ZINGIBER OFFICINALE"
+        "brand_name": [
+          "Bacteria-Chord"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=41
+Page 41 of 104
+        "generic_name": [
+          "ADRENALINUM, CANDIDA ALBICANS THYROIDINUM, TORULA CEREVISIAE, TRITICUM, USTILAGO MAIDIS, ANTIMON. CRUD., ARSENICUM ALB., BAPTISIA, BERBER. AQUI, BRYONIA CALC. PHOS., CINCHONA, HELONIAS DIOICA, HYDRASTIS, IODIUM, IRIS VERSICOLOR, KALI CARB., LACHESIS , LYCOPODIUM, MERC. VIV., NAT. CARB, NAT. PHOS., NITRICUM AC., PHOSPHORUS, PODOPH. PELT., PULSATILLA, SEPIA, ECHINACEA, GINKGO, JUGLANS REGIA, LAPPA, THUJA OCC., ECHINACEA, GINKGO, JUGLANS REGIA, LAPPA, THUJA OCC."
+        "brand_name": [
+          "Candidiasis Yeast"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=42
+Page 42 of 104
+        "generic_name": [
+          "BAPTISIA TINCTORIA, ECHINACEA, LOMATIUM DISSECTUM, TABEBUIA IMPETIGINOSA, PROPOLIS, SPLEEN (SUIS), THYMUS (SUIS), THYROIDINUM (SUIS), GELSEMIUM SEMPERVIRENS, LYCOPODIUM CLAVATUM, NUX VOMICA, CHLAMYDIA TRACHOMATIS, HERPES I, HERPES II, CANDIDA ALBICANS, HUMAN PAPILLOMA VIRUS, TRICHINELLA SPIRALIS"
+        "brand_name": [
+          "HZ Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=43
+Page 43 of 104
+        "generic_name": [
+          "ECHINACEA (ANGUSTIFOLIA), HYDRASTIS CANADENSIS, PHYTOLACCA DECANDRA, ACETALDEHYDE, CAFFEIC ACID, GALLICUM ACIDUM, INDOLUM, MANNAN, LYCOPODIUM CLAVATUM, MERCURIUS SOLUBILIS, PULSATILLA (VULGARIS), SEPIA, CANDIDA ALBICANS, BRUGIA MALAYI, ALTERNARIA TENUIS NEES, ASPERGILLUS NIGER, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, MUCOR RACEMOSUS, PULLULARIA PULLULANS, RHIZOPUS NIGRICANS, TORULA CEREVISIAE"
+        "brand_name": [
+          "CANDIDA PLUS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=44
+Page 44 of 104
+        "generic_name": [
+          "ANGELICA ARCHANGELICA, CIMICIFUGA RACEMOSA, ZINCUM GLUCONICUM, FUNICULUS UMBILICALIS SUIS, LYMPH NODE, OOPHORINUM, UTERUS, GLANDULA SUPRARENALIS, THYROIDINUM, BORICUM ACIDUM, KREOSOTUM, MERCURIUS SOLUBILIS, PULSATILLA, SEPIA, CALCAREA CARBONICA, PHOSPHORUS, SABINA, CANDIDA ALBICANS, HERPES 1, HERPES 2, HUMAN PAPILLOMA VIRUS."
+        "brand_name": [
+          "Gynetox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=45
+Page 45 of 104
+        "generic_name": [
+          "ASPERGILLUS NIGER VAR. NIGER - CANDIDA ALBICANS - CENTELLA ASIATICA - MALIC ACID - MERCURIC CHLORIDE - RHIZOPUS STOLONIFER - SODIUM DIETHYL OXALACETATE - SULFUR - TABEBUIA IMPETIGINOSA BARK -"
+        "brand_name": [
+          "MICOX"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=46
+Page 46 of 104
+        "generic_name": [
+          "ACTIVATED CHARCOAL - AETHUSA CYNAPIUM - ALTHAEA OFFICINALIS LEAF - BILBERRY - CANDIDA ALBICANS - UNCARIA TOMENTOSA - ESCHERICHIA COLI - INDOLE - MERCURIUS SOLUBILIS - OKOUBAKA AUBREVILLEI BARK - PORK"
+        "brand_name": [
+          "EUBIOFLOR"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=47
+Page 47 of 104
+        "generic_name": [
+          "BERBERIS VULGARIS, COCHLEARIA ARMORACIA, ECHINACEA (ANGUSTIFOLIA), HYDRASTIS CANADENSIS, LOMATIUM DISSECTUM, MYRRHA, TABEBUIA IMPETIGINOSA, PROPOLIS, FORMALINUM, GLANDULA SUPRARENALIS SUIS, THYMUS (SUIS), FERRUM METALLICUM, IRIDIUM METALLICUM, LYCOPODIUM CLAVATUM, PHOSPHORICUM ACIDUM, PULSATILLA (VULGARIS), SELENIUM METALLICUM, ZINCUM METALLICUM, ADENOSINUM TRIPHOSPHORICUM DINATRUM, ALTERNARIA TENUIS NEES, ASPERGILLUS NIGER, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, MUCOR RACEMOSUS, PULLULARIA PULLULANS"
+        "brand_name": [
+          "FNG"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=48
+Page 48 of 104
+        "generic_name": [
+          "MERCURIUS SOLUBILIS, CANDIDA ALBICANS"
+        "brand_name": [
+          "Cancordistat"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=49
+Page 49 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Combo"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=50
+Page 50 of 104
+        "generic_name": [
+          "BAPTISIA TINCTORIA, BORAX, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, ECHINACEA (ANGUSTIFOLIA), KREOSOTUM, MERCURIUS CYANATUS, MERCURIUS SULPHURATUS RUBER, NITRICUM ACIDUM, PYROGENIUM, SULPHURICUM ACIDUM, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Candida Yeast"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=51
+Page 51 of 104
+        "generic_name": [
+          "ECHINACEA ANGUSTIFOLIA, HYDRASTIS CANADENSIS, LOMATIUM, NASTURTIUM AQUATICUM, TABEBUIA IMPETIGINOSA, GLANDULA SUPRARENALIS, THYMUS, LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORICUM ACIDUM, PHYTOLACCA DECANDRA, SEPIA, ALTERNARIA TENUIS, ASPERGILLUS NIGER, RHIZOPUS NIGRICANS, MUCOR RACEMOSUS, PULLULARIA PULLULANS, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, TORULA CEREVISIAE, ASTRAGALUS MEMBRANACEUS, LIGUSTICUM PORTERI, PROPOLIS, MARSDENIA CUNDURANGO, GINKGO BILOBA"
+        "brand_name": [
+          "FNG I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=52
+Page 52 of 104
+        "generic_name": [
+          "ECHINACEA (ANGUSTIFOLIA), HYDRASTIS CANADENSIS, PHYTOLACCA DECANDRA, ACETALDEHYDE, CAFFEIC ACID, GALLICUM ACIDUM, INDOLUM, MANNAN, LYCOPODIUM CLAVATUM, MERCURIUS SOLUBILIS, PULSATILLA (VULGARIS), SEPIA, ALTERNARIA TENUIS NEES, ASPERGILLUS NIGER, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, MUCOR RACEMOSUS, PULLULARIA PULLULANS, RHIZOPUS NIGRICANS, TORULA CEREVISIAE, CANDIDA ALBICANS, BRUGIA MALAYI"
+        "brand_name": [
+          "Candida Plus"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=53
+Page 53 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, AND PENICILLIUM ROQUEFORTI"
+        "brand_name": [
+          "Pleo Ex"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=54
+Page 54 of 104
+        "generic_name": [
+          "BAPTISIA TINCTORIA, BORAX, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, ECHINACEA (ANGUSTIFOLIA), KREOSOTUM, MERCURIUS CYANATUS, MERCURIUS SULPHURATUS RUBER, NITRICUM ACIDUM, PYROGENIUM, SULPHURICUM ACIDUM, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Yeastrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=55
+Page 55 of 104
+        "generic_name": [
+          "BAPTISIA TINCTORIA, ECHINACEA ANGUSTIFOLIA, LOMATIUM, TABEBUIA IMPETIGINOSA, PROPOLIS, SPLEEN, THYMUS, THYRODINUM, GELSEMIUM SEMPERVIRENS, LYCOPODIUM CLAVATUM, NUX VOMICA, CHLAMYDIA TRACHOMATIS, HERPES I, HERPES II, CANDIDA ALBICANS, HUMAN PAPILLOMA VIRUS, TRICHINELLA SPIRALIS"
+        "brand_name": [
+          "HZ Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=56
+Page 56 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=57
+Page 57 of 104
+        "generic_name": [
+          "ANGELICA ARCHANGELICA, CIMICIFUGA RACEMOSA, ZINCUM GLUCONICUM, FUNICULUS UMBILICALIS SUIS, LYMPH NODE (SUIS), OOPHORINUM (SUIS), UTERUS (SUIS), GLANDULA SUPRARENALIS SUIS, THYROIDINUM SUIS, BORICUM ACIDUM, KREOSOTUM, MERCURIUS SOLUBILIS, PULSATILLA, SEPIA, CALCAREA CARBONICA, PHOSPHORUS, SABINA, CANDIDA ALBICANS, HERPES SIMPLEX 1 AND 2 NOSODE, HUMAN PAPILLOMA VIRUS NOSODE"
+        "brand_name": [
+          "Gynetox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=58
+Page 58 of 104
+        "generic_name": [
+          "BAPTISIA TINCTORIA, BORAX, CANDIDA ALBICANS, CANDIDA PARASILOSIS, ECHINACEA, KREOSOTUM, MERCURIUS CYANATUS,"
+        "brand_name": [
+          "Yeastrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=59
+Page 59 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS,"
+        "brand_name": [
+          "Candida Combo"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=60
+Page 60 of 104
+        "generic_name": [
+          "AGARICUS MUSC., ARSENICUM ALB., AUR. MET, BERBER. AQUI., CALADIUM SEGUINUM, CANDIDA ALBICANS, CANTHARIS, CONIUM, GRAPHITES, HELONIAS DIOICA, HYDRASTIS, KALI CARB., KREOSOTUM, LYCOPODIUM, MERC. VIV., MUREX PURPUREA, NAT. MUR, NITRICUM AC., PULSATILLA, RHUS TOXICODENDRON, SEPIA, SULPHUR, TARENTULA HISPANA, THUJA OCC., ZINC. MET., APIS MEL, HAMAMELIS"
+        "brand_name": [
+          "Vaginitis - Feminine Care"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=61
+Page 61 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, CANDIDA PARAPSILOSIS AND PENICILLIUM ROQUEFORTI"
+        "brand_name": [
+          "Pleo Ex"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=62
+Page 62 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, SANICULA, TELLURIUM METALLICUM, TORULA CEREVISIAE, ANTIMON. CRUD., ARSENICUM ALB., BARYTA CARB., BRYONIA, CALC. CARB., CARBO VEG., CUPRUM MET., DULCAMARA, GRAPHITES, KALI CARB., LACHESIS, LYCOPODIUM, MEZEREUM, NITRICUM AC., PHOSPHORUS, PHYTOLACCA, SEPIA, SILICEA, SULPHUR, SULPHURICUM AC., ZINC. MET., APIS MEL., THUJA."
+        "brand_name": [
+          "Fungal Infection"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=63
+Page 63 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=64
+Page 64 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=65
+Page 65 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=66
+Page 66 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Pleo San Cand"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=67
+Page 67 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, SEPIA OFFICINALIS JUICE, ECHINACEA, UNSPECIFIED, LYCOPODIUM CLAVATUM SPORE, PULSATILLA VULGARIS, THUJA OCCIDENTALIS LEAFY TWIG, OYSTER SHELL CALCIUM CARBONATE, CRUDE, ASTRAGALUS PROPINQUUS ROOT, MERCURIUS SOLUBILIS, GOLDENSEAL, PHYTOLACCA AMERICANA ROOT, BERBERIS VULGARIS ROOT BARK, GENTIANA LUTEA ROOT, APIS MELLIFERA"
+        "brand_name": [
+          "CENTURY 21 FUNGAL YEAST INFECTION"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=68
+Page 68 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Pleo Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=69
+Page 69 of 104
+        "generic_name": [
+          "ADRENALINUM, CANDIDA ALBICANS, THYROIDINUM, TORULA CEREVISIAE, TRITICUM, USTILAGO MAIDIS, ANTIMON. CRUD, ARSENICUM ALB., BAPTISIA, BERBER. AQUI., BRYONIA, CALC. PHOS., CINCHONA, HELONIAS DIOICA, HYDRASTIS, IODIUM, IRIS VERSICOLOR, KALI CARB., LACHESIS, LYCOPODIUM, MERC. VIV., NAT.CARB., NAT. PHOS, NITRICUM AC., PHOSPHORUS, PODOPH. PELT, PULSATILLA, SEPIA, ECHINACEA, GINKGO, JUGLANS REGIA, LAPPA, THUJA OCC."
+        "brand_name": [
+          "Candida - Yeast"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=70
+Page 70 of 104
+        "generic_name": [
+          "BAPTISIA TINCTORIA, BRYONIA ALBA, ECHINACEA ANGUSTIFOLIA, THUJA OCCIDENTALIS, VISCUM ALBUM, CANDIDA ALBICANS"
+        "brand_name": [
+          "CANDIDA YEAST RELIEF"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=71
+Page 71 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Double T"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=72
+Page 72 of 104
+        "generic_name": [
+          "ABIES NIGRA, ANTIMONIUM CRUDUM, ASAFOETIDA, BAPTISIA TINCTORIA, BORAX, CANDIDA ALBICANS, LACHESIS MUTUS, PHOSPHORICUM ACIDUM, PHYTOLACCA DECANDRA, PULSATILLA, STICTA PULMONARIA, SULPHUR, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Yeast Freee"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=73
+Page 73 of 104
+        "generic_name": [
+          "ECHINACEA PURPUREA, BAPTISIA TINCTORIA ROOT, GLYCYRRHIZA GLABRA, ASTRAGALUS NUTTALLII LEAF, SODIUM BORATE, OYSTER SHELL CALCIUM CARBONATE, CRUDE, WOOD CREOSOTE, LYCOPODIUM CLAVATUM SPORE, SODIUM PHOSPHATE, DIBASIC HEPTAHYDRATE, NITRIC ACID, STRYCHNOS NUX-VOMICA SEED, PHOSPHORIC ACID, PULSATILLA VULGARIS, SEPIA OFFICINALIS JUICE, CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida HP"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=74
+Page 74 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=75
+Page 75 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=76
+Page 76 of 104
+        "generic_name": [
+          "ABIES CANADENSIS, ALLIUM CEPA, ALLIUM SATIVUM, ALOE SOCOTRINA, ANTIMONIUM CRUDUM, ASAFOETIDA, BORAX, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, CARPINUS BETULUS, FLOS, IGNATIA AMARA, LACHESIS MUTUS, LYCOPODIUM CLAVATUM, MALUS PUMILA, FLOS, OLEA EUROPAEA, FLOS, PHOSPHORICUM ACIDUM, PHYTOLACCA DECANDRA, PULSATILLA, SABADILLA, STICTA PULMONARIA, SULPHUR, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Candida"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=77
+Page 77 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candique"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=78
+Page 78 of 104
+        "generic_name": [
+          "SODIUM BORATE, CALENDULA OFFICINALIS FLOWERING TOP, CANDIDA ALBICANS, GOLDENSEAL"
+        "brand_name": [
+          "Yeastaway"
+ 
+      "drug_interactions": [
+        "Safe - Works naturally with your body"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=79
+Page 79 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Candida Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=80
+Page 80 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, PULSATILLA, SEPIA, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Homeopathic Yeast Relief Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=81
+Page 81 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Fungal Plus"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=82
+Page 82 of 104
+        "generic_name": [
+          "COCHLEARIA ARMORACIA, TOXOPLASMA GONDII, VIBRIO CHOLERAE, CANDIDA ALBICANS, TRICHINELLA SPIRALIS"
+        "brand_name": [
+          "Biotox Para"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=83
+Page 83 of 104
+        "generic_name": [
+          "ALUMINA, AVENA SATIVA, BORAX, CANDIDA ALBICANS, CARBOLICUM ACIDUM, CEANOTHUS AMERICANUS, ECHINACEA (ANGUSTIFOLIA), GAULTHERIA PROCUMBENS, GLANDULA SUPRARENALIS SUIS, HYDRASTIS CANADENSIS, LINUM USITATISSIMUM, LITHIUM CARBONICUM, MEDULLA OSSIS SUIS, NATRUM MURIATICUM, PHOSPHORICUM ACIDUM, PHYTOLACCA DECANDRA, SARCOLACTICUM ACIDUM, SEPIA, SILICEA, SOLIDAGO VIRGAUREA, TELLURIUM METALLICUM, TEUCRIUM MARUM, ZINCUM METALLICUM"
+        "brand_name": [
+          "MycoCan-Chord"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=84
+Page 84 of 104
+        "generic_name": [
+          "ACETALDEHYDE, COUMARINUM, HISTAMINUM HYDROCHLORICUM, QUERCETIN, TORULA CEREVISIAE, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, ADRENOCORTICOTROPHIN, SARCOLACTICUM ACIDUM, SEPIA, FAECALIS (ALKALIGENES)"
+        "brand_name": [
+          "YEAST MIX"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=85
+Page 85 of 104
+        "generic_name": [
+          "PULSATILLA (VULGARIS), EUPHORBIUM OFFICINARUM, LUFFA OPERCULATA, MERCURIUS IODATUS RUBER, ARGENTUM NITRICUM, HEPAR SULPHURIS CALCAREUM, INFLUENZINUM, SINUITISINUM, ASPERGILLUS NIGER, CANDIDA ALBICANS, GALLICUM ACIDUM, MUCOR RACEMOSUS, MUTABILE BACILLUS"
+        "brand_name": [
+          "ENT Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=86
+Page 86 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Pleo Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=87
+Page 87 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Fungal Plus"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=88
+Page 88 of 104
+        "generic_name": [
+          "ASPERGILLUS NIGER, CLADOSPORIUM, CANDIDA ALBICANS, THYROIDINUM, USTILAGO MAIDIS, ACONITUM NAP., ANTIMONIUM TART. ARALIA QUINQUEFOLIA, ARNICA, ARSENICUM ALB., BAPTISIA, BRYONIA, CANTHARIS, CHELIDONIUM MAJUS, CINCHONA, ECHINACEA, IODIUM, KALI CARB. KALI IOD., LACHESIS, LYCOPODIUM LYCOPUS VIRGINICUS, NAT. MUR., NUX VOM., PHOSPHORUS, PHYTOLACCA, PULSATILLA, RHUS TOXICODENDRON, SABAL"
+        "brand_name": [
+          "Multi-System Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=89
+Page 89 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, SANICULA, TELLURIUM METALLICUM, TORULA CEREVISIAE, ANTIMON. CRUD., ARSENICUM ALB., BARYTA CARB., BRYONIA, CALC. CARB., CARBO VEG., CUPRUM MET., DULCAMARA, GRAPHITES, KALI CARB., LACHESIS, LYCOPODIUM, MEZEREUM, NITRICUM AC., PHOSPHORUS, PHYTOLACCA, SEPIA, SILICEA, SULPHUR, SULPHURICUM AC., ZINC. MET., APIS MEL., THUJA OCC."
+        "brand_name": [
+          "Fungus Fighter"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=90
+Page 90 of 104
+        "generic_name": [
+          "ARSENICUM ALBUM, PHOSPHORUS, PULSATILLA, SEPIA, ALTERNARIA TENUIS, ASPERGILLUS NIGER, RHIZOPUS NIGRICANS, MUCOR RACEMOSUS, PULLULARIA PULLULANS, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, TORULA CEREVISI"
+        "brand_name": [
+          "Mold Antigens"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=91
+Page 91 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Pleo Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=92
+Page 92 of 104
+        "generic_name": [
+          "KALI MURIATICUM, CALCAREA SULPHURICA, SULPHUR, MUCOR RACEMOSUS, HYDRASTIS CANADENSIS, KALI BICHROMICUM, LACHESIS MUTUS, MERCURIUS SULPHURATUS RUBER, HEPAR SULPHURIS CALCAREUM, ARGENTUM NITRICUM, COBALTUM METALLICUM, CUPRUM METALLICUM, MANGANUM METALLICUM, SILICEA, ASPERGILLUS FUMIGATUS, ASPERGILLUS NIGER, CANDIDA ALBICANS, THUJA OCCIDENTALIS, SINUSITISINUM"
+        "brand_name": [
+          "Sinusitis Plus"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=93
+Page 93 of 104
+        "generic_name": [
+          "BERBERIS VULGARIS, COCHLEARIA ARMORACIA, ECHINACEA (ANGUSTIFOLIA), HYDRASTIS CANADENSIS, LOMATIUM DISSECTUM, MYRRHA, TABEBUIA IMPETIGINOSA, PROPOLIS, FORMALINUM, GLANDULA SUPRARENALIS SUIS, THYMUS (SUIS), FERRUM METALLICUM, IRIDIUM METALLICUM, LYCOPODIUM CLAVATUM, PHOSPHORICUM ACIDUM, PULSATILLA (VULGARIS), SELENIUM METALLICUM, ZINCUM METALLICUM, ATP (ADENOSINE TRIPHOSPHATE DISODIUM), ALTERNARIA TENUIS NEES, ASPERGILLUS NIGER, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, MUCOR RACEMOSUS, PULLULARIA PULLULANS"
+        "brand_name": [
+          "FNG"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=94
+Page 94 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS, PULSATILLA, SEPIA, THUJA OCCIDENTALIS"
+        "brand_name": [
+          "Homeopathic Yeast Relief Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=95
+Page 95 of 104
+        "generic_name": [
+          "ECHINACEA (ANGUSTIFOLIA), TABEBUIA IMPETIGINOSA, ABIES NIGRA, LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORUS, PULSATILLA (VULGARIS), SEPIA, SKATOLUM, CANDIDA ALBICANS"
+        "brand_name": [
+          "FUNGUSTAT I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=96
+Page 96 of 104
+        "generic_name": [
+          "ECHINACEA, HYDRASTIS CANADENSIS, LOMATIUM DISSECTUM, NASTURTIUM AQUATICUM, TABEBUIA IMPETIGINOSA, CONDURANGO, GINKO BILOBA, LIGUSTICUM PORTERI, ASTRAGALUS MEMBRANACEUS, PROPOLIS, GLANDULA SUPRARENALIS (BOVINUM), THYMUS (BOVINUM), LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORICUM ACIDUM, PHYTOLACCA DECANDRA, SEPIA, ALTERNARIA TENUIS, ASPERGILLUS NIGER, RHIZOPUS NIGRICANS, MUCOR RACEMOSUS, PULLARIA PULLULANS, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, TORULA CEREVISIAE"
+        "brand_name": [
+          "FNG I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=97
+Page 97 of 104
+        "generic_name": [
+          "AGARICUS MUSC., ARSENICUM ALB., AUR. MET., BERBER. AQUI., CALADIUM SEGUINUM, CANDIDA ALBICANS, CANTHARIS, CONIUM, GRAPHITES, HELONIAS DIOICA, HYDRASTIS, KALI CARB., KREOSOTUM, LYCOPODIUM, MERC. VIV., MUREX PURPUREA, NAT. MUR., NITRICUM AC., PULSATILLA, RHUS TOXICODENDRON, SEPIA, SULPHUR, TARENTULA HISPANA, THUJA OCC., ZINC. MET., APIS MEL., HAMAMELIS"
+        "brand_name": [
+          "Feminine Comfort"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=98
+Page 98 of 104
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, ACETALDEHYDE, APIOLUM, ASCORBIC ACID, BHT, CAFFEIC ACID, CANDIDA ALBICANS, CHLOROGENIC ACID, CINNAMIC ACID, CONIFERYL ALCOHOL, COUMARIN, DOPAMINE, ESTROGEN, GABA, GALLIC ACID, HISTAMINE, INDOLE, L-DOPA, MALVIN, MANNAN, MELATONIN, MENADIONE, NOREPINEPHRINE, OCTOPAMINE, PHENYLALANINE, PHENYLI-SOTHIOCYANATE, PHLORIZIN, PIPERINE, PROGESTERONE, PYRROLE, QUERCETIN, RUTIN, SALSOLINOL, SEROTONIN, TAURINE, TESTOSTERONE, TRYPTOPHAN"
+        "brand_name": [
+          "BioPhenolics"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=99
+Page 99 of 104
+        "generic_name": [
+          "CHELIDONIUM MAJUS, LOBELIA INFLATA, RUMEX CRISPUS, SAMBUCUS NIGRA, SCROPHULARIA NODOSA, SENEGA OFFICINALIS, SPONGIA TOSTA, TARAXACUM OFFICINALE, MYRISTICA SEBIFERA, STICTA PULMONARIA, SULPHUR, USTILAGO MAIDIS, POLYPORUS OFFICINALIS, CANDIDA ALBICANS, CARDUUS MARIANUS, CROTALUS HORRIDUS, AGARICUS MUSCARIUS, BOVISTA, SECALE CORNUTUM, ANAS BARBARIAE, HEPATIS ET CORDIS EXTRACTUM, ANTHRACINUM, ARSENICUM ALBUM, BAPTISIA TINCTORIA, BERBERIS VULGARIS, BOTULINUM, DYSENTERY BACILLUS, GAERTNER BACILLUS"
+        "brand_name": [
+          "Bio Immune"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=100
+Page 100 of 104
+        "generic_name": [
+          "ECHINACEA (ANGUSTIFOLIA), FUCUS VESICULOSUS, HYDRASTIS CANADENSIS, PHYTOLACCA DECANDRA , KREOSOTUM, NATRUM MURIATICUM, CANDIDA ALBICANS, LYCOPODIUM CLAVATUM, PULSATILLA (PRATENSIS), SEPIA"
+        "brand_name": [
+          "FUNGUSTAT II"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=101
+Page 101 of 104
+        "generic_name": [
+          "AMMONIAC, ASPERGILLUS NIGER VAR. NIGER, CAFFEIC ACID, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, IPECAC, LYCOPODIUM CLAVATUM SPORE, YEAST MANNAN, PENICILLIN G SODIUM, VACCINIUM VITIS-IDAEA LEAF"
+        "brand_name": [
+          "Candida"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=102
+Page 102 of 104
+        "generic_name": [
+          "BAPTISIA TINCTORIA, BORAX, CANDIDA ALBICANS, CANDIDA PARAPSILOSIS, ECHINACEA, KREOSOTUM, MERCURIUS CYANATUS, MERCURIUS SULPHURATUS RUBER, NITRICUM ACIDUM,"
+        "brand_name": [
+          "Candida Yeast"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Candida+AND+Albicans&limit=1&skip=103
+Page 103 of 104
+        "generic_name": [
+          "CANDIDA ALBICANS"
+        "brand_name": [
+          "Pleo Alb"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

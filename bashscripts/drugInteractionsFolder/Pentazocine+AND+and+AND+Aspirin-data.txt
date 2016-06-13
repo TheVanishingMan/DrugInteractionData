@@ -1,0 +1,82 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pentazocine+AND+and+AND+Aspirin&limit=1&skip=0
+Page 0 of 6
+        "generic_name": [
+          "PENTAZOCINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE"
+        "brand_name": [
+          "Pentazocine and naloxone"
+ 
+      "drug_interactions": [
+        "Drug Interactions Usage with Alcohol: See WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Hypotension, tachycardia, syncope. Respiratory: Rarely, respiratory depression. Acute CNS Manifestations: Patients receiving therapeutic doses of pentazocine have experienced hallucinations (usually visual), disorientation, and confusion which have cleared spontaneously within a period of hours. The mechanism of this reaction is not known. Such patients should be closely observed and vital signs checked. If the drug is reinstituted it should be done with caution since these acute CNS manifestations may recur. Other CNS Effects: Dizziness, lightheadedness, hallucinations, sedation, euphoria, headache, confusion, disorientation; infrequently weakness, disturbed dreams, insomnia, syncope, visual blurring and focusing difficulty, depression; and rarely tremor, irritability, excitement, tinnitus. Autonomic: Sweating; infrequently flushing; and rarely chills. Gastrointestinal: Nausea, vomiting, constipation, diarrhea, anorexia, rarely abdominal distress. Allergic: Edema of the face; dermatitis, including pruritus; flushed skin, including plethora; infrequently rash, and rarely urticaria. Ophthalmic: Visual blurring and focusing difficulty. Hematologic: Depression of white blood cells (especially granulocytes), which is usually reversible, moderate transient eosinophilia. Other: Headache, chills, insomnia, weakness, urinary retention, paresthesia, serious skin reactions, including erythema multiforme, Stevens-Johnson Syndrome and toxic epidermal necrolysis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pentazocine+AND+and+AND+Aspirin&limit=1&skip=1
+Page 1 of 6
+        "generic_name": [
+          "PENTAZOCINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE"
+        "brand_name": [
+          "PENTAZOCINE HCL AND NALOXONE HCL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Hypotension, tachycardia, syncope. Respiratory: Rarely, respiratory depression. Acute CNS Manifestations: Patients receiving therapeutic doses of pentazocine have experienced hallucinations (usually visual), disorientation, and confusion which have cleared spontaneously within a period of hours. The mechanism of this reaction is not known. Such patients should be closely observed and vital signs checked. If the drug is reinstituted it should be done with caution since these acute CNS manifestations may recur. Other CNS Effects: Dizziness, lightheadedness, hallucinations, sedation, euphoria, headache, confusion, disorientation; infrequently weakness, disturbed dreams, insomnia, syncope, visual blurring and focusing difficulty, depression; and rarely tremor, irritability, excitement, tinnitus. Autonomic: Sweating; infrequently flushing; and rarely chills. Gastrointestinal: Nausea, vomiting, constipation, diarrhea, anorexia, rarely abdominal distress. Allergic: Edema of the face; dermatitis, including pruritus; flushed skin, including plethora; infrequently rash, and rarely urticaria. Ophthalmic: Visual blurring and focusing difficulty. Hematologic: Depression of white blood cells (especially granulocytes), which is usually reversible, moderate transient eosinophilia. Other: Headache, chills, insomnia, weakness, urinary retention, paresthesia, serious skin reactions, including erythema multiforme, Stevens-Johnson Syndrome and toxic epidermal necrolysis."
+      "warnings_and_cautions": [
+        "WARNINGS Drug Dependence. Pentazocine can cause a physical and psychological dependence. (See DRUG ABUSE AND DEPENDENCE.) Head Injury and Increased Intracranial Pressure. As in the case of other potent analgesics, the potential of pentazocine for elevating cerebrospinal fluid pressure may be attributed to CO2 retention due to the respiratory depressant effects of the drug. These effects may be markedly exaggerated in the presence of head injury, other intracranial lesions, or a pre-existing increase in intracranial pressure. Furthermore, pentazocine can produce effects which may obscure the clinical course of patients with head injuries. In such patients, pentazocine must be used with extreme caution and only if its use is deemed essential. Usage with Alcohol. Due to the potential for increased CNS depressant effects, alcohol should be used with caution in patients who are currently receiving pentazocine. Patients Receiving Narcotics. Pentazocine is a mild narcotic antagonist. Some patients previously given narcotics, including methadone for the daily treatment of narcotic dependence, have experienced withdrawal symptoms after receiving pentazocine. Certain Respiratory Conditions. Although respiratory depression has rarely been reported after oral administration of pentazocine, the drug should be administered with caution to patients with respiratory depression from any cause, severely limited respiratory reserve, severe bronchial asthma, and other obstructive respiratory conditions, or cyanosis. Acute CNS Manifestations. Patients receiving therapeutic doses of pentazocine have experienced hallucinations (usually visual), disorientation, and confusion which have cleared spontaneously within a period of hours. The mechanism of this reaction is not known. Such patients should be very closely observed and vital signs checked. If the drug is reinstituted, it should be done with caution since these acute CNS manifestations may recur. PRECAUTIONS CNS EffectCaution should be used when pentazocine is administered to patients prone to seizures; seizures have occurred in a few such patients in association with the use of pentazocine though no cause and effect relationship has been established. Impaired Renal or Hepatic FunctionDecreased metabolism of pentazocine by the liver in extensive liver disease may predispose to accentuation of side effects. Although laboratory tests have not indicated that pentazocine causes or increases renal or hepatic impairment, the drug should be administered with caution to patients with such impairment. In prescribing pentazocine for long-term use, the physician should take precautions to avoid increases in doses by the patient. Biliary SurgeryNarcotic drug products are generally considered to elevate biliary tract pressure for varying periods following their administration. Some evidence suggests that pentazocine may differ from other marketed narcotics in this respect (i.e., it causes little or no elevation in biliary tract pressures). The clinical significance of these findings, however, is not yet known."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pentazocine+AND+and+AND+Aspirin&limit=1&skip=2
+Page 2 of 6
+        "generic_name": [
+          "PENTAZOCINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE"
+        "brand_name": [
+          "Pentazocine and naloxone"
+ 
+      "drug_interactions": [
+        "Drug Interactions. Usage with Alcohol: See WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Hypotension, tachycardia, syncope. Respiratory: Rarely, respiratory depression. Acute CNS Manifestations: Patients receiving therapeutic doses of pentazocine have experienced hallucinations (usually visual), disorientation, and confusion which have cleared spontaneously within a period of hours. The mechanism of this reaction is not known. Such patients should be closely observed and vital signs checked. If the drug is reinstituted it should be done with caution since these acute CNS manifestations may recur. Other CNS Effects: Dizziness, lightheadedness, hallucinations, sedation, euphoria, headache, confusion, disorientation; infrequently weakness, disturbed dreams, insomnia, syncope, visual blurring and focusing difficulty, depression; and rarely tremor, irritability, excitement, tinnitus. Autonomic: Sweating; infrequently flushing; and rarely chills. Gastrointestinal: Nausea, vomiting, constipation, diarrhea, anorexia, rarely abdominal distress. Allergic: Edema of the face; dermatitis, including pruritus; flushed skin, including plethora; infrequently rash, and rarely urticaria. Ophthalmic: Visual blurring and focusing difficulty. Hematologic: Depression of white blood cells (especially granulocytes), which is usually reversible, moderate transient eosinophilia. Other: Headache, chills, insomnia, weakness, urinary retention, paresthesia, serious skin reactions, including erythema multiforme, Stevens-Johnson Syndrome and toxic epidermal necrolysis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pentazocine+AND+and+AND+Aspirin&limit=1&skip=3
+Page 3 of 6
+        "generic_name": [
+          "PENTAZOCINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE"
+        "brand_name": [
+          "Pentazocine and naloxone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Hypotension, tachycardia, syncope. Respiratory: Rarely, respiratory depression. Acute CNS Manifestations: Patients receiving therapeutic doses of pentazocine have experienced hallucinations (usually visual), disorientation, and confusion which have cleared spontaneously within a period of hours. The mechanism of this reaction is not known. Such patients should be closely observed and vital signs checked. If the drug is reinstituted it should be done with caution since these acute CNS manifestations may recur. Other CNS Effects: Dizziness, lightheadedness, hallucinations, sedation, euphoria, headache, confusion, disorientation; infrequently weakness, disturbed dreams, insomnia, syncope, visual blurring and focusing difficulty, depression; and rarely tremor, irritability, excitement, tinnitus. Autonomic: Sweating; infrequently flushing; and rarely chills. Gastrointestinal: Nausea, vomiting, constipation, diarrhea, anorexia, rarely abdominal distress. Allergic: Edema of the face; dermatitis, including pruritus; flushed skin, including plethora; infrequently rash, and rarely urticaria. Ophthalmic: Visual blurring and focusing difficulty. Hematologic: Depression of white blood cells (especially granulocytes), which is usually reversible, moderate transient eosinophilia. Other: Headache, chills, insomnia, weakness, urinary retention, paresthesia, serious skin reactions, including erythema multiforme, Stevens-Johnson Syndrome and toxic epidermal necrolysis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pentazocine+AND+and+AND+Aspirin&limit=1&skip=4
+Page 4 of 6
+        "generic_name": [
+          "PENTAZOCINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE"
+        "brand_name": [
+          "Pentazocine and naloxone"
+ 
+      "drug_interactions": [
+        "Drug Interactions. Usage with Alcohol: See WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Hypotension, tachycardia, syncope. Respiratory: Rarely, respiratory depression. Acute CNS Manifestations: Patients receiving therapeutic doses of pentazocine have experienced hallucinations (usually visual), disorientation, and confusion which have cleared spontaneously within a period of hours. The mechanism of this reaction is not known. Such patients should be closely observed and vital signs checked. If the drug is reinstituted it should be done with caution since these acute CNS manifestations may recur. Other CNS Effects: Dizziness, lightheadedness, hallucinations, sedation, euphoria, headache, confusion, disorientation; infrequently weakness, disturbed dreams, insomnia, syncope, visual blurring and focusing difficulty, depression; and rarely tremor, irritability, excitement, tinnitus. Autonomic: Sweating; infrequently flushing; and rarely chills. Gastrointestinal: Nausea, vomiting, constipation, diarrhea, anorexia, rarely abdominal distress. Allergic: Edema of the face; dermatitis, including pruritus; flushed skin, including plethora; infrequently rash, and rarely urticaria. Ophthalmic: Visual blurring and focusing difficulty. Hematologic: Depression of white blood cells (especially granulocytes), which is usually reversible, moderate transient eosinophilia. Other: Headache, chills, insomnia, weakness, urinary retention, paresthesia, serious skin reactions, including erythema multiforme, Stevens-Johnson Syndrome and toxic epidermal necrolysis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pentazocine+AND+and+AND+Aspirin&limit=1&skip=5
+Page 5 of 6
+        "generic_name": [
+          "PENTAZOCINE HYDROCHLORIDE AND NALOXONE HYDROCHLORIDE"
+        "brand_name": [
+          "Pentazocine and Naloxone"
+ 
+      "drug_interactions": [
+        "Drug Interactions Usage with Alcohol: See WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Hypotension, tachycardia, syncope. Respiratory: Rarely, respiratory depression. Acute CNS Manifestations: Patients receiving therapeutic doses of pentazocine have experienced hallucinations (usually visual), disorientation, and confusion which have cleared spontaneously within a period of hours. The mechanism of this reaction is not known. Such patients should be closely observed and vital signs checked. If the drug is reinstituted it should be done with caution since these acute CNS manifestations may recur. Other CNS Effects: Dizziness, lightheadedness, hallucinations, sedation, euphoria, headache, confusion, disorientation; infrequently weakness, disturbed dreams, insomnia, syncope, visual blurring and focusing difficulty, depression; and rarely tremor, irritability, excitement, tinnitus. Autonomic: Sweating; infrequently flushing; and rarely chills. Gastrointestinal: Nausea, vomiting, constipation, diarrhea, anorexia, rarely abdominal distress. Allergic: Edema of the face; dermatitis, including pruritus; flushed skin, including plethora; infrequently rash, and rarely urticaria. Ophthalmic: Visual blurring and focusing difficulty. Hematologic: Depression of white blood cells (especially granulocytes), which is usually reversible, moderate transient eosinophilia. Other: Headache, chills, insomnia, weakness, urinary retention, paresthesia, serious skin reactions, including erythema multiforme, Stevens-Johnson Syndrome and toxic epidermal necrolysis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
