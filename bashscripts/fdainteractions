@@ -52,18 +52,6 @@ FILENAME=drugInteractionsFolder/$QUE-data.txt
 STARTTIME=$(date '+%s')
 sleep 1
 
-<<<<<<< HEAD
-if [[ $TOTAL -gt 1000 ]]; then
-touch drugInteractionsFolder/WARNINGS.txt
-echo " "
-echo "WARNING! $QUE has $TOTAL pages, capping at 1000."
-echo " "
-echo "WARNING! $QUE has $TOTAL pages, capping at 1000." >> drugInteractionsFolder/WARNINGS.txt
-TOTAL=1000
-fi
-=======
->>>>>>> 3133a08ed9ea8f1d8c4d46bd25a11d08484c671c
-
 SKIP=0
 function pullgeneric {
     until [ $SKIP -gt $REALTOTAL ]; do
@@ -115,9 +103,6 @@ echo " "
 touch drugInteractionsFolder/UNKNOWNDRUGS.txt
 echo "$QUE" >> drugInteractionsFolder/UNKNOWNDRUGS.txt
 fi
-<<<<<<< HEAD
-=======
 
 touch drugInteractionsFolder/LOG.txt
 echo "FINISHED PULLING $TOTAL articles for $QUE at" $('date') >> drugInteractionsFolder/LOG.txt
->>>>>>> 3133a08ed9ea8f1d8c4d46bd25a11d08484c671c
