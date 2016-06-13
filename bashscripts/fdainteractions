@@ -61,7 +61,7 @@ function pullgeneric {
           echo Progress: $SKIP / $TOTAL " | " Elapsed seconds: $ELAPSED " | " Checking: $QUE [generic] " | " Editing: $FILENAME
           URL5="`echo $URL3`"\&skip=$SKIP
           DRUG="`wget --no-check-certificate -q -O - $URL5`"
-if [ $SPEED -gt 4 ]; then #make sure we stay under 240 articles per minute
+if [ $SPEED -ge 4 ]; then #make sure we stay under 240 articles per minute
 sleep 1
 fi
 echo $URL5 >> $FILENAME
