@@ -6,6 +6,7 @@ LETTERS=abcdefghijklmnopqrstuvwxyz
 CURRENT=0
 FILENAME=drugslist.txt
 
+rm -f $FILENAME
 echo Results will be output to file: $FILENAME
 echo " "
 touch $FILENAME
