@@ -1,0 +1,1113 @@
+ 27293361   Neetu TJ, Murugan S (2016) "Genotyping of Methicillin Resistant Staphylococcus aureus from Tertiary Care Hospitals in Coimbatore, South India." J Glob Infect Dis 8(2), 68-74
+
+BACKGROUND: Globally, methicillin resistant Staphylococcus aureus (MRSA)
+is one of the most common pathogens that causes hospital- and community-acquired
+infections. The use of molecular typing methods is essential for determining
+the  origin of the isolates, their clonal relations, and also epidemiological
+investigations. OBJECTIVE: The purpose of this study was to determine
+the prevalence of antibiotic-resistant MRSA investigate the accessory
+gene regulator  (agr) and staphylococcal cassette chromosome mec (SCCmec)
+types and perform multilocus sequence typing (MLST). Furthermore, the
+minimum inhibitory concentration of MRSA isolates was determined for
+vancomycin and daptomycin. MATERIALS AND METHODS: Two hundred and fifty-nine
+MRSA isolates were collected from Tertiary Care Hospitals in Coimbatore.
+Disk diffusion method was employed to assess the sensitivity of MRSA
+isolates to selected antibiotics and genetic analysis was performed
+using SCCmec, agr, and MLST typing by multiplex-polymerase chain reaction
+strategy. Minimal inhibitory concentration (MIC) was determined using
+Ezy MIC (vancomycin) and Biomerieux (daptomycin) E-test strip. RESULTS:
+Of  259 MRSA isolates, 209 (80.7%) were confirmed as methicillin resistant.
+Antibiotic susceptibility pattern revealed that all the MRSA isolates
+were 100% sensitive to linezolid, rifampicin, teicoplanin, and vancomycin.
+MIC results showed that of 209 MRSA isolates, 10 were found to be vancomycin
+intermediate S.  aureus and 100% of the MRSA isolates were daptomycin-susceptible.
+The agr group I and SCCmec Type III were the major type among MRSA
+isolates. In addition to these MLST typing revealed the prevalence
+of sequence type (ST) 239 (SLV of ST8) among  the MRSA isolates. CONCLUSION:
+This study confirms that ST239 (Brazilian clone) of MRSA is predominant
+in this region which is responsible for the hospital-acquired MRSA
+infections. Thus, the study also suggests that vancomycin  and daptomycin
+can still be used as an alternative drug for treating severe MRSA  infections.
+
+ 27292911   Weiser J et al (2016) "Sub-inhibitory tigecycline concentrations induce extracellular matrix binding protein Embp dependent Staphylococcus epidermidis biofilm formation and immune evasion." Int J Med Microbiol
+
+Biofilm-associated Staphylococcus epidermidis implant infections are
+notoriously  reluctant to antibiotic treatment. Here we studied the
+effect of sub-inhibitory concentrations of penicillin, oxacillin, vancomycin,
+daptomycin, linezolid and tigecycline on S. epidermidis 1585 biofilm
+formation, expression of extracellular matrix binding protein (Embp)
+and potential implications for S. epidermidis - macrophage interactions.
+Penicillin, vancomycin, daptomycin, and linezolid had no biofilm augmenting
+effect at any of the concentrations tested. In contrast, at sub-inhibitory
+concentrations tigecycline and oxacillin exhibited significant biofilm
+inducing activity. In S. epidermidis 1585, SarA is a negative regulator
+of giant 1 MDa Embp, and down regulation of sarA induces Embp-dependent
+assembly  of a multi-layered biofilm architecture. Dot blot immune
+assays, confocal laser scanning microscopy, and qPCR showed that under
+biofilm inducing conditions, tigecycline augmented embp expression
+compared to the control grown without antibiotics. Conversely, expression
+of regulator sarA was suppressed, suggesting  that tigecycline exerts
+its effects on embp expression through SarA. Tigecycline  failed to
+induce biofilm formation in embp transposon mutant 1585-M135, proving
+that under these conditions Embp up-regulation is necessary for biofilm
+accumulation. As a functional consequence, tigecycline induced biofilm
+formation  significantly impaired the up-take of S. epidermidis by
+mouse macrophage-like cell line J774A.1. Our data provide novel evidence
+for the molecular basis of antibiotic induced biofilm formation, a
+phenotype associated with inherently increased antimicrobial tolerance.
+While this could explain failure of antimicrobial therapies, persistence
+of S. epidermidis infections in the presence of sub-inhibitory antimicrobials
+is additionally propelled by biofilm-related impairment of macrophage-mediated
+pathogen eradication.
+
+ 27290476   Barrasa Gonzalez H et al (2015) "Pharmacokinetic/pharmacodynamic analysis of linezolid in critically ill patients  with severe sepsis treated with renal replacement therapy." Intensive Care Med Exp 3(Suppl 1), A880
+
+ 27290201   Roger C et al (2015) "Linezolid pharmacokinetics in critically ill patients with renal replacement therapy: comparison of equi-dose of continuous veno-venous haemofiltration with continuous veno-venous haemodiafiltration." Intensive Care Med Exp 3(Suppl 1), A631
+
+ 27289941   Barrasa Gonzalez H et al (2015) "Optimizing the dosing regimen of linezolid in critically ill septic patients undergoing continuous hemodiafiltration using a pharmacokinetic/pharmacodynamic analysis and monte carlo simulation." Intensive Care Med Exp 3(Suppl 1), A395
+
+ 27287530   Changchien CH, Chen SW, Chen YY, Chu C (2016) "Antibiotic susceptibility and genomic variations in Staphylococcus aureus associated with Skin and Soft Tissue Infection (SSTI) disease groups." BMC Infect Dis 16(1), 276
+
+BACKGROUND: Staphylococcus aureus is associated with human skin and
+soft tissue infections (SSTIs); however, the involvement of virulence
+factors in different clinical presentations is unclear. METHODS: We
+analyzed methicillin-resistant S.  aureus (MRSA) and methicillin-sensitive
+S. aureus (MSSA) strains from Taiwan to determine correlations among
+the clinical characteristics of SSTIs, antimicrobial susceptibility
+and virulence factors of S. aureus with specific genetic backgrounds.
+RESULTS: We identified 177 MRSA isolates and 130 MSSA isolates among
+the 307 SSTI-associated S. aureus isolates. Hospital-acquired (HA)-
+and community-acquired (CA)-MRSA isolates accounted for 61.6 % and
+38.4 % of the isolates, respectively. Clinical presentations in SSTI
+patients differed significantly for the disease groups. Deep-seated
+MRSA infections presented with  higher amputation rate than MSSA infections.
+MRSA isolates were all susceptible to linezolid, teicoplanin, and vancomycin,
+and >94 % of isolates were erythromycin- and clindamycin-resistant.
+Staphylococcal cassette chromosome (SCCmec) types IV, V, and VII were
+the most frequent in the CA-MRSA group (n = 68); types III, IV and
+V were the most frequent in the HA-MRSA group (n = 109). Panton-Valentine
+leukocidin (PVL) genes were significantly more frequent in CA-MRSA
+strains (75.0 %) than in HA-MRSA (33.0 %) and MSSA (24.6 %) and were
+found in 66.7 % (74/111) strains isolated from the abscess group. Exfoliatin
+A genes were more common in catheter-related exit-site MSSA infections
+(37.5 %) compared with other MSSA disease groups (P < 0.05). Exfoliatin
+B and superantigen exotoxin genes were uncommon in all SSTI disease
+types. Pulsotypes A (ST239), C,  and D (ST59) were the predominant
+MRSA genotypes in deep-seated infections. CONCLUSIONS: If not treated
+appropriately, deep-seated MRSA-associated infections present with
+higher amputation rates than deep-seated MSSA-associated infections.
+PVL-positive MRSA strains caused more frequently pus-forming lesions
+and less bacteremia and invasive diseases. Methods for discriminating
+CA-MRSA from HA-MRSA strains are now unreliable due to circulation
+of both ST 239 and ST 59 strains in the community and nosocomial settings.
+Initial antibiotic treatments should consider MRSA for patients with
+SSTIs in areas where MRSA is prevalent.
+
+ 27280980   Tandon R, Nath M (2016) "Tackling drug-resistant tuberculosis: Current trends and approaches." Mini Rev Med Chem
+
+Tuberculosis is very much rampant in our society and accounts for a
+large number  of deaths annually. In spite of consistent efforts being
+made, the disease has not been curtailed yet. The emergence of MDR
+and XDR strains in the society along with an increase in the number
+of HIV cases and that of latent TB, have further aggravated the problem
+making the disease very much persistent. The current situation clearly
+manifests the need to discover and develop new potent molecules/approaches
+that could help to tackle drug resistance. Various molecules, such
+as derivatives of fluoroquinolones (e.g. gatifloxacin, moxifloxacin
+and DC-159a), rifamycins (rifapentine), oxazolidinones (linezolid,
+sutezolid/ PNU-100480), diarylquinolines (TMC207/bedaquiline), antifungal
+azoles, pyrrole (LL3858), nitroimidazopyran (PA824), nitroimidazole
+(OPC67683, TBA-354),  diamine (SQ109) and benzothiazinone (BTZ043)
+are being developed in an attempt to combat the disease. This review
+presents a general introduction to the current status of the disease,
+the biology of the pathogen as well as the state of drug development
+against tuberculosis (TB) with emphasis on the major problems and bottlenecks
+associated with the same. Starting from the first drug against TB,
+the review discusses the entire history and the course of development
+of the drugs which are available today in the market as well as those
+which are under various phases of clinical and pre-clinical trials
+along with their mechanism of  action. It also talks about the possible
+role of nanosciences in combating TB.
+
+ 27275075   Anand N et al (2016) "Antimicrobial agents' utilization and cost pattern in an Intensive Care Unit of a Teaching Hospital in South India." Indian J Crit Care Med 20(5), 274-279
+
+BACKGROUND AND AIMS: High utilization and inappropriate usage of antimicrobial
+agents (AMAs) in an Intensive Care Unit (ICU) increases resistant organisms,
+morbidity, mortality, and treatment cost. Prescription audit and active
+feedback  are a proven method to check the irrational prescription.
+Measuring drug utilization in DDD/100 bed-days is proposed by the WHO
+to analyze and compare the utilization of drugs. Data of AMAs utilization
+are required for planning an antibiotic policy and for follow-up of
+intervention strategies. Hence, in this study, we proposed to evaluate
+the utilization pattern and cost analysis of AMA used in the ICU. METHODOLOGY:
+A prospective observational study was conducted for 1 year from January
+1, 2014, to December 31, 2014, and the data were obtained from the
+ICU of a tertiary care hospital. The demographic data, disease data,
+relevant investigation, the utilization of different classes of AMAs
+(WHO-ATC classification) as well as individual drugs and their costs
+were recorded. RESULTS: One thousand eight hundred and sixty-two prescriptions
+of AMAs were recorded during the study period with an average of 1.73
++/- 0.04 prescriptions/patient. About 80.4% patients were prescribed
+AMAs during admission. Ceftriaxone (22.77%) was the most commonly prescribed
+AMA followed by  piperacillin/tazobactam (15.79%), metronidazole (12%),
+amoxicillin/clavulanic acid (6.44%), and azithromycin (4.34%). Ceftriaxone,
+piperacillin/tazobactam, metronidazole, and linezolid were the five
+maximally utilized AMAs with 38.52, 19.22, 14.34, 8.76, and 8.16 DDD/100
+bed-days respectively. An average cost of AMAs used per patient was
+2213 Indian rupees (INR). CONCLUSION: A high utilization of AMAs and
+a high cost of treatment were noticed which was comparable to other
+published data, though an increased use of newer AMAs such as linezolid,
+clindamycin, meropenem, colistin was noticed.
+
+ 27274980   Britt NS, Potter EM (2016) "Clinical epidemiology of vancomycin-resistant and bloodstream infections." J Glob Antimicrob Resist 5, 57-61
+
+This study aimed to evaluate the clinical outcomes of vancomycin-resistant
+enterococcal bloodstream infections (VRE BSI) caused by Enterococcus
+gallinarum or Enterococcus casseliflavus. Variables associated with
+treatment failure were determined and treatment options were compared.
+This was a national retrospective study of hospitalised Veterans Affairs
+patients with non-faecium, non-faecalis VRE BSI. The primary outcome
+was treatment failure, defined as a composite of: (i) 30-day all-cause
+mortality; (ii) microbiological failure; and (iii) 30-day VRE BSI recurrence.
+Stepwise Poisson regression was conducted to determine variables associated
+with treatment failure. In total, 48 patients were included, with 29
+cases (60.4%) caused by E. gallinarum and 19 cases (39.6%) caused by
+E. casseliflavus. Among these cases, 20 (41.7%) were treated with an
+anti-VRE agent  (linezolid or daptomycin) and 28 (58.3%) were treated
+with an anti-enterococcal beta-lactam. Overall, 30-day mortality was
+10.4% (5/48) and composite treatment failure was 39.6% (19/48). In
+multivariate analysis, treatment with an anti-enterococcal beta-lactam
+was associated with increased treatment failure in  comparison with
+anti-VRE therapy (adjusted risk ratio = 1.73, 95% confidence interval
+1.06-4.97; P = 0.031). Overall, treatment with linezolid or daptomycin
+for vancomycin-resistant E. gallinarum or E. casseliflavus BSI resulted
+in improved clinical outcomes in comparison with anti-enterococcal
+beta-lactam treatment.
+
+ 27274851   Matlani M et al (2016) "Linezolid-resistant mucoid Staphylococcus haemolyticus from a tertiary-care centre in Delhi." New Microbes New Infect 11, 57-58
+
+We report an unusual morphological mucoid variant of Staphylococcus
+haemolyticus  associated with linezolid resistance from a patient with
+sepsis. Linezolid resistance and mucoid character together made this
+pathogen difficult to treat. To our knowledge this is the first such
+report.
+
+ 27270303   Soon RL et al (2016) "Impact of Staphylococcus aureus accessory gene regulator (agr) system on linezolid efficacy by profiling pharmacodynamics and RNAIII expression." J Antibiot (Tokyo)
+
+ 27269810   Alvarez-Lerma F et al (2016) "Successful treatment of Panton-Valentine leukocidin-positive methicillin-resistant Staphylococcus aureus pneumonia with high doses of linezolid administered in continuous infusion." Med Intensiva
+
+ 27267056   Gonzalez-Lopez J, Macias-Garcia F, Larino-Noia J, Dominguez-Munoz JE (2016) "Theoretical approach to local infusion of antibiotics for infected pancreatic necrosis." Pancreatology
+
+BACKGROUND/OBJECTIVES: Infected pancreatic necrosis is a major complications
+of acute pancreatitis. If drainage is required, local administration
+of antibiotics  through transmural nasocystic or percutaneous catheter
+may allow increasing local antibiotic concentrations. Drug diffusion
+becomes the main factor influencing local drug tissue penetration.
+The present study aims at providing the rationale  for the design of
+new research protocols evaluating the efficacy of local antibiotics
+for infected pancreatic necrosis. METHODS: A review of microbiological
+data was performed for the most common organisms causing the infection,
+antibiotics spectrum and minimum inhibitory concentrations (MIC). A
+search of the physico-chemical properties of antibiotics was performed
+to calculate the diffusion coefficients. An estimation of the antibiotic
+concentrations in pancreatic tissue was obtained using a mathematical
+model. Efficacy factors (EF) were calculated and the stability of the
+antibiotic solutions were evaluated to optimize the dosing regimen.
+RESULTS: Piperacillin, vancomycin and metronidazole achieve high concentrations
+in the surrounding tissue very fast. Imipenem, ceftriaxone, ciprofloxacin,
+gentamicin, linezolid and cloxacillin achieve intermediate concentration
+values. Tigecycline, showed the lowest concentration values (<2 mg/L).
+Calculated EF is highest for piperacillin  and imipenem short after
+administration and near to surface diffusion area (0.5 cm), but EF
+of imipenem is higher at deeper areas and longer time after administration.
+CONCLUSIONS: Considering obtained results, some solutions are proposed
+using saline as diluent and 25 degrees C of temperature during administration.
+Imipenem has the best theoretical results in empiric local treatment.
+Linezolid and tigecycline solutions are not recommended.
+
+ 27265678   Rahimi F, Shokoohizadeh L (2016) "Characterization of methicillin resistant Staphylococcus aureus strains among inpatients and outpatients in a referral hospital in Tehran, Iran." Microb Pathog 97, 89-93
+
+Methicillin resistant Staphylococcus aureus is one of the most common
+causes of a variety of infections ranging from wound infections to
+urinary tract infections (UTI) in hospital and community. In this study
+during 3 years we characterized the antibiotic resistance patterns
+of 491 hospital acquired MRSA and community associated MRSA strains
+by the guidelines of clinical and laboratory standard institute. A
+combination of high resolution PhP typing method and SCCmec typing
+were used for clonal dissemination of isolates. Among all 491 MRSA
+strains, diverse PhP types consisting of 29 common types (CTs) and
+4 single types (STs) and also 2 different SCCmec types (III and IVa)
+were detected. In addition, 18 CTs were common among CA- and HA-MRSA
+strains and the presence of all 4 STs was limited to HA-MRSA strains.
+All isolates were resistant to penicillin and high level resistance
+was observed against ciprofloxacin, erythromycin, tobramycin and kanamycin
+and the rate of resistance to most of the antibiotic tested among HA-MRSA
+was significantly higher than CA-MRSA isolates. Moreover, all isolates
+showed susceptibility to linezolid, vancomycin and quinupristin-dalfopristin
+and  very low resistance to fusidic acid, nitrofurantoin and chloramphenicol
+were detected. Our findings illustrated the increasing rate of clonal
+dissemination and persistence of highly antibiotic resistant CA-MRSA
+strains in Tehran hospitals, and also indicated the important role
+of the hospitals as the reservoir of MRSA strains.
+
+ 27262336   Gkentzi D et al (2016) "Treatment Options for Persistent Coagulase Negative Staphylococcal Bacteremia in  Neonates." Curr Pediatr Rev
+
+BACKGROUND: Coagulase-negative staphylococci (CoNS) are the leading
+cause of late-onset sepsis in neonatal intensive-care units (NICUs).
+Despite adequate therapeutic levels and in vivo susceptibility, vancomycin
+is not always adequate  in clearing CoNS bacteremias and other theurapeutic
+regimens are warranted especially when dealing with persistent CoNS
+bacteremias. METHODS: Retrospective  analysis of neonates with persistent
+CoNS bacteremias in a tertiary NICU in two study periods (January 2006
+to December 2007 and January 2011 to December 2012).  Demographics,
+clinical characteristics and antibiotics used were recorded. We also
+performed a literature review on the treatment options for persistent
+CoNS bacteremia. RESULTS: Out of the 1485 admissions during the 4 years,
+121 (8,1%) neonates developed CoNS bacteremia and 42 (34.7%) were persistent.
+The most common CoNS species was S.epidermidis (91%). Apart from the
+shorter mean duration of bacteremia (p = 0.003), during the second
+part of the study, no other differences were observed between the two
+study periods. Ten (23.8%) neonates were treated with vancomycin monotherapy.
+In 23 (54.7%) neonates, rifampicin was  added to vancomycin. Linezolid
+was given to seven neonates (16.6%) whereas daptomycin to two (4.7%).
+No differences were found when we compared the characteristics of neonates
+treated with different antibiotics. All neonates tolerated treatment
+well. Our literature review revealed 16 relevant studies, the majority
+of which are small case series. Conlusions: The addition of rifampicin,
+linezolid and daptomycin in neonates with persistent CoNS bacteremia
+can provide  useful therapeutic alternatives. Further studies are required
+to bring more insight in the field.
+
+ 27259840   Kaku N et al (2016) "Antimicrobial and immunomodulatory effects of tedizolid against methicillin-resistant Staphylococcus aureus in a murine model of hematogenous pulmonary infection." Int J Med Microbiol
+
+Tedizolid (TZD) is a second-generation oxazolidinone and demonstrates
+potent in-vitro activity against multidrug-resistant Gram-positive
+bacteria. Phase III studies in patients with acute bacterial skin and
+skin structure infections (ABSSSI) have demonstrated the non-inferiority
+of TZD to linezolid (LZD). However, there are only a few studies that
+show the effect of TZD in pulmonary infections. In this study, we investigated
+the effect of TZD in a murine model of hematogenous pulmonary infection
+caused by methicillin-resistant Staphylococcus aureus (MRSA). The mice
+were treated either twice daily with saline (control), 25mg/kg of vancomycin
+(low-VAN), 110mg/kg of vancomycin (high-VAN), 120mg/kg of LZD or once
+daily with 20mg/kg of TZD. As compared to the control, the low- and
+high-VAN treatment groups, LZD and TZD significantly improved the survival
+rate,  reduced the bacterial count in the lungs. Furthermore, TZD decreased
+the area of  central bacterial colony zone (CBCZ) at 36h post-inoculation,
+compared with the control. In addition, we investigated the immunomodulatory
+effect of TZD by evaluating the plasma concentrations of the inflammatory
+cytokines. Although there were no significant differences in the bacterial
+count in the lungs amongst the drugs at 26h post-inoculation, TZD and
+LZD significantly improved the plasma  concentrations of TNF-alpha,
+IL-6 and MIP-2, in comparison with the control. In this study, both
+TZD and LZD demonstrated antimicrobial and immunomodulatory efficacy
+in a murine model of hematogenous pulmonary infection caused by MRSA.
+
+ 27252918   Yousefi M et al (2016) "Characterization of Staphylococcus aureus Biofilm Formation in Urinary Tract Infection." Iran J Public Health 45(4), 485-493
+
+BACKGROUND: The aim of this study was to investigate the antibiotic
+susceptibility pattern as well as the phenotypic and genotypic biofilm
+formation  ability of Staphylococcus aureus isolates from patients
+with urinary tract infection (UTI). METHODS: A total of 39 isolates
+of S. aureus were collected from patients with UTI. The antibiotic
+susceptibility patterns of the isolates were determined by the Kirby-Bauer
+disk-diffusion. We used the Modified Congo red agar (MCRA) and Microtiter
+plate methods to assess the ability of biofilm formation. All isolates
+were examined for determination of biofilm related genes, icaA, fnbA,
+clfA and bap using PCR method. RESULTS: Linezolid, quinupristin/dalfopristin
+and chloramphenicol were the most effective agents against S. aureus
+isolates. Overall, 69.2% of S. aureus isolates were biofilm producers.
+Resistance to four antibiotics such as nitrofurantoin (71.4% vs. 28.6%,
+P=0.001), tetracycline (57.7% vs. 42.3%, P=0.028), erythromycin and
+ciprofloxacin (56% vs. 44%, P=0.017) was higher among biofilm producers
+than non-biofilm producers. The icaA, fnbA and clfA genes were present
+in all S. aureus isolates. However, bap gene was not detected in any
+of the isolates. CONCLUSION: Our findings reinforce the role of biofilm
+formation in resistance to antimicrobial agents. Trimethoprimsulfamethoxazole
+and doxycycline may be used as an effective treatment for UTI caused
+by biofilm producers S. aureus. Our results suggest that biofilm formation
+is not dependent to just icaA, fnbA, clfA and bap  genes harbor in
+S. aureus strains.
+
+ 27247896   Ullah A et al (2016) "High frequency of methicillin-resistant Staphylococcus aureus in Peshawar Region  of Pakistan." Springerplus 5, 600
+
+Staphylococcus aureus is an increasing problem in clinical practice
+because of reduced susceptibility to available antibiotics. The objective
+of the study was to determine the frequency of Methicillin-resistant
+S. aureus (MRSA) in Peshawar, Pakistan. Clinical isolates of S. aureus
+were subjected to determination of antibiotic resistance, MICs and
+inducible clindamycin resistance (ICR). Out of total 280 S. aureus
+isolates, the frequency of MRSA was 36.1 % (n = 101). MRSA infection
+was found higher among the age group 50-59 years (60.71 %, OR 3.09),
+followed by 20-29 years (47.5 %, OR 1.74). Frequency of MRSA in female
+and male was 39.8 and 34 % respectively. MRSA was more frequent in
+blood specimens (48.7 %, OR 2.14). The frequency of community and hospital
+acquired MRSA was 42 and 34.8 % respectively. MRSA showed high resistance
+(100 %) to penicillin and cefoxitin followed by erythromycin (99 %).
+While MRSA exhibited 100 % susceptibility to vancomycin and linezolid.
+We have also found 7 vancomycin intermediate sensitive S. aureus (VISA)
+isolates. ICR was observed in 15.84 % (n  = 16) of MRSA isolates. It
+is concluded that MRSA is potential threat to public health in Peshawar.
+Vancomycin and linezolid could be prescribed as a drug of choice in
+treating MRSA associated infections. In addition, ICR should be routinely
+checked to avoid clindamycin treatment failure.
+
+ 27247572   Ragbetli C et al (2016) "Evaluation of Antimicrobial Resistance in Staphylococcus aureus Isolates by Years." Interdiscip Perspect Infect Dis 2016, 9171395
+
+Objective. Recently, community and hospital-acquired infections with
+Staphylococcus aureus have increased and raised antibiotic resistant
+isolates. In this study, we aimed to evaluate the antibiotic resistance
+profile of S. aureus isolates over several years in various clinical
+specimens from our hospital. Materials and Methods. S. aureus strains
+from 2009 to 2014 were isolated from various clinical samples at Yuzuncu
+Yil University, Dursun Odabas Medical Center, Microbiology Laboratory,
+and their antibiotic susceptibility test results were retrospectively
+investigated. The isolates were identified by conventional methods,
+and antibiotic susceptibility tests were performed by the Phoenix (Becton
+Dickinson, USA) automated system method according to Clinical and Laboratory
+Standards Institute (CLSI) standards. Results. A total of 1,116 S.
+aureus isolates were produced and methicillin-resistant S. aureus (MRSA)
+to 21% of all S. aureus isolates between 2009 and 2014. According to
+the results of susceptibility tests of all isolates of S. aureus, they
+have been identified as sensitive to vancomycin, daptomycin, linezolid,
+and levofloxacin. While the resistance rates to nitrofurantoin, quinupristin-dalfopristin,
+and trimethoprim-sulfamethoxazole were determined as 0.3%, 2.4%, and
+6%, respectively, resistance rates to penicillin, erythromycin, rifampicin,
+gentamicin, and clindamycin were determined as 100%, 18%, 14%, 14%,
+and 11%, respectively. The highest percentage of methicillin resistance
+was determined as  30% in 2009, and the resistance was determined to
+have decreased in subsequent years (20%, 16%, 13%, 19%, and 21%) (p
+< 0.001). Conclusion. Currently, retrospective evaluations of causes
+of nosocomial infection should be done periodically. We think that
+any alteration of resistance over the years has to be identified, and
+all centers must determine their own resistance profiles, in order
+to guide empirical therapies. Reducing the rate of antibiotic resistance
+will contribute to reducing the cost of treatment.
+
+ 27246230   Garcia-Martinez L et al (2016) "Impact of the PROVAUR stewardship programme on linezolid resistance in a tertiary university hospital: a before-and-after interventional study." J Antimicrob Chemother
+
+BACKGROUND: There is little evidence of the impact of antimicrobial
+stewardship programmes on antimicrobial resistance. OBJECTIVES: To
+study the efficacy and safety of a package of educational and interventional
+measures to optimize linezolid use and its impact on bacterial resistance.
+METHODS: A quasi-experimental study was designed and carried out before
+and after implementation of a stewardship programme in hospitalized
+patients with Gram-positive infections treated with linezolid. RESULTS:
+The intervention reduced linezolid consumption by 76%. The risk of
+linezolid-resistant CoNS isolates (OR = 0.37; 95% CI = 0.27-0.49; P
+< 0.001) and Enterococcus faecalis (OR = 0.44; 95% CI = 0.21-0.90;
+P = 0.03) during the intervention period was lower than in the pre-intervention
+period. CONCLUSIONS: A programme to optimize linezolid use can contribute
+to reducing the resistance rate of CoNS and E. faecalis to this antibiotic.
+
+ 27245716   Lochan H et al (2016) "Emergence of vancomycin-resistant Enterococcus at a tertiary paediatric hospital  in South Africa." S Afr Med J 106(6), 562-566
+
+BACKGROUND: During 2013, the haematology/oncology unit at a tertiary
+level paediatric hospital in South Africa experienced the emergence
+of infection with vancomycin-resistant Enterococcus (VRE). OBJECTIVE:
+To describe the clinical and  molecular aspects of the cases identified.
+METHODS: VRE isolates identified from  blood culture specimens processed
+at the National Health Laboratory Service were  screened for the presence
+of the vancomycin resistance genes vanA, B and C1, 2 and 3. Further
+characterisation of these isolates was carried out using pulsed-field
+gel electrophoresis (PGFE) and multilocus sequence typing (MLST). Clinical
+records of infected patients were reviewed to identify possible risk
+factors, while surveillance with rectal swabs was performed to identify
+VRE-colonised patients. RESULTS: Four patients with haematological
+malignancies were identified with VRE bloodstream infections. Patients
+were immunocompromised  at the time of the bloodstream infection (BSI),
+with receipt of vancomycin prior  to VRE-BSI, and infections were treated
+with linezolid. Colonisation with VRE was found in 8 of 55 patients
+screened. Infected and colonised patients were isolated in the unit
+during their admission and strict contact precaution infection control
+practices were instituted. The vanA gene was identified in all of the
+isolates but one. PFGE and MLST results showed a degree of genetic
+relatedness between certain isolates obtained from rectal swab and
+blood culture samples, suggesting possible patient-to-patient transmission
+or persistence of the isolates in the unit. CONCLUSION: Strict infection
+control practices are necessary to prevent infection and transmission
+of resistant organisms among vulnerable patients.
+
+ 27241651   Ghosh S, Banerjee M (2016) "Methicillin resistance & inducible clindamycin resistance in Staphylococcus aureus." Indian J Med Res 143(3), 362-364
+
+BACKGROUND & OBJECTIVES: Methicillin resistant Staphylococcus aureus
+(MRSA) isolates with inducible clindamycin resistance (iCR) are resistant
+to erythromycin and sensitive to clindamycin on routine testing and
+inducible clindamycin resistance can only be identified by D-test.
+This study was aimed to  detect methicillin resistance and iCR among
+S. aureus isolates, effectiveness of  some commonly used antibiotics
+and correlation between methicillin resistance and iCR. METHODS: The
+present cross-sectional study included 46 S. aureus isolates subjected
+to Kirby-Bauer's disk diffusion method for antibiotic susceptibility
+testing (AST) to estimate MRSA and resistance to some commonly used
+antibiotics.  D-test was employed to detect iCR. RESULTS: Eleven of
+the 46 (23.9%) isolates tested were MRSA. Overall, 19 (41.3%) isolates
+showed of iCR. Vancomycin and linezolid were found to be 100 per cent
+effective. A positive Karl-Pearson's coefficient of correlation (0.89)
+between methicillin resistance and iCR was obtained. INTERPRETATION
+& CONCLUSIONS: Detection of iCR is important for the use of clindamycin
+in MRSA infections. Methicillin resistance and iCR appear to be clinically
+unrelated.
+
+ 27241650   Phukan C, Lahkar M, Ranotkar S, Saikia KK (2016) "Emergence of vanA gene among vancomycin-resistant enterococci in a tertiary care  hospital of North - East India." Indian J Med Res 143(3), 357-361
+
+BACKGROUND & OBJECTIVES: Vancomycin-resistant enterococci (VRE) have
+become one of the most challenging nosocomial pathogens with the rapid
+spread of the multi-drug resistant strain with limited therapeutic
+options. It is a matter of concern due to its ability to transfer vancomycin
+resistant gene to other organisms. The present study was undertaken
+to determine the emergence of vancomycin-resistant enterococci and
+the vanA gene among the isolates in a tertiary care hospital of North-East
+India. METHODS: A total of 67 consecutive enterococcal isolates from
+different clinical samples were collected and identified by using the
+standard methods. Antibiogram was done by disk diffusion  method and
+VRE was screened by the disk diffusion and vancomycin supplement agar
+dilution method. The minimum inhibitory concentration (MIC) value for
+vancomycin  was determined by E-test. The VRE isolates were analyzed
+by PCR for vanA gene. RESULTS: A total of 54 (81%) Enterococcus faecalis
+and 13 (19%) E. faecium were detected among the clinical isolates and
+16 (24%) were VRE. The VRE isolates were multidrug resistant and linezolid
+resistance was also found to be in three. MIC range to vancomycin was
+16-32 microg/ml among the VRE. The vanA gene was found in nine of 16
+VRE isolates. INTERPRETATION & CONCLUSIONS: Emergence of VRE and presence
+of vanA in a tertiary care hospital setting in North-East India indicate
+toward a need for implementing infection control policies and active
+surveillance.
+
+ 27234592   Le J et al (2016) "Effects of vancomycin versus nafcillin in enhancing killing of methicillin-susceptible Staphylococcus aureus causing bacteremia by human cathelicidin LL-37." Eur J Clin Microbiol Infect Dis
+
+Recent studies have demonstrated that anti-staphylococcal beta-lactam
+antibiotics, like nafcillin, render methicillin-resistant Staphylococcus
+aureus (MRSA) more susceptible to killing by innate host defense peptides
+(HDPs), such as cathelicidin LL-37. We compared the effects of growth
+in 1/4 minimum inhibitory concentration (MIC) of nafcillin or vancomycin
+on the LL-37 killing of 92 methicillin-susceptible S. aureus (MSSA)
+isolates. For three randomly selected strains among these, we examined
+the effects of nafcillin, vancomycin, daptomycin, or linezolid on LL-37
+killing and autolysis. Growth in the presence of subinhibitory nafcillin
+significantly enhanced LL-37 killing of MSSA compared  to vancomycin
+and antibiotic-free controls. Nafcillin also reduced MSSA production
+of the golden staphylococcal pigment staphyloxanthin in 39 % of pigmented
+strains vs. 14 % for vancomycin. Among the antibiotics tested, only
+nafcillin resulted in significantly increased MSSA autolysis. These
+studies point to additional mechanisms of anti-staphylococcal activity
+of nafcillin beyond direct bactericidal activity, properties that vancomycin
+and other antibiotic classes do not exhibit. The ability of nafcillin
+to enhance sensitivity to innate HDPs may contribute to its superior
+effectiveness against MSSA, as suggested by studies comparing clinical
+outcomes to vancomycin treatment.
+
+ 27226908   Kumari J et al (2016) "Healthcare-Associated Methicillin-Resistant Staphylococcus aureus: Clinical characteristics and antibiotic resistance profile with emphasis on macrolide-lincosamide-streptogramin B resistance." Sultan Qaboos Univ Med J 16(2), 175-181
+
+OBJECTIVES: Healthcare-associated methicillin-resistant Staphylococcus
+aureus (MRSA) is a common pathogen worldwide and its multidrug resistance
+is a major concern. This study aimed to determine the clinical characteristics
+and antibiotic susceptibility profile of healthcare-associated MRSA
+with emphasis on  resistance to macrolide-lincosamide-streptogramin
+B (MLSB) phenotypes and vancomycin. METHODS: This cross-sectional study
+was carried out between February  2014 and February 2015 across four
+tertiary care hospitals in Mangalore, South India. Healthcare-associated
+infections among 291 inpatients at these hospitals were identified
+according to the Centers for Disease Control and Prevention guidelines.
+Clinical specimens were collected based on infection type. S. aureus
+and MRSA isolates were identified and antibiotic susceptibility tests
+performed using the Kirby-Bauer disk diffusion method. The minimum
+inhibitory concentration of vancomycin was determined using the Agar
+dilution method and inducible clindamycin resistance was detected with
+a double-disk diffusion test (D-test). RESULTS: Out of 291 healthcare-associated
+S. aureus cases, 88 were MRSA (30.2%).  Of these, 54.6% were skin and
+soft tissue infections. All of the isolates were susceptible to teicoplanin
+and linezolid. Four MRSA isolates exhibited intermediate resistance
+to vancomycin (4.6%). Of the MRSA strains, 10 (11.4%) were constitutive
+MLSB phenotypes, 31 (35.2%) were inducible MLSB phenotypes and  14
+(15.9%) were macrolide-streptogramin B phenotypes. CONCLUSION: Healthcare-associated
+MRSA multidrug resistance was alarmingly high. In routine antibiotic
+susceptibility testing, a D-test should always be performed if an isolate
+is resistant to erythromycin but susceptible to clindamycin. Determination
+of the minimum inhibitory concentration of vancomycin is necessary
+when treating patients with MRSA infections.
+
+ 27226873   Zarei Koosha R et al (2016) "Distribution of tsst-1 and mecA Genes in Staphylococcus aureus Isolated From Clinical Specimens." Jundishapur J Microbiol 9(3), e29057
+
+BACKGROUND: Staphylococcus aureus is a harmful pathogen known to express
+numerous virulence factors and cause severe infections. High levels
+of methicillin-resistant Staphylococcus aureus (MRSA) strains are one
+of the important healthcare problems because of the inefficient treatment
+of these infections. OBJECTIVES: The purpose of the current study is
+to evaluate the incidence of the toxic shock syndrome toxin (tsst-1)
+gene and its association with the prevalence of the mecA gene and drug
+resistance. MATERIALS AND METHODS:  The presence of the tsst-1 and
+mecA genes was investigated by polymerase chain reaction (PCR) among
+S. aureus isolated from 197 clinical samples. In addition, resistance
+tests to 12 antibiotics were carried out by the disc diffusion method.
+RESULTS: Among the 197 isolates, 134 (68%) contained the tsst-1 genes
+and 172 (87.3%) contained the mecA genes. The prevalence of both genes
+was higher among male cases and samples purified from wounds and blood.
+We found no significant correlation between the presences of the two
+mentioned genes within isolates. The highest resistance we observed
+among our samples was to penicillin. None of isolates was resistant
+to vancomycin or linezolid. A significant correlation was  observed
+between the presence of the mecA gene and resistance to oxacillin,
+gentamicin, kanamycin, erythromycin, tetracycline, cotrimoxazole, clindamycin,
+cephazolin and the multi-drug resistant property, which is resistance
+to more than three antibiotics (P < 0.05). CONCLUSIONS: Our outcomes
+showed elevated incidences of tsst-1 positive and MRSA strains with
+higher rates of antibiotic resistance. The conflict between our findings
+and other records may be due to differences in geographic regions.
+
+ 27217714   Collins DW et al (2016) "Association of primary open-angle glaucoma with mitochondrial variants and haplogroups common in African Americans." Mol Vis 22, 454-471
+
+PURPOSE: To estimate the population frequencies of all common mitochondrial
+variants and ancestral haplogroups among 1,999 subjects recruited for
+the Primary Open-Angle African American Glaucoma Genetics (POAAGG)
+Study, including 1,217 primary open-angle glaucoma (POAG) cases and
+782 controls, and to identify ancestral subpopulations and mitochondrial
+mutations as potential risk factors for POAG susceptibility. METHODS:
+Subject classification by characteristic glaucomatous optic nerve findings
+and corresponding visual field defects, as defined by enrolling glaucoma
+specialists, stereo disc photography, phlebotomy, extraction of total
+DNA from peripheral blood or saliva, DNA quantification and normalization,
+PCR amplification of whole mitochondrial genomes, Ion Torrent deep
+semiconductor DNA sequencing on DNA pools ("Pool-seq"), Sanger sequencing
+of 3,479 individual mitochondrial DNAs, and bioinformatic analysis.
+RESULTS: The distribution of common African haplogroups within the
+POAAGG study population was broadly similar to prior surveys of African
+Americans. However, the POAG case population was found to be enriched
+in L1c2 haplogroups, which are defined in part by missense mutations
+m.6150G>A (Val83Ile, odds ratio [OR] 1.8, p=0.01), m.6253C>T (Met117Thr,
+rs200165736, OR 1.6, p=0.04), and m.6480G>A (Val193Ile, rs199476128,
+OR 4.6, p=0.04) in the cytochrome c oxidase subunit 1 (MT-CO1) gene
+and by a variant, m.2220A>G (OR 2.0, p=0.01), in MT-RNR2, which encodes
+the mitochondrial ribosomal 16s RNA gene. L2 haplogroups were predicted
+to be overrepresented in the POAG case population by Pool-seq, and
+the difference was confirmed to be significant with Sanger sequencing,
+that targeted the L2-associated variants m.2416T>C (rs28358580, OR
+1.2, p=0.02) and m.2332C>T (OR 1.2, p=.02) in MT-RNR2. Another variant
+within MT-RNR2, m.3010G>A (rs3928306), previously implicated in sensitivity
+to the optic neuropathy-associated antibiotic linezolid, and arising
+on D4 and J1 lineages, associated with Leber hereditary optic neuropathy
+(LHON) severity, was confirmed to be common (>5%) but was not significantly
+enriched in the POAG cases. Two variants linked to the composition
+of the gut microbiome, m.15784T>C (rs527236194, haplogroup L2a1) and
+m.16390G>A (rs41378955, L2 haplogroups), were also enriched in the
+case DNA pools. CONCLUSIONS: These results implicate African mtDNA
+haplogroups L1c2, L1c2b, and L2 as risk factors for POAG. Approximately
+one in four African Americans have these mitochondrial ancestries,
+which may contribute to their elevated glaucoma risk. These haplogroups
+are defined in part by ancestral variants in the MT-RNR2 and/or MT-CO1
+genes, several of which have prior disease  associations, such as MT-CO1
+missense variants that have been implicated in prostate cancer.
+
+ 27216271   Rodloff AC, Dowzicky MJ (2016) "Antimicrobial Susceptibility among European Gram-Negative and Gram-Positive Isolates Collected as Part of the Tigecycline Evaluation and Surveillance Trial (2004-2014)." Chemotherapy 62(1), 1-11
+
+BACKGROUND: European centers (n = 226) involved in the Tigecycline
+Evaluation and Surveillance Trial (TEST, 2004-2014) submitted data
+and bacterial isolates. METHODS: Minimal inhibitory concentrations
+and susceptibility were determined using Clinical and Laboratory Standards
+Institute methods and European Committee  on Antimicrobial Susceptibility
+Testing breakpoints. RESULTS: The rates of the following resistant
+pathogens increased from 2004 to 2014: extended-spectrum beta-lactamase
+(ESBL)-positive Escherichia coli (from 8.9 to 16.9%), multidrug-resistant
+Acinetobacter baumannii complex (from 15.4 to 48.5%), and ESBL-positive
+Klebsiella pneumoniae (from 17.2 to 23.7%). The rate of methicillin-resistant
+Staphylococcus aureus was 27.5% in 2004 and 28.9% in 2014.  Resistance
+to the carbapenems (imipenem and meropenem) was 37.4 and 14.5% for
+A.  baumannii complex and Pseudomonas aeruginosa, respectively. Carbapenem
+resistance was </=4.3% among the Enterobacteriaceae and 0.2% against
+Streptococcus pneumoniae. The resistance to tigecycline ranged between
+7.4% against ESBL-producing K. pneumoniae and 0.0% against S. aureus.
+CONCLUSIONS: The carbapenems and tigecycline were active against Enterobacteriaceae.
+Agents with activity against A. baumannii complex and P. aeruginosa
+are limited. The carbapenems, tigecycline, linezolid, and vancomycin
+were active against Gram-positive organisms.
+
+ 27215287   Singh A, Shetty PN, Singh BM, Devasia T (2016) "MULTIPLE DRUGS CAUSING SEVERE ANEMIA IN INFECTIVE ENDOCARDITIS." Cardiovasc Hematol Disord Drug Targets
+
+Ceftriaxone and linezolid are commonly used antibiotics in infective
+endocarditis. Here we present a rare case of severe anemia caused by
+both the drugs via different mechanisms. Drugs have shown significant
+contribution in inducing anemia via hemolysis and bone marrow suppression
+in an infective endocarditis patient.
+
+ 27211209   Huband MD et al (2016) "In vitro activity of dalbavancin against multidrug-resistant Staphylococcus aureus and streptococci from patients with documented infections in Europe and surrounding regions (2011-2013)." Int J Antimicrob Agents 47(6), 495-499
+
+The in vitro activity of dalbavancin was evaluated against 9303 Staphylococcus
+aureus and 2670 streptococci, including multidrug-resistant (MDR) isolates,
+collected from hospitalised patients in Europe and surrounding regions
+from 2011  to 2013. Dalbavancin recently received approval for the
+treatment of acute bacterial skin and skin-structure infections by
+the US Food and Drug Administration (FDA) and the European Medicines
+Agency. Bacterial identification  was confirmed by standard microbiological
+methods (including MALDI-TOF), and susceptibility testing was performed
+by reference broth microdilution methods. Dalbavancin susceptibility
+interpretations followed FDA/EUCAST criteria. Meticillin-resistant
+S. aureus (MRSA) and streptococci exhibiting resistance to at least
+three other drug classes were considered as MDR. Dalbavancin was highly
+active (MIC50/90, 0.06/0.06 mg/L; >/=99.9% susceptible) against MDR
+and non-MDR MRSA isolates. Vancomycin, daptomycin and linezolid were
+also active (99.6-100.0% susceptible) against MDR MRSA, however MIC90
+values for these drugs were 8- to 16-fold higher than dalbavancin (MIC90
+values of 1, 0.5 and 1 mg/L, respectively). All viridans group streptococci
+(VGS) and beta-haemolytic streptococci were susceptible to dalbavancin
+regardless of resistance phenotype (MIC50/90 values of </=0.03 mg/L
+and 0.06 mg/L, respectively). Dalbavancin MIC50/90 results (MIC50/90,
+</=0.03/0.06 mg/L) against MDR VGS were at least eight-fold lower than
+those of vancomycin (MIC50/90, 0.5/1 mg/L), daptomycin (MIC50/90, 0.5/1
+mg/L) and linezolid (MIC50/90, 0.5/1 mg/L). Overall, dalbavancin exhibited
+potent in vitro antibacterial activity against S. aureus and streptococci,
+including MDR phenotypes. Dalbavancin had the lowest MIC50/90 results
+against the isolates tested, relative to comparator agents, regardless
+of resistance phenotypes.
+
+ 27210872   Zhang L et al (2016) "[Pathogens and clinical characteristics of bacterial infection in hematology department between 2010 and 2014]." Zhonghua Xue Ye Xue Za Zhi 37(5), 383-387
+
+OBJECTIVE: To analyze the characteristics of distribution and drug
+resistance of  bacterial infection in several different parts of hematology
+department inpatients of Anhui Provincial Hospital from January 2010
+to December 2014, including patients who had received hematopoietic
+stem cell transplantation (HSCT). METHODS: Anti-microbial susceptibility
+test was done by Kirby-Bauer method and automated systems and the data
+were analysed by WHONET 5.6 software. RESULTS: A total of 3 312 copies
+of inspection samples were analyzed, including 2 716 (82%) blood samples
+and other 596 specimens (18%). 634 bacterial strains were isolated
+from 3 312 samples (19.14%) including 488 samples (76.97%) from blood
+culture. 427 (67.35%) bacterial strains were gram-negative, and the
+other 207 (32.65%) were gram-positive. Escherichia coli, Klebsiella
+pneumoniae and Pseudomonas aeruginosa were most common gram-negative
+bacterial and the resistant rates to imipenem were 0.8%, 11.8% and
+3.3%, respectively. Detection rates of Extended-spectrum beta-lactamases
+in Escherichia coli and Klebsiella pneumoniae were 83.9% and 75.0%,
+respectively. At the same time, Coagulase negative Staphylococcus,
+Streptococcus and Enterococcus were most common kinds of gram-positive
+bacteria. Methicillin-resistant coagulase negative staphylococcus accounted
+for 65.9% antibiotic resistance. No vancomycin and/or linezolid and/or
+tigecycline resistant strains of Staphylococcus spp. and Enterococcus
+spp. were found in those patients. CONCLUSION: Patients with hematology
+diseases had a higher risk of bacterial infections, mainly caused by
+Gram-negative bacteria. There are different distributions of bacterial
+in different wards.
+
+ 27208687   Tong MC, Wisniewski CS, Wolf B, Bosso JA (2016) "Comparison of Linezolid and Vancomycin for Methicillin-resistant Staphylococcus aureus Pneumonia: Institutional Implications." Pharmacotherapy
+
+OBJECTIVE: Recent studies suggesting clinical superiority of linezolid
+over vancomycin in the treatment of methicillin-resistant Staphylococcus
+aureus (MRSA) pneumonia led to a change in our institution's clinical
+pathway/order form for hospital-acquired pneumonia, positioning linezolid
+as the preferred agent. Our objective was to assess the impact of this
+change within our institution. DESIGN: Retrospective electronic medical
+records review. METHODS: The analysis for this observational study
+included eligible patients admitted to our medical center between May
+1, 2011 and August 31, 2014, with ICD-9 codes for MRSA and pneumonia.
+Included patients were at least 18 years of age and had vancomycin
+or linezolid initiated at least 2 days after admission and continued
+for at least 2 consecutive days. The primary endpoints were extent
+of antibiotic use before and  after order form change and length of
+stay (LOS) and hospital charges in the two  treatment groups. A secondary
+aim was to detect any gross discrepancies in patient outcomes such
+as treatment duration, mechanical ventilation duration, all-cause mortality
+rate, nephrotoxicity, and 30-day readmission between the two  treatment
+groups. MEASUREMENTS AND MAIN RESULTS: Outcomes in 227 patients were
+assessed. Linezolid use increased 16.2% subsequent to the change in
+the order form. Although not statistically significant, the median
+hospital admission charge was $6,200 lower in patients treated with
+linezolid compared with those treated with vancomycin ($25,900 vs.
+$32,100). Hospital LOS was significantly associated with Charlson comorbidity
+index (P < 0.001), the type of treatment (p  = 0.032), duration of
+treatment (p < 0.001), mechanical ventilation (p < 0.001),  and ICU
+admission (p < 0.001). All-cause mortality favored linezolid treatment
+and these patients were more likely to be discharged (shorter LOS).
+CONCLUSIONS:  Although linezolid use increased markedly with this pathway/order
+form change, no negative institutional consequences or unfavorable
+patient outcomes were detected, justifying the change in policy from
+these perspectives. This article is protected by copyright. All rights
+reserved.
+
+ 27197104   Salazar-Holguin HD, Cisneros-Robledo ME (2016) "[Antibibiotic resistance by nosocomial infections' causal agents]." Rev Med Inst Mex Seguro Soc 54(4), 462-471
+
+BACKGROUND: The antibibiotic resistance by nosocomial infections (NI)
+causal agents constitutes a seriously global problematic that involves
+the Mexican Institute of Social Security's Regional General Hospital
+1 in Chihuahua, Mexico;  although with special features that required
+to be specified and evaluated, in order to concrete an effective therapy.
+METHODS: Observational, descriptive and prospective study; by means
+of active vigilance all along 2014 in order to detect the nosocomial
+infections, for epidemiologic study, culture and antibiogram to identify
+its causal agents and antibiotics resistance and sensitivity. RESULTS:
+Among 13527 hospital discharges, 1079 displayed NI (8 %), standed out:
+the related on vascular lines, of surgical site, pneumonia and urinal
+track; they added up two thirds of the total. We carried out culture
+and antibiogram about 300 of them (27.8 %); identifying 31 bacterian
+species, mainly seven of those (77.9 %): Escherichia coli, Staphylococcus
+aureus and epidermidis, Pseudomonas aeruginosa, Acinetobacter baumannii,
+Klebsiella pneumoniae and Enterobacter cloacae; showing multiresistance
+to 34 tested antibiotics, except in seven with low or without resistance
+at all: vancomycin, teicoplanin, linezolid, quinupristin-dalfopristin,
+piperacilin-tazobactam, amikacin and carbapenems. CONCLUSIONS: When
+we contrasted those results with the recommendations in the clinical
+practice guides, it aroused several contradictions; so they must be
+taken with reserves and has to be tested in each hospital, by means
+of cultures and antibiograms in practically every case of nosocomial
+infection.
+
+ 27192905   Li J et al (2016) "[Distribution and drug sensitivity test of bacteria of patients on chronic rhinosinusitis with or without nasal polyps]." Lin Chung Er Bi Yan Hou Tou Jing Wai Ke Za Zhi 30(2), 115-118
+
+OBJECTIVE: To study the distribution and drug sensitivity test of bacteria
+of patients on chronic rhinosinusitis with or without nasal polyps.
+METHOD: The purulent discharges were collected from sinus of 175 patients
+with chronic rhinosinusitis with or without nasal polyps during endoscopic
+sinus surgery. The  results of germiculture and drug sensitivity test
+were analyzed. RESULT: From 175 specimens, 118 (67%) showed positive
+results in germiculture. Among them, 79 strains of gram positive bacteria
+and 39 strains of gram negative bacteria were detected. Staphylococcus
+epidermidis, Staphylococcus aureus and Staphylococcus haemolyticus
+were the most common pathogens in gram positive bacteria. The most
+common pathogens of gram negative bacteria were P. Aeruginosa, Enterobacter
+aerogenes, Enterobacter cloacae. The sensitive antibiotic on gram positive
+bacteria were amikacin, Daptomycin, Linezolid, vancomycin, teicoplanin,
+amoxicillin and clavulanate potassium, cefuroxime, respectively. The
+sensitive antibiotics on Gram negative bacteria were amikacin, Cefoperazone/sulbactam
+and imipenem, ceftazidime ceftazidime, aztreonam, levofloxacin, respectively.
+CONCLUSION: Bacterial infection was common happened in the sinus cavity
+of patients with chronic rhinosinusitis with or without nasal polyps.
+Gram positive  bacteria were the main pathogenic bacteria and gram
+positive bacteria and gram negative bacteria have great differences
+in the sensitivity of antibiotics. For patients with chronic rhinosinusitis,
+the using of antibiotics should depend on the drug sensitivity test.
+
+ 27192097   San-Juan R et al (2016) "High MICs for Vancomycin and Daptomycin and Complicated Catheter-Related Bloodstream Infections with Methicillin-Sensitive Staphylococcus aureus." Emerg Infect Dis 22(6), 1057-1066
+
+We investigated the prognostic role of high MICs for antistaphylococcal
+agents in patients with methicillin-sensitive Staphylococcus aureus
+catheter-related bloodstream infection (MSSA CRBSI). We prospectively
+reviewed 83 episodes from 5  centers in Spain during April 2011-June
+2014 that had optimized clinical management and analyzed the relationship
+between E-test MICs for vancomycin, daptomycin, oxacillin, and linezolid
+and development of complicated bacteremia by using multivariate analysis.
+Complicated MSSA CRBSI occurred in 26 (31.3%) patients; MICs for vancomycin
+and daptomycin were higher in these patients (optimal cutoff values
+for predictive accuracy = 1.5 mug/mL and 0.5 mug/mL). High MICs for
+vancomycin (hazard ratio 2.4, 95% CI 1.2-5.5) and daptomycin (hazard
+ratio 2.4, 95% CI 1.1-5.9) were independent risk factors for development
+of complicated MSSA CRBSI. Our data suggest that patients with MSSA
+CRBSI caused by  strains that have high MICs for vancomycin or daptomycin
+are at increased risk for complications.
+
+ 27190805   Sivaraman U, Subramanian P, Ramakrishnan K, Seetha KS (2016) "Umbilical Sepsis Caused by Multidrug Resistant Strain of Kocuria kristinae in a New Born: A Case Report." J Clin Diagn Res 10(4), 01-02
+
+Kocuria species were placed previously under the genus Micrococcus,
+are skin and  oropharynx commensals in mammals, including man. A rare
+bacteria, Kocuria kristinae isolated from a new born with umbilical
+sepsis. Identification and antibiotic susceptibility was done by Vitek
+2 compact system (Biomerieux). The isolate was sensitive to higher
+antibiotics like vancomycin, teicoplanin and linezolid. As this new
+pathogen resembles coagulase negative staphylococcus, it should not
+be misidentified.
+
+ 27189831   Brijwal M et al (2016) "Clonal dissemination of Linezolid resistant Staphylococcus hemolyticus harboring  G2576T mutation with cfr gene in an Indian hospital." J Med Microbiol
+
+ 27185355   Schoenfelder SM et al (2016) "Antibiotic resistance profiles of coagulase-negative staphylococci in livestock environments." Vet Microbiol
+
+Livestock-associated methicillin-resistant Staphylococcus aureus (LA-MRSA)
+have globally emerged in animal husbandry. In addition to methicillin
+resistance, LA-MRSA may carry a variety of novel and uncommon antimicrobial
+resistance genes. Occurrence of the same resistance genes in coagulase-negative
+staphylococci (CoNS) and S. aureus suggests an ongoing genetic exchange
+between LA-MRSA and other staphylococci whose driving forces in the
+ecological niche of the farm environment are, however, still poorly
+understood. To assess the potential of CoNS as putative reservoirs
+for antibiotic resistance genes, we analysed the antimicrobial susceptibility
+of CoNS from dust and manure samples obtained in 41  pig farms in Germany,
+most of them (36 of 41) with a proven LA-MRSA/MSSA history. Among the
+344 isolates analysed, 18 different CoNS species were identified and
+S. sciuri represented the most prevalent species (46%). High resistance
+rates were detected for tetracycline (71%), penicillin (65%) and oxacillin
+(64%) as well as  fusidic acid (50%), which was mainly due to reduced
+susceptibility among S. sciuri isolates. S. sciuri exhibited pronounced
+multiresistance, and many isolates were characterised by the carriage
+of a number of uncommon (multi)resistance genes (e.g. cfr, apmA, fexA)
+and decreased susceptibility towards last resort antibiotics such as
+linezolid and daptomycin. The combined data suggest that S. sciuri
+harbours a significant resistance gene pool that requires further attention.
+We hypothesise that members of this species, due to their flexible
+lifestyle, might contribute to the spread of such genes in livestock
+environments.
+
+ 27182700   Iguchi S, Mizutani T, Hiramatsu K, Kikuchi K (2016) "Rapid Acquisition of Linezolid Resistance in Methicillin-Resistant Staphylococcus aureus: Role of Hypermutation and Homologous Recombination." PLoS One 11(5), e0155512
+
+BACKGROUND: We previously reported the case of a 64-year-old man with
+mediastinitis caused by Staphylococcus aureus in which the infecting
+bacterium acquired linezolid resistance after only 14 days treatment
+with linezolid. We therefore investigated relevant clinical isolates
+for possible mechanisms of this rapid acquisition of linezolid resistance.
+METHODS: Using clinical S. aureus isolates, we assessed the in vitro
+mutation rate and performed stepwise selection for linezolid resistance.
+To investigate homologous recombination, sequences were determined
+for each of the 23S ribosomal RNA (23S rRNA) loci; analyzed sequences
+spanned the entirety of each 23S rRNA gene, including domain V, as
+well as the 16S-23S intergenic spacer regions. We additionally performed
+next-generation sequencing on clinical strains to identify single-nucleotide
+polymorphisms compared to the N315 genome. RESULTS: Strains isolated
+from the patient prior to  linezolid exposure (M5-M7) showed higher-level
+linezolid resistance than N315, and the pre-exposure strain (M2) exhibited
+more rapid acquisition of linezolid resistance than did N315. However,
+the mutation rates of these and contemporaneous clinical isolates were
+similar to those of N315, and the isolates did not exhibit any mutations
+in hypermutation-related genes. Sequences of the 23S rRNA genes and
+16S-23S intergenic spacer regions were identical among the pre- and
+post-exposure clinical strains. Notably, all of the pre-exposure isolates
+harbored a recQ missense mutation (Glu69Asp) with respect to N315;
+such  a lesion may have affected short sequence recombination (facilitating,
+for example, recombination among rrn loci). We hypothesize that this
+mechanism contributed to rapid acquisition of linezolid resistance.
+CONCLUSIONS: Hypermutation and homologous recombination of the ribosomal
+RNA genes, including  23S rRNA genes, appear not to have been sources
+of the accelerated acquisition of linezolid resistance observed in
+our clinical case. Increased frequency of short  sequence recombination
+may have resulted from a recQ variant in the infecting organism.
+
+ 27180242   Rodriguez-Pardo D et al (2016) "Effectiveness of sequential intravenous-to-oral antibiotic switch therapy in hospitalized patients with gram-positive infection: the SEQUENCE cohort study." Eur J Clin Microbiol Infect Dis
+
+Switching from intravenous to oral antibiotic therapy may improve inpatient
+management and reduce hospital stays and the complications of intravenous
+treatment. We aimed to assess the effectiveness of intravenous-to-oral
+antibiotic switch therapy and an early discharge algorithm in hospitalized
+patients with gram-positive infection. We performed a prospective cohort
+study with a retrospective comparison cohort, recruited from eight
+tertiary, acute-care Spanish referral hospitals. All patients included
+had culture-confirmed methicillin-resistant gram-positive infection,
+or methicillin-susceptible gram-positive infection and beta-lactam
+allergy and had received intravenous treatment with glycopeptides,
+lipopeptides, or linezolid. The study comprised two cohorts: the prospective
+cohort to assess the effectiveness of a sequential intravenous-to-oral
+antibiotic switch algorithm and early discharge, and a retrospective
+cohort in which the algorithm had not been applied, used as the comparator.
+A total of 247 evaluable patients were included; 115 in the prospective
+and 132 in the retrospective cohort. Forty-five retrospective patients
+(34 %) were not changed to oral antibiotics, and 87 (66 %) were changed
+to oral antibiotics without following the proposed algorithm. The duration
+of hospitalization was significantly shorter in the prospective cohort
+compared to the retrospective group that did not switch to oral drugs
+(16.7 +/- 18.7 vs 23 +/- 13.4 days, P < 0.001). No differences were
+observed regarding the incidence of catheter-related bacteraemia (4.4
+% vs 2.6 %, P = 0.621). Our results suggest  that an intravenous-to-oral
+antibiotic switch strategy is effective for reducing  the length of
+hospital stay in selected hospitalized patients with gram-positive
+infection.
+
+ 27179813   Freitas AR et al (2016) "Co-infection with three linezolid-resistant Enterococcus faecium ST117 strain variants: what are we missing in diagnosis?" Int J Antimicrob Agents 47(6), 500-501
+
+ 27169946   Srifuengfung S, Tribuddharat C, Sapcharoen S, Nitayanon P (2016) "Prevalence of M Protein Gene in Group C and Group G Streptococci Isolated from Patients in Thailand." Jpn J Infect Dis
+
+We surveyed the rate of M protein that was encoded by emm and emmL
+[emm (-like)]  genes in group C and group G beta-hemolytic streptococci
+(GCS/GGS), as well as the rate of antimicrobial susceptibility. A total
+of 97 isolates [GCS/GGS (79) and other groups (18)] were tested for
+M protein gene by polymerase chain reaction. Focusing on invasive infections
+with group A beta-hemolytic streptococci (GAS), GCS, and GGS (isolated
+from blood), M protein gene was found  in 90%, 84.6% and 78.3%, respectively.
+DNA sequencing in hypervariable N terminal region of emm gene was performed
+in 62 isolates. The results found 26 types of emm gene which emm222.2
+may be endemic in Thailand. Antimicrobial susceptibility  results in
+groups C, G and non-groups A to G indicated that penicillin, cefotaxime,
+chloramphenical, clindamycin, erythromycin, linezolid, ofloxacin, and
+vancomycin had high susceptibility (range 82-100%) whereas tetracycline
+had low susceptibility (range 0%-15.6%).
+
+ 27169303   Li R, Nailor MD (2016) "New Gram Positive Agents to Treat Acute Bacterial Skin and Skin Structure Infections." Conn Med 80(3), 175-180
+
+The FDA guidance published in 2013 provided requirements for conducting
+ABSSSI trials. In 2014, dalbavancin, oritavancin, and tedizolid were
+introduced into the market after phase III noninferiority clinical
+trials against vancomycin (for the lipoglycopeptides) and linezolid
+(for tedizolid), demonstrating clinical efficacy for the treatment
+of ABSSSI. Great interest exists for these agents because of the postulated
+financial impact. Due to favorable pharmacokinetics which allow for
+less frequent medication administration and shorter treatment durations,
+these agents may prove to reduce hospital admissions and length of
+stay.
+
+ 27166038   Biswas PP, Dey S, Adhikari L, Sen A (2016) "Detection of vancomycin resistance in enterococcus species isolated from clinical samples and feces of colonized patients by phenotypic and genotypic methods." Indian J Pathol Microbiol 59(2), 188-193
+
+BACKGROUND: The aim of this study was to find out the clinical correlation
+between the presence of vancomycin-resistant genes (van A and van B)
+and their expression as detected by phenotypic tests in colonized patients
+and in clinical  isolates. MATERIALS AND METHODS: Enterococci were
+isolated from various clinical  samples and also from fecal specimens
+of colonized patients at the time of admission, after 48 h and after
+5 days of admission. Identification to species level was done using
+standard methods. Vancomycin susceptibility in Enterococci was detected
+by disc diffusion test. Minimum inhibitory concentration was determined
+by agar dilution method. Multiplex polymerase chain reaction (PCR)
+was used to detect the presence of van genes. RESULTS: Out of all the
+clinical and fecal samples processed, 12.0% isolates were either vancomycin
+resistant or vancomycin intermediate. Further, these isolates carried
+van A or van B genes as  confirmed by PCR methods. Expression of van
+A gene was found to be more in Enterococcus faecalis (28.3%) as compared
+to Enterococcus faecium (25.0%) in both clinical and fecal isolates.
+16.6% strains of E. faecium and 15.0% strains each of E. faecalis and
+Enterococcus gallinarum were found to carry van B genes. The overall
+prevalence of vancomycin resistant Enterococci (VRE) in colonized patients
+was about 9.6%. Prior administration of antibiotics had significant
+effect (P = 0.001) on VRE carriage. Urinary tract infection was the
+most common infection caused by vancomycin susceptible Enterococci
+(VSE), 105/214 (49.0%) and VRE, 13/36 (36.1%). There was no significant
+difference (P = 0.112) in the distribution of VRE and VSE in different
+infection types. Both clinical and fecal VRE showed maximum resistance
+to penicillin, ampicillin, and piperacillin. Resistance to linezolid
+was 2.8% in clinically isolated VRE. CONCLUSION: VRE in our study were
+found to be resistant to a number of commonly used antibiotics. The
+frequency of isolation of vancomycin resistant E. faecalis (VRE.fs),
+which is highly virulent, and the number of strains harboring van A
+gene in our hospital setup is high and needs to be addressed.
+
+ 27165538   Karimaei S et al (2016) "Antibacterial potential and genetic profile of Enterococcus faecium strains isolated from human normal flora." Microb Pathog 96, 67-71
+
+Enterococci have a widespread attendance in the circumference and belongs
+to the  enteric commensal microbiota. Most of them produce the antimicrobial
+compounds and have an inhibition effect on pathogenic microorganisms.
+The objective of this study was to characterize the enterococcal strains
+isolated from human normal flora and assess their antibacterial activity.
+Enterococcal isolates were obtained from the feces of eighteen healthy
+humans. All enterococcal species were identified by biochemical and
+species-specific polymerase chain reaction (PCR). These isolates were
+investigated further to examine their ability to inhibit growth of
+Salmonella typhi, Shigella flexneri and Escherichia coli by well diffusion
+assay. Furthermore, antibiotic susceptibility test was performed and
+genetic relatedness of all isolates was evaluated by Pulse Field Gel
+Electrophoresis (PFGE). In all, 432 isolates were obtained from fecal
+samples. All of the isolates identified as Enterococcus faecium by
+biochemical and molecular (PCR) methods. Using repetitive element palindromic
+(REP)-PCR method 54 patterns have been obtained and were selected for
+further evaluation. The results indicated that 66%, 38% and 24% of
+our isolates had antimicrobial effect against  S. typhi, S flexneri
+and enteroaggregative Escherichia coli (EAEC), respectively. On the
+other hand, there was no significant inhibition effect against enteropathogenic
+E. coli (EPEC) and enterotoxigenic E. coli (ETEC). All isolates  were
+sensitive to vancomycin, teicoplanin, linezolid, ampicillin, chloramphenicol
+and gentamicin. On the other hand, the resistance rates for erythromycin,
+tetracycline and ciprofloxacin were 20%, 22%, and 1.8% respectively.
+In addition, the analysis of PFGE showed forty patterns with eight
+(40.7%) common types (CT) and thirty two (59.2%) single types (ST).
+Among eight common types, only one common type (CT5) had similar antimicrobial
+effect. These results suggested that  enterococcal isolates obtained
+from human normal flora have potential antibacterial effect against
+S. typhi, S. flexneri and E. coli.
+
+ 27161775   Self WH et al (2016) "Staphylococcus aureus Community-acquired Pneumonia: Prevalence, Clinical Characteristics, and Outcomes." Clin Infect Dis
+
+BACKGROUND: Prevalence of Staphylococcus aureus community-acquired
+pneumonia (CAP) and its clinical features remain incompletely understood,
+complicating empirical selection of antibiotics. METHODS: Using a multicenter,
+prospective surveillance study of adults hospitalized with CAP, we
+calculated the prevalence  of methicillin-resistant S. aureus (MRSA)
+and methicillin-susceptible S. aureus (MSSA) among all CAP episodes.
+We compared the epidemiologic, radiographic, and clinical characteristics
+of S. aureus CAP (per respiratory or blood culture) with those of pneumococcal
+(per respiratory or blood culture or urine antigen) and all-cause non-S.
+aureus CAP using descriptive statistics. RESULTS: Among 2259 adults
+hospitalized for CAP, 37 (1.6%) had S. aureus identified, including
+15 (0.7%) with MRSA and 22 (1.0%) with MSSA; 115 (5.1%) had Streptococcus
+pneumoniae Vancomycin or linezolid was administered to 674 (29.8%)
+patients within the first 3 days of hospitalization. Chronic hemodialysis
+use was more common among patients with MRSA (20.0%) than pneumococcal
+(2.6%) and all-cause non-S. aureus (3.7%) CAP. Otherwise, clinical
+features at admission were similar, including concurrent influenza
+infection, hemoptysis, multilobar infiltrates, and prehospital antibiotics.
+Patients with MRSA CAP had more severe clinical outcomes than those
+with pneumococcal CAP, including intensive care unit admission (86.7%
+vs 34.8%) and in-patient mortality (13.3% vs 4.4%). CONCLUSIONS: Despite
+very low prevalence of S. aureus and, specifically, MRSA, nearly one-third
+of adults hospitalized with CAP received anti-MRSA antibiotics. The
+clinical presentation of MRSA CAP overlapped substantially with pneumococcal
+CAP, highlighting the challenge of accurately targeting empirical anti-MRSA
+antibiotics with currently  available clinical tools and the need for
+new diagnostic strategies.
+
+ 27161635   Kaul M et al (2016) "Combining the FtsZ-Targeting Prodrug TXA709 and the Cephalosporin Cefdinir Confers Synergy and Reduces the Frequency of Resistance in Methicillin-Resistant  Staphylococcus aureus." Antimicrob Agents Chemother
+
+Combination therapy of bacterial infections with synergistic drug partners
+offers distinct advantages over monotherapy. Among these advantages
+are (i) a reduction  of the drug dose required for efficacy, (ii) a
+reduced potential for drug-induced toxicity, and (iii) a reduced potential
+for the emergence of resistance. Here, we describe the synergistic
+actions of the third-generation oral cephalosporin, cefdinir, and TXA709,
+a second-generation, FtsZ-targeting prodrug that we have developed
+with improved pharmacokinetics and enhanced in vivo efficacy against
+methicillin-resistant Staphylococcus aureus (MRSA) relative to first-generation
+agents. We show that the active product of TXA709 (TXA707) acts synergistically
+with cefdinir in vitro against clinical isolates of MRSA, vancomycin-intermediate
+S. aureus (VISA), vancomycin-resistant S. aureus (VRSA), and linezolid-resistant
+S. aureus (LRSA). In addition, the combination of TXA707 and cefdinir
+significantly reduces or eliminates the detectable emergence of resistance
+relative to TXA707 alone. We also demonstrate synergy in vivo with
+oral administration of the prodrug TXA709 and cefdinir in mouse models
+of both systemic and tissue (thigh) infection with MRSA. This synergy
+reduces the dose of TXA709 required for efficacy by 3-fold. Viewed
+as a whole, our results highlight  the potential of TXA709 and cefdinir
+as a promising combination for the treatment of drug-resistant staphylococcal
+infections.
+
+ 27157743   Antony EJ et al (2016) "Loading of atorvastatin and linezolid in beta-cyclodextrin-conjugated cadmium selenide/silica nanoparticles: A spectroscopic study." Mater Sci Eng C Mater Biol Appl 65, 194-198
+
+The preparation of beta-cyclodextrin-conjugated cadmium selenide-silica
+nanoparticles, the loading of two drugs viz., Atorvastatin and linezolid
+in the cyclodextrin cavity, and the fluorescence energy transfer between
+CdSe/SiO2 nanoparticles and the drugs encapsulated in the cyclodextrin
+cavity are reported  in this paper. IR spectroscopy, X-ray diffractometry,
+transmission electron microscopy, and particle size analysis by light-scattering
+experiment were used as the tools of characterizing the size and the
+crystal system of the nanoparticles. The nanoparticles fall under hexagonal
+system. The silica-shell containing CdSe nanoparticles were functionalized
+by reaction with aminoethylamino-beta-cyclodextrin. Fluorescence spectra
+of the nanoparticles in their free and drug-encapsulated forms were
+studied. The FOrster distances between the encapsulated drugs and the
+CdSe nanoparticles are below 3nm. The change in the FOrster resonance
+energy parameters under physiological conditions  may aid in tracking
+the release of drugs from the cavity of the cyclodextrin.
+
+ 27156708   Morata L et al (2016) "Risk factors associated with high linezolid trough plasma concentrations." Expert Opin Pharmacother 17(9), 1183-1187
+
+AIM: The major concern of linezolid is the adverse events. High linezolid
+trough  serum concentration (Cmin) has been associated with toxicity.
+The aim of this study was to analyze factors associated with high Cmin.
+METHODS: Main clinical characteristics of 104 patients treated with
+600 mg/12 hours of linezolid were retrospectively reviewed. Samples
+were obtained just before the next dose after at least three doses
+and within the first 8 days of treatment. High Cmin was considered
+when it was >8 mg/L. Univariate and multivariate analysis were performed.
+RESULTS: 34.6% patients had a Cmin >8 mg/L, and they were older and
+had more frequently an estimated glomerular filtration by MDRD <40
+mL/min. There  were more patients co-treated with rifampin in the group
+with low Cmin. The only  factor independently associated with Cmin
+>8 was the renal function. Patients with an eGF < 40 mL/min had significantly
+higher Cmin than those with eGF > 80 mL/min (OR: 4.273) and there was
+a trend towards a high Cmin in patients with eGF between 40-80 mL/min
+(OR: 2.109). CONCLUSIONS: High Cmin were frequent, especially in patients
+with MDRD <40 mL/min. Therapeutic drug monitoring could be useful to
+avoid toxicity in patients with renal dysfunction.
+
+ 27156242   Lee SC et al (2016) "Identification of subclinical transmission of vancomycin-resistant enterococcus within an intensive care unit in Taiwan." J Microbiol Immunol Infect
+
+BACKGROUND/PURPOSE: Colonization, infection, and clonal dissemination
+of vancomycin-resistant enterococcus (VRE) have been reported in the
+literature. We  aimed to investigate the incidence rate of VRE acquisition
+and route of transmission of VRE within the medical intensive care
+unit (ICU) to prove whether subclinical transmission occurs in medical
+ICUs. METHODS: Between March 1, 2012 and September 30, 2013, rectal
+cultures were obtained from all inpatients on admission and after admission
+to medical ICU. Strain types of VRE were determined by both multilocus
+sequence typing and pulsed-field gel electrophoresis. RESULTS: A total
+of 66 of the 405 rectal swab surveillance cultures obtained from 46
+inpatients were positive for VRE, among which 27 inpatients were culture-positive
+for VRE on admission to medical ICU, and 19 inpatients were initially
+culture-negative but converted to culture-positive after admission.
+All isolates  carried vanA gene consisting of 51 Enterococcusgallinarum,
+13 Enterococcus faecium, and two Eenterococcus casseliflavus. Of the
+51 E. gallinarum isolates, 40 were type ST 341, seven were ST 252,
+two were ST 78, and two were ST 64. The Enterococcus spp., MLST and
+PFGE subtypes were almost similar among these two groups of inpatients.
+Linezolid and tigecycline were most active against VRE in vitro. CONCLUSION:
+Subclinical VRE cross transmission may occur in ICU. Active surveillance
+and maximal barrier precautions of VRE are required at ICU with high
+colonization rate of VRE and shall be beneficial.
+
