@@ -1,0 +1,96 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gatifloxacin+AND+Ophthalmic+AND+Solution&limit=1&skip=0
+Page 0 of 6
+        "generic_name": [
+          "GATIFLOXACIN"
+        "brand_name": [
+          "ZYMAXID"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Specific drug interaction studies have not been conducted with ZYMAXID® ophthalmic solution."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions occurring in ≥ 1% of patients included worsening of conjunctivitis, eye irritation, dysgeusia, and eye pain. (6) To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-433-8871 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical studies with ZYMAXID® , the most frequently reported adverse reactions occurring in ≥ 1% of patients in the gatifloxacin study population (N=717) were: worsening of the conjunctivitis, eye irritation, dysgeusia, and eye pain. Additional adverse events reported with other formulations of gatifloxacin ophthalmic solution include chemosis, conjunctival hemorrhage, dry eye, eye discharge, eyelid edema, headache, increased lacrimation, keratitis, papillary conjunctivitis, and reduced visual acuity."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Topical Ophthalmic Use Only (5.1) Growth of Resistant Organisms with Prolonged Use (5.2) Avoidance of Contact Lenses. Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with ZYMAXID® (5.3) 5.1 Topical Ophthalmic Use Only ZYMAXID® solution should not be introduced directly into the anterior chamber of the eye. 5.2 Growth of Resistant Organisms with Prolonged Use As with other anti-infectives, prolonged use of ZYMAXID® (gatifloxacin ophthalmic solution) 0.5% may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit lamp biomicroscopy and where appropriate, fluorescein staining. 5.3 Avoidance of Contact Lens Wear Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis or during the course of therapy with ZYMAXID® (see PATIENT COUNSELING INFORMATION, 17.2)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gatifloxacin+AND+Ophthalmic+AND+Solution&limit=1&skip=1
+Page 1 of 6
+        "generic_name": [
+          "GATIFLOXACIN"
+        "brand_name": [
+          "Gatifloxacin"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Specific drug interaction studies have not been conducted with gatifloxacin ophthalmic solution."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions occurring in ≥ 1 % of patients included worsening of conjunctivitis, eye irritation, dysgeusia, and eye pain. (6) To report SUSPECTED ADVERSE REACTIONS, contact Hi-Tech Pharmacal Co., Inc. at 1-800-262-9010 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch 6.1 Clinical Studies Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical studies with gatifloxacin, the most frequently reported adverse reactions occurring in ≥ 1 % of patients in the gatifloxacin study population (N=717) were: worsening of the conjunctivitis, eye irritation, dysgeusia, and eye pain. Additional adverse events reported with other formulations of gatifloxacin ophthalmic solution include chemosis, conjunctival hemorrhage, dry eye, eye discharge, eyelid edema, headache, increased lacrimation, keratitis, papillary conjunctivitis, and reduced visual acuity."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS •Topical Ophthalmic Use Only (5.1) •Growth of Resistant Organisms with Prolonged Use (5.2) •Avoidance of Contact Lenses. Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with Gatifloxacin (5.3) 5.1 Topical Ophthalmic Use Only Gatifloxacin ophthalmic solution should not be introduced directly into the anterior chamber of the eye. 5.2 Growth of Resistant Organisms with Prolonged Use As with other anti-infectives, prolonged use of gatifloxacin ophthalmic solution, 0.5% may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit lamp biomicroscopy and where appropriate, fluoroscein staining. 5.3 Avoidance of Contact Lens Wear Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis or during the course of therapy with gatifloxacin ophthalmic solution (see PATIENT COUNSELING INFORMATION, 17.2 )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gatifloxacin+AND+Ophthalmic+AND+Solution&limit=1&skip=2
+Page 2 of 6
+        "generic_name": [
+          "GATIFLOXACIN"
+        "brand_name": [
+          "ZYMAXID"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Specific drug interaction studies have not been conducted with ZYMAXID® ophthalmic solution."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions occurring in ≥ 1 % of patients included worsening of conjunctivitis, eye irritation, dysgeusia, and eye pain. (6) To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-433-8871 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical studies with ZYMAXID® , the most frequently reported adverse reactions occurring in ≥ 1% of patients in the gatifloxacin study population (N=717) were: worsening of the conjunctivitis, eye irritation, dysgeusia, and eye pain. Additional adverse events reported with other formulations of gatifloxacin ophthalmic solution include chemosis, conjunctival hemorrhage, dry eye, eye discharge, eyelid edema, headache, increased lacrimation, keratitis, papillary conjunctivitis, and reduced visual acuity."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Topical Ophthalmic Use Only (5.1) Growth of Resistant Organisms with Prolonged Use (5.2) Avoidance of Contact Lenses. Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with ZYMAXID® (5.3) 5.1 Topical Ophthalmic Use Only ZYMAXID® solution should not be introduced directly into the anterior chamber of the eye. 5.2 Growth of Resistant Organisms with Prolonged Use As with other anti-infectives, prolonged use of ZYMAXID® (gatifloxacin ophthalmic solution) 0.5% may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit lamp biomicroscopy and where appropriate, fluoroscein staining. 5.3 Avoidance of Contact Lens Wear Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis or during the course of therapy with ZYMAXID® (see PATIENT COUNSELING INFORMATION, 17.2 )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gatifloxacin+AND+Ophthalmic+AND+Solution&limit=1&skip=3
+Page 3 of 6
+        "generic_name": [
+          "GATIFLOXACIN"
+        "brand_name": [
+          "gatifloxacin"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Specific drug interaction studies have not been conducted with gatifloxacin ophthalmic solution."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions occurring in ≥ 1% of patients included worsening of conjunctivitis, eye irritation, dysgeusia, and eye pain. (6) To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-433-8871 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical studies with gatifloxacin, the most frequently reported adverse reactions occurring in ≥ 1% of patients in the gatifloxacin study population (N=717) were: worsening of the conjunctivitis, eye irritation, dysgeusia, and eye pain. Additional adverse events reported with other formulations of gatifloxacin ophthalmic solution include chemosis, conjunctival hemorrhage, dry eye, eye discharge, eyelid edema, headache, increased lacrimation, keratitis, papillary conjunctivitis, and reduced visual acuity."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Topical Ophthalmic Use Only (5.1) Growth of Resistant Organisms with Prolonged Use (5.2) Avoidance of Contact Lenses. Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with gatifloxacin (5.3) 5.1 Topical Ophthalmic Use Only Gatifloxacin solution should not be introduced directly into the anterior chamber of the eye. 5.2 Growth of Resistant Organisms with Prolonged Use As with other anti-infectives, prolonged use of gatifloxacin ophthalmic solution 0.5% may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit lamp biomicroscopy and where appropriate, fluorescein staining. 5.3 Avoidance of Contact Lens Wear Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis or during the course of therapy with gatifloxacin (see PATIENT COUNSELING INFORMATION, 17.2)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gatifloxacin+AND+Ophthalmic+AND+Solution&limit=1&skip=4
+Page 4 of 6
+        "generic_name": [
+          "GATIFLOXACIN"
+        "brand_name": [
+          "Gatifloxacin"
+ 
+      "drug_interactions": [
+        "7. DRUG INTERACTIONS Specific drug interaction studies have not been conducted with gatifloxacin ophthalmic solution, 0.5%."
+      "adverse_reactions": [
+        "6. ADVERSE REACTIONS Most common adverse reactions occurring in ≥ 1 % of patients included worsening of conjunctivitis, eye irritation, dysgeusia, and eye pain. (6) To report SUSPECTED ADVERSE REACTIONS, contact Lupin Pharmaceuticals, Inc. at 1-800-399-2561 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical studies with gatifloxacin ophthalmic solution, 0.5% the most frequently reported adverse reactions occurring in ≥ 1 % of patients in the gatifloxacin study population (N=717) were: worsening of the conjunctivitis, eye irritation, dysgeusia, and eye pain. Additional adverse events reported with other formulations of gatifloxacin ophthalmic solution include chemosis, conjunctival hemorrhage, dry eye, eye discharge, eyelid edema, headache, increased lacrimation, keratitis, papillary conjunctivitis, and reduced visual acuity."
+      "warnings_and_cautions": [
+        "5. WARNINGS AND PRECAUTIONS Topical Ophthalmic Use Only (5.1) Growth of Resistant Organisms with Prolonged Use (5.2) Avoidance of Contact Lenses. Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with gatifloxacin ophthalmic solution, 0.5% (5.3) 5.1 Topical Ophthalmic Use Only Gatifloxacin ophthalmic solution, 0.5% should not be introduced directly into the anterior chamber of the eye. 5.2 Growth of Resistant Organisms with Prolonged Use As with other anti-infectives, prolonged use of gatifloxacin ophthalmic solution, 0.5% may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit lamp biomicroscopy and where appropriate, fluoroscein staining. 5.3 Avoidance of Contact Lens Wear Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis or during the course of therapy with gatifloxacin ophthalmic solution, 0.5% (see PATIENT COUNSELING INFORMATION, 17.2)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Gatifloxacin+AND+Ophthalmic+AND+Solution&limit=1&skip=5
+Page 5 of 6
+        "generic_name": [
+          "GATIFLOXACIN"
+        "brand_name": [
+          "Gatifloxacin"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Specific drug interaction studies have not been conducted with gatifloxacin ophthalmic solution, 0.5%."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions occurring in ≥ 1 % of patients included worsening of conjunctivitis, eye irritation, dysgeusia, and eye pain. (6) To report SUSPECTED ADVERSE REACTIONS, contact Lupin Pharmaceuticals, Inc. at 1-800-399-2561 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical studies with gatifloxacin ophthalmic solution, 0.5% the most frequently reported adverse reactions occurring in ≥ 1 % of patients in the gatifloxacin study population (N=717) were: worsening of the conjunctivitis, eye irritation, dysgeusia, and eye pain. Additional adverse events reported with other formulations of gatifloxacin ophthalmic solution include chemosis, conjunctival hemorrhage, dry eye, eye discharge, eyelid edema, headache, increased lacrimation, keratitis, papillary conjunctivitis, and reduced visual acuity."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Topical Ophthalmic Use Only (5.1) Growth of Resistant Organisms with Prolonged Use (5.2) Avoidance of Contact Lenses. Patients should not wear contact lenses if they have signs or symptoms of bacterial conjunctivitis or during the course of therapy with gatifloxacin ophthalmic solution, 0.5% (5.3) 5.1 Topical Ophthalmic Use Only Gatifloxacin ophthalmic solution, 0.5% should not be introduced directly into the anterior chamber of the eye. 5.2 Growth of Resistant Organisms with Prolonged Use As with other anti-infectives, prolonged use of gatifloxacin ophthalmic solution, 0.5% may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue use and institute alternative therapy. Whenever clinical judgment dictates, the patient should be examined with the aid of magnification, such as slit lamp biomicroscopy and where appropriate, fluoroscein staining. 5.3 Avoidance of Contact Lens Wear Patients should be advised not to wear contact lenses if they have signs and symptoms of bacterial conjunctivitis or during the course of therapy with gatifloxacin ophthalmic solution, 0.5% (see PATIENT COUNSELING INFORMATION, 17.2)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

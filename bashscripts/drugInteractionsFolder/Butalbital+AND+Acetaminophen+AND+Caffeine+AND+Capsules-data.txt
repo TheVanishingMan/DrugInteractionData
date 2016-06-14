@@ -1,0 +1,414 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=0
+Page 0 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, and Caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, Acetaminophen, and Caffeine Capsules may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Frequently Observed: The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed: All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=1
+Page 1 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE"
+        "brand_name": [
+          "Butalbital, Acetaminophen and Caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement, or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=2
+Page 2 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "Margesic"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous Systems: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=3
+Page 3 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may enhance the effects of: − Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with Butalbital, Aspirin, Caffeine, and Codeine Phosphate Capsules, USP, a related product containing aspirin, butalbital, caffeine, and codeine. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for Butalbital, Acetaminophen, and Caffeine Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=4
+Page 4 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Butalbital, Acetaminophen and Caffeine with Codeine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, and caffeine with codeine phosphate may enhance the effects of: - Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression. Drug/Laboratory Test Interactions: Acetaminophen Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid. Codeine Codeine may increase serum amylase levels."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Frequently Observed: The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed: All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with Finorinal® with Codeine, a related product containing aspirin, butalbital, caffeine, and codeine. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, and Caffeine with Codeine Phosphate Capsules. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for Butalbital, Acetaminophen, and Caffeine Tablets. To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=5
+Page 5 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may enhance the effects of: - Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with Fiorinal® with Codeine, a related product containing aspirin, butalbital, caffeine, and codeine phosphate. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for Butalbital, Acetaminophen, and Caffeine Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=6
+Page 6 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE"
+        "brand_name": [
+          "Fioricet"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement, or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=7
+Page 7 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE CAPSULES"
+        "brand_name": [
+          "Butalbital, Acetaminophen, and Caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement, or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=8
+Page 8 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "Zebutal"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed: The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed: All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congesion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=9
+Page 9 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, caffeine, and codeine phosphate capsules may enhance the effects of: – Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with Fiorinal® with Codeine, a related product containing aspirin, butalbital, caffeine, and codeine. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of butalbital, acetaminophen, caffeine, and codeine phosphate capsules. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for butalbital, acetaminophen, and caffeine tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=10
+Page 10 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, Caffeine and Codeine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may enhance the effects of: - Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed: The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed: All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with Fiorinal® Fiorinal® is a registered trademark of Watson Pharmaceuticals, Inc. with Codeine, a related product containing aspirin, butalbital, caffeine, and codeine phosphate. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for Butalbital, Acetaminophen, Caffeine and Codeine Phosphate Capsules, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=11
+Page 11 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "Esgic"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=12
+Page 12 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate may enhance the effects of: - Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with Fiorinal® with Codeine, a related product containing aspirin, butalbital, caffeine, and codeine phosphate. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for Fioricet® (Butalbital, Acetaminophen, and Caffeine Tablets, USP)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=13
+Page 13 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate may enhance the effects of: - Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with Fiorinal® with Codeine, a related product containing aspirin, butalbital, caffeine, and codeine phosphate. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for Butalbital, Acetaminophen, and Caffeine Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=14
+Page 14 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "Butalbital, Acetaminophen and Caffeine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed: The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed: All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congesion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=15
+Page 15 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, and Caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement, or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=16
+Page 16 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, caffeine, and codeine phosphate capsules may enhance the effects of: Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with b utalbital, a spirin, c affeine, and c odeine p hosphate c apsules, USP, a related product containing aspirin, butalbital, caffeine, and codeine. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of b utalbital, a cetaminophen, c affeine, and c odeine p hosphate c apsules. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for butalbital, acetaminophen, and caffeine tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=17
+Page 17 of 30
+        "generic_name": [
+          "BUTALBITAL AND ACETAMINOPHEN"
+        "brand_name": [
+          "Phrenilin Forte"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital and acetaminophen may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed: The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed: All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=18
+Page 18 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "Zebutal"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous Systems: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=19
+Page 19 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "butalbital, acetaminophen and caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=20
+Page 20 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE"
+        "brand_name": [
+          "Fioricet"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement, or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=21
+Page 21 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "Esgic"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=22
+Page 22 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "Butalbital, Acetaminophen and Caffeine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed: The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed: All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congesion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=23
+Page 23 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE"
+        "brand_name": [
+          "ORBIVAN"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement, or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=24
+Page 24 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, Caffeine and Codeine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules may enhance the effects of: - Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed: The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed: All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with Fiorinal® Fiorinal® is a registered trademark of Watson Pharmaceuticals, Inc. with Codeine, a related product containing aspirin, butalbital, caffeine, and codeine phosphate. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for Butalbital, Acetaminophen, Caffeine and Codeine Phosphate Capsules, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=25
+Page 25 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, CAFFEINE, AND CODEINE PHOSPHATE"
+        "brand_name": [
+          "Fioricet with Codeine"
+ 
+      "drug_interactions": [
+        "Drug interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Fioricet with Codeine may enhance the effects of: - Other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. The following adverse reactions have been voluntarily reported as temporally associated with Fiorinal® with Codeine, a related product containing aspirin, butalbital, caffeine, and codeine phosphate. Central Nervous: abuse, addiction, anxiety, disorientation, hallucination, hyperactivity, insomnia, libido decrease, nervousness, neuropathy, psychosis, sexual activity increase, slurred speech, twitching, unconsciousness, vertigo. Autonomic Nervous: epistaxis, flushing, miosis, salivation. Gastrointestinal: anorexia, appetite increased, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasms, hiccup, mouth burning, pyloric ulcer. Cardiovascular: chest pain, hypotensive reaction, palpitations, syncope. Skin: erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis. Urinary: kidney impairment, urinary difficulty. Miscellaneous: allergic reaction, anaphylactic shock, cholangiocarcinoma, drug interaction with erythromycin (stomach upset), edema. The following adverse drug events may be borne in mind as potential effects of the components of Fioricet with Codeine. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. Codeine: nausea, vomiting, drowsiness, lightheadedness, constipation, pruritus. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported for Fioricet Tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=26
+Page 26 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, and Caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement, or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=27
+Page 27 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "Capacet"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous Systems: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=28
+Page 28 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN, AND CAFFEINE"
+        "brand_name": [
+          "Butalbital, Acetaminophen, and Caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen, and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous System: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement, or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia. To report SUSPECTED ADVERSE REACTIONS, contact AvKARE, Inc at 1-855-361-3993; email drugsafety@avkare.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules&limit=1&skip=29
+Page 29 of 30
+        "generic_name": [
+          "BUTALBITAL, ACETAMINOPHEN AND CAFFEINE"
+        "brand_name": [
+          "butalbital, acetaminophen and caffeine"
+ 
+      "drug_interactions": [
+        "Drug Interactions The CNS effects of butalbital may be enhanced by monoamine oxidase (MAO) inhibitors. Butalbital, acetaminophen and caffeine may enhance the effects of: other narcotic analgesics, alcohol, general anesthetics, tranquilizers such as chlordiazepoxide, sedative-hypnotics, or other CNS depressants, causing increased CNS depression."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Frequently Observed The most frequently reported adverse reactions are drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling. Infrequently Observed All adverse events tabulated below are classified as infrequent. Central Nervous Systems: headache, shaky feeling, tingling, agitation, fainting, fatigue, heavy eyelids, high energy, hot spells, numbness, sluggishness, seizure. Mental confusion, excitement or depression can also occur due to intolerance, particularly in elderly or debilitated patients, or due to overdosage of butalbital. Autonomic Nervous System: dry mouth, hyperhidrosis. Gastrointestinal: difficulty swallowing, heartburn, flatulence, constipation. Cardiovascular: tachycardia. Musculoskeletal: leg pain, muscle fatigue. Genitourinary: diuresis. Miscellaneous: pruritus, fever, earache, nasal congestion, tinnitus, euphoria, allergic reactions. Several cases of dermatological reactions, including toxic epidermal necrolysis and erythema multiforme, have been reported. The following adverse drug events may be borne in mind as potential effects of the components of this product. Potential effects of high dosage are listed in the OVERDOSAGE section. Acetaminophen: allergic reactions, rash, thrombocytopenia, agranulocytosis. Caffeine: cardiac stimulation, irritability, tremor, dependence, nephrotoxicity, hyperglycemia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

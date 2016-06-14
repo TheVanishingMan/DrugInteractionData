@@ -1,0 +1,382 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=0
+Page 0 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with permethrin cream, 5% in 10% of patients and was associated with the severity of infestation. Pruritus was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS - General ). Other adverse events reported since marketing permethrin cream, 5% include: headache, fever, dizziness, abdominal pain, diarrhea and nausea and/or vomiting. Although extremely uncommon and not expected when used as directed (see DOSAGE AND ADMINISTRATION ), rare occurrences of seizure have been reported. None have been medically confirmed as associated with Permethrin Cream, 5% treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=1
+Page 1 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "sunmark lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=2
+Page 2 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=3
+Page 3 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=4
+Page 4 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=5
+Page 5 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=6
+Page 6 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Nix"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=7
+Page 7 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with permethrin cream in 10% of patients and was associated with the severity of infestation. Pruritis was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS : General )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=8
+Page 8 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "smart sense lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=9
+Page 9 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "elimite"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with ELIMITE™ (permethrin) 5% Cream in 10% of patients and was associated with the severity of infestation. Pruritus was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS-General). Other adverse events reported since marketing ELIMITE™ (permethrin) 5% Cream include: headache, fever, dizziness, abdominal pain, diarrhea and nausea and/or vomiting. Although extremely uncommon and not expected when used as directed (see DOSAGE AND ADMINISTRATION), rare occurrences of seizure have been reported. None have been medically confirmed as associated with ELIMITE™ treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=10
+Page 10 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "topcare lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=11
+Page 11 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=12
+Page 12 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=13
+Page 13 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "health mart lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=14
+Page 14 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=15
+Page 15 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with permethrin cream in 10% of patients and was associated with the severity of infestation. Pruritis was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS : General )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=16
+Page 16 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "leader lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=17
+Page 17 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Nix"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=18
+Page 18 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with permethrin cream, 5% in 10% of patients and was associated with the severity of infestation. Pruritus was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS-General). Other adverse events reported since marketing permethrin cream, 5% include: headache, fever, dizziness, abdominal pain, diarrhea and nausea and/or vomiting. Although extremely uncommon and not expected when used as directed (see DOSAGE AND ADMINISTRATION), rare occurrences of seizure have been reported. None have been medically confirmed as associated with Permethrin Cream, 5% treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=19
+Page 19 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with permethrin cream, 5% in 10% of patients and was associated with the severity of infestation. Pruritus was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS - General ). Other adverse events reported since marketing permethrin cream, 5% include: headache, fever, dizziness, abdominal pain, diarrhea and nausea and/or vomiting. Although extremely uncommon and not expected when used as directed (see DOSAGE AND ADMINISTRATION ), rare occurrences of seizure have been reported. None have been medically confirmed as associated with Permethrin Cream, 5% treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=20
+Page 20 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=21
+Page 21 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Nix Complete Maximum Strength Lice Elimination"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=22
+Page 22 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=23
+Page 23 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=24
+Page 24 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "equaline lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=25
+Page 25 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with permethrin cream, 5% in 10% of patients and was associated with the severity of infestation. Pruritus was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS:General). Other adverse events reported since marketing permethrin cream, 5% include: headache, fever, dizziness, abdominal pain, diarrhea and nausea and/or vomiting. Although extremely uncommon and not expected when used as directed (see DOSAGE AND ADMINISTRATION), rare occurrences of seizure have been reported. None have been medically confirmed as associated with permethrin cream, 5% treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=26
+Page 26 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with permethrin cream in 10% of patients and was associated with the severity of infestation. Pruritis was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS : General )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=27
+Page 27 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=28
+Page 28 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with permethrin cream, 5% in 10% of patients and was associated with the severity of infestation. Pruritus was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS-General). Other adverse events reported since marketing permethrin cream, 5% include: headache, fever, dizziness, abdominal pain, diarrhea and nausea and/or vomiting. Although extremely uncommon and not expected when used as directed (see DOSAGE AND ADMINISTRATION), rare occurrences of seizure have been reported. None have been medically confirmed as associated with Permethrin Cream, 5% treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=29
+Page 29 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "good sense lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=30
+Page 30 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "elimite"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with ELIMITE™ (permethrin) 5% Cream in 10% of patients and was associated with the severity of infestation. Pruritus was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS - General ). Other adverse events reported since marketing ELIMITE™ (permethrin) 5% Cream include: headache, fever, dizziness, abdominal pain, diarrhea and nausea and/or vomiting. Although extremely uncommon and not expected when used as directed (see DOSAGE AND ADMINISTRATION ), rare occurrences of seizure have been reported. None have been medically confirmed as associated with ELIMITE™ treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=31
+Page 31 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=32
+Page 32 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "good neighbor pharmacy lice treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=33
+Page 33 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=34
+Page 34 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Permethrin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, generally mild and transient burning and stinging followed application with permethrin cream, 5% in 10% of patients and was associated with the severity of infestation. Pruritus was reported in 7% of patients at various times post-application. Erythema, numbness, tingling, and rash were reported in 1 to 2% or less of patients (see PRECAUTIONS-General). Other adverse events reported since marketing permethrin cream, 5% include: headache, fever, dizziness, abdominal pain, diarrhea and nausea and/or vomiting. Although extremely uncommon and not expected when used as directed (see DOSAGE AND ADMINISTRATION), rare occurrences of seizure have been reported. None have been medically confirmed as associated with Permethrin Cream, 5% treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Permethrin&limit=1&skip=35
+Page 35 of 36
+        "generic_name": [
+          "PERMETHRIN"
+        "brand_name": [
+          "Lice Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -3,3 +3,4 @@ WARNING! Diphenhydramine has 1354 pages, capping at 1000.
 WARNING! Fluoride has 1213 pages, capping at 1000.
 WARNING! Guaifenesin has 1341 pages, capping at 1000.
 WARNING! Ibuprofen has 1062 pages, capping at 1000.
+WARNING! Sodium+AND+Fluoride has 1171 pages, capping at 1000.

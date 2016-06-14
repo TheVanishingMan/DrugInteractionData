@@ -1,0 +1,104 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyrimethamine&limit=1&skip=0
+Page 0 of 9
+        "generic_name": [
+          "PYRIMETHAMINE LEUCOVORIN"
+        "brand_name": [
+          "Pyrimethamine Leucovorin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyrimethamine&limit=1&skip=1
+Page 1 of 9
+        "generic_name": [
+          "PYRIMETHAMINE"
+        "brand_name": [
+          "DARAPRIM"
+ 
+      "drug_interactions": [
+        "Drug Interactions Pyrimethamine may be used with sulfonamides, quinine and other antimalarials, and with other antibiotics. However, the concomitant use of other antifolic drugs or agents associated with myelosuppression including sulfonamides or trimethoprim-sulfamethoxazole combinations, proguanil, zidovudine, or cytostatic agents (e.g., methotrexate), while the patient is receiving pyrimethamine, may increase the risk of bone marrow suppression. If signs of folate deficiency develop, pyrimethamine should be discontinued. Folinic acid (leucovorin) should be administered until normal hematopoiesis is restored (see WARNINGS ). Mild hepatotoxicity has been reported in some patients when lorazepam and pyrimethamine were administered concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypersensitivity reactions, occasionally severe (such as Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, and anaphylaxis), and hyperphenylalaninemia, can occur particularly when pyrimethamine is administered concomitantly with a sulfonamide. Consult the complete prescribing information for the relevant sulfonamide for sulfonamide-associated adverse events. With doses of pyrimethamine used for the treatment of toxoplasmosis, anorexia and vomiting may occur. Vomiting may be minimized by giving the medication with meals; it usually disappears promptly upon reduction of dosage. Doses used in toxoplasmosis may produce megaloblastic anemia, leukopenia, thrombocytopenia, pancytopenia, atrophic glossitis, hematuria, and disorders of cardiac rhythm. Hematologic effects, however, may also occur at low doses in certain individuals (see PRECAUTIONS: General ). Pulmonary eosinophilia has been reported rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyrimethamine&limit=1&skip=2
+Page 2 of 9
+        "generic_name": [
+          "PYRIMETHAMINE"
+        "brand_name": [
+          "DARAPRIM"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Pyrimethamine may be used with sulfonamides, quinine and other antimalarials, and with other antibiotics. However, the concomitant use of other antifolic drugs or agents associated with myelosuppression including sulfonamides or trimethoprim-sulfamethoxazole combinations, proguanil, zidovudine, or cytostatic agents (e.g., methotrexate), while the patient is receiving pyrimethamine, may increase the risk of bone marrow suppression. If signs of folate deficiency develop, pyrimethamine should be discontinued. Folinic acid (leucovorin) should be administered until normal hematopoiesis is restored (see WARNINGS). Mild hepatotoxicity has been reported in some patients when lorazepam and pyrimethamine were administered concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypersensitivity reactions, occasionally severe (such as Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, and anaphylaxis), and hyperphenylalaninemia, can occur particularly when pyrimethamine is administered concomitantly with a sulfonamide. Consult the complete prescribing information for the relevant sulfonamide for sulfonamide-associated adverse events. With doses of pyrimethamine used for the treatment of toxoplasmosis, anorexia and vomiting may occur. Vomiting may be minimized by giving the medication with meals; it usually disappears promptly upon reduction of dosage. Doses used in toxoplasmosis may produce megaloblastic anemia, leukopenia, thrombocytopenia, pancytopenia, atrophic glossitis, hematuria, and disorders of cardiac rhythm. Hematologic effects, however, may also occur at low doses in certain individuals (see PRECAUTIONS; General). Pulmonary eosinophilia has been reported rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyrimethamine&limit=1&skip=3
+Page 3 of 9
+        "generic_name": [
+          "PYRIMETHAMINE"
+        "brand_name": [
+          "DARAPRIM"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypersensitivity reactions, occasionally severe (such as Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, and anaphylaxis), and hyperphenylalaninemia, can occur particularly when pyrimethamine is administered concomitantly with a sulfonamide. Consult the complete prescribing information for the relevant sulfonamide for sulfonamide-associated adverse events. With doses of pyrimethamine used for the treatment of toxoplasmosis, anorexia and vomiting may occur. Vomiting may be minimized by giving the medication with meals; it usually disappears promptly upon reduction of dosage. Doses used in toxoplasmosis may produce megaloblastic anemia, leukopenia, thrombocytopenia, pancytopenia, atrophic glossitis, hematuria, and disorders of cardiac rhythm. Hematologic effects, however, may also occur at low doses in certain individuals (see PRECAUTIONS: General ). Pulmonary eosinophilia has been reported rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyrimethamine&limit=1&skip=4
+Page 4 of 9
+        "generic_name": [
+          "PYRIMETHAMINE"
+        "brand_name": [
+          "Daraprim"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Pyrimethamine may be used with sulfonamides, quinine and other antimalarials, and with other antibiotics. However, the concomitant use of other antifolic drugs or agents associated with myelosuppression including sulfonamides or trimethoprim-sulfamethoxazole combinations, proguanil, zidovudine, or cytostatic agents (e.g., methotrexate), while the patient is receiving pyrimethamine, may increase the risk of bone marrow suppression. If signs of folate deficiency develop, pyrimethamine should be discontinued. Folinic acid (leucovorin) should be administered until normal hematopoiesis is restored (see WARNINGS). Mild hepatotoxicity has been reported in some patients when lorazepam and pyrimethamine were administered concomitantly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypersensitivity reactions, occasionally severe (such as Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, and anaphylaxis), and hyperphenylalaninemia, can occur particularly when pyrimethamine is administered concomitantly with a sulfonamide. Consult the complete prescribing information for the relevant sulfonamide for sulfonamide-associated adverse events. With doses of pyrimethamine used for the treatment of toxoplasmosis, anorexia and vomiting may occur. Vomiting may be minimized by giving the medication with meals; it usually disappears promptly upon reduction of dosage. Doses used in toxoplasmosis may produce megaloblastic anemia, leukopenia, thrombocytopenia, pancytopenia, atrophic glossitis, hematuria, and disorders of cardiac rhythm. Hematologic effects, however, may also occur at low doses in certain individuals (see PRECAUTIONS; General). Pulmonary eosinophilia has been reported rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyrimethamine&limit=1&skip=5
+Page 5 of 9
+        "generic_name": [
+          "PYRIMETHAMINE LEUCOVORIN"
+        "brand_name": [
+          "Pyrimethamine Leucovorin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyrimethamine&limit=1&skip=6
+Page 6 of 9
+        "generic_name": [
+          "PYRIMETHAMINE LEUCOVORIN"
+        "brand_name": [
+          "Pyrimethamine Leucovorin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyrimethamine&limit=1&skip=7
+Page 7 of 9
+        "generic_name": [
+          "PYRIMETHAMINE LEUCOVORIN"
+        "brand_name": [
+          "Pyrimethamine Leucovorin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyrimethamine&limit=1&skip=8
+Page 8 of 9
+        "generic_name": [
+          "PYRIMETHAMINE LEUCOVORIN"
+        "brand_name": [
+          "Pyrimethamine Leucovorin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

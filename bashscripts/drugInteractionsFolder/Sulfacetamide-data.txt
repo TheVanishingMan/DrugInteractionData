@@ -1,0 +1,1578 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=0
+Page 0 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Cerisa"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=1
+Page 1 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide, Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=2
+Page 2 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=3
+Page 3 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "OvacePlus Plus"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=4
+Page 4 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Ovace Plus"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=5
+Page 5 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Sodium Sulfacetamide 10% Wash is incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS .) Call your doctor for medical advice about side effects."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=6
+Page 6 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Prascion RA"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=7
+Page 7 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND PREDNISOLONE ACETATE"
+        "brand_name": [
+          "BLEPHAMIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions BLEPHAMIDE ® ophthalmic suspension is incompatible with silver preparations. Local anesthetics related to p-aminobenzoic acid may antagonize the action of the sulfonamides."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/antibacterial combination drugs which can be attributed to the corticosteroid component, the antibacterial component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the antibacterial ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS). Sulfacetamide sodium may cause local irritation. The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing. Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical corticosteroids. Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriasis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. Secondary Infection The development of secondary infection has occurred after use of combinations containing corticosteroids and antibacterials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=8
+Page 8 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "sodium sulfacetamide 10 and sulfur 5"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=9
+Page 9 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=10
+Page 10 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cleanser"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). To report a serious adverse event, call 1-855-899-4237."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=11
+Page 11 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). You should call your doctor for medical advice about side effects. To report a serious adverse event, call 1-855-899-4237."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=12
+Page 12 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide and Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. You should call your doctor for medical advice about side effects. To report a serious adverse event, call 1-866-762-2365."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS: FOR EXTERNAL USE ONLY. NOT FOR OPHTHALMIC USE. KEEP OUT OF REACH OF CHILDREN. Avoid contact with eyes, lips and mucous membranes. Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this product for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility. Information for Patients: Avoid contact with eyes, eyelids, lips and mucous membranes. If accidental contact occurs, rinse with water. If excessive irritation develops, discontinue use and consult your physician. Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals have not been performed to evaluate carcinogenic potential. Pregnancy: Pregnancy Category C. Animal reproduction studies have not been conducted with this product. It is also not known whether this product can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. This product should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether sodium sulfacetamide is excreted in human milk following topical use of this product. However, small amounts of orally administered sulfonamides have been reported to be excreted in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when this product is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children under the age of 12 has not been established."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=13
+Page 13 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=14
+Page 14 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide 10 Sulfur 5 Cleanser"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=15
+Page 15 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "Avar"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=16
+Page 16 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "Avar LS"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=17
+Page 17 of 125
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=18
+Page 18 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide 9.8% and Sulfur 4.8% Cream"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). To report a serious adverse event, call 1-855-899-4237."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=19
+Page 19 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sodium Sulfacetamide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials for the management of acne vulgaris, the occurrence of adverse reactions associated with the use of sodium sulfacetamide lotion was infrequent and restricted to local events. The total incidence of adverse reactions reported in these studies was less than 2%. Only one of 105 patients treated with sodium sulfacetamide lotion had adverse reactions of erythema, itching and edema. It has been reported that sodium sulfacetamide may cause local irritation, stinging and burning. While the irritation may be transient, occasionally, the use of medication has to be discontinued."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=20
+Page 20 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide, Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=21
+Page 21 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Plexion"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). To report a serious adverse event, call 1-855-899-4237."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=22
+Page 22 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "SULFACETAMIDE SODIUM"
+ 
+      "drug_interactions": [
+        "Drug Interactions Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (See WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=23
+Page 23 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide 10 Sulfur 2 Cleanser"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. Call your doctor for medical advice about side effects."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=24
+Page 24 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND PREDNISOLONE ACETATE"
+        "brand_name": [
+          "BLEPHAMIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: BLEPHAMIDE® ophthalmic ointment is incompatible with silver preparations. Local anesthetics related to p-aminobenzoic acid may antagonize the action of the sulfonamides."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/antibacterial combination drugs which can be attributed to the corticosteroid component, the antibacterial component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the antibacterial ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS ). Sulfacetamide sodium may cause local irritation. The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing. Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical corticosteroids. Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriaisis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. Secondary Infection: The development of secondary infection has occurred after use of combinations containing corticosteroids and antibacterials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistant corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=25
+Page 25 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "SULFACETAMIDE SODIUM"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have been developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS). To report SUSPECTED ADVERSE REACTIONS, contact Fera Pharmaceuticals, LLC at (414) 434-6604, Monday - Friday 9am-5pm EST, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=26
+Page 26 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR, AVOBENZONE OCTINOXATE, OCTISALATE"
+        "brand_name": [
+          "Sodium Sulfacetamide and Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. You should call your doctor for medical advice about side effects. To report a serious adverse event, call 1-866-762-2365."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS: FOR EXTERNAL USE ONLY. NOT FOR OPHTHALMIC USE. KEEP OUT OF REACH OF CHILDREN. Avoid contact with eyes, lips and mucous membranes. Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this product for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility. Information for Patients: Avoid contact with eyes, eyelids, lips and mucous membranes. If accidental contact occurs, rinse with water. If excessive irritation develops, discontinue use and consult your physician. Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals have not been performed to evaluate carcinogenic potential. Pregnancy: Pregnancy Category C. Animal reproduction studies have not been conducted with this product. It is also not known whether this product can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. This product should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether sodium sulfacetamide is excreted in human milk following topical use of this product. However, small amounts of orally administered sulfonamides have been reported to be excreted in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when this product is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children under the age of 12 has not been established."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=27
+Page 27 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "BLEPH-10"
+ 
+      "drug_interactions": [
+        "Drug Interactions Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=28
+Page 28 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In controlled clinical trials for the management of acne vulgaris, the occurrence of adverse reactions associated with the use of Sulfacetamide Sodium Topical Suspension USP, 10% was infrequent and restricted to local events. The total incidence of adverse reactions reported in these studies was less than 2%. Only one of 105 patients treated with Sulfacetamide Sodium Topical Suspension USP, 10% had local adverse reactions of erythema, itching and edema. It has been reported that sulfacetamide sodium may cause local irritation, stinging and burning. While the irritation may be transient, occasionally, the use of the medication has to be discontinued."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=29
+Page 29 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=30
+Page 30 of 125
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=31
+Page 31 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "Perrigo Sodium Sulfacetamide and Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=32
+Page 32 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide and Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=33
+Page 33 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=34
+Page 34 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Clenia"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, adverse reactions such as dryness, erythema, itching and edema have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=35
+Page 35 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. You should call your doctor for medical advice about side effects. To report a serious adverse event, call 1-855-899-4237."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS: FOR EXTERNAL USE ONLY. NOT FOR OPHTHALMIC USE. Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this product for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility. Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals have not been performed to evaluate carcinogenic potential. Pregnancy: Pregnancy Category C. Animal reproduction studies have not been conducted with this product. It is also not known whether this product can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. This product should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether sodium sulfacetamide is excreted in human milk following topical use of this product. However, small amounts of orally administered sulfonamides have been reported to be excreted in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when this product is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children under the age of 12 have not been established."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=36
+Page 36 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "AVAR LS"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. Call your doctor for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=37
+Page 37 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "OVACE PLUS"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=38
+Page 38 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Prascion RA Cream with Sunscreens"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irriation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=39
+Page 39 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials for the management of acne vulgaris, the occurrence of adverse reactions associated with the use of sulfacetamide sodium lotion was infrequent and restricted to local events. The total incidence of adverse reactions reported in these studies was less than 2%. Only one of 105 patients treated with sulfacetamide sodium lotion had adverse reactions of erythema, itching and edema. It has been reported that sulfacetamide sodium may cause local irritation, stinging and burning. While the irritation may be transient, occasionally, the use of medication has to be discontinued."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=40
+Page 40 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Rosula Wash"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+      "warnings_and_cautions": [
+        "PRECAUTIONS: General - If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility. Information for patients - Avoid contact with eyes, eyelids, lips and mucous membranes. If accidental contact occurs, rinse with water. If excessive irritation develops, discontinue use and consult your physician. Carcinogenesis, Mutagenesis and Impairment of Fertility - Long-term studies in animals have not been performed to evaluate carcinogenic potential."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=41
+Page 41 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "Perrigo Seb Prev"
+ 
+      "drug_interactions": [
+        "Drug Interactions Seb-Prev™ Cream is incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reports of irritation and hypersensitivity to sulfacetamide sodium are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sulfacetamide sodium, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome has been reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=42
+Page 42 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (See WARNINGS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=43
+Page 43 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have been developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS ). To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=44
+Page 44 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=45
+Page 45 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Klaron"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials for the management of acne vulgaris, the occurrence of adverse reactions associated with the use of Klaron Lotion was infrequent and restricted to local events. The total incidence of adverse reactions reported in these studies was less than 2%. Only one of 105 patients treated with Klaron Lotion had adverse reactions of erythema, itching and edema. It has been reported that sodium sulfacetamide may cause local irritation, stinging and burning. While the irritation may be transient, occasionally, the use of medication has to be discontinued."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=46
+Page 46 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "SulfaCleanse 8/4"
+ 
+      "adverse_reactions": [
+        "Although rare, sodium sulfacetamide may cause local irritation."
+      "warnings_and_cautions": [
+        "Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this drug for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. FOR EXTERNAL USE ONLY. Keep away from eyes. Keep out of reach of children. Keep container tightly closed. General – If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=47
+Page 47 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Sumaxin Cleansing Pads"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=48
+Page 48 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "sulfacetamide"
+ 
+      "drug_interactions": [
+        "Drug Interactions Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=49
+Page 49 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "Sodium Sulfacetamide"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Sodium Sulfacetamide Medicated Pads are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity, which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome has been reported (see WARNINGS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=50
+Page 50 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Avar Cleansing Pads"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=51
+Page 51 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Klaron"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials for the management of acne vulgaris, the occurrence of adverse reactions associated with the use of Klaron Lotion was infrequent and restricted to local events. The total incidence of adverse reactions reported in these studies was less than 2%. Only one of 105 patients treated with Klaron Lotion had adverse reactions of erythema, itching and edema. It has been reported that sodium sulfacetamide may cause local irritation, stinging and burning. While the irritation may be transient, occasionally, the use of medication has to be discontinued."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=52
+Page 52 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND PREDNISOLONE ACETATE"
+        "brand_name": [
+          "BLEPHAMIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: BLEPHAMIDE® ophthalmic suspension is incompatible with silver preparations. Local anesthetics related to p-aminobenzoic acid may antagonize the action of the sulfonamides."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/antibacterial combination drugs which can be attributed to the corticosteroid component, the antibacterial component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the antibacterial ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (See WARNINGS ). Sulfacetamide sodium may cause local irritation. The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing. Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical corticosteroids. Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriasis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. Secondary infection: The development of secondary infection has occurred after use of combinations containing corticosteroids and antibacterials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=53
+Page 53 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "OVACE Plus"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). You should call your doctor for medical advice about side effects. To report a serious adverse event, call 1-800-298-1087."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=54
+Page 54 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "BP Cleansing Wash"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+      "warnings_and_cautions": [
+        "WARNINGS: Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this drug for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. FOR EXTERNAL USE ONLY. Keep bottle tightly closed. Keep away from eyes. Keep out of reach of children."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=55
+Page 55 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Sulfacetamide Sodium and Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, Sulfacetamide Sodium may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=56
+Page 56 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=57
+Page 57 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. You should call your doctor for medical advice about side effects. To report a serious adverse event, call 1-855-899-4237."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS: FOR EXTERNAL USE ONLY. NOT FOR OPHTHALMIC USE. Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this product for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility. Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals have not been performed to evaluate carcinogenic potential. Pregnancy: Pregnancy Category C. Animal reproduction studies have not been conducted with this product. It is also not known whether this product can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. This product should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether sodium sulfacetamide is excreted in human milk following topical use of this product. However, small amounts of orally administered sulfonamides have been reported to be excreted in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when this product is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children under the age of 12 have not been established."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=58
+Page 58 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Claris"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=59
+Page 59 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND PREDNISOLONE SODIUM PHOSPHATE"
+        "brand_name": [
+          "Sulfacetamide Sodium and Prednisolone Sodium Phosphate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/anti-infective combination drugs which can be attributed to the corticosteroid component, the anti-infective component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the anti-infective ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS). Sulfacetamide sodium may cause local irritation. The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation: and delayed wound healing. Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical corticosteroids. Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriasis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. The development of secondary infection has occurred after use of combinations containing corticosteroids and antimicrobials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=60
+Page 60 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide and Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Rarely, sodium sulfacetamide may cause local irritation."
+      "warnings_and_cautions": [
+        "PRECAUTIONS: General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility. Information for Patients: Avoid contact with eyes, eyelids, lips and mucous membranes. If accidental contact occurs, rinse with water. If excessive irritation develops, discontinue use and consult your physician. Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals have not been performed to evaluate carcinogenic potential. Pregnancy: Category C. Animal reproduction studies have not been conducted with 10% Sodium Sulfacetamide 5% Sulfur Cleanser (in a Urea vehicle). It also is not known whether 10% Sodium Sulfacetamide 5% Sulfur Cleanser (in a Urea vehicle) can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. 10% Sodium Sulfacetamide 5% Sulfur Cleanser (in a Urea vehicle) should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether sodium sulfacetamide is excreted in human milk following topical use of 10% Sodium Sulfacetamide 5% Sulfur Cleanser (in a Urea vehicle). However, small amounts of orally administered sulfonamides have been reported to be excreted in human milk. For this reason, and because many drugs are excreted in human milk, caution should be exercised when 10% Sodium Sulfacetamide 5% Sulfur Cleanser (in a Urea vehicle) is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children under the age of 12 have not been established."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=61
+Page 61 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Sodium Sulfacetamide 10% Wash is incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported. (See warnings .)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=62
+Page 62 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "Seb Prev Wash"
+ 
+      "drug_interactions": [
+        "Drug Interactions - SEB-Prev™ Wash is incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reports of irritation and hypersensitivity to sulfacetamide sodium are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sulfacetamide sodium, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome has been reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=63
+Page 63 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials for the management of acne vulgaris, the occurrence of adverse reactions associated with the use of Sulfacetamide Sodium Topical Suspension USP, 10% (Lotion) was infrequent and restricted to local events. The total incidence of adverse reactions reported in these studies was less than 2%. Only one of 105 patients treated with Sulfacetamide Sodium Topical Suspension USP, 10% (Lotion) had adverse reactions of erythema, itching and edema. It has been reported that sodium sulfacetamide may cause local irritation, stinging and burning. While the irritation may be transient, occasionally, the use of mediation has to be discontinued."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=64
+Page 64 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Plexion"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). To report a serious adverse event, call 1-855-899-4237."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=65
+Page 65 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Plexion"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). To report a serious adverse event, call 1-855-899-4237."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=66
+Page 66 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "AVAR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. Call your doctor for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=67
+Page 67 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE and SULFUR Wash"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+      "warnings_and_cautions": [
+        "WARNINGS: Sensitivity to sodium sulfacetamide may occur, although it is rare. Therefore, caution and careful supervision should be observed when prescribing this drug for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. FOR EXTERNAL USE ONLY. Keep away from eyes. Keep out of reach of children. Keep tube tightly closed."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=68
+Page 68 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Virti-SULF"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, adverse reactions such as dryness, erythema, itching and edema have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=69
+Page 69 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "SULFACETAMIDE SODIUM"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (See WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=70
+Page 70 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (See WARNINGS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=71
+Page 71 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=72
+Page 72 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide, Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=73
+Page 73 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Avar-e Green"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=74
+Page 74 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "Perrigo Seb Prev"
+ 
+      "drug_interactions": [
+        "Drug Interactions Seb-Prev™ Gel is incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reports of irritation and hypersensitivity to sulfacetamide sodium are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sulfacetamide sodium, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome has been reported (see WARNINGS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=75
+Page 75 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Sulfacetamide Sodium, Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sulfacetamide sodium may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=76
+Page 76 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=77
+Page 77 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Avar LS Cleansing Pads"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=78
+Page 78 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide 10 Sulfur 2 cream"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=79
+Page 79 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide 9 Sulfur 4.5 Wash"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=80
+Page 80 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide 9 Sulfur 4.5 Wash"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=81
+Page 81 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "OVACE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=82
+Page 82 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE 10% AND SULFUR 5%"
+        "brand_name": [
+          "Rosula"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irritation."
+      "warnings_and_cautions": [
+        "PRECAUTIONS SECTION General - If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desqamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulfaris, but patients should be cautioned about the possibility. Information for patients - Avoid contact with eyes, eyelids, lips and mucous membranes. If accidental contact occurs, rinse with water. If excessive irritation develops, discontinue use and consult your physician. Carcinogenesis Mutagenesis and Impairment of Fertility - Long-term studies in animals have not been performed to evaluate carcinogenesis potential. Pregnancy - Category C - Animal reproduction studies have not been conducted with Rosula™ Cleansing Cloths. It is not known whether Rosula™ Cleansing Cloths can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Rosula™ Cleansing Cloths should be given to a pregnant woman only if clearly needed. Nursing Mothers - It is not known whether sodium sulfacetamide is excreted in the human milk following topical use of Rosula™ Cleansing Cloths. However, small amounts of orally administered sulfonamides have been reported to be eliminated in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when Rosula™ Cleansing Cloths are administered to a nursing woman. Pediatric Use - Safety and effectiveness in children under the age of 12 have not been established."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=83
+Page 83 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE and SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irritation."
+      "warnings_and_cautions": [
+        "WARNINGS Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this drug for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. FOR EXTERNAL USE ONLY. Keep away from eyes. Keep out of reach of children. Keep container tightly closed."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=84
+Page 84 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Avar-e LS"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. Call your doctor for medical advice about side effects. To report a serious adverse event, call 1-800-298-1087."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=85
+Page 85 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. You should call your doctor for medical advice about side effects. To report a serious adverse event, call 1-855-899-4237."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS: FOR EXTERNAL USE ONLY. NOT FOR OPHTHALMIC USE. Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this product for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility. Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals have not been performed to evaluate carcinogenic potential. Pregnancy: Pregnancy Category C. Animal reproduction studies have not been conducted with this product. It is also not known whether this product can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. This product should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether sodium sulfacetamide is excreted in human milk following topical use of this product. However, small amounts of orally administered sulfonamides have been reported to be excreted in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when this product is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children under the age of 12 have not been established."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=86
+Page 86 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "Sodium Sulfacetamide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=87
+Page 87 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND PREDNISOLONE SODIUM PHOSPHATE"
+        "brand_name": [
+          "Sulfacetamide Sodium and Prednisolone Sodium Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Sulfacetamide sodium and prednisolone sodium phosphate ophthalmic solution is incompatible with silver preparations. Local anesthetics related to p-aminobenzoic acid may antagonize the action of the sulfonamides."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/antibacterial combination drugs which can be attributed to the corticosteroid component, the antibacterial component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the antibacterial ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (See WARNINGS ). Sulfacetamide sodium may cause local irritation. The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing. Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical steroids. Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriasis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. Secondary Infection: The development of secondary infection has occurred after use of combinations containing corticosteroids and antibacterials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=88
+Page 88 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "Sodium Sulfacetamide"
+ 
+      "drug_interactions": [
+        "Drug Interactions: 10% Sodium Sulfacetamide Medicated Pads are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity, which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome has been reported (see WARNINGS .) Call your doctor for medical advice about side effects."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=89
+Page 89 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials for the management of acne vulgaris, the occurrence of adverse reactions associated with the use of Sulfacetamide Sodium Topical Suspension USP, 10% was infrequent and restricted to local events. The total incidence of adverse reactions reported in these studies was less than 2%. Only one of 105 patients treated with Sulfacetamide Sodium Topical Suspension USP, 10% had local adverse reactions of erythema, itching and edema. It has been reported that sulfacetamide sodium may cause local irritation, stinging and burning. While the irritation may be transient, occasionally, the use of the medication has to be discontinued."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=90
+Page 90 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide, Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Rarely, sodium sulfacetamide may cause local irritation. Call your physician for medical advice about side effects."
+      "warnings_and_cautions": [
+        "PRECAUTIONS: General - If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=91
+Page 91 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Sumadan Wash"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=92
+Page 92 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Prascion FC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=93
+Page 93 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Prascion Cleanser"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=94
+Page 94 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide and Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=95
+Page 95 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND PREDNISOLONE ACETATE"
+        "brand_name": [
+          "BLEPHAMIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions BLEPHAMIDE ® ophthalmic ointment is incompatible with silver preparations. Local anesthetics related to p-aminobenzoic acid may antagonize the action of the sulfonamides."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/antibacterial combination drugs which can be attributed to the corticosteroid component, the antibacterial component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the antibacterial ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS). Sulfacetamide sodium may cause local irritation. The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing. Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical corticosteroids. Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriaisis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. Secondary Infection The development of secondary infection has occurred after use of combinations containing corticosteroids and antibacterials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistant corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=96
+Page 96 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide, Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=97
+Page 97 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "Sodium Sulfacetamide"
+ 
+      "drug_interactions": [
+        "Drug Interactions: SODIUM SULFACETAMIDE 10% CLEANSING GEL is incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). Call your doctor for medical advice about side effects."
+      "warnings_and_cautions": [
+        "PRECAUTIONS: FOR EXTERNAL USE ONLY. NOT FOR OPHTHALMIC USE. General: Nonsusceptible organisms, including fungi, may proliferate with the use of this preparation. Hypersensitivity reactions may recur when a sulfonamide is readministered, irrespective of the route of administration, and cross hypersensitivity between different sulfonamides may occur. If SODIUM SULFACETAMIDE 10% CLEANSING GEL produces signs of hypersensitivity or other untoward reactions, discontinue use of the preparation. Systemic absorption of topical sulfonamides is greater following application to large, infected, abraded, denuded or severely burned areas. Under these circumstances, any of the adverse effects produced by the systemic administration of these agents could potentially occur, and appropriate observations and laboratory determinations should be performed."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=98
+Page 98 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. Call your doctor for medical advice about side effects."
+      "warnings_and_cautions": [
+        "PRECAUTIONS: General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=99
+Page 99 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Avar-e"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. Call your doctor for medical advice about side effects. To report a serious adverse event, call 1-800-298-1087."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=100
+Page 100 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=101
+Page 101 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=102
+Page 102 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide and Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=103
+Page 103 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=104
+Page 104 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide 9.8% and Sulfur 4.8%"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). To report a serious adverse event, call 1-855-899-4237."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=105
+Page 105 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE - SULFUR WASH"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=106
+Page 106 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE 9%-SULFUR 4%"
+        "brand_name": [
+          "Sumaxin Wash"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+      "warnings_and_cautions": [
+        "FOR EXTERNAL USE ONLY: Keep away from eyes. Keep out of reach of children. Keep container tightly closed."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=107
+Page 107 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND PREDNISOLONE SODIUM PHOSPHATE"
+        "brand_name": [
+          "Sulfacetamide Sodium and Prednisolone Sodium Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Sulfacetamide sodium and prednisolone sodium phosphate ophthalmic solution is incompatible with silver preparations. Local anesthetics related to p-aminobenzoic acid may antagonize the action of the sulfonamides."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/antibacterial combination drugs which can be attributed to the corticosteroid component, the antibacterial component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the antibacterial ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (See WARNINGS ). Sulfacetamide sodium may cause local irritation. The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing. Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical steroids. Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriasis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. Secondary Infection: The development of secondary infection has occurred after use of combinations containing corticosteroids and antibacterials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=108
+Page 108 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND PREDNISOLONE ACETATE"
+        "brand_name": [
+          "BLEPHAMIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: BLEPHAMIDE® ophthalmic ointment is incompatible with silver preparations. Local anesthetics related to p-aminobenzoic acid may antagonize the action of the sulfonamides."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/antibacterial combination drugs which can be attributed to the corticosteroid component, the antibacterial component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the antibacterial ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS ). Sulfacetamide sodium may cause local irritation. The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing. Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical corticosteroids. Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriaisis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. Secondary Infection: The development of secondary infection has occurred after use of combinations containing corticosteroids and antibacterials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistant corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=109
+Page 109 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Sodium Sulfacetamide 10 Sulfur 5"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=110
+Page 110 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=111
+Page 111 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "OVACE Plus"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). Call your doctor for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=112
+Page 112 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sodium Sulfacetamide, Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=113
+Page 113 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE AND SULFUR"
+        "brand_name": [
+          "Perrigo Sodium Sulfacetamide and Sulfur"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=114
+Page 114 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=115
+Page 115 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "Sulfacetamide Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Sulfacetamide preparations are incompatible with silver preparations."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (See WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=116
+Page 116 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR"
+        "brand_name": [
+          "Plexion"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS). To report a serious adverse event, call 1-855-899-4237."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=117
+Page 117 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM, SULFUR, AVOBENZONE, OCTINOXATE, AND OCTISALATE"
+        "brand_name": [
+          "SUMADAN XLT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=118
+Page 118 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND PREDNISOLONE ACETATE"
+        "brand_name": [
+          "BLEPHAMIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: BLEPHAMIDE® ophthalmic suspension is incompatible with silver preparations. Local anesthetics related to p-aminobenzoic acid may antagonize the action of the sulfonamides."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with corticosteroid/antibacterial combination drugs which can be attributed to the corticosteroid component, the antibacterial component, or the combination. Exact incidence figures are not available since no denominator of treated patients is available. Reactions occurring most often from the presence of the antibacterial ingredient are allergic sensitizations. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (See WARNINGS ). Sulfacetamide sodium may cause local irritation. The reactions due to the corticosteroid component in decreasing order of frequency are: elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing. Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical corticosteroids. Corticosteroid-containing preparations can also cause acute anterior uveitis or perforation of the globe. Mydriasis, loss of accommodation and ptosis have occasionally been reported following local use of corticosteroids. Secondary infection: The development of secondary infection has occurred after use of combinations containing corticosteroids and antibacterials. Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of corticosteroid. The possibility of fungal invasion must be considered in any persistent corneal ulceration where corticosteroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=119
+Page 119 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFER"
+        "brand_name": [
+          "Rosanil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+      "warnings_and_cautions": [
+        "PRECAUTIONS: General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility. Information for Patients: Avoid contact with eyes, eyelids, lips and mucous membranes. If accidental contact occurs, rinse with water. If excessive irritation develops, discontinue use and consult your physician. Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals have not been performed to evaluate carcinogenic potential. Pregnancy: Category C. Animal reproduction studies have not been conducted with ROSANIL® (sodium sulfacetamide 10% and sulfur 5%) Cleanser. It is also not known whether ROSANIL® Cleanser can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. ROSANIL® Cleanser should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether sodium sulfacetamide is excreted in the human milk following topical use of ROSANIL® Cleanser. However, small amounts of orally administered sulfonamides have been reported to be eliminated in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when ROSANIL® Cleanser is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children under the age of 12 have not been established."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=120
+Page 120 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM AND SULFUR"
+        "brand_name": [
+          "Zencia Wash"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=121
+Page 121 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "SULFACETAMIDE SODIUM"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Reports of irritation and hypersensitivity to sodium sulfacetamide are uncommon. The following adverse reactions, reported after administration of sterile ophthalmic sodium sulfacetamide, are noteworthy: instances of Stevens-Johnson syndrome and instances of local hypersensitivity which progressed to a syndrome resembling systemic lupus erythematosus; in one case a fatal outcome was reported (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=122
+Page 122 of 125
+        "generic_name": [
+          "SULFACETAMIDE SODIUM"
+        "brand_name": [
+          "SULFACETAMIDE SODIUM"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION Bacterial and fungal corneal ulcers have developed during treatment with sulfonamide ophthalmic preparations. The most frequently reported reactions are local irritation, stinging and burning. Less commonly reported reactions include non-specific conjunctivitis, conjunctival hyperemia, secondary infections and allergic reactions. Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=123
+Page 123 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE - SULFUR CLEANSING PADS"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulfacetamide&limit=1&skip=124
+Page 124 of 125
+        "generic_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+        "brand_name": [
+          "SODIUM SULFACETAMIDE, SULFUR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. You should call your doctor for medical advice about side effects. To report a serious adverse event, call 1-855-899-4237."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS: FOR EXTERNAL USE ONLY. NOT FOR OPHTHALMIC USE. Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this product for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility. Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals have not been performed to evaluate carcinogenic potential. Pregnancy: Pregnancy Category C. Animal reproduction studies have not been conducted with this product. It is also not known whether this product can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. This product should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether sodium sulfacetamide is excreted in human milk following topical use of this product. However, small amounts of orally administered sulfonamides have been reported to be excreted in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when this product is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children under the age of 12 have not been established."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

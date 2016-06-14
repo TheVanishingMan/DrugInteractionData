@@ -4105,3 +4105,759 @@ FINISHED PULLING 1 articles for Zyprexa+AND+Relprevv at Mon Jun 13 20:58:40 EDT 
 FINISHED PULLING 9 articles for Zyrtec at Mon Jun 13 20:58:41 EDT 2016
 FINISHED PULLING 1 articles for Zytiga at Mon Jun 13 20:58:43 EDT 2016
 FINISHED PULLING 7 articles for Zyvox at Mon Jun 13 20:58:44 EDT 2016
+FINISHED PULLING  articles for Absorbable+AND+Gelatin+AND+Powder at Tue Jun 14 10:58:47 EDT 2016
+FINISHED PULLING  articles for Absorbable+AND+Gelatin+AND+Sterile+AND+Ophthalmic+AND+Film at Tue Jun 14 10:58:48 EDT 2016
+FINISHED PULLING 2 articles for Activated+AND+Charcoal+AND+Suspension at Tue Jun 14 10:58:50 EDT 2016
+FINISHED PULLING 76 articles for Albuterol+AND+Sulfate+AND+Inhalation+AND+Aerosol at Tue Jun 14 10:59:09 EDT 2016
+FINISHED PULLING 45 articles for Albuterol+AND+Sulfate+AND+Inhalation+AND+Solution at Tue Jun 14 10:59:22 EDT 2016
+FINISHED PULLING 2 articles for Alglucosidase+AND+Alfa at Tue Jun 14 10:59:24 EDT 2016
+FINISHED PULLING 133 articles for Alprazolam at Tue Jun 14 11:00:01 EDT 2016
+FINISHED PULLING 1 articles for Amino+AND+Acid+AND+Injection+AND+in+AND+Dextrose+AND+Injection at Tue Jun 14 11:00:03 EDT 2016
+FINISHED PULLING 13 articles for Amiodarone+AND+HCl+AND+Injection at Tue Jun 14 11:00:07 EDT 2016
+FINISHED PULLING 23 articles for Amiodarone+AND+HCl+AND+Tablets at Tue Jun 14 11:00:15 EDT 2016
+FINISHED PULLING 277 articles for Amoxicillin+AND+Clavulanate+AND+Potassium at Tue Jun 14 11:01:27 EDT 2016
+FINISHED PULLING 4 articles for Amphotericin+AND+B at Tue Jun 14 11:01:29 EDT 2016
+FINISHED PULLING 2 articles for Antihemophilic+AND+Factor at Tue Jun 14 11:01:31 EDT 2016
+FINISHED PULLING 72 articles for Baclofen at Tue Jun 14 11:01:49 EDT 2016
+FINISHED PULLING 3 articles for Baclofen+AND+Injection at Tue Jun 14 11:01:51 EDT 2016
+FINISHED PULLING 2 articles for Bendamustine+AND+Hydrochloride+AND+Injection at Tue Jun 14 11:01:53 EDT 2016
+FINISHED PULLING 6 articles for Betaxolol+AND+Hydrochloride at Tue Jun 14 11:01:56 EDT 2016
+FINISHED PULLING 9 articles for Bromfenac+AND+Ophthalmic+AND+Solution at Tue Jun 14 11:01:59 EDT 2016
+FINISHED PULLING 34 articles for Budesonide at Tue Jun 14 11:02:10 EDT 2016
+FINISHED PULLING 44 articles for Buprenorphine at Tue Jun 14 11:02:24 EDT 2016
+FINISHED PULLING 176 articles for Bupropion+AND+Hcl at Tue Jun 14 11:03:23 EDT 2016
+FINISHED PULLING 30 articles for Butalbital+AND+Acetaminophen+AND+Caffeine+AND+Capsules at Tue Jun 14 11:03:32 EDT 2016
+FINISHED PULLING  articles for Cabometyx at Tue Jun 14 11:03:33 EDT 2016
+FINISHED PULLING  articles for Cabozantinib+AND+Tablets at Tue Jun 14 11:03:34 EDT 2016
+FINISHED PULLING 72 articles for Carisoprodol+AND+and+AND+Aspirin at Tue Jun 14 11:03:53 EDT 2016
+FINISHED PULLING 36 articles for Cefadroxil at Tue Jun 14 11:04:04 EDT 2016
+FINISHED PULLING 7 articles for Cefotaxime at Tue Jun 14 11:04:07 EDT 2016
+FINISHED PULLING 15 articles for Ceftazidime at Tue Jun 14 11:04:12 EDT 2016
+FINISHED PULLING 63 articles for Ceftriaxone at Tue Jun 14 11:04:31 EDT 2016
+FINISHED PULLING 52 articles for Cefuroxime at Tue Jun 14 11:04:46 EDT 2016
+FINISHED PULLING 7 articles for Cisplatin+AND+Injection at Tue Jun 14 11:04:49 EDT 2016
+FINISHED PULLING 146 articles for Clindamycin at Tue Jun 14 11:05:27 EDT 2016
+FINISHED PULLING 143 articles for Clindamycin+AND+Phosphate at Tue Jun 14 11:06:04 EDT 2016
+FINISHED PULLING 13 articles for Clobetasol+AND+Propionate+AND+Gel at Tue Jun 14 11:06:08 EDT 2016
+FINISHED PULLING 140 articles for Clonidine at Tue Jun 14 11:06:45 EDT 2016
+FINISHED PULLING 13 articles for Clozapine at Tue Jun 14 11:06:50 EDT 2016
+FINISHED PULLING 198 articles for Cyanocobalamin at Tue Jun 14 11:07:40 EDT 2016
+FINISHED PULLING 20 articles for Cyclosporine at Tue Jun 14 11:07:48 EDT 2016
+FINISHED PULLING 3 articles for Danazol at Tue Jun 14 11:07:49 EDT 2016
+FINISHED PULLING 8 articles for Dapsone at Tue Jun 14 11:07:53 EDT 2016
+FINISHED PULLING 2 articles for Desloratadine+AND+and+AND+Pseudoephedrine+AND+Sulfate at Tue Jun 14 11:07:55 EDT 2016
+FINISHED PULLING 27 articles for Desmopressin+AND+Acetate+AND+Nasal+AND+Spray at Tue Jun 14 11:08:02 EDT 2016
+FINISHED PULLING 28 articles for Desogestrel+AND+and+AND+Ethinyl+AND+Estradiol+AND+Tablets at Tue Jun 14 11:08:13 EDT 2016
+FINISHED PULLING 21 articles for Dexmethylphenidate+AND+Hydrochloride at Tue Jun 14 11:08:19 EDT 2016
+FINISHED PULLING 202 articles for Diclofenac+AND+Sodium at Tue Jun 14 11:09:11 EDT 2016
+FINISHED PULLING 67 articles for Digoxin+AND+Tablets at Tue Jun 14 11:09:31 EDT 2016
+FINISHED PULLING  articles for Diphtheria+AND+and+AND+Tetanus+AND+Toxoids+AND+and+AND+Acellular+AND+Pertussis+AND+Vaccine+AND+Adsorbed at Tue Jun 14 11:09:32 EDT 2016
+FINISHED PULLING 33 articles for Dopamine+AND+Hydrochloride at Tue Jun 14 11:09:41 EDT 2016
+FINISHED PULLING 43 articles for Doxepin at Tue Jun 14 11:09:53 EDT 2016
+FINISHED PULLING 16 articles for Doxorubicin+AND+Hydrochloride+AND+Injection at Tue Jun 14 11:09:59 EDT 2016
+FINISHED PULLING 207 articles for Doxycycline at Tue Jun 14 11:10:53 EDT 2016
+FINISHED PULLING 148 articles for Doxycycline+AND+Hyclate at Tue Jun 14 11:11:31 EDT 2016
+FINISHED PULLING 27 articles for Drospirenone+AND+and+AND+Ethinyl+AND+Estradiol at Tue Jun 14 11:11:40 EDT 2016
+FINISHED PULLING 16 articles for Dutasteride at Tue Jun 14 11:11:46 EDT 2016
+FINISHED PULLING 3 articles for Epoetin+AND+Alfa at Tue Jun 14 11:11:48 EDT 2016
+FINISHED PULLING 107 articles for Erythromycin at Tue Jun 14 11:12:15 EDT 2016
+FINISHED PULLING 35 articles for Erythromycin+AND+Ethylsuccinate at Tue Jun 14 11:12:25 EDT 2016
+FINISHED PULLING 3 articles for Esgic at Tue Jun 14 11:12:26 EDT 2016
+FINISHED PULLING 11 articles for Estradiol+AND+Gel at Tue Jun 14 11:12:31 EDT 2016
+FINISHED PULLING 84 articles for Estradiol+AND+Transdermal at Tue Jun 14 11:12:56 EDT 2016
+FINISHED PULLING 84 articles for Estradiol+AND+Transdermal+AND+System at Tue Jun 14 11:13:21 EDT 2016
+FINISHED PULLING 5 articles for Etonogestrel+AND+Implant at Tue Jun 14 11:13:24 EDT 2016
+FINISHED PULLING 2 articles for Factor+AND+IX+AND+Complex at Tue Jun 14 11:13:26 EDT 2016
+FINISHED PULLING 2 articles for Factor+AND+IX+AND+Complex+AND+Intravenous+AND+Administration at Tue Jun 14 11:13:27 EDT 2016
+FINISHED PULLING 82 articles for Famotidine+AND+Injection at Tue Jun 14 11:13:50 EDT 2016
+FINISHED PULLING 72 articles for Fenofibrate at Tue Jun 14 11:14:10 EDT 2016
+FINISHED PULLING 57 articles for Fentanyl+AND+Citrate at Tue Jun 14 11:14:25 EDT 2016
+FINISHED PULLING 61 articles for Finasteride at Tue Jun 14 11:14:43 EDT 2016
+FINISHED PULLING 40 articles for Fluocinolone+AND+Acetonide at Tue Jun 14 11:14:54 EDT 2016
+FINISHED PULLING 2 articles for Fluocinolone+AND+Acetonide+AND+Intravitreal+AND+Implant at Tue Jun 14 11:14:55 EDT 2016
+FINISHED PULLING 36 articles for Fluocinonide at Tue Jun 14 11:15:05 EDT 2016
+FINISHED PULLING 31 articles for Fluorouracil at Tue Jun 14 11:15:14 EDT 2016
+FINISHED PULLING 3 articles for FML at Tue Jun 14 11:15:15 EDT 2016
+FINISHED PULLING 6 articles for Formoterol+AND+Fumarate+AND+Inhalation+AND+Powder at Tue Jun 14 11:15:18 EDT 2016
+FINISHED PULLING 3 articles for Ganciclovir at Tue Jun 14 11:15:20 EDT 2016
+FINISHED PULLING 6 articles for Gatifloxacin+AND+Ophthalmic+AND+Solution at Tue Jun 14 11:15:22 EDT 2016
+FINISHED PULLING  articles for Gelfoam at Tue Jun 14 11:15:24 EDT 2016
+FINISHED PULLING  articles for Gelfoam+AND+Compressed+AND+Sponge at Tue Jun 14 11:15:25 EDT 2016
+FINISHED PULLING  articles for Gelfoam+AND+Dental+AND+Sponge at Tue Jun 14 11:15:26 EDT 2016
+FINISHED PULLING  articles for Gelfoam+AND+Sponge at Tue Jun 14 11:15:28 EDT 2016
+FINISHED PULLING 2 articles for Goserelin+AND+Acetate+AND+Implant at Tue Jun 14 11:15:29 EDT 2016
+FINISHED PULLING  articles for Haemophilus+AND+b+AND+Conjugate+AND+Vaccine at Tue Jun 14 11:15:31 EDT 2016
+FINISHED PULLING 1 articles for Halcinonide+AND+Cream at Tue Jun 14 11:15:32 EDT 2016
+FINISHED PULLING 9 articles for Halobetasol+AND+Propionate+AND+Ointment at Tue Jun 14 11:15:35 EDT 2016
+FINISHED PULLING 35 articles for Heparin+AND+Lock+AND+Flush+AND+Solution at Tue Jun 14 11:15:44 EDT 2016
+FINISHED PULLING 1 articles for Hepatitis+AND+B+AND+Vaccine+AND+Recombinant at Tue Jun 14 11:15:46 EDT 2016
+FINISHED PULLING  articles for Humatin at Tue Jun 14 11:15:47 EDT 2016
+FINISHED PULLING 7 articles for Hyaluronidase+AND+Injection at Tue Jun 14 11:15:50 EDT 2016
+FINISHED PULLING 301 articles for Hydrocodone+AND+Bitartrate+AND+and+AND+Acetaminophen at Tue Jun 14 11:17:06 EDT 2016
+FINISHED PULLING 25 articles for Hydrocodone+AND+Bitartrate+AND+and+AND+Acetaminophen+AND+Oral+AND+Solution at Tue Jun 14 11:17:14 EDT 2016
+FINISHED PULLING 277 articles for Hydrocodone+AND+Bitartrate+AND+and+AND+Acetaminophen+AND+Tablets at Tue Jun 14 11:18:24 EDT 2016
+FINISHED PULLING 9 articles for Immune+AND+Globulin at Tue Jun 14 11:18:27 EDT 2016
+FINISHED PULLING  articles for Influenza+AND+Virus+AND+Vaccine at Tue Jun 14 11:18:28 EDT 2016
+FINISHED PULLING  articles for Intravenous+AND+Fat+AND+Emulsion at Tue Jun 14 11:18:29 EDT 2016
+FINISHED PULLING 16 articles for Ipratropium+AND+Bromide+AND+and+AND+Albuterol+AND+Sulfate at Tue Jun 14 11:18:35 EDT 2016
+FINISHED PULLING 9 articles for Isotretinoin at Tue Jun 14 11:18:39 EDT 2016
+FINISHED PULLING 9 articles for Isotretinoin+AND+Capsules at Tue Jun 14 11:18:43 EDT 2016
+FINISHED PULLING 5 articles for Isradipine at Tue Jun 14 11:18:45 EDT 2016
+FINISHED PULLING 4 articles for Ivermectin at Tue Jun 14 11:18:47 EDT 2016
+FINISHED PULLING 53 articles for Ketoconazole at Tue Jun 14 11:19:01 EDT 2016
+FINISHED PULLING 103 articles for Ketorolac+AND+Tromethamine at Tue Jun 14 11:19:29 EDT 2016
+FINISHED PULLING 26 articles for Ketorolac+AND+Tromethamine+AND+Ophthalmic+AND+Solution at Tue Jun 14 11:19:36 EDT 2016
+FINISHED PULLING 110 articles for Lansoprazole at Tue Jun 14 11:20:07 EDT 2016
+FINISHED PULLING 19 articles for Leucovorin+AND+Calcium at Tue Jun 14 11:20:12 EDT 2016
+FINISHED PULLING 12 articles for Leuprolide+AND+Acetate+AND+for+AND+Depot+AND+Suspension at Tue Jun 14 11:20:17 EDT 2016
+FINISHED PULLING 14 articles for Leuprolide+AND+Acetate+AND+Injection at Tue Jun 14 11:20:22 EDT 2016
+FINISHED PULLING 156 articles for Levetiracetam at Tue Jun 14 11:21:10 EDT 2016
+FINISHED PULLING 67 articles for Levonorgestrel+AND+and+AND+Ethinyl+AND+Estradiol at Tue Jun 14 11:21:31 EDT 2016
+FINISHED PULLING 67 articles for Levonorgestrel+AND+and+AND+Ethinyl+AND+Estradiol+AND+Tablets at Tue Jun 14 11:21:50 EDT 2016
+FINISHED PULLING 202 articles for Levothyroxine+AND+Sodium at Tue Jun 14 11:22:56 EDT 2016
+FINISHED PULLING 197 articles for Levothyroxine+AND+Sodium+AND+Tablets at Tue Jun 14 11:24:20 EDT 2016
+FINISHED PULLING 262 articles for Lidocaine+AND+and+AND+Tetracaine at Tue Jun 14 11:25:50 EDT 2016
+FINISHED PULLING 306 articles for Lisinopril at Tue Jun 14 11:27:46 EDT 2016
+FINISHED PULLING 306 articles for Lisinopril+AND+and+AND+Hydrochlorothiazide at Tue Jun 14 11:29:19 EDT 2016
+FINISHED PULLING 2 articles for Lomustine+AND+Capsules at Tue Jun 14 11:29:21 EDT 2016
+FINISHED PULLING 6 articles for Loteprednol+AND+Etabonate+AND+Ophthalmic+AND+Suspension at Tue Jun 14 11:29:23 EDT 2016
+FINISHED PULLING 18 articles for Loxapine at Tue Jun 14 11:29:29 EDT 2016
+FINISHED PULLING 7 articles for Mefenamic+AND+Acid at Tue Jun 14 11:29:32 EDT 2016
+FINISHED PULLING 30 articles for Megestrol+AND+Acetate at Tue Jun 14 11:29:40 EDT 2016
+FINISHED PULLING  articles for Meningococcal+AND+Group+AND+B+AND+Vaccine at Tue Jun 14 11:29:42 EDT 2016
+FINISHED PULLING 34 articles for Mesalamine at Tue Jun 14 11:29:51 EDT 2016
+FINISHED PULLING 36 articles for Methadone+AND+Hydrochloride at Tue Jun 14 11:30:03 EDT 2016
+FINISHED PULLING 6 articles for Methenamine+AND+Hippurate at Tue Jun 14 11:30:05 EDT 2016
+FINISHED PULLING 147 articles for Metronidazole at Tue Jun 14 11:30:43 EDT 2016
+FINISHED PULLING 63 articles for Minocycline+AND+Hydrochloride at Tue Jun 14 11:31:00 EDT 2016
+FINISHED PULLING 94 articles for Mirtazapine at Tue Jun 14 11:31:28 EDT 2016
+FINISHED PULLING 4 articles for Mitomycin at Tue Jun 14 11:31:30 EDT 2016
+FINISHED PULLING 47 articles for Mometasone+AND+Furoate at Tue Jun 14 11:31:42 EDT 2016
+FINISHED PULLING 123 articles for Morphine+AND+Sulfate at Tue Jun 14 11:32:14 EDT 2016
+FINISHED PULLING  articles for Multiple+AND+Electrolytes+AND+and+AND+Dextrose+AND+Injection at Tue Jun 14 11:32:15 EDT 2016
+FINISHED PULLING  articles for Multiple+AND+Electrolytes+AND+Injection at Tue Jun 14 11:32:17 EDT 2016
+FINISHED PULLING  articles for Nalidixic+AND+Acid at Tue Jun 14 11:32:18 EDT 2016
+FINISHED PULLING 427 articles for Neomycin+AND+Sulfate at Tue Jun 14 11:34:06 EDT 2016
+FINISHED PULLING 10 articles for Neostigmine+AND+Methylsulfate+AND+Injection at Tue Jun 14 11:34:10 EDT 2016
+FINISHED PULLING 3 articles for Nepafenac+AND+Ophthalmic+AND+Suspension at Tue Jun 14 11:34:11 EDT 2016
+FINISHED PULLING 101 articles for Nifedipine at Tue Jun 14 11:34:38 EDT 2016
+FINISHED PULLING 68 articles for Nitroglycerin at Tue Jun 14 11:34:55 EDT 2016
+FINISHED PULLING 20 articles for Nizatidine at Tue Jun 14 11:35:01 EDT 2016
+FINISHED PULLING 139 articles for Norethindrone at Tue Jun 14 11:35:41 EDT 2016
+FINISHED PULLING 67 articles for Norethindrone+AND+Acetate+AND+and+AND+Ethinyl+AND+Estradiol at Tue Jun 14 11:36:02 EDT 2016
+FINISHED PULLING 116 articles for Norethindrone+AND+and+AND+Ethinyl+AND+Estradiol at Tue Jun 14 11:36:37 EDT 2016
+FINISHED PULLING 116 articles for Norethindrone+AND+and+AND+Ethinyl+AND+Estradiol+AND+Tablets at Tue Jun 14 11:37:12 EDT 2016
+FINISHED PULLING  articles for Norfloxacin at Tue Jun 14 11:37:13 EDT 2016
+FINISHED PULLING 29 articles for Norgestimate+AND+and+AND+Ethinyl+AND+Estradiol+AND+Tablets at Tue Jun 14 11:37:24 EDT 2016
+FINISHED PULLING 19 articles for Ofloxacin+AND+Otic+AND+Solution at Tue Jun 14 11:37:30 EDT 2016
+FINISHED PULLING 11 articles for Olopatadine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution at Tue Jun 14 11:37:34 EDT 2016
+FINISHED PULLING 13 articles for Pancrelipase at Tue Jun 14 11:37:38 EDT 2016
+FINISHED PULLING 12 articles for Pancrelipase+AND+Capsules at Tue Jun 14 11:37:42 EDT 2016
+FINISHED PULLING 103 articles for Paroxetine+AND+Hydrochloride at Tue Jun 14 11:38:21 EDT 2016
+FINISHED PULLING 7 articles for Penicillin+AND+G+AND+Benzathine+AND+and+AND+Penicillin+AND+G+AND+Procaine+AND+Injection at Tue Jun 14 11:38:24 EDT 2016
+FINISHED PULLING 36 articles for Permethrin at Tue Jun 14 11:38:34 EDT 2016
+FINISHED PULLING 1 articles for Persantine at Tue Jun 14 11:38:35 EDT 2016
+FINISHED PULLING 387 articles for Potassium+AND+Chloride at Tue Jun 14 11:40:13 EDT 2016
+FINISHED PULLING 191 articles for Prednisone at Tue Jun 14 11:41:02 EDT 2016
+FINISHED PULLING 4 articles for Procainamide at Tue Jun 14 11:41:04 EDT 2016
+FINISHED PULLING 59 articles for Progesterone at Tue Jun 14 11:41:20 EDT 2016
+FINISHED PULLING 17 articles for Promethazine+AND+HCl+AND+and+AND+Dextromethorphan+AND+Hydrobromide+AND+Syrup at Tue Jun 14 11:41:26 EDT 2016
+FINISHED PULLING 131 articles for Promethazine+AND+HCl+AND+and+AND+Phenylephrine+AND+HCl+AND+Syrup at Tue Jun 14 11:42:00 EDT 2016
+FINISHED PULLING 86 articles for Promethazine+AND+HCl+AND+Injection at Tue Jun 14 11:42:22 EDT 2016
+FINISHED PULLING 70 articles for Promethazine+AND+HCl+AND+Suppositories at Tue Jun 14 11:42:40 EDT 2016
+FINISHED PULLING 131 articles for Promethazine+AND+HCl+AND+Syrup at Tue Jun 14 11:43:13 EDT 2016
+FINISHED PULLING 216 articles for Promethazine+AND+Hydrochloride at Tue Jun 14 11:44:08 EDT 2016
+FINISHED PULLING 117 articles for Promethazine+AND+Hydrochloride+AND+Injection at Tue Jun 14 11:44:38 EDT 2016
+FINISHED PULLING 70 articles for Promethazine+AND+Hydrochloride+AND+Suppositories at Tue Jun 14 11:44:57 EDT 2016
+FINISHED PULLING 52 articles for Promethazine+AND+Hydrochloride+AND+Syrup+AND+Plain at Tue Jun 14 11:45:11 EDT 2016
+FINISHED PULLING 4 articles for Prometrium at Tue Jun 14 11:45:12 EDT 2016
+FINISHED PULLING  articles for Pronestyl at Tue Jun 14 11:45:14 EDT 2016
+FINISHED PULLING 22 articles for Propafenone at Tue Jun 14 11:45:21 EDT 2016
+FINISHED PULLING  articles for Propafenose+AND+Hydrochloride+AND+Extended+AND+Release+AND+Capsules at Tue Jun 14 11:45:22 EDT 2016
+FINISHED PULLING 12 articles for Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution at Tue Jun 14 11:45:26 EDT 2016
+FINISHED PULLING 3 articles for Propecia at Tue Jun 14 11:45:28 EDT 2016
+FINISHED PULLING  articles for Propine at Tue Jun 14 11:45:29 EDT 2016
+FINISHED PULLING 12 articles for Propofol at Tue Jun 14 11:45:35 EDT 2016
+FINISHED PULLING 15 articles for Propoxyphene at Tue Jun 14 11:45:39 EDT 2016
+FINISHED PULLING 11 articles for Propoxyphene+AND+Napsylate+AND+and+AND+Acetaminophen at Tue Jun 14 11:45:43 EDT 2016
+FINISHED PULLING 104 articles for Propranolol at Tue Jun 14 11:46:10 EDT 2016
+FINISHED PULLING 104 articles for Propranolol+AND+Hydrochloride at Tue Jun 14 11:46:38 EDT 2016
+FINISHED PULLING 1 articles for Propranolol+AND+Hydrochloride+AND+and+AND+Hydrochlorothiazide at Tue Jun 14 11:46:39 EDT 2016
+FINISHED PULLING 6 articles for Propranolol+AND+Hydrochloride+AND+Injection at Tue Jun 14 11:46:42 EDT 2016
+FINISHED PULLING 9 articles for Propranolol+AND+Hydrochloride+AND+Oral+AND+Solution at Tue Jun 14 11:46:45 EDT 2016
+FINISHED PULLING 12 articles for Propylthiouracil at Tue Jun 14 11:46:49 EDT 2016
+FINISHED PULLING 12 articles for Propylthiouracil+AND+Tablet at Tue Jun 14 11:46:53 EDT 2016
+FINISHED PULLING  articles for Proquad at Tue Jun 14 11:46:54 EDT 2016
+FINISHED PULLING 1 articles for Proquin+AND+XR at Tue Jun 14 11:46:56 EDT 2016
+FINISHED PULLING 1 articles for Proscar at Tue Jun 14 11:46:57 EDT 2016
+FINISHED PULLING  articles for Prosed+AND+DS at Tue Jun 14 11:46:59 EDT 2016
+FINISHED PULLING  articles for Prosom at Tue Jun 14 11:47:00 EDT 2016
+FINISHED PULLING 1 articles for ProstaScint+AND+Kit at Tue Jun 14 11:47:01 EDT 2016
+FINISHED PULLING  articles for Prostigmin at Tue Jun 14 11:47:03 EDT 2016
+FINISHED PULLING 1 articles for Prostin+AND+E2 at Tue Jun 14 11:47:04 EDT 2016
+FINISHED PULLING 1 articles for Prostin+AND+VR+AND+Pediatric at Tue Jun 14 11:47:05 EDT 2016
+FINISHED PULLING 4 articles for Protamine at Tue Jun 14 11:47:07 EDT 2016
+FINISHED PULLING  articles for Protamines at Tue Jun 14 11:47:08 EDT 2016
+FINISHED PULLING 1 articles for Protein+AND+C+AND+Concentrate at Tue Jun 14 11:47:10 EDT 2016
+FINISHED PULLING  articles for Protirelin at Tue Jun 14 11:47:11 EDT 2016
+FINISHED PULLING 13 articles for Protonix at Tue Jun 14 11:47:13 EDT 2016
+FINISHED PULLING 1 articles for Protopam at Tue Jun 14 11:47:14 EDT 2016
+FINISHED PULLING 2 articles for Protopic at Tue Jun 14 11:47:15 EDT 2016
+FINISHED PULLING 3 articles for Protriptyline+AND+Hydrochloride+AND+Tablet at Tue Jun 14 11:47:17 EDT 2016
+FINISHED PULLING  articles for Protropin at Tue Jun 14 11:47:19 EDT 2016
+FINISHED PULLING 1 articles for Provayblue at Tue Jun 14 11:47:20 EDT 2016
+FINISHED PULLING  articles for Provenge at Tue Jun 14 11:47:21 EDT 2016
+FINISHED PULLING 4 articles for Proventil+AND+HFA at Tue Jun 14 11:47:23 EDT 2016
+FINISHED PULLING 6 articles for Provera at Tue Jun 14 11:47:24 EDT 2016
+FINISHED PULLING 8 articles for Provigil at Tue Jun 14 11:47:25 EDT 2016
+FINISHED PULLING  articles for Provisc at Tue Jun 14 11:47:27 EDT 2016
+FINISHED PULLING 1 articles for Provocholine at Tue Jun 14 11:47:28 EDT 2016
+FINISHED PULLING 3 articles for Prozac at Tue Jun 14 11:47:29 EDT 2016
+FINISHED PULLING 1 articles for Prudoxin at Tue Jun 14 11:47:31 EDT 2016
+FINISHED PULLING 57 articles for Pseudoephedrine+AND+and+AND+Guaifenesin at Tue Jun 14 11:47:46 EDT 2016
+FINISHED PULLING  articles for Pseudovent+AND+400+AND+Capsules at Tue Jun 14 11:47:47 EDT 2016
+FINISHED PULLING  articles for Psorcon+AND+E+AND+Emollient+AND+Cream at Tue Jun 14 11:47:48 EDT 2016
+FINISHED PULLING 3 articles for Pulmicort+AND+Flexhaler at Tue Jun 14 11:47:50 EDT 2016
+FINISHED PULLING 3 articles for Pulmicort+AND+Respules at Tue Jun 14 11:47:51 EDT 2016
+FINISHED PULLING 3 articles for Pulmicort+AND+Turbuhaler at Tue Jun 14 11:47:53 EDT 2016
+FINISHED PULLING 1 articles for Pulmozyme at Tue Jun 14 11:47:54 EDT 2016
+FINISHED PULLING  articles for Purinethol at Tue Jun 14 11:47:55 EDT 2016
+FINISHED PULLING 1 articles for Purixan at Tue Jun 14 11:47:57 EDT 2016
+FINISHED PULLING 2 articles for Pylera+AND+Capsules at Tue Jun 14 11:47:58 EDT 2016
+FINISHED PULLING 11 articles for Pyrazinamide at Tue Jun 14 11:48:01 EDT 2016
+FINISHED PULLING 2 articles for Pyridium at Tue Jun 14 11:48:03 EDT 2016
+FINISHED PULLING 13 articles for Pyridostigmine at Tue Jun 14 11:48:07 EDT 2016
+FINISHED PULLING 9 articles for Pyrimethamine at Tue Jun 14 11:48:10 EDT 2016
+FINISHED PULLING 2 articles for Qnasl at Tue Jun 14 11:48:11 EDT 2016
+FINISHED PULLING  articles for Qoliana at Tue Jun 14 11:48:12 EDT 2016
+FINISHED PULLING 1 articles for Qsymia at Tue Jun 14 11:48:14 EDT 2016
+FINISHED PULLING  articles for Quadracel at Tue Jun 14 11:48:15 EDT 2016
+FINISHED PULLING 2 articles for Quadramet at Tue Jun 14 11:48:17 EDT 2016
+FINISHED PULLING 3 articles for Qualaquin at Tue Jun 14 11:48:18 EDT 2016
+FINISHED PULLING 5 articles for Quazepam+AND+Tablets at Tue Jun 14 11:48:20 EDT 2016
+FINISHED PULLING 1 articles for Qudexy+AND+XR at Tue Jun 14 11:48:22 EDT 2016
+FINISHED PULLING 2 articles for Quelicin at Tue Jun 14 11:48:23 EDT 2016
+FINISHED PULLING 1 articles for Questran at Tue Jun 14 11:48:24 EDT 2016
+FINISHED PULLING 109 articles for Quetiapine+AND+Fumarate at Tue Jun 14 11:49:11 EDT 2016
+FINISHED PULLING 1 articles for Quillichew+AND+ER at Tue Jun 14 11:49:12 EDT 2016
+FINISHED PULLING  articles for Quillivant+AND+XR at Tue Jun 14 11:49:14 EDT 2016
+FINISHED PULLING  articles for Quinapril+AND+HCl/Hydrochlorothiazide at Tue Jun 14 11:49:15 EDT 2016
+FINISHED PULLING 35 articles for Quinapril+AND+Hydrochloride at Tue Jun 14 11:49:25 EDT 2016
+FINISHED PULLING  articles for Quinidex at Tue Jun 14 11:49:26 EDT 2016
+FINISHED PULLING 8 articles for Quinidine at Tue Jun 14 11:49:29 EDT 2016
+FINISHED PULLING 7 articles for Quinidine+AND+Gluconate at Tue Jun 14 11:49:32 EDT 2016
+FINISHED PULLING 4 articles for Quinidine+AND+Gluconate+AND+Injection at Tue Jun 14 11:49:34 EDT 2016
+FINISHED PULLING 4 articles for Quinidine+AND+Injection at Tue Jun 14 11:49:36 EDT 2016
+FINISHED PULLING 8 articles for Quinidine+AND+Sulfate at Tue Jun 14 11:49:39 EDT 2016
+FINISHED PULLING 10 articles for Quinine+AND+Sulfate+AND+Capsules at Tue Jun 14 11:49:43 EDT 2016
+FINISHED PULLING 1 articles for Quinupristin+AND+and+AND+Dalfopristin at Tue Jun 14 11:49:45 EDT 2016
+FINISHED PULLING 1 articles for Quixin at Tue Jun 14 11:49:46 EDT 2016
+FINISHED PULLING 2 articles for Qutenza at Tue Jun 14 11:49:48 EDT 2016
+FINISHED PULLING 5 articles for Qvar at Tue Jun 14 11:49:49 EDT 2016
+FINISHED PULLING  articles for Rabavert at Tue Jun 14 11:49:50 EDT 2016
+FINISHED PULLING 26 articles for Rabeprazole+AND+Sodium at Tue Jun 14 11:50:00 EDT 2016
+FINISHED PULLING  articles for Rabies+AND+Vaccine at Tue Jun 14 11:50:02 EDT 2016
+FINISHED PULLING  articles for Radiesse at Tue Jun 14 11:50:03 EDT 2016
+FINISHED PULLING 1 articles for Radiogardase at Tue Jun 14 11:50:04 EDT 2016
+FINISHED PULLING 1 articles for Radium+AND+Ra+AND+223+AND+Dichloride at Tue Jun 14 11:50:06 EDT 2016
+FINISHED PULLING  articles for Ragwitek at Tue Jun 14 11:50:07 EDT 2016
+FINISHED PULLING 15 articles for Raloxifene at Tue Jun 14 11:50:13 EDT 2016
+FINISHED PULLING 6 articles for Raltegravir+AND+Tablets at Tue Jun 14 11:50:17 EDT 2016
+FINISHED PULLING 5 articles for Ramelteon at Tue Jun 14 11:50:19 EDT 2016
+FINISHED PULLING 41 articles for Ramipril+AND+Capsules at Tue Jun 14 11:50:30 EDT 2016
+FINISHED PULLING 2 articles for Ramipril+AND+Tablets at Tue Jun 14 11:50:32 EDT 2016
+FINISHED PULLING 1 articles for Ramucirumab+AND+Solution+AND+for+AND+Intravenous+AND+Infusion at Tue Jun 14 11:50:34 EDT 2016
+FINISHED PULLING 5 articles for Ranexa at Tue Jun 14 11:50:35 EDT 2016
+FINISHED PULLING 1 articles for Ranibizumab+AND+Injection at Tue Jun 14 11:50:36 EDT 2016
+FINISHED PULLING  articles for Ranitidine+AND+Bismuth+AND+Citrate at Tue Jun 14 11:50:38 EDT 2016
+FINISHED PULLING 114 articles for Ranitidine+AND+Hcl at Tue Jun 14 11:51:07 EDT 2016
+FINISHED PULLING 113 articles for Ranitidine+AND+Hydrochloride+AND+Injection at Tue Jun 14 11:51:37 EDT 2016
+FINISHED PULLING 5 articles for Ranolazine at Tue Jun 14 11:51:39 EDT 2016
+FINISHED PULLING  articles for Rapacuronium at Tue Jun 14 11:51:40 EDT 2016
+FINISHED PULLING 4 articles for Rapaflo+AND+Capsules at Tue Jun 14 11:51:42 EDT 2016
+FINISHED PULLING 2 articles for Rapamune at Tue Jun 14 11:51:43 EDT 2016
+FINISHED PULLING 1 articles for Rapivab at Tue Jun 14 11:51:45 EDT 2016
+FINISHED PULLING  articles for Raplon at Tue Jun 14 11:51:46 EDT 2016
+FINISHED PULLING  articles for Raptiva at Tue Jun 14 11:51:47 EDT 2016
+FINISHED PULLING 2 articles for Rasagiline at Tue Jun 14 11:51:49 EDT 2016
+FINISHED PULLING 1 articles for Rasburicase at Tue Jun 14 11:51:51 EDT 2016
+FINISHED PULLING 1 articles for Rasuvo at Tue Jun 14 11:51:52 EDT 2016
+FINISHED PULLING 2 articles for Ravicti at Tue Jun 14 11:51:53 EDT 2016
+FINISHED PULLING  articles for Raxar at Tue Jun 14 11:51:55 EDT 2016
+FINISHED PULLING 1 articles for Raxibacumab at Tue Jun 14 11:51:56 EDT 2016
+FINISHED PULLING 1 articles for Rayos at Tue Jun 14 11:51:58 EDT 2016
+FINISHED PULLING 2 articles for Razadyne+AND+ER at Tue Jun 14 11:51:59 EDT 2016
+FINISHED PULLING 1 articles for Rebetol at Tue Jun 14 11:52:00 EDT 2016
+FINISHED PULLING 1 articles for Rebetol+AND+and+AND+Intron+AND+A+AND+Combination+AND+Therapy at Tue Jun 14 11:52:02 EDT 2016
+FINISHED PULLING  articles for Rebetron at Tue Jun 14 11:52:03 EDT 2016
+FINISHED PULLING 1 articles for Rebif at Tue Jun 14 11:52:05 EDT 2016
+FINISHED PULLING  articles for Recedo at Tue Jun 14 11:52:06 EDT 2016
+FINISHED PULLING 1 articles for Reclast at Tue Jun 14 11:52:07 EDT 2016
+FINISHED PULLING 1 articles for Recombinant+AND+DNA+AND+Origin at Tue Jun 14 11:52:09 EDT 2016
+FINISHED PULLING 6 articles for Recombinant+AND+Lyophilized+AND+Powder at Tue Jun 14 11:52:12 EDT 2016
+FINISHED PULLING 2 articles for Rectiv at Tue Jun 14 11:52:13 EDT 2016
+FINISHED PULLING  articles for Refacto at Tue Jun 14 11:52:14 EDT 2016
+FINISHED PULLING  articles for Refludan at Tue Jun 14 11:52:16 EDT 2016
+FINISHED PULLING 1 articles for Regadenoson+AND+Injection at Tue Jun 14 11:52:17 EDT 2016
+FINISHED PULLING 3 articles for Reglan at Tue Jun 14 11:52:18 EDT 2016
+FINISHED PULLING 3 articles for Reglan+AND+Injection at Tue Jun 14 11:52:20 EDT 2016
+FINISHED PULLING 3 articles for Reglan+AND+ODT at Tue Jun 14 11:52:21 EDT 2016
+FINISHED PULLING 1 articles for Regonol at Tue Jun 14 11:52:22 EDT 2016
+FINISHED PULLING 1 articles for Regorafenib+AND+Tablets at Tue Jun 14 11:52:24 EDT 2016
+FINISHED PULLING 2 articles for Regranex at Tue Jun 14 11:52:25 EDT 2016
+FINISHED PULLING  articles for Relafen at Tue Jun 14 11:52:27 EDT 2016
+FINISHED PULLING 3 articles for Relenza at Tue Jun 14 11:52:28 EDT 2016
+FINISHED PULLING 1 articles for Relistor at Tue Jun 14 11:52:30 EDT 2016
+FINISHED PULLING 5 articles for Relpax at Tue Jun 14 11:52:31 EDT 2016
+FINISHED PULLING 2 articles for Remeron at Tue Jun 14 11:52:32 EDT 2016
+FINISHED PULLING  articles for Remeron+AND+SolTab at Tue Jun 14 11:52:34 EDT 2016
+FINISHED PULLING 1 articles for Remicade at Tue Jun 14 11:52:35 EDT 2016
+FINISHED PULLING 1 articles for Remifentanil at Tue Jun 14 11:52:37 EDT 2016
+FINISHED PULLING 1 articles for Remodulin at Tue Jun 14 11:52:38 EDT 2016
+FINISHED PULLING 1 articles for Renacidin at Tue Jun 14 11:52:40 EDT 2016
+FINISHED PULLING 3 articles for Renagel at Tue Jun 14 11:52:41 EDT 2016
+FINISHED PULLING  articles for Renese at Tue Jun 14 11:52:43 EDT 2016
+FINISHED PULLING 3 articles for Renova at Tue Jun 14 11:52:44 EDT 2016
+FINISHED PULLING 4 articles for Renvela at Tue Jun 14 11:52:45 EDT 2016
+FINISHED PULLING 1 articles for ReoPro at Tue Jun 14 11:52:47 EDT 2016
+FINISHED PULLING 18 articles for Repaglinide at Tue Jun 14 11:52:53 EDT 2016
+FINISHED PULLING 1 articles for Repaglinide+AND+and+AND+Metformin+AND+HCl+AND+Tablets at Tue Jun 14 11:52:54 EDT 2016
+FINISHED PULLING 1 articles for Repatha at Tue Jun 14 11:52:56 EDT 2016
+FINISHED PULLING 1 articles for Repository+AND+Corticotropin+AND+Injection at Tue Jun 14 11:52:57 EDT 2016
+FINISHED PULLING  articles for Repronex at Tue Jun 14 11:52:59 EDT 2016
+FINISHED PULLING 5 articles for Requip at Tue Jun 14 11:53:00 EDT 2016
+FINISHED PULLING 5 articles for Requip+AND+XL at Tue Jun 14 11:53:01 EDT 2016
+FINISHED PULLING 2 articles for Rescriptor at Tue Jun 14 11:53:03 EDT 2016
+FINISHED PULLING 1 articles for Rescula at Tue Jun 14 11:53:04 EDT 2016
+FINISHED PULLING  articles for Reslizumab+AND+Intravenous+AND+Infusion at Tue Jun 14 11:53:06 EDT 2016
+FINISHED PULLING 2 articles for Restasis at Tue Jun 14 11:53:07 EDT 2016
+FINISHED PULLING 2 articles for Restoril at Tue Jun 14 11:53:08 EDT 2016
+FINISHED PULLING  articles for Restylane at Tue Jun 14 11:53:10 EDT 2016
+FINISHED PULLING  articles for Restylane+AND+Silk at Tue Jun 14 11:53:11 EDT 2016
+FINISHED PULLING 3 articles for Retapamulin at Tue Jun 14 11:53:13 EDT 2016
+FINISHED PULLING 1 articles for Retavase at Tue Jun 14 11:53:14 EDT 2016
+FINISHED PULLING 1 articles for Reteplase at Tue Jun 14 11:53:16 EDT 2016
+FINISHED PULLING 1 articles for Retisert at Tue Jun 14 11:53:17 EDT 2016
+FINISHED PULLING 1 articles for Retrovir at Tue Jun 14 11:53:18 EDT 2016
+FINISHED PULLING 1 articles for Retrovir+AND+IV at Tue Jun 14 11:53:20 EDT 2016
+FINISHED PULLING 2 articles for Revatio at Tue Jun 14 11:53:21 EDT 2016
+FINISHED PULLING  articles for Revex at Tue Jun 14 11:53:22 EDT 2016
+FINISHED PULLING  articles for Revia at Tue Jun 14 11:53:24 EDT 2016
+FINISHED PULLING 1 articles for Revlimid at Tue Jun 14 11:53:25 EDT 2016
+FINISHED PULLING  articles for Revonto+AND+Dantroene+AND+Sodium+AND+Injection at Tue Jun 14 11:53:26 EDT 2016
+FINISHED PULLING 1 articles for Rexulti at Tue Jun 14 11:53:28 EDT 2016
+FINISHED PULLING 3 articles for Reyataz at Tue Jun 14 11:53:29 EDT 2016
+FINISHED PULLING 1 articles for Rezira at Tue Jun 14 11:53:31 EDT 2016
+FINISHED PULLING 1 articles for Rheumatrex at Tue Jun 14 11:53:32 EDT 2016
+FINISHED PULLING 2 articles for Rhinocort+AND+Aqua at Tue Jun 14 11:53:34 EDT 2016
+FINISHED PULLING 25 articles for Ribavirin at Tue Jun 14 11:53:43 EDT 2016
+FINISHED PULLING 1 articles for Ridaura at Tue Jun 14 11:53:44 EDT 2016
+FINISHED PULLING 5 articles for Rifabutin at Tue Jun 14 11:53:47 EDT 2016
+FINISHED PULLING 1 articles for Rifadin at Tue Jun 14 11:53:48 EDT 2016
+FINISHED PULLING 1 articles for Rifamate at Tue Jun 14 11:53:50 EDT 2016
+FINISHED PULLING 35 articles for Rifampin at Tue Jun 14 11:54:00 EDT 2016
+FINISHED PULLING 35 articles for Rifampin+AND+and+AND+Isoniazid at Tue Jun 14 11:54:10 EDT 2016
+FINISHED PULLING 1 articles for Rifapentine at Tue Jun 14 11:54:11 EDT 2016
+FINISHED PULLING 2 articles for Rifater at Tue Jun 14 11:54:13 EDT 2016
+FINISHED PULLING 4 articles for Rifaximin at Tue Jun 14 11:54:15 EDT 2016
+FINISHED PULLING 1 articles for Rilonacept at Tue Jun 14 11:54:17 EDT 2016
+FINISHED PULLING 3 articles for Rilpivirine+AND+Tablets at Tue Jun 14 11:54:19 EDT 2016
+FINISHED PULLING 3 articles for Rilutek at Tue Jun 14 11:54:21 EDT 2016
+FINISHED PULLING 13 articles for Riluzole at Tue Jun 14 11:56:32 EDT 2016
+FINISHED PULLING 6 articles for Rimantadine at Tue Jun 14 11:56:35 EDT 2016
+FINISHED PULLING 1 articles for Rimexolone at Tue Jun 14 11:56:36 EDT 2016
+FINISHED PULLING 9 articles for Ringers+AND+in+AND+Dextrose at Tue Jun 14 11:56:38 EDT 2016
+FINISHED PULLING 1 articles for Riociguat+AND+Tablets at Tue Jun 14 11:56:39 EDT 2016
+FINISHED PULLING 1 articles for Riomet at Tue Jun 14 11:56:41 EDT 2016
+FINISHED PULLING 11 articles for Risedronate+AND+Sodium at Tue Jun 14 11:56:45 EDT 2016
+FINISHED PULLING  articles for Risedronate+AND+Sodium+AND+with+AND+Calcium+AND+Carbonate at Tue Jun 14 11:56:47 EDT 2016
+FINISHED PULLING 11 articles for Risperdal at Tue Jun 14 11:56:48 EDT 2016
+FINISHED PULLING 10 articles for Risperdal+AND+Consta at Tue Jun 14 11:56:50 EDT 2016
+FINISHED PULLING 126 articles for Risperidone at Tue Jun 14 11:57:41 EDT 2016
+FINISHED PULLING 3 articles for Ritalin at Tue Jun 14 11:57:42 EDT 2016
+FINISHED PULLING 1 articles for Ritalin+AND+LA at Tue Jun 14 11:57:43 EDT 2016
+FINISHED PULLING 1 articles for Rituxan at Tue Jun 14 11:57:45 EDT 2016
+FINISHED PULLING 1 articles for Rituximab at Tue Jun 14 11:57:47 EDT 2016
+FINISHED PULLING 18 articles for Rivastigmine+AND+Tartrate at Tue Jun 14 11:57:53 EDT 2016
+FINISHED PULLING 16 articles for Rivastigmine+AND+Transdermal+AND+System at Tue Jun 14 11:57:58 EDT 2016
+FINISHED PULLING 38 articles for Rizatriptan+AND+Benzoate at Tue Jun 14 11:58:10 EDT 2016
+FINISHED PULLING 6 articles for Robaxin at Tue Jun 14 11:58:11 EDT 2016
+FINISHED PULLING  articles for Robaxisal at Tue Jun 14 11:58:13 EDT 2016
+FINISHED PULLING 2 articles for Robinul at Tue Jun 14 11:58:14 EDT 2016
+FINISHED PULLING  articles for Robitussin+AND+Ac at Tue Jun 14 11:58:15 EDT 2016
+FINISHED PULLING 2 articles for Rocaltrol at Tue Jun 14 11:58:17 EDT 2016
+FINISHED PULLING 1 articles for Rocephin at Tue Jun 14 11:58:18 EDT 2016
+FINISHED PULLING 11 articles for Rocuronium+AND+Bromide+AND+Injection at Tue Jun 14 11:58:23 EDT 2016
+FINISHED PULLING  articles for Rofecoxib at Tue Jun 14 11:58:25 EDT 2016
+FINISHED PULLING 3 articles for roflumilast at Tue Jun 14 11:58:27 EDT 2016
+FINISHED PULLING 1 articles for Rolapitant+AND+Tablets at Tue Jun 14 11:58:28 EDT 2016
+FINISHED PULLING 2 articles for Romazicon at Tue Jun 14 11:58:30 EDT 2016
+FINISHED PULLING 2 articles for Romidepsin+AND+for+AND+Injection at Tue Jun 14 11:58:31 EDT 2016
+FINISHED PULLING 1 articles for Romiplostim at Tue Jun 14 11:58:33 EDT 2016
+FINISHED PULLING  articles for Rondec at Tue Jun 14 11:58:34 EDT 2016
+FINISHED PULLING 22 articles for Ropinirole+AND+Extended+AND+Release+AND+Tablets at Tue Jun 14 11:58:42 EDT 2016
+FINISHED PULLING 48 articles for Ropinirole+AND+Hcl at Tue Jun 14 11:58:58 EDT 2016
+FINISHED PULLING 10 articles for Ropivacaine+AND+Hcl at Tue Jun 14 11:59:03 EDT 2016
+FINISHED PULLING 1 articles for Rosanil at Tue Jun 14 11:59:04 EDT 2016
+FINISHED PULLING 6 articles for Rosiglitazone+AND+Maleate at Tue Jun 14 11:59:08 EDT 2016
+FINISHED PULLING 5 articles for Rosiglitazone+AND+Maleate+AND+and+AND+Glimepiride at Tue Jun 14 11:59:11 EDT 2016
+FINISHED PULLING 4 articles for Rosiglitazone+AND+Maleate+AND+and+AND+Metformin+AND+HCl at Tue Jun 14 11:59:14 EDT 2016
+FINISHED PULLING 2 articles for Rosula at Tue Jun 14 11:59:15 EDT 2016
+FINISHED PULLING 21 articles for Rosuvastatin+AND+Calcium at Tue Jun 14 11:59:22 EDT 2016
+FINISHED PULLING  articles for Rotarix at Tue Jun 14 11:59:23 EDT 2016
+FINISHED PULLING  articles for RotaTeq at Tue Jun 14 11:59:25 EDT 2016
+FINISHED PULLING 1 articles for Rotigotine+AND+Transdermal+AND+System at Tue Jun 14 11:59:26 EDT 2016
+FINISHED PULLING 3 articles for Rowasa at Tue Jun 14 11:59:28 EDT 2016
+FINISHED PULLING  articles for Roxanol at Tue Jun 14 11:59:29 EDT 2016
+FINISHED PULLING 2 articles for Roxicet at Tue Jun 14 11:59:30 EDT 2016
+FINISHED PULLING 2 articles for Roxicodone at Tue Jun 14 11:59:32 EDT 2016
+FINISHED PULLING 1 articles for Rozerem at Tue Jun 14 11:59:33 EDT 2016
+FINISHED PULLING  articles for Rubella+AND+and+AND+Mumps+AND+Virus+AND+Vaccine+AND+Live at Tue Jun 14 11:59:34 EDT 2016
+FINISHED PULLING 1 articles for rubidium+AND+Rb+AND+82+AND+generator at Tue Jun 14 11:59:36 EDT 2016
+FINISHED PULLING 1 articles for Ruconest at Tue Jun 14 11:59:37 EDT 2016
+FINISHED PULLING 1 articles for Rufinamide+AND+Tablets at Tue Jun 14 11:59:39 EDT 2016
+FINISHED PULLING 1 articles for Ruxolitinib at Tue Jun 14 11:59:40 EDT 2016
+FINISHED PULLING 1 articles for Ryanodex at Tue Jun 14 11:59:42 EDT 2016
+FINISHED PULLING  articles for Rytary at Tue Jun 14 11:59:43 EDT 2016
+FINISHED PULLING 2 articles for Rythmol at Tue Jun 14 11:59:44 EDT 2016
+FINISHED PULLING 2 articles for Rythmol+AND+SR at Tue Jun 14 11:59:46 EDT 2016
+FINISHED PULLING  articles for Ryzodeg at Tue Jun 14 11:59:47 EDT 2016
+FINISHED PULLING 2 articles for Ryzolt at Tue Jun 14 11:59:48 EDT 2016
+FINISHED PULLING 2 articles for Sabril at Tue Jun 14 11:59:50 EDT 2016
+FINISHED PULLING 1 articles for Sacrosidase+AND+Oral+AND+Solution at Tue Jun 14 11:59:51 EDT 2016
+FINISHED PULLING 1 articles for Safyral at Tue Jun 14 11:59:52 EDT 2016
+FINISHED PULLING 1 articles for Saizen at Tue Jun 14 11:59:54 EDT 2016
+FINISHED PULLING 1 articles for Salagen at Tue Jun 14 11:59:55 EDT 2016
+FINISHED PULLING 14 articles for Salmeterol+AND+Xinafoate at Tue Jun 14 12:00:01 EDT 2016
+FINISHED PULLING 24 articles for Salsalate at Tue Jun 14 12:00:08 EDT 2016
+FINISHED PULLING 2 articles for Samarium+AND+SM+AND+153+AND+Lexidronam at Tue Jun 14 12:00:10 EDT 2016
+FINISHED PULLING 1 articles for Samsca at Tue Jun 14 12:00:12 EDT 2016
+FINISHED PULLING 1 articles for Sanctura at Tue Jun 14 12:00:13 EDT 2016
+FINISHED PULLING 1 articles for Sanctura+AND+XR at Tue Jun 14 12:00:14 EDT 2016
+FINISHED PULLING 2 articles for Sancuso at Tue Jun 14 12:00:16 EDT 2016
+FINISHED PULLING 1 articles for Sandimmune at Tue Jun 14 12:00:17 EDT 2016
+FINISHED PULLING 2 articles for Sandostatin at Tue Jun 14 12:00:18 EDT 2016
+FINISHED PULLING 2 articles for Sandostatin+AND+LAR at Tue Jun 14 12:00:20 EDT 2016
+FINISHED PULLING  articles for Sansert at Tue Jun 14 12:00:21 EDT 2016
+FINISHED PULLING 2 articles for Santyl at Tue Jun 14 12:00:22 EDT 2016
+FINISHED PULLING 3 articles for Saphris at Tue Jun 14 12:00:24 EDT 2016
+FINISHED PULLING  articles for Saproterin+AND+Dihydrochloride+AND+Tablets at Tue Jun 14 12:00:25 EDT 2016
+FINISHED PULLING 2 articles for Saquinavir+AND+Mesylate at Tue Jun 14 12:00:27 EDT 2016
+FINISHED PULLING 1 articles for Sarafem at Tue Jun 14 12:00:28 EDT 2016
+FINISHED PULLING 2 articles for Sargramostim at Tue Jun 14 12:00:30 EDT 2016
+FINISHED PULLING 1 articles for Savaysa at Tue Jun 14 12:00:32 EDT 2016
+FINISHED PULLING 8 articles for Savella at Tue Jun 14 12:00:33 EDT 2016
+FINISHED PULLING 7 articles for Saxagliptin+AND+Tablets at Tue Jun 14 12:00:38 EDT 2016
+FINISHED PULLING 1 articles for Saxenda at Tue Jun 14 12:00:39 EDT 2016
+FINISHED PULLING 24 articles for Scopolamine at Tue Jun 14 12:00:46 EDT 2016
+FINISHED PULLING  articles for Seasonale at Tue Jun 14 12:00:47 EDT 2016
+FINISHED PULLING 2 articles for Seasonique at Tue Jun 14 12:00:49 EDT 2016
+FINISHED PULLING 2 articles for Secobarbital+AND+Sodium+AND+Capsules at Tue Jun 14 12:00:50 EDT 2016
+FINISHED PULLING 2 articles for Seconal+AND+Sodium at Tue Jun 14 12:00:52 EDT 2016
+FINISHED PULLING  articles for SecreFlo at Tue Jun 14 12:00:53 EDT 2016
+FINISHED PULLING 1 articles for Sectral at Tue Jun 14 12:00:54 EDT 2016
+FINISHED PULLING 1 articles for Secukinumab+AND+Injection at Tue Jun 14 12:00:56 EDT 2016
+FINISHED PULLING 1 articles for Seebri+AND+Neohaler at Tue Jun 14 12:00:57 EDT 2016
+FINISHED PULLING 8 articles for Selegiline+AND+Hcl at Tue Jun 14 12:01:00 EDT 2016
+FINISHED PULLING 12 articles for Selegiline+AND+Hydrochloride at Tue Jun 14 12:01:04 EDT 2016
+FINISHED PULLING 1 articles for Selegiline+AND+Transdermal+AND+System at Tue Jun 14 12:01:05 EDT 2016
+FINISHED PULLING 228 articles for Selenium at Tue Jun 14 12:02:03 EDT 2016
+FINISHED PULLING  articles for Selseb at Tue Jun 14 12:02:04 EDT 2016
+FINISHED PULLING 10 articles for Selsun at Tue Jun 14 12:02:06 EDT 2016
+FINISHED PULLING 5 articles for Selzentry at Tue Jun 14 12:02:07 EDT 2016
+FINISHED PULLING 1 articles for Semprex+AND+D at Tue Jun 14 12:02:08 EDT 2016
+FINISHED PULLING 7 articles for Sensipar at Tue Jun 14 12:02:10 EDT 2016
+FINISHED PULLING 8 articles for Sensorcaine at Tue Jun 14 12:02:11 EDT 2016
+FINISHED PULLING 1 articles for Septocaine at Tue Jun 14 12:02:12 EDT 2016
+FINISHED PULLING  articles for Septra at Tue Jun 14 12:02:14 EDT 2016
+FINISHED PULLING  articles for Serax at Tue Jun 14 12:02:15 EDT 2016
+FINISHED PULLING 2 articles for Serevent+AND+Diskus at Tue Jun 14 12:02:16 EDT 2016
+FINISHED PULLING  articles for Sermorelin at Tue Jun 14 12:02:18 EDT 2016
+FINISHED PULLING  articles for Sermorelin+AND+Acetate at Tue Jun 14 12:02:19 EDT 2016
+FINISHED PULLING 1 articles for Sernivo at Tue Jun 14 12:02:20 EDT 2016
+FINISHED PULLING 1 articles for Seroquel at Tue Jun 14 12:02:22 EDT 2016
+FINISHED PULLING 1 articles for Seroquel+AND+XR at Tue Jun 14 12:02:23 EDT 2016
+FINISHED PULLING 1 articles for Sertaconazole+AND+Nitrate at Tue Jun 14 12:02:25 EDT 2016
+FINISHED PULLING 109 articles for Sertraline+AND+Hcl at Tue Jun 14 12:03:03 EDT 2016
+FINISHED PULLING  articles for Serzone at Tue Jun 14 12:03:04 EDT 2016
+FINISHED PULLING 6 articles for Sevelamer+AND+Carbonate at Tue Jun 14 12:03:08 EDT 2016
+FINISHED PULLING 5 articles for Sevelamer+AND+Hcl at Tue Jun 14 12:03:10 EDT 2016
+FINISHED PULLING 7 articles for Sevoflurane at Tue Jun 14 12:03:13 EDT 2016
+FINISHED PULLING 1 articles for Short+AND+Ragweed+AND+Pollen+AND+Allergen+AND+Extract+AND+Tablets at Tue Jun 14 12:03:15 EDT 2016
+FINISHED PULLING  articles for Sibutramine+AND+Hydrochloride+AND+Monohydrate at Tue Jun 14 12:03:16 EDT 2016
+FINISHED PULLING 2 articles for Signifor at Tue Jun 14 12:03:17 EDT 2016
+FINISHED PULLING 44 articles for Sildenafil+AND+Citrate at Tue Jun 14 12:03:30 EDT 2016
+FINISHED PULLING 1 articles for Silenor at Tue Jun 14 12:03:32 EDT 2016
+FINISHED PULLING 4 articles for Silodosin+AND+Capsules at Tue Jun 14 12:03:34 EDT 2016
+FINISHED PULLING 5 articles for Silvadene at Tue Jun 14 12:03:35 EDT 2016
+FINISHED PULLING 36 articles for Silver+AND+Sulfadiazine at Tue Jun 14 12:03:44 EDT 2016
+FINISHED PULLING 1 articles for Simbrinza at Tue Jun 14 12:03:46 EDT 2016
+FINISHED PULLING 2 articles for Simcor at Tue Jun 14 12:03:47 EDT 2016
+FINISHED PULLING 1 articles for Simeprevir+AND+Hard+AND+Gelatin+AND+Capsules at Tue Jun 14 12:03:49 EDT 2016
+FINISHED PULLING 1 articles for Simponi+AND+Aria at Tue Jun 14 12:03:50 EDT 2016
+FINISHED PULLING 2 articles for Simponi+AND+Injection at Tue Jun 14 12:03:52 EDT 2016
+FINISHED PULLING 1 articles for Simulect at Tue Jun 14 12:03:53 EDT 2016
+FINISHED PULLING 68 articles for Simvastatin+AND+Niacin+AND+Extended+AND+Release at Tue Jun 14 12:04:16 EDT 2016
+FINISHED PULLING 3 articles for Sincalide at Tue Jun 14 12:04:17 EDT 2016
+FINISHED PULLING 1 articles for Sinecatechins+AND+Ointment at Tue Jun 14 12:04:19 EDT 2016
+FINISHED PULLING 2 articles for Sinemet at Tue Jun 14 12:04:20 EDT 2016
+FINISHED PULLING 1 articles for Sinemet+AND+CR at Tue Jun 14 12:04:21 EDT 2016
+FINISHED PULLING  articles for Sinequan at Tue Jun 14 12:04:23 EDT 2016
+FINISHED PULLING 15 articles for Singulair at Tue Jun 14 12:04:24 EDT 2016
+FINISHED PULLING 8 articles for Sirolimus at Tue Jun 14 12:04:28 EDT 2016
+FINISHED PULLING 1 articles for Sirturo at Tue Jun 14 12:04:30 EDT 2016
+FINISHED PULLING 5 articles for Sitagliptin+AND+and+AND+Metformin+AND+HCl at Tue Jun 14 12:04:33 EDT 2016
+FINISHED PULLING 14 articles for Sitagliptin+AND+and+AND+Simvastatin at Tue Jun 14 12:04:39 EDT 2016
+FINISHED PULLING 5 articles for Sitagliptin+AND+Metformin+AND+HCL at Tue Jun 14 12:04:42 EDT 2016
+FINISHED PULLING 14 articles for Sitagliptin+AND+Phosphate at Tue Jun 14 12:04:48 EDT 2016
+FINISHED PULLING 1 articles for Sitavig at Tue Jun 14 12:04:49 EDT 2016
+FINISHED PULLING 1 articles for Sivextro at Tue Jun 14 12:04:50 EDT 2016
+FINISHED PULLING 9 articles for Skelaxin at Tue Jun 14 12:04:52 EDT 2016
+FINISHED PULLING  articles for Skelid at Tue Jun 14 12:04:53 EDT 2016
+FINISHED PULLING 1 articles for Sklice at Tue Jun 14 12:04:54 EDT 2016
+FINISHED PULLING 1 articles for Skyla at Tue Jun 14 12:04:56 EDT 2016
+FINISHED PULLING 260 articles for Sodium+AND+Acetate at Tue Jun 14 12:06:01 EDT 2016
+FINISHED PULLING 76 articles for Sodium+AND+Acetate+AND+Injection at Tue Jun 14 12:06:21 EDT 2016
+FINISHED PULLING 474 articles for Sodium+AND+Bicarbonate at Tue Jun 14 12:08:20 EDT 2016
+FINISHED PULLING 8 articles for Sodium+AND+ferric+AND+gluconate at Tue Jun 14 12:08:23 EDT 2016
+FINISHED PULLING 6 articles for Sodium+AND+Ferric+AND+Gluconate+AND+Complex+AND+Injection at Tue Jun 14 12:08:25 EDT 2016
+FINISHED PULLING 1000 articles for Sodium+AND+Fluoride at Tue Jun 14 12:12:36 EDT 2016
+FINISHED PULLING 17 articles for Sodium+AND+Hyaluronate at Tue Jun 14 12:12:42 EDT 2016
+FINISHED PULLING 23 articles for Sodium+AND+Iodide+AND+I+AND+131 at Tue Jun 14 12:12:49 EDT 2016
+FINISHED PULLING 7 articles for Sodium+AND+Iodide+AND+I+AND+131+AND+Capsules at Tue Jun 14 12:12:52 EDT 2016
+FINISHED PULLING 224 articles for Sodium+AND+Lactate at Tue Jun 14 12:13:49 EDT 2016
+FINISHED PULLING 1 articles for Sodium+AND+Lactate+AND+Injection+AND+in+AND+AVIVA at Tue Jun 14 12:13:50 EDT 2016
+FINISHED PULLING 1 articles for Sodium+AND+Oxybate at Tue Jun 14 12:13:52 EDT 2016
+FINISHED PULLING 3 articles for Sodium+AND+Phenylacetate+AND+and+AND+Sodium+AND+Benzoate+AND+Injection at Tue Jun 14 12:13:53 EDT 2016
+FINISHED PULLING 4 articles for Sodium+AND+Phenylbutyrate+AND+Tablets at Tue Jun 14 12:13:55 EDT 2016
+FINISHED PULLING 42 articles for Sodium+AND+Phosphate+AND+Monobasic+AND+Monohydrate+AND+and+AND+Sodium+AND+Phosphate+AND+Dibasic+AND+Anhydrous at Tue Jun 14 12:14:07 EDT 2016
+FINISHED PULLING 23 articles for Sodium+AND+Polystyrene at Tue Jun 14 12:14:13 EDT 2016
+FINISHED PULLING 14 articles for Sodium+AND+Polystyrene+AND+Sulfonate at Tue Jun 14 12:14:18 EDT 2016
+FINISHED PULLING 21 articles for Sodium+AND+Sulfacetamide+AND+and+AND+Sulfur+AND+Cleanser at Tue Jun 14 12:14:24 EDT 2016
+FINISHED PULLING 12 articles for Sodium+AND+Sulfacetamide+AND+Lotion at Tue Jun 14 12:14:27 EDT 2016
+FINISHED PULLING 1 articles for Sodium+AND+Tetradecyl at Tue Jun 14 12:14:29 EDT 2016
+FINISHED PULLING  articles for Solage at Tue Jun 14 12:14:30 EDT 2016
+FINISHED PULLING 2 articles for Solaraze at Tue Jun 14 12:14:31 EDT 2016
+FINISHED PULLING 5 articles for Solifenacin+AND+Succinate at Tue Jun 14 12:14:34 EDT 2016
+FINISHED PULLING 1 articles for Soliris at Tue Jun 14 12:14:35 EDT 2016
+FINISHED PULLING 2 articles for Solodyn at Tue Jun 14 12:14:37 EDT 2016
+FINISHED PULLING 1 articles for Soltamox at Tue Jun 14 12:14:38 EDT 2016
+FINISHED PULLING 3 articles for Solu+AND+Cortef at Tue Jun 14 12:14:39 EDT 2016
+FINISHED PULLING 15 articles for Solu+AND+Medrol at Tue Jun 14 12:14:41 EDT 2016
+FINISHED PULLING 17 articles for Soma at Tue Jun 14 12:14:42 EDT 2016
+FINISHED PULLING  articles for Soma+AND+Compound at Tue Jun 14 12:14:43 EDT 2016
+FINISHED PULLING  articles for Soma+AND+Compound+AND+with+AND+Codeine at Tue Jun 14 12:14:45 EDT 2016
+FINISHED PULLING  articles for Somatrem at Tue Jun 14 12:14:46 EDT 2016
+FINISHED PULLING 11 articles for Somatropin+AND+Injection at Tue Jun 14 12:14:51 EDT 2016
+FINISHED PULLING 11 articles for Somatropin+AND+rDNA+AND+Origin at Tue Jun 14 12:14:55 EDT 2016
+FINISHED PULLING 11 articles for Somatropin+AND+rDNA+AND+Origin+AND+for+AND+Injection at Tue Jun 14 12:15:00 EDT 2016
+FINISHED PULLING 2 articles for Somatuline+AND+Depot at Tue Jun 14 12:15:01 EDT 2016
+FINISHED PULLING 1 articles for Somavert at Tue Jun 14 12:15:03 EDT 2016
+FINISHED PULLING 2 articles for Sonata at Tue Jun 14 12:15:04 EDT 2016
+FINISHED PULLING 1 articles for Sonidegib+AND+Capsules at Tue Jun 14 12:15:06 EDT 2016
+FINISHED PULLING 1 articles for Soolantra at Tue Jun 14 12:15:07 EDT 2016
+FINISHED PULLING 1 articles for Sorafenib at Tue Jun 14 12:15:09 EDT 2016
+FINISHED PULLING 1 articles for Soriatane at Tue Jun 14 12:15:10 EDT 2016
+FINISHED PULLING 1 articles for Sorilux at Tue Jun 14 12:15:11 EDT 2016
+FINISHED PULLING 2 articles for Sorine at Tue Jun 14 12:15:13 EDT 2016
+FINISHED PULLING 32 articles for Sotalol at Tue Jun 14 12:15:23 EDT 2016
+FINISHED PULLING 32 articles for Sotalol+AND+Hcl at Tue Jun 14 12:15:34 EDT 2016
+FINISHED PULLING 31 articles for Sotalol+AND+Hydrochloride+AND+Oral+AND+Solution at Tue Jun 14 12:15:44 EDT 2016
+FINISHED PULLING 2 articles for Sotradecol at Tue Jun 14 12:15:45 EDT 2016
+FINISHED PULLING  articles for Sotret at Tue Jun 14 12:15:46 EDT 2016
+FINISHED PULLING 1 articles for Sotylize at Tue Jun 14 12:15:48 EDT 2016
+FINISHED PULLING 1 articles for Sovaldi at Tue Jun 14 12:15:49 EDT 2016
+FINISHED PULLING  articles for Sparfloxacin at Tue Jun 14 12:15:50 EDT 2016
+FINISHED PULLING  articles for Spectazole at Tue Jun 14 12:15:52 EDT 2016
+FINISHED PULLING  articles for Spectinomycin at Tue Jun 14 12:15:53 EDT 2016
+FINISHED PULLING 1 articles for Spectracef at Tue Jun 14 12:15:54 EDT 2016
+FINISHED PULLING 5 articles for SpeedGel at Tue Jun 14 12:15:56 EDT 2016
+FINISHED PULLING 3 articles for Spinosad+AND+Topical+AND+Suspension at Tue Jun 14 12:15:58 EDT 2016
+FINISHED PULLING 4 articles for Spiriva at Tue Jun 14 12:15:59 EDT 2016
+FINISHED PULLING 2 articles for Spiriva+AND+Respimat at Tue Jun 14 12:16:00 EDT 2016
+FINISHED PULLING 68 articles for Spironolactone at Tue Jun 14 12:16:19 EDT 2016
+FINISHED PULLING 9 articles for Spironolactone+AND+and+AND+Hydrochlorothiazide at Tue Jun 14 12:16:22 EDT 2016
+FINISHED PULLING 3 articles for Sporanox at Tue Jun 14 12:16:24 EDT 2016
+FINISHED PULLING 2 articles for Sporanox+AND+Injection at Tue Jun 14 12:16:25 EDT 2016
+FINISHED PULLING 3 articles for Sporanox+AND+Oral+AND+Solution at Tue Jun 14 12:16:26 EDT 2016
+FINISHED PULLING 8 articles for Sprintec at Tue Jun 14 12:16:28 EDT 2016
+FINISHED PULLING 1 articles for Spritam at Tue Jun 14 12:16:29 EDT 2016
+FINISHED PULLING 4 articles for Sprix at Tue Jun 14 12:16:31 EDT 2016
+FINISHED PULLING 2 articles for Sprycel at Tue Jun 14 12:16:32 EDT 2016
+FINISHED PULLING  articles for Stadol at Tue Jun 14 12:16:34 EDT 2016
+FINISHED PULLING 1 articles for Stalevo at Tue Jun 14 12:16:35 EDT 2016
+FINISHED PULLING 1 articles for Starlix at Tue Jun 14 12:16:36 EDT 2016
+FINISHED PULLING  articles for Staticin at Tue Jun 14 12:16:38 EDT 2016
+FINISHED PULLING 14 articles for Stavudine at Tue Jun 14 12:16:43 EDT 2016
+FINISHED PULLING  articles for Stavzor at Tue Jun 14 12:16:44 EDT 2016
+FINISHED PULLING 2 articles for Staxyn at Tue Jun 14 12:16:46 EDT 2016
+FINISHED PULLING 1 articles for Stelara+AND+Injection at Tue Jun 14 12:16:47 EDT 2016
+FINISHED PULLING  articles for Stelazine at Tue Jun 14 12:16:48 EDT 2016
+FINISHED PULLING 1 articles for Stendra at Tue Jun 14 12:16:50 EDT 2016
+FINISHED PULLING  articles for Sterile+AND+Cefoperazone at Tue Jun 14 12:16:51 EDT 2016
+FINISHED PULLING  articles for Sterile+AND+Electrolyte+AND+Concentrate+AND+for+AND+Infusion at Tue Jun 14 12:16:52 EDT 2016
+FINISHED PULLING  articles for Sterile+AND+Hemofiltration+AND+Hemodiafiltration+AND+Solution at Tue Jun 14 12:16:54 EDT 2016
+FINISHED PULLING  articles for Sterile+AND+Intraocular+AND+Irrigating+AND+Solution at Tue Jun 14 12:16:55 EDT 2016
+FINISHED PULLING 1 articles for Stimate at Tue Jun 14 12:16:56 EDT 2016
+FINISHED PULLING 1 articles for Stiolto+AND+Respimat at Tue Jun 14 12:16:58 EDT 2016
+FINISHED PULLING 1 articles for Stivarga at Tue Jun 14 12:16:59 EDT 2016
+FINISHED PULLING 13 articles for Strattera at Tue Jun 14 12:17:01 EDT 2016
+FINISHED PULLING 1 articles for Strensiq at Tue Jun 14 12:17:02 EDT 2016
+FINISHED PULLING  articles for Streptase at Tue Jun 14 12:17:03 EDT 2016
+FINISHED PULLING  articles for Streptokinase at Tue Jun 14 12:17:05 EDT 2016
+FINISHED PULLING 1 articles for Streptomycin at Tue Jun 14 12:17:06 EDT 2016
+FINISHED PULLING 1 articles for Streptozocin at Tue Jun 14 12:17:07 EDT 2016
+FINISHED PULLING 2 articles for Striant at Tue Jun 14 12:17:09 EDT 2016
+FINISHED PULLING 2 articles for Stribild at Tue Jun 14 12:17:10 EDT 2016
+FINISHED PULLING 1 articles for Striverdi+AND+Respimat at Tue Jun 14 12:17:12 EDT 2016
+FINISHED PULLING 1 articles for Stromectol at Tue Jun 14 12:17:13 EDT 2016
+FINISHED PULLING  articles for Sublimaze at Tue Jun 14 12:17:14 EDT 2016
+FINISHED PULLING 8 articles for Suboxone at Tue Jun 14 12:17:16 EDT 2016
+FINISHED PULLING 1 articles for Subsys at Tue Jun 14 12:17:17 EDT 2016
+FINISHED PULLING  articles for Subutex at Tue Jun 14 12:17:18 EDT 2016
+FINISHED PULLING 1 articles for Succimer at Tue Jun 14 12:17:20 EDT 2016
+FINISHED PULLING 4 articles for Succinylcholine+AND+Chloride at Tue Jun 14 12:17:22 EDT 2016
+FINISHED PULLING 4 articles for Succinylcholine+AND+Chloride+AND+Injection at Tue Jun 14 12:17:24 EDT 2016
+FINISHED PULLING 1 articles for Suclear at Tue Jun 14 12:17:25 EDT 2016
+FINISHED PULLING 1 articles for Sucraid at Tue Jun 14 12:17:26 EDT 2016
+FINISHED PULLING 33 articles for Sucralfate at Tue Jun 14 12:17:35 EDT 2016
+FINISHED PULLING 1 articles for Sucroferric+AND+Oxyhydroxide+AND+Chewable+AND+Tablets at Tue Jun 14 12:17:37 EDT 2016
+FINISHED PULLING 12 articles for Sudafed at Tue Jun 14 12:17:38 EDT 2016
+FINISHED PULLING 3 articles for Sufentanil+AND+Citrate+AND+Injection at Tue Jun 14 12:17:40 EDT 2016
+FINISHED PULLING  articles for Sugammadex+AND+Injection at Tue Jun 14 12:17:41 EDT 2016
+FINISHED PULLING 2 articles for Sular at Tue Jun 14 12:17:43 EDT 2016
+FINISHED PULLING 2 articles for Sulconazole at Tue Jun 14 12:17:44 EDT 2016
+FINISHED PULLING 125 articles for Sulfacetamide at Tue Jun 14 12:18:16 EDT 2016
+FINISHED PULLING 9 articles for Sulfacetamide+AND+and+AND+Prednisolone at Tue Jun 14 12:18:20 EDT 2016
+FINISHED PULLING 74 articles for Sulfacetamide+AND+and+AND+Sulfur at Tue Jun 14 12:18:39 EDT 2016
+FINISHED PULLING  articles for Sulfadoxine+AND+and+AND+Pyrimethamine at Tue Jun 14 12:18:40 EDT 2016
+FINISHED PULLING 117 articles for Sulfamethoxazole at Tue Jun 14 12:19:11 EDT 2016
+FINISHED PULLING 2 articles for Sulfamylon at Tue Jun 14 12:19:13 EDT 2016
+FINISHED PULLING 2 articles for Sulfamylon+AND+Cream at Tue Jun 14 12:19:14 EDT 2016
+FINISHED PULLING 4 articles for Sulfasalazine+AND+Delayed+AND+Release+AND+Tablets at Tue Jun 14 12:19:16 EDT 2016
+FINISHED PULLING  articles for Sulfinpyrazone at Tue Jun 14 12:19:18 EDT 2016
+FINISHED PULLING 26 articles for Sulindac at Tue Jun 14 12:19:26 EDT 2016
+FINISHED PULLING  articles for Sultrin at Tue Jun 14 12:19:27 EDT 2016
+FINISHED PULLING 46 articles for Sumatriptan+AND+and+AND+Naproxen+AND+Sodium+AND+Tablets at Tue Jun 14 12:19:41 EDT 2016
+FINISHED PULLING 73 articles for Sumatriptan+AND+Injection at Tue Jun 14 12:20:01 EDT 2016
+FINISHED PULLING 1 articles for Sumatriptan+AND+Iontophoretic+AND+Transdermal+AND+System at Tue Jun 14 12:20:03 EDT 2016
+FINISHED PULLING 74 articles for Sumatriptan+AND+Nasal+AND+Powder+AND+Nasal+AND+Administration at Tue Jun 14 12:20:24 EDT 2016
+FINISHED PULLING 71 articles for Sumatriptan+AND+Nasal+AND+Spray at Tue Jun 14 12:20:44 EDT 2016
+FINISHED PULLING 71 articles for Sumatriptan+AND+Succinate at Tue Jun 14 12:21:05 EDT 2016
+FINISHED PULLING 69 articles for Sumatriptan+AND+Succinate+AND+Injection at Tue Jun 14 12:21:25 EDT 2016
+FINISHED PULLING 2 articles for Sumavel+AND+DosePro at Tue Jun 14 12:21:26 EDT 2016
+FINISHED PULLING  articles for Sumycin at Tue Jun 14 12:21:27 EDT 2016
+FINISHED PULLING 1 articles for Sunitinib+AND+Malate at Tue Jun 14 12:21:29 EDT 2016
+FINISHED PULLING 1 articles for Supprelin+AND+LA at Tue Jun 14 12:21:30 EDT 2016
+FINISHED PULLING 4 articles for Suprane at Tue Jun 14 12:21:32 EDT 2016
+FINISHED PULLING 7 articles for Suprax at Tue Jun 14 12:21:33 EDT 2016
+FINISHED PULLING 1 articles for Suprenza at Tue Jun 14 12:21:35 EDT 2016
+FINISHED PULLING 1 articles for Surfaxin at Tue Jun 14 12:21:36 EDT 2016
+FINISHED PULLING 1 articles for Surmontil at Tue Jun 14 12:21:37 EDT 2016
+FINISHED PULLING 1 articles for Survanta at Tue Jun 14 12:21:39 EDT 2016
+FINISHED PULLING 3 articles for Sustiva at Tue Jun 14 12:21:40 EDT 2016
+FINISHED PULLING 1 articles for Sutent at Tue Jun 14 12:21:42 EDT 2016
+FINISHED PULLING 1 articles for Suvorexant+AND+Tablets at Tue Jun 14 12:21:43 EDT 2016
+FINISHED PULLING 2 articles for Sylatron at Tue Jun 14 12:21:45 EDT 2016
+FINISHED PULLING 1 articles for Sylvant at Tue Jun 14 12:21:46 EDT 2016
+FINISHED PULLING 2 articles for Symbicort at Tue Jun 14 12:21:48 EDT 2016
+FINISHED PULLING 1 articles for Symbyax at Tue Jun 14 12:21:49 EDT 2016
+FINISHED PULLING  articles for Symlin at Tue Jun 14 12:21:50 EDT 2016
+FINISHED PULLING  articles for Symmetrel at Tue Jun 14 12:21:52 EDT 2016
+FINISHED PULLING 1 articles for Synagis at Tue Jun 14 12:21:53 EDT 2016
+FINISHED PULLING 6 articles for Synalar at Tue Jun 14 12:21:54 EDT 2016
+FINISHED PULLING 1 articles for Synalgos+AND+DC at Tue Jun 14 12:21:56 EDT 2016
+FINISHED PULLING 1 articles for Synarel at Tue Jun 14 12:21:57 EDT 2016
+FINISHED PULLING 1 articles for Synarel+AND+Nasal+AND+Solution at Tue Jun 14 12:21:59 EDT 2016
+FINISHED PULLING 2 articles for Synera at Tue Jun 14 12:22:00 EDT 2016
+FINISHED PULLING 1 articles for Synercid at Tue Jun 14 12:22:01 EDT 2016
+FINISHED PULLING 1 articles for Synjardy at Tue Jun 14 12:22:03 EDT 2016
+FINISHED PULLING 1 articles for Synribo at Tue Jun 14 12:22:04 EDT 2016
+FINISHED PULLING 4 articles for Synthetic+AND+conjugated+AND+estrogens at Tue Jun 14 12:22:07 EDT 2016
+FINISHED PULLING 26 articles for Synthroid at Tue Jun 14 12:22:08 EDT 2016
+FINISHED PULLING  articles for Synvisc at Tue Jun 14 12:22:09 EDT 2016
+FINISHED PULLING 2 articles for Syprine at Tue Jun 14 12:22:11 EDT 2016
+FINISHED PULLING 1 articles for Tabloid at Tue Jun 14 12:22:12 EDT 2016
+FINISHED PULLING 6 articles for Taclonex at Tue Jun 14 12:22:13 EDT 2016
+FINISHED PULLING 5 articles for Taclonex+AND+Scalp at Tue Jun 14 12:22:15 EDT 2016
+FINISHED PULLING  articles for Tacrine at Tue Jun 14 12:22:16 EDT 2016
+FINISHED PULLING 31 articles for Tacrolimus at Tue Jun 14 12:22:30 EDT 2016
+FINISHED PULLING 12 articles for Tadalafil at Tue Jun 14 12:22:36 EDT 2016
+FINISHED PULLING 12 articles for Tadalafil+AND+Tablets at Tue Jun 14 12:22:42 EDT 2016
+FINISHED PULLING 2 articles for Tafinlar at Tue Jun 14 12:22:43 EDT 2016
+FINISHED PULLING 2 articles for tafluprost at Tue Jun 14 12:22:45 EDT 2016
+FINISHED PULLING 1 articles for Tagamet at Tue Jun 14 12:22:46 EDT 2016
+FINISHED PULLING 1 articles for Tagrisso at Tue Jun 14 12:22:47 EDT 2016
+FINISHED PULLING  articles for Talacen at Tue Jun 14 12:22:49 EDT 2016
+FINISHED PULLING 1 articles for Taliglucerase+AND+Alfa at Tue Jun 14 12:22:50 EDT 2016
+FINISHED PULLING 1 articles for Talimogene+AND+Laherparepvec+AND+Suspension+AND+for+AND+Intralesional+AND+Injection at Tue Jun 14 12:22:52 EDT 2016
+FINISHED PULLING 1 articles for Taltz at Tue Jun 14 12:22:53 EDT 2016
+FINISHED PULLING  articles for Talwin+AND+Compound at Tue Jun 14 12:22:54 EDT 2016
+FINISHED PULLING  articles for Talwin+AND+Nx at Tue Jun 14 12:22:56 EDT 2016
+FINISHED PULLING  articles for Tambocor at Tue Jun 14 12:22:57 EDT 2016
+FINISHED PULLING 6 articles for Tamiflu at Tue Jun 14 12:22:58 EDT 2016
+FINISHED PULLING 10 articles for Tamoxifen+AND+Citrate at Tue Jun 14 12:23:04 EDT 2016
+FINISHED PULLING 73 articles for Tamsulosin+AND+Hydrochloride at Tue Jun 14 12:23:26 EDT 2016
+FINISHED PULLING 1 articles for Tanzeum at Tue Jun 14 12:23:27 EDT 2016
+FINISHED PULLING  articles for Tao at Tue Jun 14 12:23:28 EDT 2016
+FINISHED PULLING 3 articles for Tapazole at Tue Jun 14 12:23:30 EDT 2016
+FINISHED PULLING 3 articles for Tarceva at Tue Jun 14 12:23:31 EDT 2016
+FINISHED PULLING  articles for Targiniq+AND+ER at Tue Jun 14 12:23:32 EDT 2016
+FINISHED PULLING 4 articles for Targretin at Tue Jun 14 12:23:34 EDT 2016
+FINISHED PULLING 2 articles for Targretin+AND+Gel at Tue Jun 14 12:23:35 EDT 2016
+FINISHED PULLING 2 articles for Tarka at Tue Jun 14 12:23:37 EDT 2016
+FINISHED PULLING 1 articles for Tasigna+AND+Capsules at Tue Jun 14 12:23:38 EDT 2016
+FINISHED PULLING 1 articles for Tasimelteon+AND+Capsules at Tue Jun 14 12:23:39 EDT 2016
+FINISHED PULLING 1 articles for Tasmar at Tue Jun 14 12:23:41 EDT 2016
+FINISHED PULLING  articles for Taxol at Tue Jun 14 12:23:42 EDT 2016
+FINISHED PULLING 1 articles for Taxotere at Tue Jun 14 12:23:44 EDT 2016
+FINISHED PULLING 5 articles for Tazarotene at Tue Jun 14 12:23:46 EDT 2016
+FINISHED PULLING 4 articles for Tazarotene+AND+Cream at Tue Jun 14 12:23:48 EDT 2016
+FINISHED PULLING 5 articles for Tazarotene+AND+Gel at Tue Jun 14 12:23:51 EDT 2016
+FINISHED PULLING 3 articles for Tazicef at Tue Jun 14 12:23:52 EDT 2016
+FINISHED PULLING 3 articles for Tazorac at Tue Jun 14 12:23:54 EDT 2016
+FINISHED PULLING 3 articles for Tazorac+AND+Cream at Tue Jun 14 12:23:55 EDT 2016
+FINISHED PULLING 1 articles for Tecentriq at Tue Jun 14 12:23:57 EDT 2016
+FINISHED PULLING 1 articles for Tecfidera at Tue Jun 14 12:23:58 EDT 2016
+FINISHED PULLING 1 articles for TechneLite at Tue Jun 14 12:23:59 EDT 2016
+FINISHED PULLING 1 articles for Technetium+AND+Tc99m+AND+Exametazime+AND+Injection at Tue Jun 14 12:24:01 EDT 2016
+FINISHED PULLING 1 articles for Technetium+AND+Tc99m+AND+Medronate+AND+Injection at Tue Jun 14 12:24:02 EDT 2016
+FINISHED PULLING 5 articles for Technetium+AND+Tc99m+AND+sestamibi at Tue Jun 14 12:24:05 EDT 2016
+FINISHED PULLING  articles for Technetium+AND+Tc+AND+99m+AND+Depreotide+AND+Injection at Tue Jun 14 12:24:06 EDT 2016
+FINISHED PULLING 9 articles for Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use at Tue Jun 14 12:24:10 EDT 2016
+FINISHED PULLING 5 articles for Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+the+AND+Production+AND+of+AND+Sodium+AND+Pertechnetate+AND+Tc+AND+99m+AND+Injection at Tue Jun 14 12:24:12 EDT 2016
+FINISHED PULLING 1 articles for Technivie at Tue Jun 14 12:24:14 EDT 2016
+FINISHED PULLING 1 articles for Tedizolid+AND+Phosphate+AND+Tablets at Tue Jun 14 12:24:15 EDT 2016
+FINISHED PULLING  articles for Tegaserod+AND+Maleate at Tue Jun 14 12:24:16 EDT 2016
+FINISHED PULLING 3 articles for Tegretol at Tue Jun 14 12:24:18 EDT 2016
+FINISHED PULLING 1 articles for Tekamlo at Tue Jun 14 12:24:19 EDT 2016
+FINISHED PULLING 4 articles for Tekturna at Tue Jun 14 12:24:21 EDT 2016
+FINISHED PULLING 2 articles for Tekturna+AND+HCT at Tue Jun 14 12:24:22 EDT 2016
+FINISHED PULLING 2 articles for Telavancin+AND+for+AND+Injection at Tue Jun 14 12:24:24 EDT 2016
+FINISHED PULLING 1 articles for Telbivudine at Tue Jun 14 12:24:26 EDT 2016
+FINISHED PULLING 2 articles for Telithromycin at Tue Jun 14 12:24:27 EDT 2016
+FINISHED PULLING 29 articles for Telmisartan at Tue Jun 14 12:24:36 EDT 2016
+FINISHED PULLING 29 articles for Telmisartan+AND+Amlodipine+AND+Tablets at Tue Jun 14 12:24:45 EDT 2016
+FINISHED PULLING 29 articles for Telmisartan+AND+and+AND+Hydrochlorothiazide+AND+Tablets at Tue Jun 14 12:24:53 EDT 2016
+FINISHED PULLING 58 articles for Temazepam at Tue Jun 14 12:25:10 EDT 2016
+FINISHED PULLING 2 articles for Temodar at Tue Jun 14 12:25:11 EDT 2016
+FINISHED PULLING 6 articles for Temovate at Tue Jun 14 12:25:13 EDT 2016
+FINISHED PULLING 1 articles for Temovate+AND+Gel at Tue Jun 14 12:25:14 EDT 2016
+FINISHED PULLING 1 articles for Temovate+AND+Scalp at Tue Jun 14 12:25:15 EDT 2016
+FINISHED PULLING 10 articles for Temozolomide at Tue Jun 14 12:25:20 EDT 2016
+FINISHED PULLING 1 articles for Temsirolimus+AND+Injection at Tue Jun 14 12:25:22 EDT 2016
+FINISHED PULLING 23 articles for Testosterone+AND+Gel at Tue Jun 14 12:25:29 EDT 2016
+FINISHED PULLING  articles for Tetanus+AND+and+AND+Diphtheria+AND+Toxoids+AND+Adsorbed at Tue Jun 14 12:25:30 EDT 2016
+FINISHED PULLING 43 articles for Timolol+AND+Maleate+AND+Ophthalmic+AND+Solution at Tue Jun 14 12:25:43 EDT 2016
+FINISHED PULLING 18 articles for Tolterodine+AND+Tartrate at Tue Jun 14 12:25:49 EDT 2016
+FINISHED PULLING 3 articles for Travoprost+AND+Ophthalmic+AND+Solution at Tue Jun 14 12:25:51 EDT 2016
+FINISHED PULLING 27 articles for Triamcinolone+AND+Acetonide+AND+Injectable+AND+Suspension at Tue Jun 14 12:25:59 EDT 2016
+FINISHED PULLING 32 articles for Triamcinolone+AND+Acetonide+AND+Ointment at Tue Jun 14 12:26:08 EDT 2016
+FINISHED PULLING 145 articles for Trimethoprim+AND+and+AND+Sulfamethoxazole at Tue Jun 14 12:26:45 EDT 2016
+FINISHED PULLING 1 articles for Triptorelin+AND+pamoate at Tue Jun 14 12:26:47 EDT 2016
+FINISHED PULLING 1 articles for Uridine+AND+Triacetate+AND+Oral+AND+Granules at Tue Jun 14 12:26:48 EDT 2016
+FINISHED PULLING 31 articles for Valproic+AND+Acid at Tue Jun 14 12:26:59 EDT 2016
+FINISHED PULLING 97 articles for Verapamil+AND+Hydrochloride at Tue Jun 14 12:27:25 EDT 2016
+FINISHED PULLING 3 articles for Vincristine+AND+Sulfate+AND+Injection at Tue Jun 14 12:27:27 EDT 2016
+FINISHED PULLING 2 articles for Vortioxetine+AND+Tablets at Tue Jun 14 12:27:30 EDT 2016
+FINISHED PULLING 129 articles for Zolpidem+AND+Tartrate at Tue Jun 14 12:28:27 EDT 2016

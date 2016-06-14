@@ -1,0 +1,654 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=0
+Page 0 of 59
+        "generic_name": [
+          "AQUILEGIA VULGARIS, HYDRASTIS CANADENSIS, LILIUM TIGRINUM, BOVISTA, CYPRIPEDIUM PUBESCENS, APIOLUM, APIS VENENUM PURUM, FUNICULUS UMBILICALIS SUIS, GLANDULA SUPRARENALIS SUIS, HEART (SUIS), KREOSOTUM, OOPHORINUM (SUIS), UTERUS (SUIS), FOLLICULINUM, CIS-ACONITUM ACID, LACHESIS MUTUS, MAGNESIA PHOSPHORICA, MERCURIUS SOLUBILIS, SEPIA, PINEAL GLAND (SUIS), PITUITARIA GLANDULA (SUIS), ESTRADIOL, PROGESTERONE, TESTOSTERONE, PLACENTA TOTALIS SUIS, BACILLUS FAECALIS, MUTABILE BACILLUS (BACH)"
+        "brand_name": [
+          "Female Stimulant Core Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=1
+Page 1 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Prometrium"
+ 
+      "drug_interactions": [
+        "G. Drug Interactions The metabolism of progesterone by human liver microsomes was inhibited by ketoconazole (IC50 < 0.1 μM). Ketoconazole is a known inhibitor of cytochrome P450 3A4, hence these data suggest that ketoconazole or other known inhibitors of this enzyme may increase the bioavailability of progesterone. The clinical relevance of the in vitro findings is unknown. Coadministration of conjugated estrogens and PROMETRIUM Capsules to 29 postmenopausal women over a 12-day period resulted in an increase in total estrone concentrations (Cmax 3.68 ng/mL to 4.93 ng/mL) and total equilin concentrations (Cmax 2.27 ng/mL to 3.22 ng/mL) and a decrease in circulating 17β estradiol concentrations (Cmax 0.037 ng/mL to 0.030 ng/mL). The half-life of the conjugated estrogens was similar with coadministration of PROMETRIUM Capsules. Table 2 summarizes the pharmacokinetic parameters. TABLE 2. Mean (± S.D.) Pharmacokinetic Parameters for Estradiol, Estrone, and Equilin Following Coadministration of Conjugated Estrogens 0.625 mg and PROMETRIUM Capsules 200 mg for 12 Days to Postmenopausal Women a Total estrogens is the sum of conjugated and unconjugated estrogen. Conjugated Estrogens Conjugated Estrogens plus PROMETRIUM Capsules Drug Cmax (ng/mL) Tmax (hr) AUC(0-24h) (ng × h/mL) Cmax (ng/mL) Tmax (hr) AUC(0-24h) (ng × h/mL) Estradiol 0.037 ± 0.048 12.7 ± 9.1 0.676 ± 0.737 0.030 ± 0.032 17.32 ± 1.21 0.561 ± 0.572 Estrone Total a 3.68 ± 1.55 10.6 ± 6.8 61.3 ± 26.36 4.93 ± 2.07 7.5 ± 3.8 85.9 ± 41.2 Equilin Total a 2.27 ± 0.95 6.0 ± 4.0 28.8 ± 13.0 3.22 ± 1.13 5.3 ± 2.6 38.1 ± 20.2"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING , WARNINGS and PRECAUTIONS . Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of PROMETRIUM Capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse reactions greater than or equal to 2 percent of women who received cyclic PROMETRIUM Capsules 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. TABLE 6. Adverse Reactions (≥ 2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] PROMETRIUM Capsules 200 mg with Conjugated Estrogens 0.625 mg Placebo (n=178) (n=174) Headache 31 27 Breast Tenderness 27 6 Joint Pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal Bloating 12 5 Hot Flashes 11 35 Urinary Problems 11 9 Abdominal Pain 10 10 Vaginal Discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest Pain 7 5 Diarrhea 7 4 Night Sweats 7 17 Breast Pain 6 2 Swelling of Hands and Feet 6 9 Vaginal Dryness 6 10 Constipation 3 2 Breast Carcinoma 2 <1 Breast Excisional Biopsy 2 <1 Cholecystectomy 2 <1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of PROMETRIUM Capsules on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse reactions greater than or equal to 5 percent of women who received PROMETRIUM Capsules or placebo. TABLE 7. Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience PROMETRIUM Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and PROMETRIUM Capsules, 300 mg per day (n=113) or PROMETRIUM Capsules, 400 mg per /day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience: The following additional adverse reactions have been reported with PROMETRIUM Capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma-glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking, dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=2
+Page 2 of 59
+        "generic_name": [
+          "ADRENALINUM,PULSATILLA,CHOLESTERINUM,FOLLICULINUM,HYPOTHALAMUS,OOPHORINUM,ADRENAL CORTEX, ANDROSTENEDIONE,DHEA,PREGNANOLONE,PROGESTERONE,TESTERONE"
+        "brand_name": [
+          "TOTAL FEM-BAL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=3
+Page 3 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=4
+Page 4 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=5
+Page 5 of 59
+        "generic_name": [
+          "SALSOLINOL HYDROCHLORIDE, CHOLESTERINUM, DHEA (DEHYDROEPIANDROSTERONE), 7-KETO-DHEA (DEHYDROEPIANDROSTERONE), FOLLICULINUM, OOPHORINUM (SUIS), PROGESTERONE, TESTOSTERONE, CORTISONE ACETICUM, ALDOSTERONE, ANDROSTERONE, FOLLICLE STIMULATING HORMONE"
+        "brand_name": [
+          "Hormone Combination"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=6
+Page 6 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone Phenolic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=7
+Page 7 of 59
+        "generic_name": [
+          "SQUALENE, CHOLESTERINUM, ESTROGEN, PROGESTERONE, ASPARTAME, BENZALKONIUM CHLORIDE, FORMALINUM, METHYLENE CHLORIDE"
+        "brand_name": [
+          "Lipotox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=8
+Page 8 of 59
+        "generic_name": [
+          "FOLLICULINUM, PROGESTERONE"
+        "brand_name": [
+          "Female Balance"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=9
+Page 9 of 59
+        "generic_name": [
+          "DEHYDRO-EPI-ANDROSTERONE(DHEA), ESTRADIOL, PITUITARUM POSTERIUM, PREGNENOLONE, PROGESTERONE, SPLEEN, TESTOSTERONE, THYMUS, THYROIDINUM,"
+        "brand_name": [
+          "Immune Forte"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=10
+Page 10 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+      "drug_interactions": [
+        "G. Drug Interactions The metabolism of progesterone by human liver microsomes was inhibited by ketoconazole (IC 50 < 0.1 μM). Ketoconazole is a known inhibitor of cytochrome P450 3A4, hence these data suggest that ketoconazole or other known inhibitors of this enzyme may increase the bioavailability of progesterone. The clinical relevance of the in vitro findings is unknown. Coadministration of conjugated estrogens and Progesterone Capsules to 29 postmenopausal women over a 12-day period resulted in an increase in total estrone concentrations (C max 3.68 ng/mL to 4.93 ng/mL) and total equilin concentrations (C max 2.27 ng/mL to 3.22 ng/mL) and a decrease in circulating 17β estradiol concentrations (C max 0.037 ng/mL to 0.030 ng/mL). The half-life of the conjugated estrogens was similar with coadministration of Progesterone Capsules. Table 2 summarizes the pharmacokinetic parameters. TABLE 2. Mean (± S.D.) Pharmacokinetic Parameters for Estradiol, Estrone, and Equilin Following Coadministration of Conjugated Estrogens 0.625 mg and Progesterone Capsules 200 mg for 12 Days to Postmenopausal Women a Total estrogens is the sum of conjugated and unconjugated estrogen. Conjugated Estrogens Conjugated Estrogens plus Progesterone Capsules Drug C max (ng/mL) T max (hr) AUC (0-24h) (ng × h/mL) C max (ng/mL) T max (hr) AUC (0-24h) (ng × h/mL) Estradiol 0.037 ± 0.048 12.7 ± 9.1 0.676 ± 0.737 0.030 ± 0.032 17.32 ± 1.21 0.561 ± 0.572 Estrone Total a 3.68 ± 1.55 10.6 ± 6.8 61.3 ± 26.36 4.93 ± 2.07 7.5 ± 3.8 85.9 ± 41.2 Equilin Total a 2.27 ± 0.95 6.0 ± 4.0 28.8 ± 13.0 3.22 ± 1.13 5.3 ± 2.6 38.1 ± 20.2"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING , WARNINGS and PRECAUTIONS . Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of Progesterone Capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse reactions greater than or equal to 2 percent of women who received cyclic Progesterone Capsules 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. TABLE 6. Adverse Reactions (≥ 2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] Progesterone Capsules 200 mg with Conjugated Estrogens 0.625 mg Placebo (n=178) (n=174) Headache 31 27 Breast Tenderness 27 6 Joint Pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal Bloating 12 5 Hot Flashes 11 35 Urinary Problems 11 9 Abdominal Pain 10 10 Vaginal Discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest Pain 7 5 Diarrhea 7 4 Night Sweats 7 17 Breast Pain 6 2 Swelling of Hands and Feet 6 9 Vaginal Dryness 6 10 Constipation 3 2 Breast Carcinoma 2 <1 Breast Excisional Biopsy 2 <1 Cholecystectomy 2 <1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of Progesterone Capsules on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse reactions greater than or equal to 5 percent of women who received Progesterone Capsules or placebo. TABLE 7. Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience Progesterone Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and Progesterone Capsules, 300 mg per day (n=113) or Progesterone Capsules, 400 mg per /day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience: The following additional adverse reactions have been reported with Progesterone Capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma-glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking, dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=11
+Page 11 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Endometrin"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS No formal drug-drug interaction studies have been conducted for Endometrin. Drugs known to induce the hepatic cytochrome-P450-3A4 system (such as rifampin, carbamazepine) may increase the elimination of progesterone. The effect of concomitant vaginal products on the exposure of progesterone from Endometrin has not been assessed. Endometrin is not recommended for use with other vaginal products (such as antifungal products) as this may alter progesterone release and absorption from the vaginal insert [see Warnings and Precautions (5.3) ]."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The most common adverse reactions reported (greater than 2%) were post-oocyte retrieval pain, abdominal pain, nausea, and ovarian hyperstimulation syndrome (6) This leaflet summarizes the most important information about Endometrin. To report SUSPECTED ADVERSE REACTIONS, contact Ferring at 1-888-FERRING (1-888-337-7464) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The safety data reflect exposure to Endometrin in 808 infertile women (74.9% White, 10.3% Hispanic, 5.4% Black, 5% Asian, and 4.6% Other) in a single Assisted Reproductive Technology 10 week clinical study conducted in the U.S. Endometrin was studied at doses of 100 mg twice daily and 100 mg three times daily. The adverse reactions that occurred at a rate greater than or equal to 2% in either Endometrin group are summarized in Table 1. Table 1: Number and Frequency of Reported Adverse Reactions in Women Treated with Endometrin in an Assisted Reproductive Technology Study FULL PRESCRIBING INFORMATION Body System Endometrin 100 mg twice daily (N=404) Endometrin 100 mg three times daily (N=404) Preferred Term Gastrointestinal Disorders Abdominal pain 50 (12%) 50 (12%) Nausea 32 (8%) 29 (7%) Abdominal distension 18 (4%) 17 (4%) Constipation 9 (2%) 14 (3%) Vomiting 13 (3%) 9 (2%) General Disorders and Administration Site Conditions Fatigue 7 (2%) 12 (3%) Infections and Infestations Urinary tract infection 9 (2%) 4 (1%) Injury, Poisoning and Procedural Complications Post-oocyte retrieval pain 115 (28%) 102 (25%) Nervous System Disorders Headache 15 (4%) 13 (3%) Reproductive System and Breast Disorders Ovarian hyperstimulation syndrome 30 (7%) 27 (7%) Uterine spasm 15 (4%) 11 (3%) Vaginal bleeding 13 (3%) 14 (3%) Other less common reported adverse reactions included vaginal irritation, itching, burning, discomfort, urticaria, and peripheral edema. 6.2 Expected Adverse Reaction Profile Seen with Progesterone Endometrin is also expected to have adverse reactions similar to other drugs containing progesterone that may include breast tenderness, bloating, mood swings, irritability, and drowsiness."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Life-threatening arterial or venous thromboembolic disorders may occur during hormone treatment, including treatment with Endometrin. Discontinue Endometrin if any of these are suspected (5.1) Observe patients with a history of depression closely. Consider discontinuation if symptoms worsen (5.2) Endometrin is not recommended for use with other vaginal products (such as antifungal products) as this may alter progesterone release and absorption from the vaginal insert (5.3) 5.1 Cardiovascular or Cerebrovascular Disorders The physician should be alert to earliest signs of myocardial infarction, cerebrovascular disorders, arterial or venous thromboembolism (venous thromboembolism or pulmonary embolism), thrombophlebitis, or retinal thrombosis. Endometrin should be discontinued if any of these are suspected. 5.2 Depression Patients with a history of depression need to be closely observed. Consider discontinuation if symptoms worsen. 5.3 Use of Other Vaginal Products Endometrin should not be recommended for use with other vaginal products (such as antifungal products as this may alter progesterone release and absorption from the vaginal insert [see Drug Interactions (7) ]."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=12
+Page 12 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Crinone"
+ 
+      "drug_interactions": [
+        "Drug Interactions No drug interactions have been assessed with Crinone®."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Assisted Reproductive Technology In a study of 61 women with ovarian failure undergoing a donor oocyte transfer procedure receiving Crinone® 8% twice daily, treatment-emergent adverse events occurring in 5% or more of the women are shown in Table 3. TABLE 3 Treatment-Emergent Adverse Events in ≥5% of Women Receiving Crinone® 8% Twice Daily Study COL1620-007US (n=61) Body as a Whole Bloating 7% Cramps NOS 15% Pain 8% Central and Peripheral Nervous System Dizziness 5% Headache 13% Gastro-Intestinal System Nausea 7% Reproductive, Female Breast Pain 13% Moniliasis Genital 5% Vaginal Discharge 7% Skin and Appendages Pruritus Genital 5% In a second clinical study of 139 women using Crinone® 8% once daily for luteal phase support while undergoing an in vitro fertilization procedure, treatment-emergent adverse events reported in ≥5% of the women are shown in Table 4. TABLE 4 Treatment-Emergent Adverse Events in ≥5% of Women Receiving Crinone® 8% Once Daily Study COL1620-F01 (n=139) Body as a Whole Abdominal Pain 12% Perineal Pain Female 17% Central and Peripheral Nervous System Headache 17% Gastro-Intestinal System Constipation 27% Diarrhea 8% Nausea 22% Vomiting 5% Musculo-Skeletal System Arthralgia 8% Psychiatric Depression 11% Libido Decreased 10% Nervousness 16% Somnolence 27% Reproductive, Female Breast Enlargement 40% Dyspareunia 6% Urinary System Nocturia 13% Secondary Amenorrhea In three studies, 127 women with secondary amenorrhea received estrogen replacement therapy and Crinone® 4% or 8% every other day for six doses. Treatment emergent adverse events during estrogen and Crinone® treatment that occurred in 5% or more of women are shown in Table 5. TABLE 5 Treatment-Emergent Adverse Events in ≥5% of Women Receiving Estrogen Treatment and Crinone® Every Other Day Studies COL1620-004US, COL1620-005US, COL1620-009US Estrogen + Crinone® 4% n=62 Estrogen + Crinone® 8% n=65 Body as a Whole Abdominal Pain 3 (5%) 6 (9%) Appetite Increased 3 (5%) 5 (8%) Bloating 8 (13%) 8 (12%) Cramps NOS 12 (19%) 17 (26%) Fatigue 13 (21%) 14 (22%) Central and Peripheral Nervous System Headache 12 (19%) 10 (15%) Gastro-Intestinal System Nausea 5 (8%) 4 (6%) Musculo-Skeletal System Back Pain 5 (8%) 2 (3%) Myalgia 5(8%) 0(0%) Psychiatric Depression 12 (19%) 10 (15%) Emotional Lability 14 (23%) 14 (22%) Sleep Disorder 11 (18%) 12 (18%) Reproductive, Female Vaginal Discharge 7 (11%) 2 (3%) Resistance Mechanism Upper Respiratory Tract Infection 3 (5%) 5 (8%) Skin and Appendages Pruitis genital 1 (2%) 4 (6%) Additional adverse events reported in women at a frequency <5% in Crinone® ART and secondary amenorrhea studies and not listed in the tables above include: Autonomic Nervous System–mouth dry, sweating increased Body as a Whole–abnormal crying, allergic reaction, allergy, appetite decreased, asthenia, edema, face edema, fever, hot flushes, influenza-like symptoms, water retention, xerophthalmia Cardiovascular, General–syncope Central and Peripheral Nervous System–migraine, tremor Gastro-Intestinal–dyspepsia, eructation, flatulence, gastritis, toothache Metabolic and Nutritional–thirst Musculo-Skeletal System–cramps legs, leg pain, skeletal pain Neoplasm–benign cyst Platelet, Bleeding & Clotting–purpura Psychiatric–aggressive reactions, forgetfulness, insomnia Red Blood Cell–anemia Reproductive, Female–dysmenorrhea, premenstrual tension, vaginal dryness Resistance Mechanism–infection, pharyngitis, sinusitis, urinary tract infection Respiratory System–asthma, dyspnea, hyperventilation, rhinitis Skin and Appendages–acne, pruritis, rash, seborrhea, skin discoloration, skin disorder, urticaria Urinary System–cystitis, dysuria, micturition frequency Vision Disorders–conjunctivitis"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=13
+Page 13 of 59
+        "generic_name": [
+          "A-KETOGLUTARICUM ACIDUM, ISOLEUCINE, L-ARGININE, L-CARNITINE, LEUCINE, L-ORNITHINE, VALINE, ESTRADIOL, FOLLICULINUM, PROGESTERONE, TESTOSTERONE, ESTRIOL,"
+        "brand_name": [
+          "Strength F"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=14
+Page 14 of 59
+        "generic_name": [
+          "ANDROSTENEDIONE, DEHYDROEPIANDROSTERONE, PREGNENOLONE, PROGESTERONE, TESTOSTERONE"
+        "brand_name": [
+          "Androbalance"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=15
+Page 15 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Prometrium"
+ 
+      "drug_interactions": [
+        "G. Drug Interactions The metabolism of progesterone by human liver microsomes was inhibited by ketoconazole (IC50 < 0.1 μM). Ketoconazole is a known inhibitor of cytochrome P450 3A4, hence these data suggest that ketoconazole or other known inhibitors of this enzyme may increase the bioavailability of progesterone. The clinical relevance of the in vitro findings is unknown. Co administration of conjugated estrogens and PROMETRIUM Capsules to 29 postmenopausal women over a 12-day period resulted in an increase in total estrone concentrations (Cmax 3.68 ng/mL to 4.93 ng/mL) and total equilin concentrations (Cmax 2.27 ng/mL to 3.22 ng/mL) and a decrease in circulating 17β estradiol concentrations (Cmax 0.037 ng/mL to 0.030 ng/mL). The half-life of the conjugated estrogens was similar with coadministration of PROMETRIUM Capsules. Table 2 summarizes the pharmacokinetic parameters. TABLE 2. Mean (± S.D.) Pharmacokinetic Parameters for Estradiol, Estrone, and Equilin Following Coadministration of Conjugated Estrogens 0.625 mg and PROMETRIUM Capsules 200 mg for 12 Days to Postmenopausal Women a Total estrogens is the sum of conjugated and unconjugated estrogen. Conjugated Estrogens Conjugated Estrogens plus PROMETRIUM Capsules Drug Cmax (ng/mL) Tmax (hr) AUC(0-24h) (ng × h/mL) Cmax (ng/mL) Tmax (hr) AUC(0-24h) (ng × h/mL) Estradiol 0.037 ± 0.048 12.7 ± 9.1 0.676 ± 0.737 0.030 ± 0.032 17.32 ± 1.21 0.561 ± 0.572 Estrone Total a 3.68 ± 1.55 10.6 ± 6.8 61.3 ± 26.36 4.93 ± 2.07 7.5 ± 3.8 85.9 ± 41.2 Equilin Total a 2.27 ± 0.95 6.0 ± 4.0 28.8 ± 13.0 3.22 ± 1.13 5.3 ± 2.6 38.1 ± 20.2"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING , WARNINGS and PRECAUTIONS . Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of PROMETRIUM Capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse reactions greater than or equal to 2 percent of women who received cyclic PROMETRIUM Capsules 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. TABLE 6. Adverse Reactions (≥ 2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] PROMETRIUM Capsules 200 mg with Conjugated Estrogens 0.625 mg Placebo (n=178) (n=174) Headache 31 27 Breast Tenderness 27 6 Joint Pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal Bloating 12 5 Hot Flashes 11 35 Urinary Problems 11 9 Abdominal Pain 10 10 Vaginal Discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest Pain 7 5 Diarrhea 7 4 Night Sweats 7 17 Breast Pain 6 2 Swelling of Hands and Feet 6 9 Vaginal Dryness 6 10 Constipation 3 2 Breast Carcinoma 2 <1 Breast Excisional Biopsy 2 <1 Cholecystectomy 2 <1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of PROMETRIUM Capsules on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse reactions greater than or equal to 5 percent of women who received PROMETRIUM Capsules or placebo. TABLE 7. Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience PROMETRIUM Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and PROMETRIUM Capsules, 300 mg per day (n=113) or PROMETRIUM Capsules, 400 mg per /day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience: The following additional adverse reactions have been reported with PROMETRIUM Capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma-glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking, dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=16
+Page 16 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Natural Progesterone"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=17
+Page 17 of 59
+        "generic_name": [
+          "SALSOLINOL HYDROCHLORIDE, CHOLESTERINUM, DHEA (DEHYDROEPIANDROSTERONE), 7-KETO-DHEA (DEHYDROEPIANDROSTERONE), FOLLICULINUM, OOPHORINUM (SUIS), PROGESTERONE, TESTOSTERONE, CORTISONE ACETICUM, ALDOSTERONE, ANDROSTERONE, FOLLICLE STIMULATING HORMONE"
+        "brand_name": [
+          "Hormone Combination"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=18
+Page 18 of 59
+        "generic_name": [
+          "DEHYDROEPIANDROSTERONE, ESTRADIOL, PREGNENOLONE, PROGESTERONE, TESTOSTERONE"
+        "brand_name": [
+          "Gynobalance"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=19
+Page 19 of 59
+        "generic_name": [
+          "DEHYDROEPIANDROSTERONE (DHEA), PREGNENOLONE, PROGESTERONE,"
+        "brand_name": [
+          "DHEA Forte"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=20
+Page 20 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Prometrium"
+ 
+      "drug_interactions": [
+        "G. Drug Interactions The metabolism of progesterone by human liver microsomes was inhibited by ketoconazole (IC50 < 0.1 μM). Ketoconazole is a known inhibitor of cytochrome P450 3A4, hence these data suggest that ketoconazole or other known inhibitors of this enzyme may increase the bioavailability of progesterone. The clinical relevance of the in vitro findings is unknown. Co administration of conjugated estrogens and PROMETRIUM Capsules to 29 postmenopausal women over a 12-day period resulted in an increase in total estrone concentrations (Cmax 3.68 ng/mL to 4.93 ng/mL) and total equilin concentrations (Cmax 2.27 ng/mL to 3.22 ng/mL) and a decrease in circulating 17β estradiol concentrations (Cmax 0.037 ng/mL to 0.030 ng/mL). The half-life of the conjugated estrogens was similar with coadministration of PROMETRIUM Capsules. Table 2 summarizes the pharmacokinetic parameters. TABLE 2. Mean (± S.D.) Pharmacokinetic Parameters for Estradiol, Estrone, and Equilin Following Coadministration of Conjugated Estrogens 0.625 mg and PROMETRIUM Capsules 200 mg for 12 Days to Postmenopausal Women a Total estrogens is the sum of conjugated and unconjugated estrogen. Conjugated Estrogens Conjugated Estrogens plus PROMETRIUM Capsules Drug Cmax (ng/mL) Tmax (hr) AUC(0-24h) (ng × h/mL) Cmax (ng/mL) Tmax (hr) AUC(0-24h) (ng × h/mL) Estradiol 0.037 ± 0.048 12.7 ± 9.1 0.676 ± 0.737 0.030 ± 0.032 17.32 ± 1.21 0.561 ± 0.572 Estrone Total a 3.68 ± 1.55 10.6 ± 6.8 61.3 ± 26.36 4.93 ± 2.07 7.5 ± 3.8 85.9 ± 41.2 Equilin Total a 2.27 ± 0.95 6.0 ± 4.0 28.8 ± 13.0 3.22 ± 1.13 5.3 ± 2.6 38.1 ± 20.2"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING , WARNINGS and PRECAUTIONS . Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of PROMETRIUM Capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse reactions greater than or equal to 2 percent of women who received cyclic PROMETRIUM Capsules 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. TABLE 6. Adverse Reactions (≥ 2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] PROMETRIUM Capsules 200 mg with Conjugated Estrogens 0.625 mg Placebo (n=178) (n=174) Headache 31 27 Breast Tenderness 27 6 Joint Pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal Bloating 12 5 Hot Flashes 11 35 Urinary Problems 11 9 Abdominal Pain 10 10 Vaginal Discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest Pain 7 5 Diarrhea 7 4 Night Sweats 7 17 Breast Pain 6 2 Swelling of Hands and Feet 6 9 Vaginal Dryness 6 10 Constipation 3 2 Breast Carcinoma 2 <1 Breast Excisional Biopsy 2 <1 Cholecystectomy 2 <1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of PROMETRIUM Capsules on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse reactions greater than or equal to 5 percent of women who received PROMETRIUM Capsules or placebo. TABLE 7. Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience PROMETRIUM Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and PROMETRIUM Capsules, 300 mg per day (n=113) or PROMETRIUM Capsules, 400 mg per /day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience: The following additional adverse reactions have been reported with PROMETRIUM Capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma-glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking, dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=21
+Page 21 of 59
+        "generic_name": [
+          "PROGESTERONE,"
+        "brand_name": [
+          "Progesterone Phenolic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=22
+Page 22 of 59
+        "generic_name": [
+          "AQUILEGIA VULGARIS, HYDRASTIS CANADENSIS, LILIUM TIGRINUM, BOVISTA, CYPRIPEDIUM PUBESCENS, APIOLUM, APIS VENENUM PURUM, FUNICULUS UMBILICALIS SUIS, GLANDULA SUPRARENALIS SUIS, HEART (SUIS), KREOSOTUM, OOPHORINUM (SUIS), UTERUS (SUIS), FOLLICULINUM, CIS-ACONITUM ACID, LACHESIS MUTUS, MAGNESIA PHOSPHORICA, MERCURIUS SOLUBILIS, SEPIA, PINEAL GLAND (SUIS), PITUITARIA GLANDULA (SUIS), ESTRADIOL, PROGESTERONE, TESTOSTERONE, PLACENTA TOTALIS SUIS, BACILLUS FAECALIS, MUTABILE BACILLUS (BACH)"
+        "brand_name": [
+          "Female Stimulant"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=23
+Page 23 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Natural Progesterone"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=24
+Page 24 of 59
+        "generic_name": [
+          "FOLLICULINUM, PROGESTERONE, GLYCERIN, SODIUM BENZOATE, CITRIC ACID"
+        "brand_name": [
+          "FEMALE BALANCE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=25
+Page 25 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Crinone"
+ 
+      "drug_interactions": [
+        "Drug Interactions No drug interactions have been assessed with Crinone."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Assisted Reproductive Technology In a study of 61 women with ovarian failure undergoing a donor oocyte transfer procedure receiving Crinone 8% twice daily, treatment-emergent adverse events occurring in 5% or more of the women are shown in Table 3. TABLE 3 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Crinone 8% Twice Daily Study COL1620-007US (n = 61) Body as a Whole Bloating 7% Cramps NOS 15% Pain 8% Central and Peripheral Nervous System Dizziness 5% Headache 13% Gastro-Intestinal System Nausea 7% Reproductive, Female Breast Pain 13% Moniliasis Genital 5% Vaginal Discharge 7% Skin and Appendages Pruritus Genital 5% In a second clinical study of 139 women using Crinone 8% once daily for luteal phase support while undergoing an in vitro fertilization procedure, treatment-emergent adverse events reported in ≥ 5% of the women are shown in Table 4. TABLE 4 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Crinone 8% Once Daily Study COL1620-F01 (n = 139) Body as a Whole Abdominal Pain 12% Perineal Pain Female 17% Central and Peripheral Nervous System Headache 17% Gastro-Intestinal System Constipation 27% Diarrhea 8% Nausea 22% Vomiting 5% Musculo-Skeletal System Arthralgia 8% Psychiatric Depression 11% Libido Decreased 10% Nervousness 16% Somnolence 27% Reproductive, Female Breast Enlargement 40% Dyspareunia 6% Urinary System Nocturia 13% Secondary Amenorrhea In three studies, 127 women with secondary amenorrhea received estrogen replacement therapy and Crinone 4% or 8% every other day for six doses. Treatment-emergent adverse events during estrogen and Crinone treatment that occurred in 5% or more of women are shown in Table 5. TABLE 5 Treatment-Emergent Adverse Events in ≥ 5% of Women Receiving Estrogen Treatment and Crinone Every Other Day Studies COL1620-004US, COL1620-005US, COL1620-009US Estrogen + Crinone 4% n = 62 Estrogen + Crinone 8% n = 65 Body as a Whole Abdominal Pain 3 (5%) 6 (9%) Appetite Increased 3 (5%) 5 (8%) Bloating 8 (13%) 8 (12%) Cramps NOS 12 (19%) 17 (26%) Fatigue 13 (21%) 14 (22%) Central and Peripheral Nervous System Headache 12 (19%) 10 (15%) Gastro-Intestinal System Nausea 5 (8%) 4 (6%) Musculo-Skeletal System Back Pain 5 (8%) 2 (3%) Myalgia 5 (8%) 0 (0%) Psychiatric Depression 12 (19%) 10 (15%) Emotional Lability 14 (23%) 14 (22%) Sleep Disorder 11 (18%) 12 (18%) Reproductive, Female Vaginal Discharge 7 (11%) 2 (3%) Resistance Mechanism Upper Respiratory Tract Infection 3 (5%) 5 (8%) Skin and Appendages Pruritus Genital 1 (2%) 4 (6%)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=26
+Page 26 of 59
+        "generic_name": [
+          "SQUALENE, CHOLESTERINUM, ESTRADIOL, PROGESTERONE, ASPARTAME, BENZALKONIUM CHLORIDE, FORMALINUM, METHYLENE CHLORIDE, METHYL PARABEN, PROPYL PARABEN, SODIUM BENZOATE, SODIUM CITRATE, TITANIUM DIOXIDE, ZINCUM OXYDATUM, ARSENICUM ALBUM, LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORICUM ACIDUM, PHOSPHORUS, ACETICUM ACIDUM, ADRENOCORTICOTROPHIN, BENZOICUM ACIDUM, BENZYL ALCOHOL, BORICUM ACIDUM, CHLORINUM, CORTISONE ACETICUM, EUGENOL, FOLLICULINUM, ISOPROPYL PALMITATE, LACTICUM ACIDUM, PETROLEUM JELLY"
+        "brand_name": [
+          "Lipotox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=27
+Page 27 of 59
+        "generic_name": [
+          "PROGESTERONE,"
+        "brand_name": [
+          "Progesterone"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=28
+Page 28 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Breakthrough bleeding; spotting; change in menstrual flow; amenorrhea; edema; change in weight (increase or decrease); changes in cervical erosion and cervical secretions; cholestatic jaundice; breast tenderness and galactorrhea; pain, irritation, and/or redness at the injection area; skin sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash; acne, alopecia and hirsutism; rash (allergic) with and without pruritus; anaphylactoid reactions; mental depression; pyrexia; insomnia; nausea; and somnolence. A statistically significant association has been demonstrated between use of estrogen-progestin combination drugs and pulmonary embolism and cerebral thrombosis and embolism. For this reason patients on progestin therapy should be carefully observed. There is also evidence suggestive of an association with neuro-ocular lesions, e.g., retinal thrombosis and optic neuritis. The following adverse reactions have been observed in patients receiving estrogen-progestin combination drugs: rise in blood pressure in susceptible individual, premenstrual syndrome, changes in libido, changes in appetite, cystitis-like syndrome, headache, nervousness, fatigue, backache, hirsutism, loss of scalp hair, erythema multiforme, erythema nodosum, hemorrhagic eruption, itching, and dizziness. The following laboratory results may be altered by the use of estrogen-progestin combination drugs: increased sulfobromophthalein retention and other hepatic function tests; coagulation tests: increase in prothrombin factors VII, VIII, IX, and X; metyrapone test; pregnanediol determinations; thyroid function: increase in PBI, and butanol extractable protein bound iodine and decrease in T3 uptake values."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=29
+Page 29 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+      "drug_interactions": [
+        "G. Drug Interactions The metabolism of progesterone by human liver microsomes was inhibited by ketoconazole (IC50 < 0.1 μM). Ketoconazole is a known inhibitor of cytochrome P450 3A4, hence these data suggest that ketoconazole or other known inhibitors of this enzyme may increase the bioavailability of progesterone. The clinical relevance of the in vitro findings is unknown. Coadministration of conjugated estrogens and Progesterone Capsules to 29 postmenopausal women over a 12-day period resulted in an increase in total estrone concentrations (Cmax 3.68 ng/mL to 4.93 ng/mL) and total equilin concentrations (Cmax 2.27 ng/mL to 3.22 ng/mL) and a decrease in circulating 17β estradiol concentrations (Cmax 0.037 ng/mL to 0.030 ng/mL). The half-life of the conjugated estrogens was similar with coadministration of Progesterone Capsules. Table 2 summarizes the pharmacokinetic parameters. TABLE 2. Mean (± S.D.) Pharmacokinetic Parameters for Estradiol, Estrone, and Equilin Following Coadministration of Conjugated Estrogens 0.625 mg and Progesterone Capsules 200 mg for 12 Days to Postmenopausal Women a Total estrogens is the sum of conjugated and unconjugated estrogen. Conjugated Estrogens Conjugated Estrogens plus Progesterone Capsules Drug Cmax (ng/mL) Tmax (hr) AUC(0-24h) (ng × h/mL) Cmax (ng/mL) Tmax (hr) AUC(0-24h) (ng × h/mL) Estradiol 0.037 ± 0.048 12.7 ± 9.1 0.676 ± 0.737 0.030 ± 0.032 17.32 ± 1.21 0.561 ± 0.572 Estrone Total a 3.68 ± 1.55 10.6 ± 6.8 61.3 ± 26.36 4.93 ± 2.07 7.5 ± 3.8 85.9 ± 41.2 Equilin Total a 2.27 ± 0.95 6.0 ± 4.0 28.8 ± 13.0 3.22 ± 1.13 5.3 ± 2.6 38.1 ± 20.2"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING , WARNINGS and PRECAUTIONS . Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of Progesterone Capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse reactions greater than or equal to 2 percent of women who received cyclic Progesterone Capsules 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. TABLE 6. Adverse Reactions (≥ 2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] Progesterone Capsules 200 mg with Conjugated Estrogens 0.625 mg Placebo (n=178) (n=174) Headache 31 27 Breast Tenderness 27 6 Joint Pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal Bloating 12 5 Hot Flashes 11 35 Urinary Problems 11 9 Abdominal Pain 10 10 Vaginal Discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest Pain 7 5 Diarrhea 7 4 Night Sweats 7 17 Breast Pain 6 2 Swelling of Hands and Feet 6 9 Vaginal Dryness 6 10 Constipation 3 2 Breast Carcinoma 2 <1 Breast Excisional Biopsy 2 <1 Cholecystectomy 2 <1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of Progesterone Capsules on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse reactions greater than or equal to 5 percent of women who received Progesterone Capsules or placebo. TABLE 7. Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience Progesterone Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and Progesterone Capsules, 300 mg per day (n=113) or Progesterone Capsules, 400 mg per /day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience: The following additional adverse reactions have been reported with Progesterone Capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma-glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking, dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=30
+Page 30 of 59
+        "generic_name": [
+          "ARSENIC TRIOXIDE - ESTRADIOL - GOLDENSEAL - LACHESIS MUTA VENOM - MAGNESIUM PHOSPHATE - MATRICARIA RECUTITA - MELATONIN - PROGESTERONE - STRYCHNOS NUX-VOMICA SEED - SULFUR - SUS SCROFA OVARY - SUS SCR"
+        "brand_name": [
+          "GUNA-PMS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=31
+Page 31 of 59
+        "generic_name": [
+          "SALSOLINOL HYDROCHLORIDE, CHOLESTERINUM, DHEA (DEHYDROEPIANDROSTERONE), 7-KETO-DHEA (DEHYDROEPIANDROSTERONE), FOLLICULINUM, OOPHORINUM (SUIS), PROGESTERONE, TESTOSTERONE, CORTISONE ACETICUM, ALDOSTERONE, ANDROSTERONE, FOLLICLE STIMULATING HORMONE"
+        "brand_name": [
+          "Hormone Combination"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=32
+Page 32 of 59
+        "generic_name": [
+          "DAMIANA, LECITHINUM,PHOSPHORICUM ACIDUM,SABAL SERRATA, CHOSESTERINUM,DNA,HYPOTHALAMUS,ADRENAL CORTEX, DHEA,PREGNENOLONE,PROGESTERONE,TESTOSTERONE"
+        "brand_name": [
+          "TOTAL ANDRO-BAL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=33
+Page 33 of 59
+        "generic_name": [
+          "DEHYDRO-EPI-ANDROSTERONE (DHEA), ESTRADIOL, PITUITARY (SUIS), PREGNOENOLONE, PROGESTERONE, SPLEEN (BOVINE), TESTOSTERONE, THYMUS (SUIS), THYROIDINUM (SUIS)"
+        "brand_name": [
+          "IMMUNE FORTE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=34
+Page 34 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Prochieve"
+ 
+      "drug_interactions": [
+        "Drug Interactions No drug interactions have been assessed with Prochieve®."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Assisted Reproductive Technology In a study of 61 women with ovarian failure undergoing a donor oocyte transfer procedure receiving Prochieve® 8% twice daily, treatment-emergent adverse events occurring in 5% or more of the women are shown in Table 3. TABLE 3 Treatment-Emergent Adverse Events in ≥5% of Women Receiving Prochieve® 8% Twice Daily Study COL1620-007US (n=61) Body as a Whole Bloating 7% Cramps NOS 15% Pain 8% Central and Peripheral Nervous System Dizziness 5% Headache 13% Gastro-Intestinal System Nausea 7% Reproductive, Female Breast Pain 13% Moniliasis Genital 5% Vaginal Discharge 7% Skin and Appendages Pruritus Genital 5% In a second clinical study of 139 women using Prochieve® 8% once daily for luteal phase support while undergoing an in vitro fertilization procedure, treatment-emergent adverse events reported in ≥5% of the women are shown in Table 4. TABLE 4 Treatment-Emergent Adverse Events in ≥5% of Women Receiving Prochieve® 8% Once Daily Study COL1620-F01 (n=139) Body as a Whole Abdominal Pain 12% Perineal Pain Female 17% Central and Peripheral Nervous System Headache 17% Gastro-Intestinal System Constipation 27% Diarrhea 8% Nausea 22% Vomiting 5% Musculo-Skeletal System Arthralgia 8% Psychiatric Depression 11% Libido Decreased 10% Nervousness 16% Somnolence 27% Reproductive, Female Breast Enlargement 40% Dyspareunia 6% Urinary System Nocturia 13% Secondary Amenorrhea In three studies, 127 women with secondary amenorrhea received estrogen replacement therapy and Prochieve® 4% or 8% every other day for six doses. Treatment emergent adverse events during estrogen and Prochieve® treatment that occurred in 5% or more of women are shown in Table 5. TABLE 5 Treatment-Emergent Adverse Events in ≥5% of Women Receiving Estrogen Treatment and Prochieve® Every Other Day Studies COL1620-004US, COL1620-005US, COL1620-009US Estrogen + Prochieve® 4% n=62 Estrogen + Prochieve® 8% n=65 Body as a Whole Abdominal Pain 3 (5%) 6 (9%) Appetite Increased 3 (5%) 5 (8%) Bloating 8 (13%) 8 (12%) Cramps NOS 12 (19%) 17 (26%) Fatigue 13 (21%) 14 (22%) Central and Peripheral Nervous System Headache 12 (19%) 10 (15%) Gastro-Intestinal System Nausea 5 (8%) 4 (6%) Musculo-Skeletal System Back Pain 5 (8%) 2 (3%) Myalgia 5.(8%) 0 (0%) Psychiatric Depression 12 (19%) 10 (15%) Emotional Lability 14 (23%) 14 (22%) Sleep Disorder 11 (18%) 12 (18%) Reproductive, Female Vaginal Discharge 7 (11%) 2 (3%) Resistance Mechanism Upper Respiratory Tract Infection 3 (5%) 5 (8%) Skin and Appendages Pruitis genital 1 (2%) 4 (6%) Additional adverse events reported in women at a frequency <5% in Prochieve® ART and secondary amenorrhea studies and not listed in the tables above include: Autonomic Nervous System–mouth dry, sweating increased Body as a Whole–abnormal crying, allergic reaction, allergy, appetite decreased, asthenia, edema, face edema, fever, hot flushes, influenza-like symptoms, water retention, xerophthalmia Cardiovascular, General–syncope Central and Peripheral Nervous System–migraine, tremor Gastro-Intestinal–dyspepsia, eructation, flatulence, gastritis, toothache Metabolic and Nutritional–thirst Musculo-Skeletal System–cramps legs, leg pain, skeletal pain Neoplasm–benign cyst Platelet, Bleeding & Clotting–purpura Psychiatric–aggressive reactions, forgetfulness, insomnia Red Blood Cell–anemia Reproductive, Female–dysmenorrhea, premenstrual tension, vaginal dryness Resistance Mechanism–infection, pharyngitis, sinusitis, urinary tract infection Respiratory System–asthma, dyspnea, hyperventilation, rhinitis Skin and Appendages–acne, pruritis, rash, seborrhea, skin discoloration, skin disorder, urticaria Urinary System–cystitis, dysuria, micturition frequency Vision Disorders–conjunctivitis"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=35
+Page 35 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "PROGESTERONE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The metabolism of progesterone by human liver microsomes was inhibited by ketoconazole (IC50 < 01 μM). Ketoconazole is a known inhibitor of cytochrome P450 3A4 and these data suggest that ketoconazole or other known inhibitors of this enzyme may increase the bioavailability of progesterone. The clinical relevance of the in vitro findings is unknown."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Breakthrough bleeding; spotting; change in menstrual flow; amenorrhea; edema; change in weight (increase or decrease); changes in cervical erosion and cervical secretions; cholestatic jaundice; breast tenderness and galactorrhea; pain, irritation, and/or redness at the injection area; skin sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash; acne, alopecia and hirsutism; rash (allergic) with and without pruritus; anaphylactoid reactions; mental depression; pyrexia; insomnia; nausea; and somnolence. A statistically significant association has been demonstrated between use of estrogen-progestin combination drugs and pulmonary embolism and cerebral thrombosis and embolism. For this reason patients on progestin therapy should be carefully observed. There is also evidence suggestive of an association with neuro-ocular lesions, e.g., retinal thrombosis and optic neuritis. The following adverse reactions have been observed in patients receiving estrogen-progestin combination drugs: rise in blood pressure in susceptible individual, premenstrual syndrome, changes in libido, changes in appetite, cystitis-like syndrome, headache, nervousness, fatigue, backache, hirsutism, loss of scalp hair, erythema multiforme, erythema nodosum, hemorrhagic eruption, itching, and dizziness. The following laboratory results may be altered by the use of estrogen-progestin combination drugs: increased sulfobromophthalein retention and other hepatic function tests; coagulation tests: increase in prothrombin factors VII, VIII, IX, and X; metyrapone test; pregnanediol determinations; thyroid function: increase in PBI and butanol extractable protein bound iodine, and decrease in T3 uptake values."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=36
+Page 36 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Breakthrough bleeding; spotting; change in menstrual flow; amenorrhea; edema; change in weight (increase or decrease); changes in cervical erosion and cervical secretions; cholestatic jaundice; breast tenderness and galactorrhea; pain, irritation, and/or redness at the injection area; skin sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash; acne, alopecia and hirsutism; rash (allergic) with and without pruritus; anaphylactoid reactions; mental depression; pyrexia; insomnia; nausea; and somnolence. A statistically significant association has been demonstrated between use of estrogen-progestin combination drugs and pulmonary embolism and cerebral thrombosis and embolism. For this reason patients on progestin therapy should be carefully observed. There is also evidence suggestive of an association with neuro-ocular lesions, e.g., retinal thrombosis and optic neuritis. The following adverse reactions have been observed in patients receiving estrogen-progestin combination drugs: Rise in blood pressure in susceptible individual, premenstrual syndrome, changes in libido, changes in appetite, cystitis-like syndrome, headache, nervousness, fatigue, backache, hirsutism, loss of scalp hair, erythema multiforme, erythema nodosum, hemorrhagic eruption, itching, and dizziness. The following laboratory results may be altered by the use of estrogen-progestin combination drugs: increased sulfobromophthalein retention and other hepatic function tests; coagulation tests: increase in prothrombin factors VII, VIII, IX, and X; metyrapone test; pregnanediol determinations; thyroid function: increase in PBI, and butanol extractable protein bound iodine and decrease in T3 uptake values."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=37
+Page 37 of 59
+        "generic_name": [
+          "SALSOLINOL HYDROCHLORIDE, CHOLESTERINUM, DEHYDROEPIANDRSTERONE, FOLLICULINUM, OOPHORINUM (SUIS), PROGESTERONE, TESTOSTERONE, CORTISONE ACETICUM, ALDOSTERONE, ANDROSTERONE, FOLLICLE STIMULATING HORMONE,"
+        "brand_name": [
+          "Hormone Combination"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=38
+Page 38 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=39
+Page 39 of 59
+        "generic_name": [
+          "ADRENAL,BELLADONNA,CHELIDONIUM,DIOSCOREAVILLOSA,FOLLICULINUM,HYPOTHALAMUS,ARGININE,LILIUMTIGRINIUM,LIVER,OOPHORINUM,PINEAL,PITUITARINUM,PLACENTANIUM,PROGESTERONE"
+        "brand_name": [
+          "TOTAL PRO-JES"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=40
+Page 40 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Breakthrough bleeding; spotting; change in menstrual flow; amenorrhea; edema; change in weight (increase or decrease); changes in cervical erosion and cervical secretions; cholestatic jaundice; breast tenderness and galactorrhea; pain, irritation, and/or redness at the injection area; skin sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash; acne, alopecia and hirsutism; rash (allergic) with and without pruritus; anaphylactoid reactions; mental depression; pyrexia; insomnia; nausea; and somnolence. A statistically significant association has been demonstrated between use of estrogen-progestin combination drugs and pulmonary embolism and cerebral thrombosis and embolism. For this reason patients on progestin therapy should be carefully observed. There is also evidence suggestive of an association with neuro-ocular lesions, e.g., retinal thrombosis and optic neuritis. The following adverse reactions have been observed in patients receiving estrogen-progestin combination drugs: Rise in blood pressure in susceptible individual, premenstrual syndrome, changes in libido, changes in appetite, cystitis-like syndrome, headache, nervousness, fatigue, backache, hirsutism, loss of scalp hair, erythema multiforme, erythema nodosum, hemorrhagic eruption, itching, and dizziness. The following laboratory results may be altered by the use of estrogen-progestin combination drugs: increased sulfobromophthalein retention and other hepatic function tests; coagulation tests: increase in prothrombin factors VII, VIII, IX, and X; metyrapone test; pregnanediol determinations; thyroid function: increase in PBI, and butanol extractable protein bound iodine and decrease in T3 uptake values."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=41
+Page 41 of 59
+        "generic_name": [
+          "DEHYDROEPIANDROSTERONE, ESTRADIOL, PREGNENOLONE, PROGESTERONE, TESTOSTERONE,"
+        "brand_name": [
+          "Gynobalance"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=42
+Page 42 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "PROGESTERONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING, WARNINGS and PRECAUTIONS. Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse experiences greater than or equal to 2 percent of women who received cyclic progesterone capsules, 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. Table 6. Adverse Experiences (≥2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] Progesterone capsules 200 mg with Congugated Estrogens 0.625 mg Placebo (n=178) (n=174) Headache 31 27 Breast Tenderness 27 6 Joint Pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal Bloating 12 5 Hot Flashes 11 35 Urinary Problems 11 9 Abdominal Pain 10 10 Vaginal Discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest Pain 7 5 Diarrhea 7 4 Night Sweats 7 17 Breast Pain 6 2 Swelling of Hands and Feet 6 9 Vaginal Dryness 6 10 Constipation 3 2 Breast Carcinoma 2 <1 Breast Excisional Biopsy 2 <1 Cholecystectomy 2 <1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse experiences greater than or equal to 5 percent of women who received progesterone or placebo. Table 7. Adverse Experiences (≥5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience Progesterone Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and progesterone capsules, 300 mg per day (n=113) or Progesterone Capsules, 400 mg per day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience The following additional adverse reactions have been reported with progesterone capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma‑glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking. dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=43
+Page 43 of 59
+        "generic_name": [
+          "HYDRASTIS CANADENSIS, TARAXACUM OFFICINALE, APIOLUM, ASPARAGINE, BENZOICUM ACIDUM, CHOLINUM, CINNAMIC ACID, COUMARINUM, EUGENOL, FOLIC ACID, FOLLICULINUM, FORMALINUM, GABA (GAMMA-AMINOBUTYRIC ACID), HISTAMINUM HYDROCHLORICUM, MENADIONE, OCTOPAMINE, OOPHORINUM (SUIS), PHENYL ISOTHIOCYANATE, PIPERINE, PROGESTERONE, QUERCETIN, RUTIN, SACCHARUM LACTIS, VANILLYLAMINE, XANTHINE"
+        "brand_name": [
+          "Allermilk"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=44
+Page 44 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=45
+Page 45 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Prometrium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNINGS, WARNINGS , and PRECAUTIONS . Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximate rates. Endometrial Protection: Table 8 lists adverse experiences which were reported in greater than or equal to 2% of patients (regardless of relationship to treatment) who received cyclic PROMETRIUM Capsules, 200 mg daily (12 days per calendar month cycle) with daily 0.625 mg conjugated estrogen, in a multicenter, randomized, double-blind, placebo-controlled clinical trial in 875 postmenopausal women. TABLE 8 Adverse Experiences (≥2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] PROMETRIUM Capsules 200 mg with Conjugated Estrogens 0.625 mg Conjugated Estrogens 0.625 mg (only) Placebo (n=178) (n=175) (n=174) Headache 31 30 27 Breast Tenderness 27 16 6 Joint Pain 20 22 29 Depression 19 18 12 Dizziness 15 5 9 Abdominal Bloating 12 10 5 Hot Flashes 11 14 35 Urinary Problems 11 10 9 Abdominal Pain 10 13 10 Vaginal Discharge 10 10 3 Nausea / Vomiting 8 6 7 Worry 8 5 4 Chest Pain 7 4 5 Diarrhea 7 7 4 Night Sweats 7 5 17 Breast Pain 6 6 2 Swelling of Hands and Feet 6 9 9 Vaginal Dryness 6 8 10 Constipation 3 3 2 Breast Carcinoma 2 less than 1 less than 1 Breast Excisional Biopsy 2 1 less than 1 Cholecystectomy 2 less than 1 less than 1 Secondary Amenorrhea: Table 9 lists adverse experiences which were reported in greater than or equal to 5% of patients receiving PROMETRIUM Capsules, 400 mg/day, in a multicenter, randomized, double-blind, placebo-controlled clinical trial in estrogen-primed (6 weeks) postmenopausal women receiving conjugated estrogens 0.625 mg/day and cyclic (10 days per calendar month cycle) PROMETRIUM Capsules at a dose of 400 mg/day, for three cycles. TABLE 9 Adverse Experiences (≥5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience PROMETRIUM Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 The most common adverse experiences reported in greater than or equal to 5% of patients in all PROMETRIUM Capsules dosage groups studied in this trial (100 mg/day to 400 mg/day) were: dizziness (16%), breast pain (11%), headache (10%), abdominal pain (10%), fatigue (9%), viral infection (7%), abdominal distention (6%), musculoskeletal pain (6%), emotional lability (6%), irritability (5%), and upper respiratory tract infection (5%). Other adverse events reported in less than 5% of patients taking PROMETRIUM Capsules include: Administration Site Conditions: edema, edema peripheral Blood and Lymphatic System: lymphadenopathy Cardiac Disorders: angina pectoris, palpitation Ear and Labyrinth Disorders: earache Eye Disorders: abnormal vision Gastrointestinal System Disorders: constipation, dry mouth, dyspepsia, gastroenteritis, hemorrhagic rectum, hiatus hernia, vomiting General Disorders: chest pain, fever Infections: abscess, herpes simplex Injury, Poisoning and Procedural Complications: accidental injury Musculoskeletal and Connective Tissue Disorders: arthritis, leg cramps, muscle disorder, myalgia Nervous System Disorders: hypertonia, impaired concentration, somnolence, speech disorder Psychiatric Disorders: anxiety, confusion, insomnia, personality disorder Renal and Urinary Disorders: urinary tract infection Reproductive System Disorders: fungal vaginitis, leukorrhea, uterine fibroid, vaginal dryness, vaginitis Respiratory System Disorders: bronchitis, nasal congestion, pharyngitis, pneumonitis, sinusitis Skin and Subcutaneous Tissue Disorders: acne, verruca, wound debridement Vascular Disorders: hypertension The following adverse experiences have been reported with PROMETRIUM Capsules in other U.S. clinical trials: increased sweating, asthenia, tooth disorder, anorexia, increased appetite, nervousness, and breast enlargement. In addition to the adverse events observed in clinical trials, the following spontaneous adverse events have been reported during the marketing of PROMETRIUM Capsules. Cardiac Disorders: circulatory collapse, tachycardia Congenital, Familial, and Genetic Disorders: cleft lip, cleft palate, congenital heart disease, patent ductus arteriosus, ventricular septal defect Ear and Labyrinth Disorders: tinnitus, vertigo Eye Disorders: blurred vision, diplopia, visual disturbance Gastrointestinal Disorders: acute pancreatitis, dysphagia, swollen tongue General Disorders and Administration Site Conditions: abnormal gait, difficulty walking, feeling abnormal, feeling drunk Hepatobiliary Disorders: cholestasis, cholestatic hepatitis, jaundice, hepatitis, hepatic failure, hepatic necrosis, increased liver function tests Immune System Disorders: anaphylactic reaction, hypersensitivity Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, gamma-glutamyl transferase increased, hepatic enzyme increased, blood glucose increased, weight decreased, weight increased Musculoskeletal Disorders: arthralgia, muscle cramp Neoplasms Benign, Malignant, and Unspecified: endometrial carcinoma Nervous System Disorders: convulsion, depressed consciousness, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack Pregnancy, Puerperium, and Perinatal Conditions: intra-uterine death, spontaneous abortion Psychiatric Disorders: aggression, depersonalization, disorientation, suicidal ideation, Reproductive System and Breast Disorders: menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst Respiratory, Thoracic, and Mediastinal Disorders: asthma, choking, dyspnea, face edema, throat tightness Skin and Subcutaneous Tissue Disorders: alopecia, pruritus, urticaria Vascular Disorders: hypertension, hypotension The following additional adverse experiences have been observed in women taking estrogen and/or progestins in general: breakthrough bleeding, spotting, change in menstrual flow, amenorrhea, changes in weight (increase or decrease), changes in the cervical squamo-columnar junction and cervical secretions, cholestatic jaundice, anaphylactoid reactions and anaphylaxis, rash (allergic) with and without pruritus, melasma or chloasma, that may persist when drug is discontinued, dysmenorrhea, increase in size of uterine leiomyomata, ovarian cancer, endometrial hyperplasia, endometrial cancer, galactorrhea, nipple discharge, increased incidence of gallbladder disease, enlargement of hepatic hemangiomas, erythema multiforme, erythema nodosum, hirsutism, hemorrhagic eruption, intolerance to contact lenses, migraine, chorea, reduced carbohydrate tolerance, aggravation of porphyria, changes in libido, hypocalcemia, angioedema, exacerbation of asthma, increased triglycerides."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=46
+Page 46 of 59
+        "generic_name": [
+          "PROGESTERONE INJECTION"
+        "brand_name": [
+          "Progesterone Injection USP"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Breakthrough bleeding; spotting; change in menstrual flow; amenorrhea; edema; change in weight (increase or decrease); changes in cervical erosion and cervical secretions; cholestatic jaundice; breast tenderness and galactorrhea; pain, irritation, and/or redness at the injection area; skin sensitivity reactions consisting of urticaria, pruritus, edema and generalized rash; acne, alopecia and hirsutism; rash (allergic) with and without pruritus; anaphylactoid reactions; mental depression; pyrexia; insomnia; nausea; and somnolence. A statistically significant association has been demonstrated between use of estrogen-progestin combination drugs and pulmonary embolism and cerebral thrombosis and embolism. For this reason patients on progestin therapy should be carefully observed. There is also evidence suggestive of an association with neuro-ocular lesions, e.g., retinal thrombosis and optic neuritis. The following adverse reactions have been observed in patients receiving estrogen-progestin combination drugs: Rise in blood pressure in susceptible individual, premenstrual syndrome, changes in libido, changes in appetite, cystitis-like syndrome, headache, nervousness, fatigue, backache, hirsutism, loss of scalp hair, erythema multiforme, erythema nodosum, hemorrhagic eruption, itching, and dizziness. The following laboratory results may be altered by the use of estrogen-progestin combination drugs: increased sulfobromophthalein retention and other hepatic function tests; coagulation tests: increase in prothrombin factors VII, VIII, IX, and X; metyrapone test; pregnanediol determinations; thyroid function: increase in PBI, and butanol extractable protein bound iodine and decrease in T3 uptake values."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=47
+Page 47 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "PROGESTERONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING, WARNINGS and PRECAUTIONS. Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse experiences greater than or equal to 2 percent of women who received cyclic progesterone capsules, 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. Table 6. Adverse Experiences (≥2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] Progesterone capsules 200 mg with Congugated Estrogens 0.625 mg Placebo (n=178) (n=174) Headache 31 27 Breast Tenderness 27 6 Joint Pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal Bloating 12 5 Hot Flashes 11 35 Urinary Problems 11 9 Abdominal Pain 10 10 Vaginal Discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest Pain 7 5 Diarrhea 7 4 Night Sweats 7 17 Breast Pain 6 2 Swelling of Hands and Feet 6 9 Vaginal Dryness 6 10 Constipation 3 2 Breast Carcinoma 2 <1 Breast Excisional Biopsy 2 <1 Cholecystectomy 2 <1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse experiences greater than or equal to 5 percent of women who received progesterone or placebo. Table 7. Adverse Experiences (≥5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience Progesterone Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and progesterone capsules, 300 mg per day (n=113) or Progesterone Capsules, 400 mg per day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience The following additional adverse reactions have been reported with progesterone capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma­glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking. dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=48
+Page 48 of 59
+        "generic_name": [
+          "DEHYDROEPIANDROSTERONE (DHEA), PREGNENOLONE, PROGESTERONE,"
+        "brand_name": [
+          "DHEA Forte"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=49
+Page 49 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING, WARNINGS and PRECAUTIONS. Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of Progesterone Capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse reactions greater than or equal to 2 percent of women who received cyclic Progesterone Capsules 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. Table 6 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of Progesterone on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse reactions greater than or equal to 5 percent of women who received Progesterone capsules or placebo. In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28 day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and Progesterone Capsules, 300 mg per day (n=113) or Progesterone Capsules, 400 mg per day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Table 7 Postmarketing Experience: The following additional adverse reactions have been reported with Progesterone Capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma-glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking, dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=50
+Page 50 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "Progesterone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING, WARNINGS and PRECAUTIONS. Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse reactions greater than or equal to 2 percent of women who received cyclic progesterone capsule, 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. Table 6. Adverse Experiences (≥ 2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3 Year Period [Percentage (%) of Patients Reporting] Progesterone Capsules 200 mg with Conjugated Estrogens 0.625 mg Placebo (n = 178) (n = 174) Headache 31 27 Breast tenderness 27 6 Joint pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal bloating 12 5 Hot flashes 11 35 Urinary problems 11 9 Abdominal pain 10 10 Vaginal discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest pain 7 5 Diarrhea 7 4 Night sweats 7 17 Breast pain 6 2 Swelling of hands and feet 6 9 Vaginal dryness 6 10 Constipation 3 2 Breast carcinoma 2 < 1 Breast excisional biopsy 2 < 1 Cholecystectomy 2 < 1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone capsules on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse reactions greater than or equal to 5 percent of women who received progesterone capsules or placebo. Table 7. Adverse Experiences (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen Primed Postmenopausal Women Adverse Experience Progesterone Capsules 400 mg Placebo n = 25 n = 24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal distention (bloating) 8 8 Abdominal pain (cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back pain 8 8 Musculoskeletal pain 12 4 Irritability 8 4 Breast pain 16 8 Infection viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28 day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and progesterone capsules, 300 mg per day (n = 113) or progesterone capsules, 400 mg per day (n = 107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience The following additional adverse reactions have been reported with progesterone capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System Endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular Circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal Acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma-glutamyl transferase increased), jaundice, swollen tongue. Skin Alopecia, pruritus, urticaria. Eyes Blurred vision, diplopia, visual disturbance. Central Nervous System Aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous Abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking, dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=51
+Page 51 of 59
+        "generic_name": [
+          "DHEA (DEHYDROEPINDROSTERONE), ESTROGEN, PROGESTERONE, TESTOSTERONE, PLACENTA TOTALIS SUIS, GLANDULA SUPRARENALIS SUIS, OOPHORINUM (SUIS), ORICHITINUM (SUIS), SEPIA, BACILLUS FAECALIS"
+        "brand_name": [
+          "Hormone Mix System Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=52
+Page 52 of 59
+        "generic_name": [
+          "PROGESTERONE,"
+        "brand_name": [
+          "Progesterone"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=53
+Page 53 of 59
+        "generic_name": [
+          "SEROTONIN HYDROCHLORIDE, 5-HYDROXYTRYPTOPHAN, ACETALDEHYDE, ACETYLCHOLINE CHLORIDE, APIOLUM, ASCORBIC ACID, ASPARTAME, BUTYLATED HYDROXYTOLUENE, CAFFEIC ACID, CHLOROGENIC ACID, CINNAMIC ACID, CONIFERYL ALCOHOL, COUMARINUM, DOPAMINE HYDROCHLORIDE, ESTRADIOL, GALLICUM ACIDUM, GAMMA AMINOBUTYRIC ACID, HISTAMINUM HYDROCHLORICUM, HYDROCORTISONE (CORTISOL), INDOLUM, L-DOPA, MALVIN, MANNAN, MELATONIN, MENADIONE, NOREPINEPHRINE, OCTOPAMINE, PHENYL ISOTHIOCYANATE, PHLORIDZINUM, PIPERINE, PROGESTERONE, PYRROLE"
+        "brand_name": [
+          "Multi-Phenolic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=54
+Page 54 of 59
+        "generic_name": [
+          "BOS TAURUS ADRENAL GLAND, SUS SCROFA ADRENAL GLAND, CHOLESTEROL, SUS SCROFA CORPUS LUTEUM, ESTERIFIED ESTROGEN, BOS TAURUS HYPOTHALAMUS, SUS SCROFA HYPOTHALAMUS, MELATONIN, BOS TAURUS OVARY, SUS SCROFA OVARY, BOS TAURUS PANCREAS, SUS SCROFA PANCREAS, BOS TAURUS PINEAL GLAND, SUS SCROFA PINEAL GLAND, BOS TAURUS PITUITARY GLAND, SUS SCROFA PITUITARY GLAND, PROGESTERONE, SUS SCROFA THALAMUS, BOS TAURUS THYMUS, SUS SCROFA THYMUS, THYROID BOVINE, THYROID PORCINE"
+        "brand_name": [
+          "Female"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=55
+Page 55 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "PROGESTERONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING, WARNINGS and PRECAUTIONS. Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse experiences greater than or equal to 2 percent of women who received cyclic progesterone capsules, 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. Table 6. Adverse Experiences (≥2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] Progesterone capsules 200 mg with Congugated Estrogens 0.625 mg Placebo (n=178) (n=174) Headache 31 27 Breast Tenderness 27 6 Joint Pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal Bloating 12 5 Hot Flashes 11 35 Urinary Problems 11 9 Abdominal Pain 10 10 Vaginal Discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest Pain 7 5 Diarrhea 7 4 Night Sweats 7 17 Breast Pain 6 2 Swelling of Hands and Feet 6 9 Vaginal Dryness 6 10 Constipation 3 2 Breast Carcinoma 2 <1 Breast Excisional Biopsy 2 <1 Cholecystectomy 2 <1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse experiences greater than or equal to 5 percent of women who received progesterone or placebo. Table 7. Adverse Experiences (≥5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience Progesterone Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and progesterone capsules, 300 mg per day (n=113) or Progesterone Capsules, 400 mg per day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience The following additional adverse reactions have been reported with progesterone capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma­glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking. dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=56
+Page 56 of 59
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE, ACETALDEHYDE, APIOLUM, ASCORBIC ACID, BHT, CAFFEIC ACID, CANDIDA ALBICANS, CHLOROGENIC ACID, CINNAMIC ACID, CONIFERYL ALCOHOL, COUMARIN, DOPAMINE, ESTROGEN, GABA, GALLIC ACID, HISTAMINE, INDOLE, L-DOPA, MALVIN, MANNAN, MELATONIN, MENADIONE, NOREPINEPHRINE, OCTOPAMINE, PHENYLALANINE, PHENYLI-SOTHIOCYANATE, PHLORIZIN, PIPERINE, PROGESTERONE, PYRROLE, QUERCETIN, RUTIN, SALSOLINOL, SEROTONIN, TAURINE, TESTOSTERONE, TRYPTOPHAN"
+        "brand_name": [
+          "BioPhenolics"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=57
+Page 57 of 59
+        "generic_name": [
+          "ANDROSTENEDIONE, DEHYDROEPIANDROSTERONE, PREGENOLONE, PROGESTERONE, TESTOSTERONE"
+        "brand_name": [
+          "Androbalance"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Progesterone&limit=1&skip=58
+Page 58 of 59
+        "generic_name": [
+          "PROGESTERONE"
+        "brand_name": [
+          "PROGESTERONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNING, WARNINGS and PRECAUTIONS. Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone capsules on the endometrium was studied in a total of 875 postmenopausal women. Table 6 lists adverse experiences greater than or equal to 2 percent of women who received cyclic progesterone capsules, 200 mg daily (12 days per calendar month cycle) with 0.625 mg conjugated estrogens or placebo. Table 6. Adverse Experiences (≥2%) Reported in an 875 Patient Placebo-Controlled Trial in Postmenopausal Women Over a 3-Year Period [Percentage (%) of Patients Reporting] Progesterone capsules 200 mg with Congugated Estrogens 0.625 mg Placebo (n=178) (n=174) Headache 31 27 Breast Tenderness 27 6 Joint Pain 20 29 Depression 19 12 Dizziness 15 9 Abdominal Bloating 12 5 Hot Flashes 11 35 Urinary Problems 11 9 Abdominal Pain 10 10 Vaginal Discharge 10 3 Nausea / Vomiting 8 7 Worry 8 4 Chest Pain 7 5 Diarrhea 7 4 Night Sweats 7 17 Breast Pain 6 2 Swelling of Hands and Feet 6 9 Vaginal Dryness 6 10 Constipation 3 2 Breast Carcinoma 2 <1 Breast Excisional Biopsy 2 <1 Cholecystectomy 2 <1 Effects on Secondary Amenorrhea In a multicenter, randomized, double-blind, placebo-controlled clinical trial, the effects of progesterone on secondary amenorrhea was studied in 49 estrogen-primed postmenopausal women. Table 7 lists adverse experiences greater than or equal to 5 percent of women who received progesterone or placebo. Table 7. Adverse Experiences (≥5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women Adverse Experience Progesterone Capsules 400 mg Placebo n=25 n=24 Percentage (%) of Patients Fatigue 8 4 Headache 16 8 Dizziness 24 4 Abdominal Distention (Bloating) 8 8 Abdominal Pain (Cramping) 20 13 Diarrhea 8 4 Nausea 8 0 Back Pain 8 8 Musculoskeletal Pain 12 4 Irritability 8 4 Breast Pain 16 8 Infection Viral 12 0 Coughing 8 0 In a multicenter, parallel-group, open label postmarketing dosing study consisting of three consecutive 28-day treatment cycles, 220 premenopausal women with secondary amenorrhea were randomized to receive daily conjugated estrogens therapy (0.625 mg conjugated estrogens) and progesterone capsules, 300 mg per day (n=113) or Progesterone Capsules, 400 mg per day (n=107) for 10 days of each treatment cycle. Overall, the most frequently reported treatment-emergent adverse reactions, reported in greater than or equal to 5 percent of subjects, were nausea, fatigue, vaginal mycosis, nasopharyngitis, upper respiratory tract infection, headache, dizziness, breast tenderness, abdominal distension, acne, dysmenorrhea, mood swing, and urinary tract infection. Postmarketing Experience The following additional adverse reactions have been reported with progesterone capsules. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure. Genitourinary System: endometrial carcinoma, hypospadia, intra-uterine death, menorrhagia, menstrual disorder, metrorrhagia, ovarian cyst, spontaneous abortion. Cardiovascular: circulatory collapse, congenital heart disease (including ventricular septal defect and patent ductus arteriosus), hypertension, hypotension, tachycardia. Gastrointestinal: acute pancreatitis, cholestasis, cholestatic hepatitis, dysphagia, hepatic failure, hepatic necrosis, hepatitis, increased liver function tests (including alanine aminotransferase increased, aspartate aminotransferase increased, gamma­glutamyl transferase increased), jaundice, swollen tongue. Skin: alopecia, pruritus, urticaria. Eyes: blurred vision, diplopia, visual disturbance. Central Nervous System: aggression, convulsion, depersonalization, depressed consciousness, disorientation, dysarthria, loss of consciousness, paresthesia, sedation, stupor, syncope (with and without hypotension), transient ischemic attack, suicidal ideation. During initial therapy, a few women have experienced a constellation of many or all of the following symptoms: extreme dizziness and/or drowsiness, blurred vision, slurred speech, difficulty walking, loss of consciousness, vertigo, confusion, disorientation, feeling drunk, and shortness of breath. Miscellaneous: abnormal gait, anaphylactic reaction, arthralgia, blood glucose increased, choking, cleft lip, cleft palate, difficulty walking. dyspnea, face edema, feeling abnormal, feeling drunk, hypersensitivity, asthma, muscle cramp, throat tightness, tinnitus, vertigo, weight decreased, weight increased."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

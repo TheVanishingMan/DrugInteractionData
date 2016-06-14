@@ -1,0 +1,52 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Succinylcholine+AND+Chloride+AND+Injection&limit=1&skip=0
+Page 0 of 4
+        "generic_name": [
+          "SUCCINYLCHOLINE CHLORIDE"
+        "brand_name": [
+          "Anectine"
+ 
+      "drug_interactions": [
+        "Drug Interactions Drugs which may enhance the neuromuscular blocking action of succinylcholine include: promazine, oxytocin, aprotinin, certain non-penicillin antibiotics, quinidine, β-adrenergic blockers, procainamide, lidocaine, trimethaphan, lithium carbonate, magnesium salts, quinine, chloroquine, diethylether, isoflurane, desflurane, metoclopramide, and terbutaline. The neuromuscular blocking effect of succinylcholine may be enhanced by drugs that reduce plasma cholinesterase activity (e.g., chronically administered oral contraceptives, glucocorticoids, or certain monoamine oxidase inhibitors) or by drugs that irreversibly inhibit plasma cholinesterase (see PRECAUTIONS ). If other neuromuscular blocking agents are to be used during the same procedure, the possibility of a synergistic or antagonistic effect should be considered."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions to succinylcholine consist primarily of an extension of its pharmacological actions. Succinylcholine causes profound muscle relaxation resulting in respiratory depression to the point of apnea; this effect may be prolonged. Hypersensitivity reactions, including anaphylaxis, may occur in rare instances. The following additional adverse reactions have been reported: cardiac arrest, malignant hyperthermia, arrhythmias, bradycardia, tachycardia, hypertension, hypotension, hyperkalemia, prolonged respiratory depression or apnea, increased intraocular pressure, muscle fasciculation, jaw rigidity, postoperative muscle pain, rhabdomyolysis with possible myoglobinuric acute renal failure, excessive salivation, and rash. There have been post-marketing reports of severe allergic reactions (anaphylactic and anaphylactoid reactions) associated with use of neuromuscular blocking agents, including ANECTINE. These reactions, in some cases, have been life-threatening and fatal. Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency (see WARNINGS and PRECAUTIONS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Succinylcholine+AND+Chloride+AND+Injection&limit=1&skip=1
+Page 1 of 4
+        "generic_name": [
+          "SUCCINYLCHOLINE CHLORIDE"
+        "brand_name": [
+          "Quelicin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions to succinylcholine consist primarily of an extension of its pharmacological actions. Succinylcholine causes profound muscle relaxation resulting in respiratory depression to the point of apnea; this effect may be prolonged. Hypersensitivity reactions, including anaphylaxis, may occur in rare instances. The following additional adverse reactions have been reported: cardiac arrest, malignant hyperthermia, arrhythmias, bradycardia, tachycardia, hypertension, hypotension, hyperkalemia, prolonged respiratory depression or apnea, increased intraocular pressure, muscle fasciculation, jaw rigidity, postoperative muscle pain, rhabdomyolysis with possible myoglobinuric acute renal failure, excessive salivation, and rash. There have been post-marketing reports of severe allergic reactions (anaphylactic and anaphylactoid reactions) associated with use of neuromuscular blocking agents, including succinylcholine. These reactions, in some cases, have been life threatening and fatal. Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency (See WARNINGS and PRECAUTIONS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Succinylcholine+AND+Chloride+AND+Injection&limit=1&skip=2
+Page 2 of 4
+        "generic_name": [
+          "SUCCINYLCHOLINE CHLORIDE"
+        "brand_name": [
+          "Succinylcholine Chloride"
+ 
+      "adverse_reactions": [
+        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+      "warnings_and_cautions": [
+        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only. WARNING: Paralyzing Agent. Causes Respiratory Arrest. SUCCINYLCHOLINE SHOULD BE USED ONLY BY THOSE SKILLED IN THE MANAGEMENT OF ARTIFICIAL RESPIRATION AND ONLY WHEN FACILITIES ARE INSTANTLY AVAILABLE FOR TRACHEAL INTUBATION AND FOR PROVIDING ADEQUATE VENTILATION OF THE PATIENT, INCLUDING THE ADMINISTRATION OF OXYGEN UNDER POSITIVE PRESSURE AND THE ELIMINATION OF CARBON DIOXIDE. THE CLINICIAN MUST BE PREPARED TO ASSIST OR CONTROL RESPIRATION."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Succinylcholine+AND+Chloride+AND+Injection&limit=1&skip=3
+Page 3 of 4
+        "generic_name": [
+          "SUCCINYLCHOLINE CHLORIDE"
+        "brand_name": [
+          "Quelicin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions to succinylcholine consist primarily of an extension of its pharmacological actions. Succinylcholine causes profound muscle relaxation resulting in respiratory depression to the point of apnea; this effect may be prolonged. Hypersensitivity reactions, including anaphylaxis, may occur in rare instances. The following additional adverse reactions have been reported: cardiac arrest, malignant hyperthermia, arrhythmias, bradycardia, tachycardia, hypertension, hypotension, hyperkalemia, prolonged respiratory depression or apnea, increased intraocular pressure, muscle fasciculation, jaw rigidity, postoperative muscle pain, rhabdomyolysis with possible myoglobinuric acute renal failure, excessive salivation, and rash. There have been post-marketing reports of severe allergic reactions (anaphylactic and anaphylactoid reactions) associated with use of neuromuscular blocking agents, including succinylcholine. These reactions, in some cases, have been life threatening and fatal. Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency (See WARNINGS and PRECAUTIONS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

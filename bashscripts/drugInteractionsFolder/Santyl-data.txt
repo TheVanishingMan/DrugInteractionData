@@ -1,0 +1,24 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Santyl&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "COLLAGENASE SANTYL"
+        "brand_name": [
+          "COLLAGENASE SANTYL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS No allergic sensitivity or toxic reactions have been noted in clinical use when used as directed. However, one case of systemic manifestations of hypersensitivity to collagenase in a patient treated for more than one year with a combination of collagenase and cortisone has been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Santyl&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "COLLAGENASE SANTYL"
+        "brand_name": [
+          "COLLAGENASE SANTYL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS No allergic sensitivity or toxic reactions have been noted in clinical use when used as directed. However, one case of systemic manifestations of hypersensitivity to collagenase in a patient treated for more than one year with a combination of collagenase and cortisone has been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

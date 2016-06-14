@@ -1,0 +1,146 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=0
+Page 0 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Alcaine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Occasional temporary stinging, burning and conjunctival redness may occur with the use of proparacaine. A rare, severe, immediate-type, apparently hyperallergic corneal reaction characterized by acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and, sometimes, iritis with descemetitis has been reported. Allergic contact dermatitis from proparacaine with drying and fissuring of the fingertips has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=1
+Page 1 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Pupillary dilatation or cycloplegic effects have rarely been observed with proparacaine hydrochloride. The drug appears to be safe for use in patients sensitive to other local anesthetics, but local or systemic sensitivity occasionally occurs. Instillation of proparacaine in the eye at recommended concentration and dosage usually produces little or no initial irritation, stinging, burning, conjunctival redness, lacrimation or increased winking. However, some local irritation and stinging may occur several hours after the instillation. Rarely, a severe, immediate-type, apparently hyperallergic corneal reaction may occur which includes acute, intense and diffuse epithelial keratitis; a gray, ground-glass appearance; sloughing of large areas of necrotic epithelium; corneal filaments and, sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. Softening and erosion of the corneal epithelium and conjunctival congestion and hemorrhage have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=2
+Page 2 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Occasional temporary stinging, burning and conjunctival redness may occur with the use of proparacaine. A rare, severe, immediate-type, apparently hyperallergic corneal reaction characterized by acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and, sometimes, iritis with descemetitis has been reported. Allergic contact dermatitis from proparacaine with drying and fissuring of the fingertips has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=3
+Page 3 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Pupillary dilatation or cycloplegic effects have rarely been observed with proparacaine hydrochloride. The drug appears to be safe for use in patients sensitive to other local anesthetics, but local or systemic sensitivity occasionally occurs. Instillation of proparacaine in the eye at recommended concentration and dosage usually produces little or no initial irritation, stinging, burning, conjunctival redness, lacrimation or increased winking. However, some local irritation and stinging may occur several hours after the instillation. Rarely, a severe, immediate-type, apparently hyperallergic corneal reaction may occur which includes acute, intense and diffuse epithelial keratitis; a gray, ground-glass appearance; sloughing of large areas of necrotic epithelium; corneal filaments and, sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. Softening and erosion of the corneal epithelium and conjunctival congestion and hemorrhage have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=4
+Page 4 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Pupillary dilation or cycloplegic effects have rarely been observed with proparacaine hydrochloride. The drug appears to be safe for use in patients sensitive to other local anesthetics, but local or systemic sensitivity occasionally occurs. Instillation of proparacaine in the eye at recommended concentration and dosage usually produces little or no initial irritation, stinging, burning, conjunctival redness, lacrimation or increased winking. However, some local irritation and stinging may occur several hours after the instillation. Rarely, a severe, immediate-type, apparently hyperallergic corneal reaction may occur which includes acute, intense and diffuse epithelial keratitis; a gray, ground-glass appearance; sloughing of large areas of necrotic epithelium; corneal filaments and, sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. Softening and erosion of the corneal epithelium and conjunctival congestion and hemorrhage have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=5
+Page 5 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Occasional temporary stinging, burning and conjunctival redness may occur with the use of proparacaine. A rare, severe, immediate-type, apparently hyperallergic corneal reaction characterized by acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and, sometimes, iritis with descemetitis has been reported. Allergic contact dermatitis from proparacaine with drying and fissuring of the fingertips has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=6
+Page 6 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Pupillary dilatation or cycloplegic effects have rarely been observed with proparacaine hydrochloride. The drug appears to be safe for use in patients sensitive to other local anesthetics, but local or systemic sensitivity occasionally occurs. Instillation of proparacaine in the eye at recommended concentration and dosage usually produces little or no initial irritation, stinging, burning, conjunctival redness, lacrimation or increased winking. However, some local irritation and stinging may occur several hours after the instillation. Rarely, a severe, immediate-type, apparently hyperallergic corneal reaction may occur which includes acute, intense and diffuse epithelial keratitis; a gray, ground-glass appearance; sloughing of large areas of necrotic epithelium; corneal filaments and, sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. Softening and erosion of the corneal epithelium and conjunctival congestion and hemorrhage have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=7
+Page 7 of 12
+        "generic_name": [
+          "FLUORESCEIN SODIUM AND PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "FLUCAINE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Occasional temporary stinging, burning, and conjunctival redness have been reported after use of ocular anesthetics, as well as a rare, severe, immediate-type, apparent hyper-allergic corneal reaction, with acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and sometimes, iritis with descementitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. To report SUSPECTED ADVERSE REACTIONS, contact Altaire Pharmaceuticals, Inc. at (631) 722-5988."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=8
+Page 8 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Pupillary dilation or cycloplegic effects have rarely been observed with proparacaine hydrochloride. The drug appears to be safe for use in patients sensitive to other local anesthetics, but local or systemic sensitivity occasionally occurs. Instillation of proparacaine in the eye at recommended concentration and dosage usually produces little or no initial irritation, stinging, burning, conjunctival redness, lacrimation or increased winking. However, some local irritation and stinging may occur several hours after the instillation. Rarely, a severe, immediate-type, apparently hyperallergic corneal reaction may occur which includes acute, intense and diffuse epithelial keratitis; a gray, ground-glass appearance; sloughing of large areas of necrotic epithelium; corneal filaments and, sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. Softening and erosion of the corneal epithelium and conjunctival congestion and hemorrhage have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=9
+Page 9 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Pupillary dilatation or cycloplegic effects have rarely been observed with proparacaine hydrochloride. The drug appears to be safe for use in patients sensitive to other local anesthetics, but local or systemic sensitivity occasionally occurs. Instillation of proparacaine in the eye at recommended concentration and dosage usually produces little or no initial irritation, stinging, burning, conjunctival redness, lacrimation or increased winking. However, some local irritation and stinging may occur several hours after the instillation. Rarely, a severe, immediate-type, apparently hyperallergic corneal reaction may occur which includes acute, intense and diffuse epithelial keratitis; a gray, ground-glass appearance; sloughing of large areas of necrotic epithelium; corneal filaments and, sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. Softening and erosion of the corneal epithelium and conjunctival congestion and hemorrhage have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=10
+Page 10 of 12
+        "generic_name": [
+          "FLUORESCEIN SODIUM AND PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Fluorescein Sodium and Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Occasional temporary stinging, burning, and conjunctival redness have been reported after use of ocular anesthetics, as well as a rare, severe, immediate-type, apparent hyper-allergic corneal reaction, with acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and sometimes, iritis with descementitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. To report SUSPECTED ADVERSE REACTIONS, contact Altaire Pharmaceuticals, Inc. at (631) 722-5988."
+      "warnings_and_cautions": [
+        "WARNINGS: Avoid contamination - do not touch tip of sterile dropper used to dispense solution to any surface. Replace container closure immediately after using. Prolonged use of a topical ocular anesthetic is not recommended. It may product permanent corneal opacification with accompanying visual loss. PRECAUTIONS: This product should be used cautiously and sparingly in patients with known allergies, cardiac disease, or hyperthyroidism. The long-term toxicity is unknown; prolonged use may possibly delay wound healing. Although exceedingly rare with ophthalmic application of local anesthetics, it should be borne in mind that systemic toxicity manifested by central nervous system stimulation followed by depression may occur. Protection of the eye from irritating chemicals, foreign bodies and rubbing during the period of anesthesia is very important. Tonometers soaked in sterilizing or detergent solutions should be thoroughly rinsed with sterile distilled water prior to use. Patients should be advised to avoid touching the eye until the anesthesia has worn off."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution&limit=1&skip=11
+Page 11 of 12
+        "generic_name": [
+          "PROPARACAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proparacaine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Pupillary dilatation or cycloplegic effects have rarely been observed with proparacaine hydrochloride. The drug appears to be safe for use in patients sensitive to other local anesthetics, but local or systemic sensitivity occasionally occurs. Instillation of proparacaine in the eye at recommended concentration and dosage usually produces little or no initial irritation, stinging, burning, conjunctival redness, lacrimation or increased winking. However, some local irritation and stinging may occur several hours after the instillation. Rarely, a severe, immediate-type, apparently hyperallergic corneal reaction may occur which includes acute, intense and diffuse epithelial keratitis; a gray, ground-glass appearance; sloughing of large areas of necrotic epithelium; corneal filaments and, sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. Softening and erosion of the corneal epithelium and conjunctival congestion and hemorrhage have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
