@@ -1,0 +1,36 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Triamcinolone+AND+Acetonide+AND+Topical+AND+Aerosol&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "TRIAMCINOLONE ACETONIDE"
+        "brand_name": [
+          "Triamcinolone Acetonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings (reactions are listed in an approximate decreasing order of occurrence): burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Triamcinolone+AND+Acetonide+AND+Topical+AND+Aerosol&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "TRIAMCINOLONE ACETONIDE"
+        "brand_name": [
+          "Kenalog"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings (reactions are listed in an approximate decreasing order of occurrence): burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Triamcinolone+AND+Acetonide+AND+Topical+AND+Aerosol&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "TRIAMCINOLONE ACETONIDE"
+        "brand_name": [
+          "AllerNaze"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In adequate, well-controlled and uncontrolled studies, 1187 patients have received triamcinolone acetonide solution. The adverse reactions summarized below, are based upon seven placebo controlled clinical trials of 2-6 weeks duration in 847 patients with seasonal or perennial allergic rhinitis (504 patients received 200 mcg or 400 mcg per day of triamcinolone acetonide solution and 343 patients received vehicle placebo). Adverse events reported by 2% or more of patients (regardless of relationship to treatment) who received triamcinolone acetonide solution 200 or 400 mcg once daily and that were more common with triamcinolone acetonide solution than with placebo are displayed in the table below. Overall, the incidence and nature of adverse events with triamcinolone acetonide solution 400 mcg was comparable to that seen with triamcinolone acetonide solution 200 mcg and with vehicle placebo. ADVERSE EVENTS REPORTED AT A FREQUENCY OF 2% OR GREATER AND MORE COMMON AMONG PATIENTS TREATED WITH TRIAMCINOLONE ACETONIDE SOLUTION THAN PLACEBO REGARDLESS OF RELATIONSHIP TO TREATMENT ADVERSE EVENTS 200 mcg of triamcinolone acetonide once daily n = 204 400 mcg of triamcinolone acetonide once daily n = 300 Combined (200 and 400 mcg) use of triamcinolone acetonide n = 504 Vehicle Placebo n = 343 BODY AS A WHOLE Headache 51.0% 44.3% 47.0% 41.1% Back Pain 7.8% 4.7% 6.0% 3.5% RESPIRATORY SYSTEM Pharyngitis 13.7% 10.3% 11.7% 7.9% Asthma 5.4% 4.3% 4.8% 2.9% Cough Increased 2.0% 2.7% 2.4% 2.3% DIGESTIVE SYSTEM Dyspepsia 4.9% 2.7% 3.6% 2.0% Nausea 2.0% 3.0% 2.6% 0.6% Vomiting 1.5% 2.7% 2.2% 1.5% SPECIAL SENSES Taste Perversion 7.8% 5.0% 6.2% 2.9% Conjunctivitis 4.4% 1.3% 2.6% 1.5% MUSCULOSKELETAL SYSTEM Myalgia 2.5% 3.3% 3.0% 2.6% Adverse events reported by 2% or more of patients who received triamcinolone acetonide solution 200 or 400 mcg once daily and that were more common with placebo than with triamcinolone acetonide solution included: application site reaction (e.g. transient nasal burning and stinging), rhinitis, dysmenorrhea, pain (unspecified) and allergic reaction. The adverse effects related to the irritation of nasal mucous membranes (i.e. application site reaction) did not usually interfere with treatment. In the controlled and uncontrolled studies, approximately 0.3% of patients discontinued because of irritation of nasal mucous membranes."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

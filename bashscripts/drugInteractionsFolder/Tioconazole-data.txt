@@ -1,0 +1,170 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=0
+Page 0 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "TIOCONAZOLE Ointment 6.5%"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=1
+Page 1 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "signature care tioconazole 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=2
+Page 2 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "Up and up tioconazole 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=3
+Page 3 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "Tioconazole 1 Day"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=4
+Page 4 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "Smart Sense Tioconazole 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=5
+Page 5 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "ShopRite Tioconazole 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=6
+Page 6 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "Equate tioconazole 1 day"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=7
+Page 7 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "Vagistat-1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=8
+Page 8 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "tioconazole 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=9
+Page 9 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "Good Neighbor Pharmacy Tioconazole 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=10
+Page 10 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "SUNMARK TIOCONAZOLE 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=11
+Page 11 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "healthy accents tioconazole 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=12
+Page 12 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "Tioconazole 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=13
+Page 13 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "tioconazole 1 1 dose treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=14
+Page 14 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "leader tioconastat 1 1 dose treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=15
+Page 15 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "image essentials tioconazole treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tioconazole&limit=1&skip=16
+Page 16 of 17
+        "generic_name": [
+          "TIOCONAZOLE"
+        "brand_name": [
+          "Topcare Tioconazole 1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,50 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tylenol&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "CHILDRENS TYLENOL PLUS MULTI-SYMPTOM COLD"
+        "brand_name": [
+          "Childrens Plus Multi-Symptom Cold Grape with PE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tylenol&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "TYLENOL MULTI SYMPTOM COOL BLAST DAYTIME"
+        "brand_name": [
+          "Day Time Cold Multi-Symptom Cool Blast"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tylenol&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "CHILDRENS TYLENOL"
+        "brand_name": [
+          "Childrens Acetaminophen Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tylenol&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "CHILDRENS TYLENOL PLUS MULTI-SYMPTOM COLD"
+        "brand_name": [
+          "Childrens Plus Multi-Symptom Cold Grape with PE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tylenol&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "TYLENOL COUGH AND SORE THROAT"
+        "brand_name": [
+          "Night Time Cough and Sore Throat Cool Blast"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -25,13 +25,13 @@ function fresh { # not to be confused with the 'fresh' from miniKanren
     rmdir drugInteractionsFolder   #remove the folder completely
     mkdir drugInteractionsFolder   #make sure the folder exists
     rm -f drugslist.txt            #remove before creating a new one
-    bash builddruglist             #create drugslist.txt
+    bash builddruglist.sh          #create drugslist.txt
 }
 
 function pulldata {
     while [ $(wc --bytes drugslist.txt | cut -d ' ' -f 1) -gt 0 ]; do #while bytes in drugslist.txt is greater than 0
 	FIRSTLINE=$(head -n 1 drugslist.txt)
-	bash fdainteractions $FIRSTLINE #query the first line in openFDA
+	bash fdainteractions.sh $FIRSTLINE #query the first line in openFDA
 	tail -n +2 drugslist.txt > drugslisttmp.txt && mv drugslisttmp.txt drugslist.txt #remove first line
     done
 }

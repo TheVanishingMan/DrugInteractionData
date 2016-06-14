@@ -1,0 +1,26 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trypan+AND+Blue&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "TRYPAN BLUE"
+        "brand_name": [
+          "MembraneBlue"
+ 
+      "adverse_reactions": [
+        "6. Adverse Reactions Adverse reactions reported following use of MembraneBlue™ 0.15% include discoloration of high water content hydrogen intraocular lenses (see Contraindications) and inadvertent staining of the posterior lens capsule and vitreous face. Staining of the posterior lens capsule or staining of the vitreous face is generally self limited, lasting up to one week. Discoloration of high water content hydrogen intraocular lenses; Inadvertent staining of the posterior lens capsule and vitreous face; (6) to report suspected adverse reactions contact Dutch Ophthalmic, USA at 1-800-75-DUTCH or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch"
+      "warnings_and_cautions": [
+        "5. Warnings and Precautions Excessive staining: It is recommended that after injection all excess MembraneBlue™ 0.15% be immediately removed from the eye. Priming of the syringe: Make sure the plunger moves smoothly before use: first retract the plunger or twist the plunger in a clockwise motion before injecting the fluid. Excessive staining: Excess MembraneBlue™ 0.15% should be removed from the eye immediately after staining. Priming of the syringe: Make sure the plunger moves smoothly before use: first retract the plunger or twist the plunger in a clockwise motion before injecting the fluid. (5)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trypan+AND+Blue&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "TRYPAN BLUE"
+        "brand_name": [
+          "VisionBlue"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Adverse reactions reported following use of VisionBlue™ include discoloration of high water content hydrogen intraocular lenses (see Contraindications) and inadvertent staining of the posterior lens capsule and vitreous face. Staining of the posterior lens capsule or staining of the vitreous face is generally self limited, lasting up to one week."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

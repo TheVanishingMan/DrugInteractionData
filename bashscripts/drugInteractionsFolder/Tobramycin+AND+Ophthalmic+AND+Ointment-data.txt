@@ -1,0 +1,72 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tobramycin+AND+Ophthalmic+AND+Ointment&limit=1&skip=0
+Page 0 of 7
+        "generic_name": [
+          "TOBRAMYCIN AND DEXAMETHASONE"
+        "brand_name": [
+          "TobraDex"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available. The most frequent adverse reactions to topical ocular tobramycin (TOBREX® tobramycin ophthalmic ointment) are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema. These reactions occur in less than 4% of patients. Similar reactions may occur with the topical use of other aminoglycoside antibiotics. Other adverse reactions have not been reported; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection. The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tobramycin+AND+Ophthalmic+AND+Ointment&limit=1&skip=1
+Page 1 of 7
+        "generic_name": [
+          "TOBRAMYCIN"
+        "brand_name": [
+          "TOBREX"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions to TOBREX® (tobramycin ophthalmic ointment) 0.3% are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema. These reactions occur in less than three of 100 patients treated with TOBREX® (tobramycin ophthalmic ointment) 0.3%. Similar reactions may occur with the topical use of other aminoglycoside antibiotics. Other adverse reactions have not been reported from TOBREX® (tobramycin ophthalmic ointment) 0.3% therapy; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration. In clinical trials, TOBREX® (tobramycin ophthalmic ointment) 0.3 % produced significantly fewer adverse reactions (3.7%) than did GARAMYCIN® Ophthalmic Ointment (10.6%)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tobramycin+AND+Ophthalmic+AND+Ointment&limit=1&skip=2
+Page 2 of 7
+        "generic_name": [
+          "TOBRAMYCIN"
+        "brand_name": [
+          "Tobrex"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions to TOBREX (tobramycin ophthalmic ointment) 0.3% are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema. These reactions occur in less than three of 100 patients treated with TOBREX (tobramycin ophthalmic ointment) 0.3%. Similar reactions may occur with the topical use of other aminoglycoside antibiotics. Other adverse reactions have not been reported from TOBREX (tobramycin ophthalmic ointment) 0.3% therapy; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration. In clinical trials, TOBREX (tobramycin ophthalmic ointment) 0.3% produced significantly fewer adverse reactions (3.7%) than did GARAMYCIN® Ophthalmic Ointment (10.6%)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tobramycin+AND+Ophthalmic+AND+Ointment&limit=1&skip=3
+Page 3 of 7
+        "generic_name": [
+          "TOBRAMYCIN AND DEXAMETHASONE"
+        "brand_name": [
+          "TobraDex"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have occurred with steroid/anti-infective combination drugs which can be attributed to the steroid component, the anti-infective component, or the combination. Exact incidence figures are not available. The most frequent adverse reactions to topical ocular tobramycin (TOBREX® tobramycin ophthalmic ointment) are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema. These reactions occur in less than 4% of patients. Similar reactions may occur with the topical use of other aminoglycoside antibiotics. Other adverse reactions have not been reported; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration. The reactions due to the steroid component are: elevation of intraocular pressure (IOP) with possible development of glaucoma, and infrequent optic nerve damage; posterior subcapsular cataract formation; and delayed wound healing. Secondary Infection. The development of secondary infection has occurred after use of combinations containing steroids and antimicrobials. Fungal infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroids. The possibility of fungal invasion must be considered in any persistent corneal ulceration where steroid treatment has been used. Secondary bacterial ocular infection following suppression of host responses also occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tobramycin+AND+Ophthalmic+AND+Ointment&limit=1&skip=4
+Page 4 of 7
+        "generic_name": [
+          "TOBRAMYCIN"
+        "brand_name": [
+          "TOBREX"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions to TOBREX (tobramycin ophthalmic ointment) 0.3% are hypersensitivity and localized ocular toxicity, including lid itching and swelling, and conjunctival erythema. These reactions occur in less than three of 100 patients treated with TOBREX (tobramycin ophthalmic ointment) 0.3%. Similar reactions may occur with the topical use of other aminoglycoside antibiotics. Other adverse reactions have not been reported from TOBREX (tobramycin ophthalmic ointment) 0.3% therapy; however, if topical ocular tobramycin is administered concomitantly with systemic aminoglycoside antibiotics, care should be taken to monitor the total serum concentration. In clinical trials, TOBREX (tobramycin ophthalmic ointment) 0.3% produced significantly fewer adverse reactions (3.7%) than did GARAMYCIN® Ophthalmic Ointment (10.6%)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tobramycin+AND+Ophthalmic+AND+Ointment&limit=1&skip=5
+Page 5 of 7
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tobramycin+AND+Ophthalmic+AND+Ointment&limit=1&skip=6
+Page 6 of 7
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

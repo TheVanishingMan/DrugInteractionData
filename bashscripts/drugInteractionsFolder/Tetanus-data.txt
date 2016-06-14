@@ -1,0 +1,30 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tetanus&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "MEZEREUM, THUJA OCCIDENTALIS, SILICEA, CALCAREA CARBONICA, MORBILLINUM, PAROTIDINUM, PERTUSSINUM, POLIOMYELITIS NOSODE, RUBELLA NOSODE, TETANUS NOSODE, CARCINOSIN, ANTIMONIUM CRUDUM, LEDUM PALUSTRE, THIMEROSAL"
+        "brand_name": [
+          "Vax Reaction"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tetanus&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "MEZEREUM, THUJA OCCIDENTALIS, SILICEA, CALCAREA CARBONICA, MORBILLINUM, PAROTIDINUM, PERTUSSINUM, POLIOMYELITIS NOSODE, RUBELLA NOSODE, TETANUS NOSODE, CARCINOSIN, ANTIMONIUM CRUDUM, LEDUM PALUSTRE, THIMEROSAL"
+        "brand_name": [
+          "Vax Reaction"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tetanus&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "ACONITUM NAPELLUS, ANTIMONIUM TARTARICUM, BELLADONNA, BRYONIA (ALBA), HYOSCYAMUS NIGER, IPECACUANHA, STICTA PULMONARIA, TABACUM, PHOSPHORUS, KREOSOTUM, SILICEA, PERTUSSINUM, TETANUS TOXIN"
+        "brand_name": [
+          "Pertussis"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

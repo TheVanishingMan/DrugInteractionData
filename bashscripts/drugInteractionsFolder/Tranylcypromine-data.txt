@@ -1,0 +1,60 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tranylcypromine&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "TRANYLCYPROMINE SULFATE"
+        "brand_name": [
+          "PARNATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Overstimulation which may include increased anxiety, agitation, and manic symptoms is usually evidence of excessive therapeutic action. Dosage should be reduced, or a phenothiazine tranquilizer should be administered concomitantly. Patients may experience restlessness or insomnia; may notice some weakness, drowsiness, episodes of dizziness or dry mouth; or may report nausea, diarrhea, abdominal pain, or constipation. Most of these effects can be relieved by lowering the dosage or by giving suitable concomitant medication. Tachycardia, significant anorexia, edema, palpitation, blurred vision, chills, and impotence have each been reported. Headaches without blood pressure elevation have occurred. Rare instances of hepatitis, skin rash, and alopecia have been reported. Impaired water excretion compatible with the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) has been reported. Tinnitus, muscle spasm, tremors, myoclonic jerks, numbness, paresthesia, urinary retention, and retarded ejaculation have been reported. Hematologic disorders including anemia, leukopenia, agranulocytosis, and thrombocytopenia have been reported. Post-Introduction Reports The following are spontaneously reported adverse events temporally associated with use of PARNATE. No clear relationship between PARNATE and these events has been established. Localized scleroderma, flare-up of cystic acne, ataxia, confusion, disorientation, memory loss, urinary frequency, urinary incontinence, urticaria, fissuring in corner of mouth, akinesia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tranylcypromine&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "TRANYLCYPROMINE SULFATE"
+        "brand_name": [
+          "Tranylcypromine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Overstimulation which may include increased anxiety, agitation, and manic symptoms is usually evidence of excessive therapeutic action. Dosage should be reduced, or a phenothiazine tranquilizer should be administered concomitantly. Patients may experience restlessness or insomnia; may notice some weakness, drowsiness, episodes of dizziness or dry mouth; or may report nausea, diarrhea, abdominal pain, or constipation. Most of these effects can be relieved by lowering the dosage or by giving suitable concomitant medication. Tachycardia, significant anorexia, edema, palpitation, blurred vision, chills, and impotence have each been reported. Headaches without blood pressure elevation have occurred. Rare instances of hepatitis, skin rash, and alopecia have been reported. Impaired water excretion compatible with the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) has been reported. Tinnitus, muscle spasm, tremors, myoclonic jerks, numbness, paresthesia, urinary retention, and retarded ejaculation have been reported. Hematologic disorders including anemia, leukopenia, agranulocytosis, and thrombocytopenia have been reported. Post-Introduction Reports: The following are spontaneously reported adverse events temporally associated with use of Tranylcypromine Sulfate. No clear relationship between Tranylcypromine Sulfate and these events has been established. Localized scleroderma, flare-up of cystic acne, ataxia, confusion, disorientation, memory loss, urinary frequency, urinary incontinence, urticaria, fissuring in corner of mouth, akinesia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tranylcypromine&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "TRANYLCYPROMINE SULFATE"
+        "brand_name": [
+          "Tranylcypromine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Overstimulation which may include increased anxiety, agitation, and manic symptoms is usually evidence of excessive therapeutic action. Dosage should be reduced, or a phenothiazine tranquilizer should be administered concomitantly. Patients may experience restlessness or insomnia; may notice some weakness, drowsiness, episodes of dizziness or dry mouth; or may report nausea, diarrhea, abdominal pain, or constipation. Most of these effects can be relieved by lowering the dosage or by giving suitable concomitant medication. Tachycardia, significant anorexia, edema, palpitation, blurred vision, chills, and impotence have each been reported. Headaches without blood pressure elevation have occurred. Rare instances of hepatitis, skin rash, and alopecia have been reported. Impaired water excretion compatible with the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) has been reported. Tinnitus, muscle spasm, tremors, myoclonic jerks, numbness, paresthesia, urinary retention, and retarded ejaculation have been reported. Hematologic disorders including anemia, leukopenia, agranulocytosis, and thrombocytopenia have been reported. Post-Introduction Reports The following are spontaneously reported adverse events temporally associated with use of tranylcypromine sulfate. No clear relationship between tranylcypromine sulfate and these events has been established. Localized scleroderma, flare-up of cystic acne, ataxia, confusion, disorientation, memory loss, urinary frequency, urinary incontinence, urticaria, fissuring in corner of mouth, akinesia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tranylcypromine&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "TRANYLCYPROMINE SULFATE"
+        "brand_name": [
+          "Tranylcypromine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Overstimulation which may include increased anxiety, agitation, and manic symptoms is usually evidence of excessive therapeutic action. Dosage should be reduced, or a phenothiazine tranquilizer should be administered concomitantly. Patients may experience restlessness or insomnia; may notice some weakness, drowsiness, episodes of dizziness or dry mouth; or may report nausea, diarrhea, abdominal pain, or constipation. Most of these effects can be relieved by lowering the dosage or by giving suitable concomitant medication. Tachycardia, significant anorexia, edema, palpitation, blurred vision, chills, and impotence have each been reported. Headaches without blood pressure elevation have occurred. Rare instances of hepatitis, skin rash, and alopecia have been reported. Impaired water excretion compatible with the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) has been reported. Tinnitus, muscle spasm, tremors, myoclonic jerks, numbness, paresthesia, urinary retention, and retarded ejaculation have been reported. Hematologic disorders including anemia, leukopenia, agranulocytosis, and thrombocytopenia have been reported. Post-Introduction Reports The following are spontaneously reported adverse events temporally associated with use of tranylcypromine sulfate. No clear relationship between tranylcypromine sulfate and these events has been established. Localized scleroderma, flare-up of cystic acne, ataxia, confusion, disorientation, memory loss, urinary frequency, urinary incontinence, urticaria, fissuring in corner of mouth, akinesia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tranylcypromine&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "TRANYLCYPROMINE SULFATE"
+        "brand_name": [
+          "Tranylcypromine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Overstimulation which may include increased anxiety, agitation, and manic symptoms is usually evidence of excessive therapeutic action. Dosage should be reduced, or a phenothiazine tranquilizer should be administered concomitantly. Patients may experience restlessness or insomnia; may notice some weakness, drowsiness, episodes of dizziness or dry mouth; or may report nausea, diarrhea, abdominal pain, or constipation. Most of these effects can be relieved by lowering the dosage or by giving suitable concomitant medication. Tachycardia, significant anorexia, edema, palpitation, blurred vision, chills, and impotence have each been reported. Headaches without blood pressure elevation have occurred. Rare instances of hepatitis, skin rash, and alopecia have been reported. Impaired water excretion compatible with the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) has been reported. Tinnitus, muscle spasm, tremors, myoclonic jerks, numbness, paresthesia, urinary retention, and retarded ejaculation have been reported. Hematologic disorders including anemia, leukopenia, agranulocytosis, and thrombocytopenia have been reported. The following are spontaneously reported adverse events temporally associated with use of Tranylcypromine Sulfate. No clear relationship between Tranylcypromine Sulfate and these events has been established. Localized scleroderma, flare-up of cystic acne, ataxia, confusion, disorientation, memory loss, urinary frequency, urinary incontinence, urticaria, fissuring in corner of mouth, akinesia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,180 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=0
+Page 0 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "TIGAN"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=1
+Page 1 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "TIGAN"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=2
+Page 2 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONSThere have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=3
+Page 3 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=4
+Page 4 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "TIGAN"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=5
+Page 5 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=6
+Page 6 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=7
+Page 7 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=8
+Page 8 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=9
+Page 9 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=10
+Page 10 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=11
+Page 11 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "TIGAN"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=12
+Page 12 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=13
+Page 13 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parenteral administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therefore, the drug should be discontinued at the first sign of sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Trimethobenzamide+AND+Hydrochloride+AND+Capsules&limit=1&skip=14
+Page 14 of 15
+        "generic_name": [
+          "TRIMETHOBENZAMIDE HYDROCHLORIDE"
+        "brand_name": [
+          "Trimethobenzamide Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been reports of hypersensitivity reactions and Parkinson-like symptoms. There have been instances of hypotension reported following parental administration to surgical patients. There have been reports of blood dyscrasias, blurring of vision, coma, convulsions, depression of mood, diarrhea, disorientation, dizziness, drowsiness, headache, jaundice, muscle cramps and opisthotonos. If these occur, the administration of the drug should be discontinued. Allergic-type skin reactions have been observed; therfore, the drug should be discontinued at the first sign onf sensitization. While these symptoms will usually disappear spontaneously, symptomatic treatment may be indicated in some cases."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

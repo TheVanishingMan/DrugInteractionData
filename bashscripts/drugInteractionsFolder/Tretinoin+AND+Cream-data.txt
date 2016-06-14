@@ -1,0 +1,594 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=0
+Page 0 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Refissa"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medications, medicated or abrasive soaps, shampoos, cleansers, cosmetics with a strong drying effect, products with high concentrations of alcohol, astringents, spices or lime, permanent wave solutions, electrolysis, hair depilatories or waxes, and products that may irritate the skin should be used with caution in patients being treated with Refissa [Tretinoin Cream, USP (Emollient) 0.05%] because they may increase irritation with Refissa. Refissa should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (See WARNINGS and PRECAUTIONS sections.) In double-blind, vehicle-controlled studies involving 179 patients who applied Tretinoin Cream, USP (Emollient) 0.05% to their faces, adverse reactions associated with the use of Tretinoin Cream, USP (Emollient) 0.05% were limited primarily to the skin. During these trials, 4% of patients had to discontinue use of Tretinoin Cream, USP (Emollient) 0.05% because of adverse reactions. These discontinuations were due to skin irritation or related cutaneous adverse reactions. Local reactions such as peeling, dry skin, burning, stinging, erythema, and pruritus were reported by almost all subjects during therapy with Tretinoin Cream, USP (Emollient) 0.05%. These signs and symptoms were usually of mild to moderate severity and generally occurred early in therapy. In most patients the dryness, peeling, and redness recurred after an initial (24 week) decline."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=1
+Page 1 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Retin-A MICRO"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions are skin pain, pruritus, skin irritation/subcutaneous irritation, pharyngitis, and erythema. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Clinical Trials in Subjects with Acne In separate clinical trials for each concentration, acne subjects treated with Retin-A Micro (tretinoin) Gel microsphere 0.1% or 0.04%, over the twelve week period showed that cutaneous irritation scores for erythema, peeling, dryness, burning/stinging, or itching peaked during the initial two weeks of therapy, decreasing thereafter. Approximately half of the subjects treated with Retin-A Micro 0.04% had cutaneous irritation at Week 2. Of those subjects who did experience cutaneous side effects, most had signs or symptoms that were mild in severity (severity was ranked on a 4-point ordinal scale: 0=none, 1=mild, 2=moderate, and 3=severe). Less than 10% of patients experienced moderate cutaneous irritation and there was no severe irritation at Week 2. In trials of Retin-A Micro (tretinoin) Gel microsphere 0.04%, throughout the treatment period the majority of subjects experienced some degree of irritation (mild, moderate, or severe) with 1% (2/225) of subjects having scores indicative of a severe irritation; 1.3% (3/225) of subjects treated with Retin-A Micro (tretinoin) Gel microsphere, 0.04%, discontinued treatment due to irritation, which included dryness in one patient and peeling and urticaria in another. In trials of Retin-A Micro (tretinoin) Gel microsphere 0.1%, no more than 3% of subjects had cutaneous irritation scores indicative of severe irritation; 6% (14/224) of subjects treated with Retin-A Micro (tretinoin) Gel microsphere, 0.1% discontinued treatment due to irritation. Of these 14 subjects, four had severe irritation after 3 to 5 days of treatment, with blistering in one subject. In a double-blind trial with 156 acne subjects comparing 12 weeks of treatment with Retin-A Micro (tretinoin) Gel 0.04% or 0.1% (78 subjects each group), the most frequently-reported adverse events affected the skin and subcutaneous tissue (15.4% in the 0.04% group, and 20.5% in the 0.1% group). The most prevalent of the dermatologic adverse events in the 0.04% group was skin irritation (6.4%); and in the 0.1% group skin burning (7.7%), erythema (5.1%), skin irritation (3.8%), and dermatitis (3.8%). Most adverse events were of mild intensity (63.4%), and 34.4% were moderate. One subject in each group had adverse events characterized as severe, neither were dermatologic findings and neither was characterized as related to drug by the investigator. Trials in Subjects Without Acne In a half-face comparison trial conducted for up to 14 days in women with sensitive skin, but without acne, Retin-A Micro (tretinoin) Gel microsphere, 0.1% was statistically less irritating than tretinoin cream, 0.1%. In addition, a cumulative 21 day irritation evaluation in subjects with normal skin showed that Retin-A Micro (tretinoin) Gel microsphere, 0.1%, had a lower irritation profile than tretinoin cream, 0.1%. The clinical significance of these irritation studies for patients with acne is not established. Comparable effectiveness of Retin-A Micro (tretinoin) Gel microsphere, 0.1% and tretinoin cream, 0.1%, has not been established. The lower irritancy of Retin-A Micro (tretinoin) Gel microsphere, 0.1% in subjects without acne may be attributable to the properties of its vehicle. The contribution of decreased irritancy by the MICROSPONGE System has not been established. No irritation trials have been performed to compare Retin-A Micro (tretinoin) Gel microsphere, 0.04%, with either Retin-A Micro (tretinoin) Gel microsphere, 0.1%, or tretinoin cream, 0.1%. 6.2 Postmarketing Experience The following adverse reactions have been identified during post-approval use of Retin-A Micro Gel. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure. Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS •Retin-A Micro should not be used on eczematous or sunburned skin due to potential for severe irritation. (5.1) •Avoid unprotected exposure to sunlight including sunlamps (UV light), when using Retin-A Micro due to potential for increased photosensitization. Use sunscreen of at least SPF 15 and protective clothing during exposure. (5.2) • Avoid use of Retin-A Micro with weather extremes, such as wind or cold due to potential for increased irritation. (5.2) 5.1 Local Irritation The skin of certain individuals may become excessively dry, red, swollen, or blistered. Tretinoin has been reported to cause severe irritation on eczematous skin and should be used with utmost caution in patients with this condition. If the degree of irritation warrants, patients should be directed to temporarily reduce the amount or frequency of application of the medication, discontinue use temporarily, or discontinue use all together. Efficacy at reduced frequencies of application has not been established. If a reaction suggesting sensitivity occurs, use of the medication should be discontinued. To help limit skin irritation, patients must •wash the treated skin gently, using a mild, non-medicated soap, and pat it dry, and •avoid washing the treated skin too often or scrubbing it hard when washing. Patients should apply a topical moisturizer if dryness is bothersome. 5.2 Exposure to Ultraviolet Light or Weather Extremes Unprotected exposure to sunlight, including sunlamps (UV light) should be avoided or minimized during the use of Retin-A Micro (tretinoin) Gel microsphere, 0.1%, 0.08% and 0.04%, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin. Patients who may be required to have extended periods of UV exposure (e.g., due to occupation or sports), or those with inherent sensitivity to the sun, or those using medications that cause photosensitivity, should exercise particular caution. Use of sunscreen products (SPF15 or higher) and protective clothing over treated areas are recommended when exposure cannot be avoided [see Nonclinical Toxicology (13.1) ]. Weather extremes, such as wind or cold, also may be irritating to tretinoin-treated skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=2
+Page 2 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Retin-A"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper or hypopigmentation has been reported with repeated application of RETIN-A. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with RETIN-A. To date, all adverse effects of RETIN-A have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=3
+Page 3 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions: The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of a tretinoin preparation. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=4
+Page 4 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medications, medicated or abrasive soaps, shampoos, cleansers, cosmetics with a strong drying effect, products with high concentrations of alcohol, astringents, spices or lime, permanent wave solutions, electrolysis, hair depilatories or waxes, and products that may irritate the skin should be used with caution in patients being treated with Tretinoin Cream, USP (Emollient) because they may increase irritation with Tretinoin Cream, USP (Emollient). Tretinoin Cream, USP (Emollient) should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (See WARNINGS and PRECAUTIONS sections.) In double-blind, vehicle-controlled studies involving 179 patients who applied Tretinoin Cream, USP (Emollient) 0.05% to their faces, adverse reactions associated with the use of Tretinoin Cream, USP (Emollient) 0.05% were limited primarily to the skin. During these trials, 4% of patients had to discontinue use of Tretinoin Cream, USP (Emollient) 0.05% because of adverse reactions. These discontinuations were due to skin irritation or related cutaneous adverse reactions. Local reactions such as peeling, dry skin, burning, stinging, erythema, and pruritus were reported by almost all subjects during therapy with Tretinoin Cream, USP (Emollient) 0.05%. These signs and symptoms were usually of mild to moderate severity and generally occurred early in therapy. In most patients the dryness, peeling, and redness recurred after an initial (24 week) decline."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=5
+Page 5 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "TRETIN.X"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication,medicated or abrasive soaps and cleansers,soaps and cosmetics that have a strong drying effect,and products with high concentrations of alcohol,astringents,spices or lime should be used with caution because of possible interaction with tretinoin.Particular caution should be exercised in using preparations containing sulfur,resorcinol,or salicylic acid with TRETIN•X. It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of TRETIN•X is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red,edematous,blistered, or crusted.If these effects occur,the medication should either be discontinued until the integrity of the skin is restored,or the medication should be adjusted to a level the patient can tolerate.True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of a tretinoin preparation.Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin.To date,all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=6
+Page 6 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Renova"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medications, medicated or abrasive soaps, shampoos, cleansers, cosmetic with a strong drying effect, products with high concentrations of alcohol, astringents, spices or lime permanent wave solutions, electrolysis, hair depilatories or waxes, and products that may irritate the skin should be used with caution in patients being treated with RENOVA® (tretinoin cream) 0.02% because they may increase irritation with RENOVA® (tretinoin cream) 0.02%. RENOVA® (tretinoin cream) 0.02% should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (See WARNINGS and PRECAUTIONS sections.) In double-blind, vehicle-controlled studies involving 339 patients who applied RENOVA® (tretinoin cream) 0.02% to their faces, adverse reactions associated with the use of RENOVA® (tretinoin cream) 0.02% were limited primarily to the skin. Almost all patients reported one or more local reactions such as peeling, dry skin, burning, stinging, erythema, and pruritus. In 32% of all study patients, skin irritation was reported that was severe, let to temporary discontinuation of RENOVA® (tretinoin cream) 0.02%, or led to the use of a mild topical corticosteroid. About 7% of patients using RENOVA® (tretinoin cream) 0.02%, compared to less than 1% of the control patients, had sufficiently severe local irritation to warrant short-term use of mild topical corticosteroids to alleviate local irritation. About 4% of patients had to discontinue use of RENOVA® (tretinoin cream) 0.02% because of adverse reactions. Approximately 2% of spontaneous post-marketing adverse even reporting for RENOVA® (tretinoin cream) 0.05% were for skin hypo- or hyperpigmentation. Other spontaneously reported adverse events for RENOVA® (tretinoin cream) 0.05% predominantly appear to be local reactions similar to those seen in clinical trials."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=7
+Page 7 of 43
+        "generic_name": [
+          "ZINC OXIDE, MENTHOL, UNSPECIFIED FORM, AND TRETINOIN"
+        "brand_name": [
+          "DERMAWERX ZMT PAK"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to \"rest\" a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of a tretinoin preparation. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=8
+Page 8 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS When treating with Tretinoin Gel 0.05%, caution should be exercised with the use of concomitant topical medication, medicated or abrasive soaps and cleansers, products that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices, or lime. Particular caution should be exercised with the concomitant use of topical over-the-counter acne preparations containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid. Allow the effects of such preparations to subside before use of Tretinoin Gel 0.05% is begun. •Topical over-the-counter acne preparations, concomitant topical medication, medicated cleansers, topical products with alcohol or astringents: Use with caution, irritation may occur. (7)"
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The most common adverse reactions (incidence ≥ 5%) with Tretinoin Gel 0.05% are dry skin, peeling/scaling/flaking skin, skin burning sensation, and erythema. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America at 1-800-556-1937 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In two randomized, controlled trials, 674 subjects received treatment for up to 12 weeks with Tretinoin Gel 0.05% [see Clinical Studies (14)]. In these studies, 50% of the subjects who were treated with Tretinoin Gel 0.05% reported one or more adverse reactions; 30% of the subjects reported treatment-related adverse reactions. In the vehicle group, 29% of the 487 randomized subjects reported at least one adverse reaction; 5% of the subjects reported events that were treatment-related. There were no serious, treatment-related adverse reactions reported by subjects in any of the treatment groups. Selected adverse reactions that occurred in at least 1% of subjects in the two studies combined, are shown in Table 1 (below). Most skin-related adverse reactions first appear during the first two weeks of treatment with Tretinoin Gel 0.05%, and the incidence rate for skin-related reactions peaks around the second and third week of treatment. In some subjects the skin-related adverse reactions persists throughout the treatment period. Table 1. Number of Subjects with Selected Adverse Reactions (Occurring in At Least 1% of Subjects) Event Tretinoin Gel 0.05% (n = 674) Vehicle Gel (n = 487) Dry Skin 109 (16%) 8 (2%) Peeling/Scaling/ Flaking Skin 78 (12%) 7 (1%) Skin Burning Sensation 53 (8%) 8 (2%) Erythema 47 (7%) 1 (<1%) Pruritus 11 (2%) 3 (1%) Pain of Skin 7 (1%) 0 (0%) Sunburn 7 (1%) 3 (1%)"
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS •Tretinoin Gel 0.05% should not be used on eczematous or sunburned skin due to potential for severe irritation (5.1) •Avoid unprotected exposure to sunlight when using Tretinoin Gel 0.05% due to potential for increased photosensitization. Use sunscreen of at least SPF 15 and protective clothing during exposure (5.2) •Avoid use of Tretinoin Gel 0.05% with weather extremes, such as wind or cold due to potential for increased irritation (5.2) •Use Tretinoin Gel 0.05% with caution if allergic to fish due to potential for allergenicity to fish protein. Patients who develop pruritus or urticaria should contact their health care provider (5.3) 5.1 Skin Irritation The skin of certain individuals may become dry, red, or exfoliated while using Tretinoin Gel 0.05%. If the degree of irritation warrants, patients should be directed to temporarily reduce the amount or frequency of application of the medication, discontinue use temporarily, or discontinue use all together. Efficacy at reduced frequencies of application has not been established. If a reaction suggesting sensitivity occurs, use of the medication should be discontinued. Mild to moderate skin dryness may also be experienced; if so, use of an appropriate moisturizer during the day may be helpful. Tretinoin has been reported to cause severe irritation on eczematous or sunburned skin and should be used with caution in patients with these conditions. Topical over-the-counter acne preparations, concomitant topical medication, medicated cleansers, topical products with alcohol or astringents, when used with Tretinoin Gel 0.05%, should be used with caution. [see Drug Interactions (7)]. 5.2 Ultraviolet Light and Environmental Exposure Unprotected exposure to sunlight, including sunlamps, should be minimized during the use of Tretinoin Gel 0.05%. Patients who normally experience high levels of sun exposure, and those with inherent sensitivity to sun, should be warned to exercise caution. Use of sunscreen products of at least SPF 15 and protective clothing over treated areas is recommended when exposure cannot be avoided. Weather extremes, such as wind or cold, also may be irritating to patients under treatment with tretinoin. 5.3 Fish Allergies Tretinoin Gel 0.05% contains soluble fish proteins and should be used with caution in patients with known sensitivity or allergy to fish. Patients who develop pruritus or urticaria should contact their health care provider."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=9
+Page 9 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Avita"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with AVITA® Cream. It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of AVITA® Cream is begun."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication dosing frequency should be adjusted temporarily to a level the patient can tolerate. However, efficacy has not been established for lower dosing frequencies. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of AVITA® Cream. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with AVITA® Cream. Adverse effects of AVITA® Cream have been reversible upon discontinuation of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=10
+Page 10 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Retin-A"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with RETIN-A. It also is advisable to \"rest\" a patient's skin until the effects of such preparations subside before use of RETIN-A is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of RETIN-A. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with RETIN-A. To date, all adverse effects of RETIN-A have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=11
+Page 11 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to “rest” a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions: The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration: Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=12
+Page 12 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Refissa"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medications, medicated or abrasive soaps, shampoos, cleansers, cosmetics with a strong drying effect, products with high concentrations of alcohol, astringents, spices or lime, permanent wave solutions, electrolysis, hair depilatories or waxes, and products that may irritate the skin should be used with caution in patients being treated with Tretinoin Cream, USP (Emollient) because they may increase irritation with Tretinoin Cream, USP (Emollient). Tretinoin Cream, USP (Emollient) should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (see WARNINGS and PRECAUTIONS sections.) In double-blind, vehicle-controlled studies involving 179 patients who applied Tretinoin Cream, USP (Emollient) 0.05% to their faces, adverse reactions associated with the use of Tretinoin Cream, USP (Emollient) 0.05% were limited primarily to the skin. During these trials, 4% of patients had to discontinue use of Tretinoin Cream, USP (Emollient) 0.05% because of adverse reactions. These discontinuations were due to skin irritation or related cutaneous adverse reactions. Local reactions such as peeling, dry skin, burning, stinging, erythema, and pruritus were reported by almost all subjects during therapy with Tretinoin Cream, USP (Emollient) 0.05%. These signs and symptoms were usually of mild to moderate severity and generally occurred early in therapy. In most patients the dryness, peeling, and redness recurred after an initial (24 week) decline. In spontaneous post-marketing adverse event reporting for Tretinoin Cream, USP (Emollient) 0.05%, approximately 2% of those were for skin hypo- or hyperpigmentation. Other spontaneously reported adverse events predominantly appear to be local reactions similar to those seen in clinical trials."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=13
+Page 13 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin Gel Microsphere"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Concomitant topical medication, medicated or abrasive soaps and cleansers, products that have a strong drying effect, products with high concentrations of alcohol, astringents, or spices should be used with caution because of possible interaction with tretinoin. Avoid contact with the peel of limes. Particular caution should be exercised with the concomitant use of topical over-the-counter acne preparations containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid with Tretinoin Gel Microsphere, 0.1% and 0.04%. It also is advisable to allow the effects of such preparations to subside before use of Tretinoin Gel Microsphere, 0.1% and 0.04% is begun."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Irritation Potential Acne clinical trial results: In separate clinical trials for each concentration with acne patients treated with Tretinoin Gel Microsphere, 0.1% or 0.04%, analysis over the 12 week period showed that cutaneous irritation scores for erythema, peeling, dryness, burning/stinging, or itching peaked during the initial 2 weeks of therapy, decreasing thereafter. Approximately half of the patients treated with Tretinoin Gel Microsphere, 0.04% had cutaneous irritation at Week 2. Of those patients who did experience cutaneous side effects, most had signs or symptoms that were mild in severity (severity was ranked on a 4-point ordinal scale: 0=none, 1=mild, 2=moderate, and 3=severe). Less than 10% of patients experienced moderate cutaneous irritation and there was no severe irritation at Week 2. In studies on Tretinoin Gel Microsphere, 0.04%, throughout the treatment period the majority of patients experienced some degree of irritation (mild, moderate, or severe) with 1% (2/225) of patients having scores indicative of a severe irritation rating; and 1.3% (3/225) of patients treated with Tretinoin Gel Microsphere, 0.04% discontinued treatment due to irritation, which included dryness in one patient and peeling and urticaria in another. In studies on Tretinoin Gel Microsphere, 0.1%, no more than 3% of patients had cutaneous irritation scores indicative of severe irritation rating; although, 6% (14/224) of patients treated with Tretinoin Gel Microsphere, 0.1% discontinued treatment due to irritation. Of these 14 patients, four have severe irritation after 3 to 5 days of treatment, with blistering in one patient. Results in studies of subjects without acne: In a half-face comparison trial conducted for up to 14 days in women with sensitive skin, but without acne, Tretinoin Gel Microsphere, 0.1% was statistically less irritating than tretinoin cream 0.1%. In addition, a cumulative 21 day irritation evaluation in subjects with normal skin showed that Tretinoin Gel Microsphere, 0.1% had a lower irritation profile than tretinoin cream 0.1%. The clinical significance of these irritation studies for patients with acne is not established. Comparable effectiveness of Tretinoin Gel Microsphere, 0.1% and tretinoin cream, 0.1%, has not been established. The lower irritancy of Tretinoin Gel Microsphere, 0.1% in subjects without acne may be attributable to the properties of its vehicle. The contribution of decreased irritancy by the MICROSPONGE® System has not been established. No irritation studies have been performed to compare Tretinoin Gel Microsphere, 0.04% with either Tretinoin Gel Microsphere, 0.1% or tretinoin cream, 0.1%. The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. However, efficacy has not been established for lower dosing frequencies (see DOSAGE AND ADMINISTRATION Section). True contact allergy to topical tretinoin is rarely encountered. Temporary hyper-or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=14
+Page 14 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions are skin pain, pruritus, skin irritation/subcutaneous irritation, pharyngitis, and erythema. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Spear Dermatology Products at 1-866-SPEAR-RX (773-2279) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Clinical Trials in Subjects with Acne In separate clinical trials for each concentration, acne subjects treated with tretinoin gel, USP (microsphere) 0.1% or 0.04%, over the twelve week period showed that cutaneous irritation scores for erythema, peeling, dryness, burning/stinging, or itching peaked during the initial two weeks of therapy, decreasing thereafter. Approximately half of the subjects treated with tretinoin gel, USP (microsphere) 0.04% had cutaneous irritation at Week 2. Of those subjects who did experience cutaneous side effects, most had signs or symptoms that were mild in severity (severity was ranked on a 4-point ordinal scale: 0=none, 1=mild, 2=moderate, and 3=severe). Less than 10% of patients experienced moderate cutaneous irritation and there was no severe irritation at Week 2. In trials of tretinoin gel, USP (microsphere) 0.04%, throughout the treatment period the majority of subjects experienced some degree of irritation (mild, moderate, or severe) with 1% (2/225) of subjects having scores indicative of a severe irritation; 1.3% (3/225) of subjects treated with tretinoin gel, USP (microsphere) 0.04%, discontinued treatment due to irritation, which included dryness in one patient and peeling and urticaria in another. In trials of tretinoin gel, USP (microsphere) 0.1%, no more than 3% of subjects had cutaneous irritation scores indicative of severe irritation; 6% (14/224) of subjects treated with tretinoin gel, USP (microsphere) 0.1% discontinued treatment due to irritation. Of these 14 subjects, four had severe irritation after 3 to 5 days of treatment, with blistering in one subject. In a double-blind trial with 156 acne subjects comparing 12 weeks of treatment with tretinoin gel, USP (microsphere) 0.04% or 0.1% (78 subjects each group), the most frequently-reported adverse events affected the skin and subcutaneous tissue (15.4% in the 0.04% group, and 20.5% in the 0.1% group). The most prevalent of the dermatologic adverse events in the 0.04% group was skin irritation (6.4%); and in the 0.1% group skin burning (7.7%), erythema (5.1%), skin irritation (3.8%), and dermatitis (3.8%). Most adverse events were of mild intensity (63.4%), and 34.4% were moderate. One subject in each group had adverse events characterized as severe, neither were dermatologic findings and neither was characterized as related to drug by the investigator. Trials in Subjects Without Acne In a half-face comparison trial conducted for up to 14 days in women with sensitive skin, but without acne, tretinoin gel, USP (microsphere) 0.1% was statistically less irritating than tretinoin cream, 0.1%. In addition, a cumulative 21 day irritation evaluation in subjects with normal skin showed that tretinoin gel, USP (microsphere) 0.1%, had a lower irritation profile than tretinoin cream, 0.1%. The clinical significance of these irritation trials for patients with acne is not established. Comparable effectiveness of tretinoin gel, USP (microsphere) 0.1% and tretinoin cream, 0.1%, has not been established. The lower irritancy of tretinoin gel, USP (microsphere) 0.1% in subjects without acne may be attributable to the properties of its vehicle. The contribution of decreased irritancy by the methyl methacrylate/glycol dimethacrylate crosspolymer porous microspheres has not been established. No irritation trials have been performed to compare tretinoin gel, USP (microsphere) 0.04%, with either tretinoin gel, USP (microsphere) 0.1%, or tretinoin cream, 0.1%. 6.2 Postmarketing Experience The following adverse reactions have been identified during post-approval use of tretinoin gel, USP (microsphere). Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure. Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Tretinoin gel, USP (microsphere) should not be used on eczematous or sunburned skin due to potential for severe irritation. (5.1) Avoid unprotected exposure to sunlight including sunlamps (UV light), when using tretinoin gel, USP (microsphere) due to potential for increased photosensitization. Use sunscreen of at least SPF 15 and protective clothing during exposure. (5.2) Avoid use of tretinoin gel, USP (microsphere) with weather extremes, such as wind or cold due to potential for increased irritation. (5.2) 5.1 Local Irritation The skin of certain individuals may become excessively dry, red, swollen, or blistered. Tretinoin has been reported to cause severe irritation on eczematous skin and should be used with utmost caution in patients with this condition. If the degree of irritation warrants, patients should be directed to temporarily reduce the amount or frequency of application of the medication, discontinue use temporarily, or discontinue use all together. Efficacy at reduced frequencies of application has not been established. If a reaction suggesting sensitivity occurs, use of the medication should be discontinued. To help limit skin irritation, patients must wash the treated skin gently, using a mild, non-medicated soap, and pat it dry, and avoid washing the treated skin too often or scrubbing it hard when washing. Patients should apply a topical moisturizer if dryness is bothersome. 5.2 Exposure to Ultraviolet Light or Weather Extremes Unprotected exposure to sunlight, including sunlamps (UV light) should be avoided or minimized during the use of tretinoin gel, USP (microsphere) 0.1% and 0.04%, and patients with sunburn should be advised not to use the product until fully recovered because of heightened susceptibility to sunlight as a result of the use of tretinoin. Patients who may be required to have extended periods of UV exposure (e.g., due to occupation or sports), or those with inherent sensitivity to the sun, or those using medications that cause photosensitivity, should exercise particular caution. Use of sunscreen products (SPF15 or higher) and protective clothing over treated areas are recommended when exposure cannot be avoided [see Nonclinical Toxicology (13.1) ]. Weather extremes, such as wind or cold, also may be irritating to tretinoin-treated skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=15
+Page 15 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Retin-A"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with RETIN-A. It also is advisable to \"rest\" a patient's skin until the effects of such preparations subside before use of RETIN-A is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of RETIN-A. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with RETIN-A. To date, all adverse effects of RETIN-A have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=16
+Page 16 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin Cream"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=17
+Page 17 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to “rest” a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions: The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=18
+Page 18 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=19
+Page 19 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Retin-A MICRO"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, products that have a strong drying effect, products with high concentrations of alcohol, astringents, or spices should be used with caution because of possible interaction with tretinoin. Avoid contact with the peel of limes. Particular caution should be exercised with the concomitant use of topical over-the-counter acne preparations containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid with Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%. It also is advisable to allow the effects of such preparations to subside before use of Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%, is begun."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Irritation Potential Acne clinical trial results In separate clinical trials for each concentration, acne patients treated with Retin-A Micro® (tretinoin gel) microsphere, 0.1% or 0.04%, analysis over the twelve week period showed that cutaneous irritation scores for erythema, peeling, dryness, burning/stinging, or itching peaked during the initial two weeks of therapy, decreasing thereafter. Approximately half of the patients treated with Retin-A Micro® (tretinoin gel) microsphere, 0.04% had cutaneous irritation at Week 2. Of those patients who did experience cutaneous side effects, most had signs or symptoms that were mild in severity (severity was ranked on a 4-point ordinal scale: 0=none, 1=mild, 2=moderate, and 3=severe). Less than 10% of patients experienced moderate cutaneous irritation and there was no severe irritation at Week 2. In studies on Retin-A Micro® (tretinoin gel) microsphere, 0.04%, throughout the treatment period the majority of patients experienced some degree of irritation (mild, moderate, or severe) with 1% (2/225) of patients having scores indicative of a severe irritation rating; and 1.3% (3/225) of patients treated with Retin-A Micro® (tretinoin gel) microsphere, 0.04%, discontinued treatment due to irritation, which included dryness in one patient and peeling and urticaria in another. In studies on Retin-A Micro® (tretinoin gel) microsphere, 0.1%, no more than 3% of patients had cutaneous irritation scores indicative of severe irritation rating; although, 6% (14/224) of patients treated with Retin-A Micro® (tretinoin gel) microsphere, 0.1% discontinued treatment due to irritation. Of these 14 patients, four have severe irritation after 3 to 5 days of treatment, with blistering in one patient. Results in studies of subjects without acne In a half-face comparison trial conducted for up to 14 days in women with sensitive skin, but without acne, Retin-A Micro® (tretinoin gel) microsphere, 0.1% was statistically less irritating than tretinoin cream, 0.1%. In addition, a cumulative 21 day irritation evaluation in subjects with normal skin showed that Retin-A Micro® (tretinoin gel) microsphere, 0.1%, had a lower irritation profile than tretinoin cream, 0.1%. The clinical significance of these irritation studies for patients with acne is not established. Comparable effectiveness of Retin-A Micro® (tretinoin gel) microsphere, 0.1% and tretinoin cream, 0.1%, has not been established. The lower irritancy of Retin-A Micro® (tretinoin gel) microsphere, 0.1% in subjects without acne may be attributable to the properties of its vehicle. The contribution of decreased irritancy by the MICROSPONGE System has not been established. No irritation studies have been performed to compare Retin-A Micro® (tretinoin gel) microsphere, 0.04%, with either Retin-A Micro® (tretinoin gel) microsphere, 0.1%, or tretinoin cream, 0.1%. The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. However, efficacy has not been established for lower dosing frequencies (see DOSAGE AND ADMINISTRATION Section). True contact allergy to topical tretinoin is rarely encountered. Temporary hyper-or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=20
+Page 20 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Retin-A MICRO"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, products that have a strong drying effect, products with high concentrations of alcohol, astringents, or spices should be used with caution because of possible interaction with tretinoin. Avoid contact with the peel of limes. Particular caution should be exercised with the concomitant use of topical over-the-counter acne preparations containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid with Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%. It also is advisable to allow the effects of such preparations to subside before use of Retin-A Micro® (tretinoin gel) microsphere, 0.1% and 0.04%, is begun."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Irritation Potential Acne clinical trial results In separate clinical trials for each concentration, acne patients treated with Retin-A Micro® (tretinoin gel) microsphere, 0.1% or 0.04%, analysis over the twelve week period showed that cutaneous irritation scores for erythema, peeling, dryness, burning/stinging, or itching peaked during the initial two weeks of therapy, decreasing thereafter. Approximately half of the patients treated with Retin-A Micro® (tretinoin gel) microsphere, 0.04% had cutaneous irritation at Week 2. Of those patients who did experience cutaneous side effects, most had signs or symptoms that were mild in severity (severity was ranked on a 4-point ordinal scale: 0=none, 1=mild, 2=moderate, and 3=severe). Less than 10% of patients experienced moderate cutaneous irritation and there was no severe irritation at Week 2. In studies on Retin-A Micro® (tretinoin gel) microsphere, 0.04%, throughout the treatment period the majority of patients experienced some degree of irritation (mild, moderate, or severe) with 1% (2/225) of patients having scores indicative of a severe irritation rating; and 1.3% (3/225) of patients treated with Retin-A Micro® (tretinoin gel) microsphere, 0.04%, discontinued treatment due to irritation, which included dryness in one patient and peeling and urticaria in another. In studies on Retin-A Micro® (tretinoin gel) microsphere, 0.1%, no more than 3% of patients had cutaneous irritation scores indicative of severe irritation rating; although, 6% (14/224) of patients treated with Retin-A Micro® (tretinoin gel) microsphere, 0.1% discontinued treatment due to irritation. Of these 14 patients, four have severe irritation after 3 to 5 days of treatment, with blistering in one patient. Results in studies of subjects without acne In a half-face comparison trial conducted for up to 14 days in women with sensitive skin, but without acne, Retin-A Micro® (tretinoin gel) microsphere, 0.1% was statistically less irritating than tretinoin cream, 0.1%. In addition, a cumulative 21 day irritation evaluation in subjects with normal skin showed that Retin-A Micro® (tretinoin gel) microsphere, 0.1%, had a lower irritation profile than tretinoin cream, 0.1%. The clinical significance of these irritation studies for patients with acne is not established. Comparable effectiveness of Retin-A Micro® (tretinoin gel) microsphere, 0.1% and tretinoin cream, 0.1%, has not been established. The lower irritancy of Retin-A Micro® (tretinoin gel) microsphere, 0.1% in subjects without acne may be attributable to the properties of its vehicle. The contribution of decreased irritancy by the MICROSPONGE System has not been established. No irritation studies have been performed to compare Retin-A Micro® (tretinoin gel) microsphere, 0.04%, with either Retin-A Micro® (tretinoin gel) microsphere, 0.1%, or tretinoin cream, 0.1%. The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. However, efficacy has not been established for lower dosing frequencies (see DOSAGE AND ADMINISTRATION Section). True contact allergy to topical tretinoin is rarely encountered. Temporary hyper-or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=21
+Page 21 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to \"rest\" a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of a tretinoin preparation. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=22
+Page 22 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to “rest” a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions: The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration: Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=23
+Page 23 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Retin-A"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with RETIN-A. It also is advisable to \"rest\" a patient's skin until the effects of such preparations subside before use of RETIN-A is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of RETIN-A. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with RETIN-A. To date, all adverse effects of RETIN-A have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=24
+Page 24 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to \"rest\" a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of a tretinoin preparation. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=25
+Page 25 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Renova"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medications, medicated or abrasive soaps, shampoos, cleansers, cosmetics with a strong drying effect, products with high concentrations of alcohol, astringents, spices or lime, permanent wave solutions, electrolysis, hair depilatories or waxes, and products that may irritate the skin should be used with caution in patients being treated with RENOVA® (tretinoin cream) 0.02% because they may increase irritation with RENOVA® (tretinoin cream) 0.02%. RENOVA® (tretinoin cream) 0.02% should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (See WARNINGS and PRECAUTIONS sections.) In double-blind, vehicle-controlled studies involving 339 patients who applied RENOVA® (tretinoin cream) 0.02% to their faces, adverse reactions associated with the use of RENOVA® (tretinoin cream) 0.02% were limited primarily to the skin. Almost all patients reported one or more local reactions such as peeling, dry skin, burning, stinging, erythema, and pruritus. In 32% of all study patients, skin irritation was reported that was severe, led to temporary discontinuation of RENOVA® (tretinoin cream) 0.02%, or led to use of a mild topical corticosteroid. About 7% of patients using RENOVA® (tretinoin cream) 0.02%, compared to less than 1% of the control patients, had sufficiently severe local irritation to warrant short-term use of mild topical corticosteroids to alleviate local irritation. About 4% of patients had to discontinue use of RENOVA® (tretinoin cream) 0.02% because of adverse reactions. Approximately 2% of spontaneous post-marketing adverse event reporting for RENOVA® (tretinoin cream) 0.05% were for skin hypo- or hyperpigmentation. Other spontaneously reported adverse events for RENOVA® (tretinoin cream) 0.05% predominantly appear to be local reactions similar to those seen in clinical trials."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=26
+Page 26 of 43
+        "generic_name": [
+          "FLUOCINOLONE ACETONIDE, HYDROQUINONE, AND TRETINOIN"
+        "brand_name": [
+          "TRI-LUMA"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. In the controlled clinical trials, adverse events were monitored in the 161 subjects who used TRI-LUMA Cream once daily during an 8-week treatment period. There were 102 (63%) subjects who experienced at least one treatment-related adverse event during these trials. The most frequently reported events were erythema, desquamation, burning, dryness, and pruritus at the site of application. The majority of these events were mild to moderate in severity. Adverse events reported by at least 1% of patients and judged by the investigators to be reasonably related to treatment with TRI-LUMA Cream from the controlled clinical trials are summarized (in decreasing order of frequency) as follows: In an open-label trial, subjects who had cumulative treatment of melasma with TRI-LUMA Cream for 6 months showed a similar pattern of adverse events as in the 8-week studies. The following local adverse reactions have been reported with topical corticosteroids. They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria. Most common adverse reactions (incidence > 5%) are erythema, desquamation, burning, dryness, pruritus, and acne. (6) To report SUSPECTED ADVERSE REACTIONS, contact Galderma Laboratories, L.P. at 1-866-735-4137 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. table-1"
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS TRI-LUMA Cream contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening asthmatic episodes in susceptible people. If anaphylaxis, asthma or other clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue TRI-LUMA. (5.1) TRI-LUMA Cream contains hydroquinone, which may produce exogenous ochronosis, a gradual blue-black darkening of the skin, the occurrence of which should prompt discontinuation of therapy. (5.2) 5.1 Hypersensitivity TRI-LUMA Cream contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening asthmatic episodes in susceptible individuals. If anaphylaxis, asthma or other clinically significant hypersensitivity reactions occur, institute appropriate therapy and discontinue TRI-LUMA. Allergic contact dermatitis may also occur [see Warnings and Precautions 5.4]. 5.2 Exogenous Ochronosis TRI-LUMA Cream contains hydroquinone, which may produce exogenous ochronosis, a gradual blue-black darkening of the skin, the occurrence of which should prompt discontinuation of therapy. The majority of patients developing this condition are Black, but it may also occur in Caucasians and Hispanics. 5.3 Effects on Endocrine System TRI-LUMA Cream contains the corticosteroid fluocinolone acetonide. Systemic absorption of topical corticosteroids can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment. Manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria can also be produced by systemic absorption of topical corticosteroid while on treatment. If HPA axis suppression is noted, the use of TRI-LUMA Cream should be discontinued. Recovery of HPA axis function generally occurs upon discontinuation of topical corticosteroids. The ACTH or cosyntropin stimulation test may be helpful in evaluating patients for HPA axis suppression. 5.4 Cutaneous Reactions Cutaneous hypersensitivity to the active ingredients of TRI-LUMA Cream has been reported in the literature. In a patch test study to determine sensitization potential in 221 healthy volunteers, three volunteers developed sensitivity reactions to TRI-LUMA Cream or its components. TRI-LUMA Cream contains hydroquinone and tretinoin that may cause mild to moderate irritation. Local irritation, such as skin reddening, peeling, mild burning sensation, dryness, and pruritus may be expected at the site of application. Transient skin reddening or mild burning sensation does not preclude treatment. If a reaction suggests hypersensitivity or chemical irritation, the use of the medication should be discontinued. Patients should avoid medicated or abrasive soaps and cleansers, soaps and cosmetics with drying effects, products with high concentrations of alcohol and astringents, and other irritants or keratolytic drugs while on TRI-LUMA Cream treatment. Patients are cautioned on concomitant use of medications that are known to be photosensitizing."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=27
+Page 27 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Obagi"
+ 
+      "adverse_reactions": [
+        "The skin if certain sensitive individuals may become excessively red, edamatous, blistered or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper - or hypopigmentation has been reported with susceptibility to sunlight while under treatment with tretinoin. To date, alldverse effects of tretinoin have been reversible upon discontinuance of therapy (see DOSAGE AND ADMINISTRATION Section)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=28
+Page 28 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to \"rest\" a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of a tretinoin preparation. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=29
+Page 29 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "REFISSA"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medications, medicated or abrasive soaps, shampoos, cleansers, cosmetics with a strong drying effect, products with high concentrations of alcohol, astringents, spices or lime, permanent wave solutions, electrolysis, hair depilatories or waxes, and products that may irritate the skin should be used with caution in patients being treated with Refissa [Tretinoin Cream, USP (Emollient) 0.05%] because they may increase irritation with Refissa. Refissa should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (See WARNINGS and PRECAUTIONS sections.) In double-blind, vehicle-controlled studies involving 179 patients who applied Tretinoin Cream, USP (Emollient) 0.05% to their faces, adverse reactions associated with the use of Tretinoin Cream, USP (Emollient) 0.05% were limited primarily to the skin. During these trials, 4% of patients had to discontinue use of Tretinoin Cream, USP (Emollient) 0.05% because of adverse reactions. These discontinuations were due to skin irritation or related cutaneous adverse reactions. Local reactions such as peeling, dry skin, burning, stinging, erythema, and pruritus were reported by almost all subjects during therapy with Tretinoin Cream, USP (Emollient) 0.05%. These signs and symptoms were usually of mild to moderate severity and generally occurred early in therapy. In most patients the dryness, peeling, and redness recurred after an initial (24 week) decline."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=30
+Page 30 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin cream. It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of tretinoin cream is begun."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication dosing frequency should be adjusted temporarily to a level the patient can tolerate. However, efficacy has not been established for lower dosing frequencies. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin cream. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin cream. Adverse effects of tretinoin cream have been reversible upon discontinuation of therapy (see DOSAGE AND ADMINISTRATION section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=31
+Page 31 of 43
+        "generic_name": [
+          "TRETINOIN, HYDROCORTISONE"
+        "brand_name": [
+          "DR. THROWERS HYDROTET"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=32
+Page 32 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS When treating with Tretinoin Gel 0.05%, caution should be exercised with the use of concomitant topical medication, medicated or abrasive soaps and cleansers, products that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices, or lime. Particular caution should be exercised with the concomitant use of topical over-the-counter acne preparations containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid. Allow the effects of such preparations to subside before use of Tretinoin Gel 0.05% is begun. •Topical over-the-counter acne preparations, concomitant topical medication, medicated cleansers, topical products with alcohol or astringents: Use with caution, irritation may occur. (7)"
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The most common adverse reactions (incidence ≥ 5%) with Tretinoin Gel 0.05% are dry skin, peeling/scaling/flaking skin, skin burning sensation, and erythema. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America at 1-800-556-1937 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Studies Experience Because clinical trials are conducted under prescribed conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In two randomized, controlled trials, 674 subjects received treatment for up to 12 weeks with Tretinoin Gel 0.05% [see Clinical Studies (14)]. In these studies, 50% of the subjects who were treated with Tretinoin Gel 0.05% reported one or more adverse reactions; 30% of the subjects reported treatment-related adverse reactions. In the vehicle group, 29% of the 487 randomized subjects reported at least one adverse reaction; 5% of the subjects reported events that were treatment-related. There were no serious, treatment-related adverse reactions reported by subjects in any of the treatment groups. Selected adverse reactions that occurred in at least 1% of subjects in the two studies combined, are shown in Table 1 (below). Most skin-related adverse reactions first appear during the first two weeks of treatment with Tretinoin Gel 0.05%, and the incidence rate for skin-related reactions peaks around the second and third week of treatment. In some subjects the skin-related adverse reactions persists throughout the treatment period. Table 1. Number of Subjects with Selected Adverse Reactions (Occurring in At Least 1% of Subjects) Event Tretinoin Gel 0.05% (n = 674) Vehicle Gel (n = 487) Dry Skin 109 (16%) 8 (2%) Peeling/Scaling/ Flaking Skin 78 (12%) 7 (1%) Skin Burning Sensation 53 (8%) 8 (2%) Erythema 47 (7%) 1 (<1%) Pruritus 11 (2%) 3 (1%) Pain of Skin 7 (1%) 0 (0%) Sunburn 7 (1%) 3 (1%)"
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS •Tretinoin Gel 0.05% should not be used on eczematous or sunburned skin due to potential for severe irritation (5.1) •Avoid unprotected exposure to sunlight when using Tretinoin Gel 0.05% due to potential for increased photosensitization. Use sunscreen of at least SPF 15 and protective clothing during exposure (5.2) •Avoid use of Tretinoin Gel 0.05% with weather extremes, such as wind or cold due to potential for increased irritation (5.2) •Use Tretinoin Gel 0.05% with caution if allergic to fish due to potential for allergenicity to fish protein. Patients who develop pruritus or urticaria should contact their health care provider (5.3) 5.1 Skin Irritation The skin of certain individuals may become dry, red, or exfoliated while using Tretinoin Gel 0.05%. If the degree of irritation warrants, patients should be directed to temporarily reduce the amount or frequency of application of the medication, discontinue use temporarily, or discontinue use all together. Efficacy at reduced frequencies of application has not been established. If a reaction suggesting sensitivity occurs, use of the medication should be discontinued. Mild to moderate skin dryness may also be experienced; if so, use of an appropriate moisturizer during the day may be helpful. Tretinoin has been reported to cause severe irritation on eczematous or sunburned skin and should be used with caution in patients with these conditions. Topical over-the-counter acne preparations, concomitant topical medication, medicated cleansers, topical products with alcohol or astringents, when used with Tretinoin Gel 0.05%, should be used with caution. [see Drug Interactions (7)]. 5.2 Ultraviolet Light and Environmental Exposure Unprotected exposure to sunlight, including sunlamps, should be minimized during the use of Tretinoin Gel 0.05%. Patients who normally experience high levels of sun exposure, and those with inherent sensitivity to sun, should be warned to exercise caution. Use of sunscreen products of at least SPF 15 and protective clothing over treated areas is recommended when exposure cannot be avoided. Weather extremes, such as wind or cold, also may be irritating to patients under treatment with tretinoin. 5.3 Fish Allergies Tretinoin Gel 0.05% contains soluble fish proteins and should be used with caution in patients with known sensitivity or allergy to fish. Patients who develop pruritus or urticaria should contact their health care provider."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=33
+Page 33 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, products that have a strong drying effect, products with high concentrations of alcohol, astringents, or spices should be used with caution because of possible interaction with tretinoin. Avoid contact with the peel of limes. Particular caution should be exercised with the concomitant use of topical over-the-counter acne preparations containing benzoyl peroxide, sulfur, resorcinol, or salicylic acid with TRETINOIN gel microsphere, 0.1% and 0.04%. It also is advisable to allow the effects of such preparations to subside before use of TRETINOIN gel microsphere, 0.1% and 0.04%, is begun."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Irritation Potential Acne clinical trial results In separate clinical trials for each concentration, acne patients treated with TRETINOIN gel microsphere, 0.1% or 0.04%, analysis over the twelve week period showed that cutaneous irritation scores for erythema, peeling, dryness, burning/stinging, or itching peaked during the initial two weeks of therapy, decreasing thereafter. Approximately half of the patients treated with TRETINOIN gel microsphere, 0.04% had cutaneous irritation at Week 2. Of those patients who did experience cutaneous side effects, most had signs or symptoms that were mild in severity (severity was ranked on a 4-point ordinal scale: 0=none, 1=mild, 2=moderate, and 3=severe). Less than 10% of patients experienced moderate cutaneous irritation and there was no severe irritation at Week 2. In studies on TRETINOIN gel microsphere, 0.04%, throughout the treatment period the majority of patients experienced some degree of irritation (mild, moderate, or severe) with 1% (2/225) of patients having scores indicative of a severe irritation rating; and 1.3% (3/225) of patients treated with TRETINOIN gel microsphere, 0.04%, discontinued treatment due to irritation, which included dryness in one patient and peeling and urticaria in another. In studies on TRETINOIN gel microsphere, 0.1%, no more than 3% of patients had cutaneous irritation scores indicative of severe irritation rating; although, 6% (14/224) of patients treated with TRETINOIN gel microsphere, 0.1% discontinued treatment due to irritation. Of these 14 patients, four have severe irritation after 3 to 5 days of treatment, with blistering in one patient. Results in studies of subjects without acne In a half-face comparison trial conducted for up to 14 days in women with sensitive skin, but without acne, TRETINOIN gel microsphere, 0.1% was statistically less irritating than tretinoin cream, 0.1%. In addition, a cumulative 21 day irritation evaluation in subjects with normal skin showed that TRETINOIN gel microsphere, 0.1%, had a lower irritation profile than tretinoin cream, 0.1%. The clinical significance of these irritation studies for patients with acne is not established. Comparable effectiveness of TRETINOIN gel microsphere, 0.1% and tretinoin cream, 0.1%, has not been established. The lower irritancy of TRETINOIN gel microsphere, 0.1% in subjects without acne may be attributable to the properties of its vehicle. The contribution of decreased irritancy by the MICROSPONGE System has not been established. No irritation studies have been performed to compare TRETINOIN gel microsphere, 0.04%, with either TRETINOIN gelmicrosphere, 0.1%, or tretinoin cream, 0.1%. The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. However, efficacy has not been established for lower dosing frequencies (see DOSAGE AND ADMINISTRATION Section). True contact allergy to topical tretinoin is rarely encountered. Temporary hyper-or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=34
+Page 34 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to \"rest\" a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of a tretinoin preparation. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=35
+Page 35 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to “rest” a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions: The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration: Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=36
+Page 36 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to “rest” a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions: The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of tretinoin. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration: Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=37
+Page 37 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Renova"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medications, medicated or abrasive soaps, shampoos, cleansers, cosmetic with a strong drying effect, products with high concentrations of alcohol, astringents, spices or lime permanent wave solutions, electrolysis, hair depilatories or waxes, and products that may irritate the skin should be used with caution in patients being treated with RENOVA® (tretinoin cream) 0.02% because they may increase irritation with RENOVA® (tretinoin cream) 0.02%. RENOVA® (tretinoin cream) 0.02% should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (See WARNINGS and PRECAUTIONS sections.) In double-blind, vehicle-controlled studies involving 339 patients who applied RENOVA® (tretinoin cream) 0.02% to their faces, adverse reactions associated with the use of RENOVA® (tretinoin cream) 0.02% were limited primarily to the skin. Almost all patients reported one or more local reactions such as peeling, dry skin, burning, stinging, erythema, and pruritus. In 32% of all study patients, skin irritation was reported that was severe, let to temporary discontinuation of RENOVA® (tretinoin cream) 0.02%, or led to the use of a mild topical corticosteroid. About 7% of patients using RENOVA® (tretinoin cream) 0.02%, compared to less than 1% of the control patients, had sufficiently severe local irritation to warrant short-term use of mild topical corticosteroids to alleviate local irritation. About 4% of patients had to discontinue use of RENOVA® (tretinoin cream) 0.02% because of adverse reactions. Approximately 2% of spontaneous post-marketing adverse even reporting for RENOVA® (tretinoin cream) 0.05% were for skin hypo- or hyperpigmentation. Other spontaneously reported adverse events for RENOVA® (tretinoin cream) 0.05% predominantly appear to be local reactions similar to those seen in clinical trials."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=38
+Page 38 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "TretinX"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with TRETIN•X. It also is advisable to “rest” a patient’s skin until the effects of such preparations subside before use of TRETIN•X is begun."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of a tretinoin preparation. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=39
+Page 39 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin Cream"
+ 
+      "adverse_reactions": [
+        "The skin if certain sensitive individuals may become excessively red, edamatous, blistered or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper - or hypopigmentation has been reported with susceptibility to sunlight while under treatment with tretinoin. To date, alldverse effects of tretinoin have been reversible upon discontinuance of therapy (see DOSAGE AND ADMINISTRATION Section)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=40
+Page 40 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Obagi"
+ 
+      "adverse_reactions": [
+        "The skin if certain sensitive individuals may become excessively red, edamatous, blistered or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper - or hypopigmentation has been reported with susceptibility to sunlight while under treatment with tretinoin. To date, alldverse effects of tretinoin have been reversible upon discontinuance of therapy (see DOSAGE AND ADMINISTRATION Section)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=41
+Page 41 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Tretinoin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medication, medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and products with high concentrations of alcohol, astringents, spices or lime should be used with caution because of possible interaction with tretinoin. Particular caution should be exercised in using preparations containing sulfur, resorcinol, or salicylic acid with tretinoin. It also is advisable to \"rest\" a patient's skin until the effects of such preparations subside before use of tretinoin is begun."
+      "adverse_reactions": [
+        "Adverse Reactions The skin of certain sensitive individuals may become excessively red, edematous, blistered, or crusted. If these effects occur, the medication should either be discontinued until the integrity of the skin is restored, or the medication should be adjusted to a level the patient can tolerate. True contact allergy to topical tretinoin is rarely encountered. Temporary hyper- or hypopigmentation has been reported with repeated application of a tretinoin preparation. Some individuals have been reported to have heightened susceptibility to sunlight while under treatment with tretinoin. To date, all adverse effects of tretinoin have been reversible upon discontinuance of therapy (see Dosage and Administration Section)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tretinoin+AND+Cream&limit=1&skip=42
+Page 42 of 43
+        "generic_name": [
+          "TRETINOIN"
+        "brand_name": [
+          "Refissa"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant topical medications, medicated or abrasive soaps, shampoos, cleansers, cosmetics with a strong drying effect, products with high concentrations of alcohol, astringents, spices or lime, permanent wave solutions, electrolysis, hair depilatories or waxes, and products that may irritate the skin should be used with caution in patients being treated with Refissa [Tretinoin Cream, USP (Emollient) 0.05%] because they may increase irritation with Refissa. Refissa should not be administered if the patient is also taking drugs known to be photosensitizers (e.g., thiazides, tetracyclines, fluoroquinolones, phenothiazines, sulfonamides) because of the possibility of augmented phototoxicity."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (See WARNINGS and PRECAUTIONS sections.) In double-blind, vehicle-controlled studies involving 179 patients who applied Tretinoin Cream, USP (Emollient) 0.05% to their faces, adverse reactions associated with the use of Tretinoin Cream, USP (Emollient) 0.05% were limited primarily to the skin. During these trials, 4% of patients had to discontinue use of Tretinoin Cream, USP (Emollient) 0.05% because of adverse reactions. These discontinuations were due to skin irritation or related cutaneous adverse reactions. Local reactions such as peeling, dry skin, burning, stinging, erythema, and pruritus were reported by almost all subjects during therapy with Tretinoin Cream, USP (Emollient) 0.05%. These signs and symptoms were usually of mild to moderate severity and generally occurred early in therapy. In most patients the dryness, peeling, and redness recurred after an initial (24 week) decline."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
