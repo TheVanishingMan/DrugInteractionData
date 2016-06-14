@@ -29,7 +29,7 @@ echo " "
 echo Formatted to work with the openFDA api.
 echo In total there were $TOTAL
 echo $[TOTAL-$FINALWORDS] were removed due to unsafe characters.
-sort $FILENAME | uniq -u > $FILENAME-2
+sort $FILENAME | uniq > $FILENAME-2
 mv $FILENAME-2 $FILENAME
 echo $[FINALWORDS-$(wc --lines $FILENAME | cut -d ' ' -f 1)] duplicates were removed.
 echo There are $(wc --lines $FILENAME | cut -d ' ' -f 1) drugs listed in $FILENAME
