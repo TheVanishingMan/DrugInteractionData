@@ -1,10 +1,20 @@
 #!/bin/bash
 
+API=$1
+
 STARTTIME=$(date '+%s')
 TOTAL=0
 LETTERS=abcdefghijklmnopqrstuvwxyz
 CURRENT=0
 FILENAME=drugslist.txt
+
+if [[ -z $API ]]; then
+    SPECIALCHARACTERS=+AND+
+elif [ $API = PubMed ]; then
+    SPECIALCHARACTERS=+
+elif [ $API = Web ]; then
+    SPECIALCHARACTERS=_
+fi
 
 rm -f $FILENAME
 echo Results will be output to file: $FILENAME
@@ -23,7 +33,7 @@ until [ $CURRENT = 26 ]; do
     #echo Checking $CHECK "  |  "  found $[TOTAL-$PREVIOUS] "  |  " $TOTAL found so far
     printf "%-11s | %-10s | %-10s" "Checking $CHECK" "Found $[TOTAL-$PREVIOUS]" "$TOTAL so far"
     echo " "
-    echo "$PAGE" | grep FDA | grep -o -P '(?<=">).*(?=\ \()' | grep -E -v '\(|\%|\.|\,|\+|\-|\;|\)|\[|\]|\#|\&' | sed 's/ \+/+AND+/g' | grep -v '+$' >> $FILENAME
+    echo "$PAGE" | grep FDA | grep -o -P '(?<=">).*(?=\ \()' | grep -E -v '\(|\%|\.|\,|\+|\-|\;|\)|\[|\]|\#|\&' | sed "s/ \+/$SPECIALCHARACTERS/g" | grep -v '+$' >> $FILENAME
     let CURRENT=$[CURRENT+1]
 done
 FINALWORDS=$(wc --lines $FILENAME | cut -d ' ' -f 1)
