@@ -4861,3 +4861,8 @@ FINISHED PULLING 97 articles for Verapamil+AND+Hydrochloride at Tue Jun 14 12:27
 FINISHED PULLING 3 articles for Vincristine+AND+Sulfate+AND+Injection at Tue Jun 14 12:27:27 EDT 2016
 FINISHED PULLING 2 articles for Vortioxetine+AND+Tablets at Tue Jun 14 12:27:30 EDT 2016
 FINISHED PULLING 129 articles for Zolpidem+AND+Tartrate at Tue Jun 14 12:28:27 EDT 2016
+FINISHED PULLING  articles for Byvalson at Fri Jun 17 14:34:41 EDT 2016
+FINISHED PULLING 12 articles for Fludarabine+AND+Phosphate+AND+Injection at Fri Jun 17 14:34:45 EDT 2016
+FINISHED PULLING  articles for Nebivolol+AND+and+AND+Valsartan+AND+Tablets at Fri Jun 17 14:34:46 EDT 2016
+FINISHED PULLING 1 articles for Rufinamide at Fri Jun 17 14:34:48 EDT 2016
+FINISHED PULLING  articles for Vaxchora at Fri Jun 17 14:34:49 EDT 2016

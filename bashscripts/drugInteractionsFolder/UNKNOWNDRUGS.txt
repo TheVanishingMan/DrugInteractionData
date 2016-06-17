@@ -940,3 +940,6 @@ Taxol
 Technetium+AND+Tc+AND+99m+AND+Depreotide+AND+Injection
 Tegaserod+AND+Maleate
 Tetanus+AND+and+AND+Diphtheria+AND+Toxoids+AND+Adsorbed
+Byvalson
+Nebivolol+AND+and+AND+Valsartan+AND+Tablets
+Vaxchora
