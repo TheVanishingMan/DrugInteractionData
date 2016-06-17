@@ -1,7 +1,7 @@
 #!/bin/bash
 
-LISTLENGTH=3500
-NODES=134
+LISTLENGTH=4881
+NODES=132
 
 #expr $LISTLENGTH \* $LISTLENGTH
 #expr $LISTLENGTH \* $[LISTLENGTH-1]
@@ -42,17 +42,35 @@ function splitcolumns {
     NODE=1
     START=$1
     NEXT=$2
-#    echo splitcolumns estimating for $
     while [ $NEXT -le $LISTLENGTH ]; do
 	DIST=`gaussdist $START $NEXT`
 	if [ $DIST -gt $ROUGHMAX ]; then
-	    COLUMNS=$[NEXT-$START+1]
-	    TOTAL=$[TOTAL+$COLUMNS]
-	    echo "$NODE) $START to $NEXT:" $DIST " | " $COLUMNS columns " | " $TOTAL so far
-	    START=$[NEXT+1]
-	    NODE=$[NODE+1]
-	    if [ $DIST -gt $MAX ]; then
-		MAX=$DIST
+	    DIST1=$[DIST-$ROUGHMAX]
+	    DIST2=`gaussdist $START $[NEXT-1]`
+	    DIST3=$[DIST2-$ROUGHMAX]
+	    #echo DIST1 is $DIST1, DIST3 is $DIST3 " | " add to get is $[DIST1+$DIST3]
+	    if [ $[DIST1+$DIST3] -gt 0 ]; then
+		DIST=$DIST2
+		NEXT=$[NEXT-1]
+		COLUMNS=$[NEXT-$START+1]
+		TOTAL=$[TOTAL+$COLUMNS]
+		echo "$NODE) $START to $NEXT:" $DIST " | " $COLUMNS columns " | " $TOTAL so far
+		START=$[NEXT+1]
+		NODE=$[NODE+1]
+		if [ $DIST -gt $MAX ]; then
+		    MAX=$DIST
+		fi
+		#echo PATH1 CHOSEN && newline
+	    else
+		COLUMNS=$[NEXT-$START+1]
+		TOTAL=$[TOTAL+$COLUMNS]
+		echo "$NODE) $START to $NEXT:" $DIST " | " $COLUMNS columns " | " $TOTAL so far
+		START=$[NEXT+1]
+		NODE=$[NODE+1]
+		if [ $DIST -gt $MAX ]; then
+		    MAX=$DIST
+		fi
+		#echo PATH2 CHOSEN && newline
 	    fi
 	else
 	    NEXT=$[NEXT+1]
@@ -65,7 +83,7 @@ function splitcolumns {
     echo Time estimate: $[MAX / 2 / 60 / 60] hours at 2 searches per second using $NODE nodes effectively out of $NODES possible && newline
 }
 
-
+#gaussdist 1 488
 #while [ $NODES -le 135 ]; do
 #    splitcolumns 1 1
 #    NODES=$[NODES+1]
