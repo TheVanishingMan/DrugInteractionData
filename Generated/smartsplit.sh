@@ -4,7 +4,7 @@ INPUT=$1
 cp $INPUT splittingthisfile.txt
 FILETOSPLIT=splittingthisfile.txt
 LISTLENGTH=4886
-NODES=60
+NODES=71
 FINALNAME=check_
 
 function newline {
