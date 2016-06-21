@@ -1,8 +1,11 @@
 #!/bin/bash
 
-FILETOSPLIT=$1
-LISTLENGTH=4881
-NODES=132
+INPUT=$1
+cp $INPUT splittingthisfile.txt
+FILETOSPLIT=splittingthisfile.txt
+LISTLENGTH=4886
+NODES=60
+FINALNAME=check_
 
 function newline {
     echo " "
@@ -22,8 +25,11 @@ function gaussdist {
 }
 
 function dividefile {
+    mkdir Data/$NODE
+    cp STABLE.txt Data/$NODE/STABLE.txt
+    cp STABLE.txt Data/$NODE/drugs.txt
     COUNTER=0
-    NEWFILE=$FILETOSPLIT\_$NODE
+    NEWFILE=Data/$NODE/$FINALNAME$NODE
     while [ $COUNTER -lt $COLUMNS ]; do
 	head -n 1 $FILETOSPLIT >> $NEWFILE
 	tail -n +2 $FILETOSPLIT > splittinginprogress.tmp && mv splittinginprogress.tmp $FILETOSPLIT
@@ -90,5 +96,14 @@ if [[ -z $1 ]]; then
     echo no file specified && newline && newline
     exit
 fi
+
+#while [ $NODES -le 70 ]; do
+#    splitcolumns 1 1
+#    NODES=$[NODES+1]
+#done
+
 splitcolumns 1 1
-mv $FILETOSPLIT $FILETOSPLIT\_$NODE
+mkdir Data/$NODE
+cp STABLE.txt Data/$NODE/STABLE.txt
+cp STABLE.txt Data/$NODE/drugs.txt
+mv $FILETOSPLIT Data/$NODE/$FINALNAME$NODE
