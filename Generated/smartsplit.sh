@@ -1,10 +1,10 @@
-#!/bin/bash
+#!/bin/sh
 
 INPUT=$1
 cp $INPUT splittingthisfile.txt
 FILETOSPLIT=splittingthisfile.txt
 LISTLENGTH=4886
-NODES=71
+NODES=72
 FINALNAME=check_
 
 function newline {
