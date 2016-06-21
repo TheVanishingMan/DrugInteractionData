@@ -1,26 +1,22 @@
-#!/bin/bash
+#!/bin/sh
 
-OUTPUTFILE=ODINschedule
-hostname > $OUTPUTFILE
+FINAL=ODINORDER.txt
+LOG=DETERMINEORDER.txt
 
-#following lines for testing
-echo "odin005.cs.indiana.edu" >> $OUTPUTFILE
-echo "odin120.cs.indiana.edu" >> $OUTPUTFILE
-echo "odin018.cs.indiana.edu" >> $OUTPUTFILE
-echo "odin091.cs.indiana.edu" >> $OUTPUTFILE
-echo "odin004.cs.indiana.edu" >> $OUTPUTFILE
-echo "odin043.cs.indiana.edu" >> $OUTPUTFILE
+function synchronize {
+    rm -f $FINAL
+    rm -f $LOG
+    
+    HOSTNUMBER=`hostname | grep -o -P '(?<=odin).*(?=.cs.indiana.edu)' | sed 's/^0*//'`
+    sleep $HOSTNUMBER
+    HOST=`hostname`
+    
+    echo "$HOST" >> $LOG
+    OUTPUT=`wc --lines $LOG | cut -d 'L' -f 1 | cut -d 'D' -f 1`
+    echo "$HOST$OUTPUT" >> $FINAL
+}
 
-#cat $OUTPUTFILE
-echo Waiting 5 seconds to ensure all data is present
-#sleep 5
-#OUTPUT=
-#sort $OUTPUTFILE | cat -n #| grep hostname | cut -d 'o' -f 1 | grep -E  '[0-60]'`
-#expr $OUTPUT \* 1
-HOST=`hostname`
-echo $HOST
-OUTPUT=`sort $OUTPUTFILE | cat -n | grep $HOST | cut -d 's' -f 1 | grep -E '[0-9]'`
-echo $OUTPUT
-NUMBER=`expr $OUTPUT \* 1`
-echo $NUMBER
-#cat $OUTPUTFILE
+synchronize
+NUMBERSTRING=`grep $HOST $FINAL | cut -d 'u' -f 2`
+NUMBER=$(($NUMBERSTRING * 1))
+echo $HOST is at $NUMBER
