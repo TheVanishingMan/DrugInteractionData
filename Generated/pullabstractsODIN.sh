@@ -3,7 +3,7 @@
 # Optimized for running on Indiana University's RI Odin Cluster
 # Written by Alexander Hayes | ProHealth && STARAI | Dr. Sriraam Natarajan
 
-export PERL5LIB=$PERL5LIB:/u/hayesall/REU/PMDataDump/Generated/perlscripts
+export PERL5LIB=$PERL5LIB:perlscripts
 
 
 # ---------------------- STAGE 1 ---------------------------- #
@@ -17,21 +17,25 @@ export PERL5LIB=$PERL5LIB:/u/hayesall/REU/PMDataDump/Generated/perlscripts
 # but need to find out  which nodes  we're running on to en-  #
 # sure that all lists are being iterated on simultaneously.   #
 
-
 FINAL=ODINORDER.txt
 LOG=DETERMINEORDER.txt
 
+rm -f $FINAL
+rm -f $LOG
+
 function synchronize { 
-    rm -f $FINAL
-    rm -f $LOG
-    HOSTNUMBER=`hostname | grep -o -p '(?<=odin).*(?=.cs.indiana.edu)' | sed 's/^0*//'`
+
+    HOSTNUMBER=`hostname | grep -o -P '(?<=odin).*(?=.cs.indiana.edu)' | sed 's/^0*//'`
+    echo $HOSTNUMBER
     sleep $HOSTNUMBER
     HOST=`hostname`
+
     echo "$HOST" >> $LOG
-    OUTPUT=`wc --lines $LOG | cut -d 'L' -f 1| cut -d 'D' -f 1`
+    OUTPUT=`wc --lines $LOG | cut -d 'L' -f 1 | cut -d 'D' -f 1`
     echo "$HOST$OUTPUT" >> $FINAL
 }
 
+sleep 5
 synchronize
 NUMBERSTRING=`grep $HOST $FINAL | cut -d 'u' -f 2`
 NUMBER=$(($NUMBERSTRING * 1))
@@ -75,7 +79,7 @@ while [ $(wc --bytes $FILE1 | cut -d ' ' -f 1) -gt 0 ]; do
 	DRUG1=`head -n 1 "$FILE1"`
 	DRUG2=`head -n 1 "$FILE2"`
 	TEST=`perl pmsearch -c -t 3650 -d 20 $DRUG1 $DRUG2`
-	echo Found $TEST for $DRUG1 and $DRUG2 " # | " Progress: $[$BEGIN-`wc --lines $FILE1 | cut -d ' ' -f 1`] / $BEGIN
+	echo Found $TEST for $DRUG1 and $DRUG2 " | " Progress: $[$BEGIN-`wc --lines $FILE1 | cut -d ' ' -f 1`] / $BEGIN
 	if [ $TEST -gt 0 ]; then
 	    if [ $DRUG1 = $DRUG2 ]; then
 		shrink2
@@ -84,7 +88,7 @@ while [ $(wc --bytes $FILE1 | cut -d ' ' -f 1) -gt 0 ]; do
 		INITIAL="$(echo $FILENAME | head -c 1)" #store our file in the folder of the first letter
 		echo Creating $FILENAME
 		echo "Odin Node $NUMBER, Creating $FILENAME, found $TEST results, `date`" >> Abstracts/LOG.txt
-		perl pmsearch -t 800 -d 50 $DRUG1 $DRUG2 | perl pmid2text -a -i > Abstracts/$INITIAL/$FILENAME;
+		perl pmsearch -t 3650 -d 20 $DRUG1 $DRUG2 | perl pmid2text -a -i > Abstracts/$INITIAL/$FILENAME;
 		shrink2
 	    fi
 	else
