@@ -8,7 +8,7 @@ Page 0 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -22,7 +22,7 @@ Page 1 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of SKELAXIN and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -36,7 +36,7 @@ Page 2 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -50,7 +50,7 @@ Page 3 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS drowsiness, dizziness, headache and nervousness or “irritability”; Digestive nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System hypersensitivity reaction, rash with or without pruritus; Hematologic leukopenia, hemolytic anemia; Hepatobiliary jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS drowsiness, dizziness, headache and nervousness or "irritability"; Digestive nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System hypersensitivity reaction, rash with or without pruritus; Hematologic leukopenia, hemolytic anemia; Hepatobiliary jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -64,7 +64,7 @@ Page 4 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -106,7 +106,7 @@ Page 7 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -120,7 +120,7 @@ Page 8 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia, hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia, hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -148,7 +148,7 @@ Page 10 of 49
       "drug_interactions": [
         "Drug Interactions SKELAXIN may enhance the effects of alcohol, barbiturates and other CNS depressants."
       "adverse_reactions": [
-        "Adverse Reactions The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "Adverse Reactions The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -162,7 +162,7 @@ Page 11 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -176,7 +176,7 @@ Page 12 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -190,7 +190,7 @@ Page 13 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -204,7 +204,7 @@ Page 14 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -230,7 +230,7 @@ Page 16 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -244,7 +244,7 @@ Page 17 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -256,9 +256,9 @@ Page 18 of 49
           "Metaxalone"
  
       "adverse_reactions": [
-        "Adverse Reactions ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "Adverse Reactions ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
       "warnings_and_cautions": [
-        "Warnings WARNINGS Metaxalone may enhance the effects of alcohol and other CNS depressants. PRECAUTIONS Metaxalone should be administered with great care to patients with pre-existing liver damage. Serial liver function studies should be performed in these patients. False-positive Benedict’s tests, due to an unknown reducing substance, have been noted. A glucose-specific test will differentiate findings. Taking metaxalone with food may enhance general CNS depression; elderly patients may be especially susceptible to this CNS effect. (See CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: Information for Patients section). Information for Patients Metaxalone may impair mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle, especially when used with alcohol or other CNS depressants. Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously. Carcinogenesis, Mutagenesis, Impairment of Fertility The carcinogenic potential of metaxalone has not been determined. Pregnancy Reproduction studies in rats have not revealed evidence of impaired fertility or harm to the fetus due to metaxalone. Post marketing experience has not revealed evidence of fetal injury, but such experience cannot exclude the possibility of infrequent or subtle damage to the human fetus. Safe use of metaxalone has not been established with regard to possible adverse effects upon fetal development. Therefore, metaxalone tablets should not be used in women who are or may become pregnant and particularly during early pregnancy unless, in the judgement of the physician, the potential benefits outweigh the possible hazards. Nursing Mothers It is not known whether this drug is secreted in human milk. As a general rule, nursing should not be undertaken while a patient is on a drug since many drugs are excreted in human milk. Pediatric Use Safety and effectiveness in children 12 years of age and below have not been established."
+        "Warnings WARNINGS Metaxalone may enhance the effects of alcohol and other CNS depressants. PRECAUTIONS Metaxalone should be administered with great care to patients with pre-existing liver damage. Serial liver function studies should be performed in these patients. False-positive Benedict's tests, due to an unknown reducing substance, have been noted. A glucose-specific test will differentiate findings. Taking metaxalone with food may enhance general CNS depression; elderly patients may be especially susceptible to this CNS effect. (See CLINICAL PHARMACOLOGY: Pharmacokinetics and PRECAUTIONS: Information for Patients section). Information for Patients Metaxalone may impair mental and/or physical abilities required for performance of hazardous tasks, such as operating machinery or driving a motor vehicle, especially when used with alcohol or other CNS depressants. Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously. Carcinogenesis, Mutagenesis, Impairment of Fertility The carcinogenic potential of metaxalone has not been determined. Pregnancy Reproduction studies in rats have not revealed evidence of impaired fertility or harm to the fetus due to metaxalone. Post marketing experience has not revealed evidence of fetal injury, but such experience cannot exclude the possibility of infrequent or subtle damage to the human fetus. Safe use of metaxalone has not been established with regard to possible adverse effects upon fetal development. Therefore, metaxalone tablets should not be used in women who are or may become pregnant and particularly during early pregnancy unless, in the judgement of the physician, the potential benefits outweigh the possible hazards. Nursing Mothers It is not known whether this drug is secreted in human milk. As a general rule, nursing should not be undertaken while a patient is on a drug since many drugs are excreted in human milk. Pediatric Use Safety and effectiveness in children 12 years of age and below have not been established."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -272,7 +272,7 @@ Page 19 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -286,7 +286,7 @@ Page 20 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of SKELAXIN and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -298,7 +298,7 @@ Page 21 of 49
           "METAXALONE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS SECTION The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS SECTION The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -312,7 +312,7 @@ Page 22 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -340,7 +340,7 @@ Page 24 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -354,7 +354,7 @@ Page 25 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia, hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia, hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -368,7 +368,7 @@ Page 26 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -382,7 +382,7 @@ Page 27 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -396,7 +396,7 @@ Page 28 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone. To report SUSPECTED ADVERSE REACTIONS, contact AvKARE, Inc at 1-855-361-3993; email drugsafety@avkare.com; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone. To report SUSPECTED ADVERSE REACTIONS, contact AvKARE, Inc at 1-855-361-3993; email drugsafety@avkare.com; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -410,7 +410,7 @@ Page 29 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -424,7 +424,7 @@ Page 30 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -438,7 +438,7 @@ Page 31 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -452,7 +452,7 @@ Page 32 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -466,7 +466,7 @@ Page 33 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -480,7 +480,7 @@ Page 34 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -494,7 +494,7 @@ Page 35 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -508,7 +508,7 @@ Page 36 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -522,7 +522,7 @@ Page 37 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia, hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia, hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -534,7 +534,7 @@ Page 38 of 49
           "Skelaxin"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -548,7 +548,7 @@ Page 39 of 49
       "drug_interactions": [
         "Drug Interactions SKELAXIN may enhance the effects of alcohol, barbiturates and other CNS depressants."
       "adverse_reactions": [
-        "Adverse Reactions The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "Adverse Reactions The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -560,7 +560,7 @@ Page 40 of 49
           "Skelaxin"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -574,7 +574,7 @@ Page 41 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -588,7 +588,7 @@ Page 42 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -600,7 +600,7 @@ Page 43 of 49
           "METAXALONE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -614,7 +614,7 @@ Page 44 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of SKELAXIN and other CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -628,7 +628,7 @@ Page 45 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -642,7 +642,7 @@ Page 46 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone tablets an dother CNS depressants (e.g., alcohol benzodiazepines, opiods, trycyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneoulsy."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -656,7 +656,7 @@ Page 47 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -670,7 +670,7 @@ Page 48 of 49
       "drug_interactions": [
         "Drug Interactions The sedative effects of metaxalone and other CNS depressants (e.g., alcohol, alcohol, benzodiazepines, opioids, tricyclic antidepressants) may be additive. Therefore, caution should be exercised with patients who take more than one of these CNS depressants simultaneously."
       "adverse_reactions": [
-        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or “irritability”; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
+        "ADVERSE REACTIONS The most frequent reactions to metaxalone include: CNS: drowsiness, dizziness, headache, and nervousness or "irritability"; Digestive: nausea, vomiting, gastrointestinal upset. Other adverse reactions are: Immune System: hypersensitivity reaction, rash with or without pruritus; Hematologic: leukopenia; hemolytic anemia; Hepatobiliary: jaundice. Though rare, anaphylactoid reactions have been reported with metaxalone."
  
  
 --------------------------------------------------------------------------------------------------------------------

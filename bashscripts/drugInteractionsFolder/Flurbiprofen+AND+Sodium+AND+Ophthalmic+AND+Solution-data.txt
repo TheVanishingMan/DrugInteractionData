@@ -48,9 +48,9 @@ Page 3 of 5
           "OCUFEN"
  
       "drug_interactions": [
-        "Drug Interactions Interaction of OCUFEN® ophthalmic solution with other topical ophthalmic medications has not been fully investigated. Although clinical studies with acetylcholine chloride and animal studies with acetylcholine chloride or carbachol revealed no interference, and there is no known pharmacological basis for an interaction, there have been reports that acetylcholine chloride and carbachol have been ineffective when used in patients treated with OCUFEN® ophthalmic solution."
+        "Drug Interactions Interaction of OCUFEN(R) ophthalmic solution with other topical ophthalmic medications has not been fully investigated. Although clinical studies with acetylcholine chloride and animal studies with acetylcholine chloride or carbachol revealed no interference, and there is no known pharmacological basis for an interaction, there have been reports that acetylcholine chloride and carbachol have been ineffective when used in patients treated with OCUFEN(R) ophthalmic solution."
       "adverse_reactions": [
-        "ADVERSE REACTIONS Transient burning and stinging upon instillation and other minor symptoms of ocular irritation have been reported with the use of OCUFEN® ophthalmic solution. Other adverse reactions reported with the use of OCUFEN® ophthalmic solution include: fibrosis, hyphema, miosis, mydriasis, and ocular hyperemia. Increased bleeding tendency of ocular tissues in conjunction with ocular surgery has also been reported (see Warnings)."
+        "ADVERSE REACTIONS Transient burning and stinging upon instillation and other minor symptoms of ocular irritation have been reported with the use of OCUFEN(R) ophthalmic solution. Other adverse reactions reported with the use of OCUFEN(R) ophthalmic solution include: fibrosis, hyphema, miosis, mydriasis, and ocular hyperemia. Increased bleeding tendency of ocular tissues in conjunction with ocular surgery has also been reported (see Warnings)."
  
  
 --------------------------------------------------------------------------------------------------------------------

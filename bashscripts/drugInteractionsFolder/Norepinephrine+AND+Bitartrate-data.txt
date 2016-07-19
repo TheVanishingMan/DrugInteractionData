@@ -20,9 +20,9 @@ Page 1 of 15
           "Norepinephrine Bitartrate"
  
       "adverse_reactions": [
-        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+        "- ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
       "warnings_and_cautions": [
-        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+        "- WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -34,9 +34,9 @@ Page 2 of 15
           "Norepinephrine Bitartrate"
  
       "adverse_reactions": [
-        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+        "- ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
       "warnings_and_cautions": [
-        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+        "- WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -76,9 +76,9 @@ Page 5 of 15
           "Norepinephrine Bitartrate"
  
       "adverse_reactions": [
-        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+        "- ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
       "warnings_and_cautions": [
-        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+        "- WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -116,9 +116,9 @@ Page 8 of 15
           "Norepinephrine Bitartrate"
  
       "adverse_reactions": [
-        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+        "- ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
       "warnings_and_cautions": [
-        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+        "- WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -144,9 +144,9 @@ Page 10 of 15
           "Norepinephrine Bitartrate"
  
       "adverse_reactions": [
-        "• ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
+        "- ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088."
       "warnings_and_cautions": [
-        "• WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
+        "- WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only."
  
  
 --------------------------------------------------------------------------------------------------------------------

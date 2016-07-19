@@ -6,7 +6,7 @@ Page 0 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -30,7 +30,7 @@ Page 2 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -42,7 +42,7 @@ Page 3 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -54,7 +54,7 @@ Page 4 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -66,7 +66,7 @@ Page 5 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -78,7 +78,7 @@ Page 6 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -90,7 +90,7 @@ Page 7 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -102,7 +102,7 @@ Page 8 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -114,7 +114,7 @@ Page 9 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -126,7 +126,7 @@ Page 10 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com ; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com ; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -138,7 +138,7 @@ Page 11 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -150,7 +150,7 @@ Page 12 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -162,7 +162,7 @@ Page 13 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -174,7 +174,7 @@ Page 14 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -186,7 +186,7 @@ Page 15 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. sedation; headache; dizziness; mental confusion; visual hallucinations. CNS: constipation; nausea; GI upset. GI: pruritus; skin eruptions. Dermatologic: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children. Other:"
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. sedation; headache; dizziness; mental confusion; visual hallucinations. CNS: constipation; nausea; GI upset. GI: pruritus; skin eruptions. Dermatologic: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children. Other:"
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -198,7 +198,7 @@ Page 16 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -210,7 +210,7 @@ Page 17 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS: Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS: Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -222,7 +222,7 @@ Page 18 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -246,7 +246,7 @@ Page 20 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -258,7 +258,7 @@ Page 21 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -270,7 +270,7 @@ Page 22 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -294,7 +294,7 @@ Page 24 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS SECTION Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS SECTION Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -306,7 +306,7 @@ Page 25 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -318,7 +318,7 @@ Page 26 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -330,7 +330,7 @@ Page 27 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -354,7 +354,7 @@ Page 29 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -366,7 +366,7 @@ Page 30 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -378,7 +378,7 @@ Page 31 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -390,7 +390,7 @@ Page 32 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -402,7 +402,7 @@ Page 33 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -414,7 +414,7 @@ Page 34 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "Adverse Reactions Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "Adverse Reactions Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -426,7 +426,7 @@ Page 35 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -450,7 +450,7 @@ Page 37 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to BENZONATATE may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to BENZONATATE may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -462,7 +462,7 @@ Page 38 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS SECTION Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS SECTION Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -474,7 +474,7 @@ Page 39 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -498,7 +498,7 @@ Page 41 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -510,7 +510,7 @@ Page 42 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -522,7 +522,7 @@ Page 43 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -534,7 +534,7 @@ Page 44 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -546,7 +546,7 @@ Page 45 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -558,7 +558,7 @@ Page 46 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -570,7 +570,7 @@ Page 47 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -582,7 +582,7 @@ Page 48 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to BENZONATATE may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to BENZONATATE may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -594,7 +594,7 @@ Page 49 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -606,7 +606,7 @@ Page 50 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death. OVERDOSAGE Overdose may result in death. The drug is chemically related to tetracaine and other topical anesthetics and shares various aspects of their pharmacology and toxicology. Drugs of this type are generally well absorbed after ingestion. Signs and Symptoms: If capsules are chewed or dissolved in the mouth, oropharyngeal anesthesia will develop rapidly. CNS stimulation may cause restlessness and tremors, which may proceed to clonic convulsions followed by profound CNS depression. Treatment: Evacuate gastric contents and administer copious amounts of activated charcoal slurry. Even in the conscious patient, cough and gag refluxes may be so depressed as to necessitate special attention to protection against aspiration of gastric contents and orally administered materials. Convulsions should be treated with a short-acting barbiturates given intravenously and carefully titrated for the smallest effective dosage. Intensive support of respiration and cardiovascular-renal function is an essential feature of the treatment of severe intoxication from overdosage. Do not use CNS stimulants."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death. OVERDOSAGE Overdose may result in death. The drug is chemically related to tetracaine and other topical anesthetics and shares various aspects of their pharmacology and toxicology. Drugs of this type are generally well absorbed after ingestion. Signs and Symptoms: If capsules are chewed or dissolved in the mouth, oropharyngeal anesthesia will develop rapidly. CNS stimulation may cause restlessness and tremors, which may proceed to clonic convulsions followed by profound CNS depression. Treatment: Evacuate gastric contents and administer copious amounts of activated charcoal slurry. Even in the conscious patient, cough and gag refluxes may be so depressed as to necessitate special attention to protection against aspiration of gastric contents and orally administered materials. Convulsions should be treated with a short-acting barbiturates given intravenously and carefully titrated for the smallest effective dosage. Intensive support of respiration and cardiovascular-renal function is an essential feature of the treatment of severe intoxication from overdosage. Do not use CNS stimulants."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -618,7 +618,7 @@ Page 51 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -642,7 +642,7 @@ Page 53 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -654,7 +654,7 @@ Page 54 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -672,7 +672,7 @@ Page 56 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to Benzonatate Capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children.",
+        "ADVERSE REACTIONS Potential Adverse Reactions to Benzonatate Capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children.",
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -696,7 +696,7 @@ Page 58 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -708,7 +708,7 @@ Page 59 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -732,7 +732,7 @@ Page 61 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -744,7 +744,7 @@ Page 62 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -756,7 +756,7 @@ Page 63 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate capsules may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -768,7 +768,7 @@ Page 64 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -792,7 +792,7 @@ Page 66 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
       "warnings_and_cautions": [
         "DESCRIPTION Benzonatate, a non-narcotic oral antitussive agent, is 2, 5, 8, 11, 14, 17, 20, 23, 26-nonaoxaoctacosan-28-yl p-(butylamino) benzoate; with a molecular weight of 603.7. Each soft gelatin capsule, for oral administration, contains 100 mg or 200 mg of benzonatate USP. Benzonatate Capsules, USP also contain the following inactive ingredients: D&C Yellow # 10, gelatin, glycerin, purified water, methylparaben, propylparaben and titanium dioxide."
  
@@ -806,7 +806,7 @@ Page 67 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -818,7 +818,7 @@ Page 68 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -842,7 +842,7 @@ Page 70 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -854,7 +854,7 @@ Page 71 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. sedation; headache; dizziness; mental confusion; visual hallucinations. CNS: constipation; nausea; GI upset. GI: pruritus; skin eruptions. Dermatologic: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children. Other:"
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. sedation; headache; dizziness; mental confusion; visual hallucinations. CNS: constipation; nausea; GI upset. GI: pruritus; skin eruptions. Dermatologic: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children. Other:"
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -878,7 +878,7 @@ Page 73 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -890,7 +890,7 @@ Page 74 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS SECTION Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS SECTION Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -902,7 +902,7 @@ Page 75 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death. OVERDOSAGE Overdose may result in death. The drug is chemically related to tetracaine and other topical anesthetics and shares various aspects of their pharmacology and toxicology. Drugs of this type are generally well absorbed after ingestion. Signs and Symptoms: If capsules are chewed or dissolved in the mouth, oropharyngeal anesthesia will develop rapidly. CNS stimulation may cause restlessness and tremors, which may proceed to clonic convulsions followed by profound CNS depression. Treatment: Evacuate gastric contents and administer copious amounts of activated charcoal slurry. Even in the conscious patient, cough and gag refluxes may be so depressed as to necessitate special attention to protection against aspiration of gastric contents and orally administered materials. Convulsions should be treated with a short-acting barbiturates given intravenously and carefully titrated for the smallest effective dosage. Intensive support of respiration and cardiovascular-renal function is an essential feature of the treatment of severe intoxication from overdosage. Do not use CNS stimulants."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Rare instances of deliberate or accidental overdose have resulted in death. OVERDOSAGE Overdose may result in death. The drug is chemically related to tetracaine and other topical anesthetics and shares various aspects of their pharmacology and toxicology. Drugs of this type are generally well absorbed after ingestion. Signs and Symptoms: If capsules are chewed or dissolved in the mouth, oropharyngeal anesthesia will develop rapidly. CNS stimulation may cause restlessness and tremors, which may proceed to clonic convulsions followed by profound CNS depression. Treatment: Evacuate gastric contents and administer copious amounts of activated charcoal slurry. Even in the conscious patient, cough and gag refluxes may be so depressed as to necessitate special attention to protection against aspiration of gastric contents and orally administered materials. Convulsions should be treated with a short-acting barbiturates given intravenously and carefully titrated for the smallest effective dosage. Intensive support of respiration and cardiovascular-renal function is an essential feature of the treatment of severe intoxication from overdosage. Do not use CNS stimulants."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -926,7 +926,7 @@ Page 77 of 83
           "BENZONATATE"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
       "warnings_and_cautions": [
         "DESCRIPTION Benzonatate, a non-narcotic oral antitussive agent, is 2, 5, 8, 11, 14, 17, 20, 23, 26-nonaoxaoctacosan-28-yl p-(butylamino) benzoate; with a molecular weight of 603.7. Each soft gelatin capsule, for oral administration, contains 100 mg or 200 mg of benzonatate USP. Benzonatate Capsules, USP also contain the following inactive ingredients: D&C Yellow # 10, gelatin, glycerin, purified water, methylparaben, propylparaben and titanium dioxide. image description"
  
@@ -940,7 +940,7 @@ Page 78 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -952,7 +952,7 @@ Page 79 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to BENZONATATE may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to BENZONATATE may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -964,7 +964,7 @@ Page 80 of 83
           "benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -988,7 +988,7 @@ Page 82 of 83
           "Benzonatate"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
+        "ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation, nausea, GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague "chilly" sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children."
  
  
 --------------------------------------------------------------------------------------------------------------------

@@ -6,9 +6,9 @@ Page 0 of 2
           "MembraneBlue"
  
       "adverse_reactions": [
-        "6. Adverse Reactions Adverse reactions reported following use of MembraneBlue™ 0.15% include discoloration of high water content hydrogen intraocular lenses (see Contraindications) and inadvertent staining of the posterior lens capsule and vitreous face. Staining of the posterior lens capsule or staining of the vitreous face is generally self limited, lasting up to one week. Discoloration of high water content hydrogen intraocular lenses; Inadvertent staining of the posterior lens capsule and vitreous face; (6) to report suspected adverse reactions contact Dutch Ophthalmic, USA at 1-800-75-DUTCH or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch"
+        "6. Adverse Reactions Adverse reactions reported following use of MembraneBlue(TM) 0.15% include discoloration of high water content hydrogen intraocular lenses (see Contraindications) and inadvertent staining of the posterior lens capsule and vitreous face. Staining of the posterior lens capsule or staining of the vitreous face is generally self limited, lasting up to one week. Discoloration of high water content hydrogen intraocular lenses; Inadvertent staining of the posterior lens capsule and vitreous face; (6) to report suspected adverse reactions contact Dutch Ophthalmic, USA at 1-800-75-DUTCH or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch"
       "warnings_and_cautions": [
-        "5. Warnings and Precautions Excessive staining: It is recommended that after injection all excess MembraneBlue™ 0.15% be immediately removed from the eye. Priming of the syringe: Make sure the plunger moves smoothly before use: first retract the plunger or twist the plunger in a clockwise motion before injecting the fluid. Excessive staining: Excess MembraneBlue™ 0.15% should be removed from the eye immediately after staining. Priming of the syringe: Make sure the plunger moves smoothly before use: first retract the plunger or twist the plunger in a clockwise motion before injecting the fluid. (5)"
+        "5. Warnings and Precautions Excessive staining: It is recommended that after injection all excess MembraneBlue(TM) 0.15% be immediately removed from the eye. Priming of the syringe: Make sure the plunger moves smoothly before use: first retract the plunger or twist the plunger in a clockwise motion before injecting the fluid. Excessive staining: Excess MembraneBlue(TM) 0.15% should be removed from the eye immediately after staining. Priming of the syringe: Make sure the plunger moves smoothly before use: first retract the plunger or twist the plunger in a clockwise motion before injecting the fluid. (5)"
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -20,7 +20,7 @@ Page 1 of 2
           "VisionBlue"
  
       "adverse_reactions": [
-        "Adverse Reactions Adverse reactions reported following use of VisionBlue™ include discoloration of high water content hydrogen intraocular lenses (see Contraindications) and inadvertent staining of the posterior lens capsule and vitreous face. Staining of the posterior lens capsule or staining of the vitreous face is generally self limited, lasting up to one week."
+        "Adverse Reactions Adverse reactions reported following use of VisionBlue(TM) include discoloration of high water content hydrogen intraocular lenses (see Contraindications) and inadvertent staining of the posterior lens capsule and vitreous face. Staining of the posterior lens capsule or staining of the vitreous face is generally self limited, lasting up to one week."
  
  
 --------------------------------------------------------------------------------------------------------------------

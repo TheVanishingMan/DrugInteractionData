@@ -492,7 +492,7 @@ Page 48 of 77
           "Tonsilla compositum"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS No adverse events have been reported with a causal relationship Thonsilla compositum® Oral Vials."
+        "ADVERSE REACTIONS No adverse events have been reported with a causal relationship Thonsilla compositum(R) Oral Vials."
       "warnings_and_cautions": [
         "WARNINGS AND PRECAUTIONS Warnings and Precautions None"
  

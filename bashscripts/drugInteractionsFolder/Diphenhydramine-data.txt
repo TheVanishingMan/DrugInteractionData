@@ -7418,7 +7418,7 @@ Page 736 of 1000
           "PANADOL PM"
  
       "adverse_reactions": [
-        "Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: •skin reddening •blisters •rash If a skin reaction occurs, stop use and seek medical help right away."
+        "Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: -skin reddening -blisters -rash If a skin reaction occurs, stop use and seek medical help right away."
  
  
 --------------------------------------------------------------------------------------------------------------------

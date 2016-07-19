@@ -142,7 +142,7 @@ Page 12 of 15
           "Ephedrine Sulfate"
  
       "drug_interactions": [
-        "Drug Interaction precaution Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor of pharmacist before taking this product."
+        "Drug Interaction precaution Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor of pharmacist before taking this product."
  
  
 --------------------------------------------------------------------------------------------------------------------

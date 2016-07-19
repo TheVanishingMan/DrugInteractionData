@@ -10,7 +10,7 @@ Page 0 of 9
       "adverse_reactions": [
         "6. ADVERSE REACTIONS 6.1. None known (see CONTRAINDICATIONS for hypersensitivity information)."
       "warnings_and_cautions": [
-        "5. WARNINGS AND PRECAUTIONS 5.1. GUNA®-DIUR is contraindicated in patients with anuria and in patients with a history of hypersensitivity to Spironolactone, Amiloride, or Hydrocholorthiazide. 5.2. Use with caution in patients taking diuretic medications."
+        "5. WARNINGS AND PRECAUTIONS 5.1. GUNA(R)-DIUR is contraindicated in patients with anuria and in patients with a history of hypersensitivity to Spironolactone, Amiloride, or Hydrocholorthiazide. 5.2. Use with caution in patients taking diuretic medications."
  
  
 --------------------------------------------------------------------------------------------------------------------

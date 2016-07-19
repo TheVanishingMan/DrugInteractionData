@@ -1526,9 +1526,9 @@ Page 149 of 228
           "Strovite Forte Caplet"
  
       "drug_interactions": [
-        "Drug Interactions As little as 5 mg pyridoxine daily can decrease the efficacy of levodopa in the treatment of Parkinsonism. Therefore, STROVITE® FORTE is not recommended for patients undergoing such therapy. High doses of folic acid may result in decreased serum levels of anticonvulsant drugs. Vitamin D supplementation should not be given with large amounts of calcium in those with hypercalcemia or conditions that may lead to hypercalcemia such as hyperparathyroidism and those who form calciumcontaining kidney stones. Zinc can inhibit the absorption of certain antibiotics; take at least 2 hours apart to minimize interactions. Consult appropriate references for additional specific vitamin-drug interactions."
+        "Drug Interactions As little as 5 mg pyridoxine daily can decrease the efficacy of levodopa in the treatment of Parkinsonism. Therefore, STROVITE(R) FORTE is not recommended for patients undergoing such therapy. High doses of folic acid may result in decreased serum levels of anticonvulsant drugs. Vitamin D supplementation should not be given with large amounts of calcium in those with hypercalcemia or conditions that may lead to hypercalcemia such as hyperparathyroidism and those who form calciumcontaining kidney stones. Zinc can inhibit the absorption of certain antibiotics; take at least 2 hours apart to minimize interactions. Consult appropriate references for additional specific vitamin-drug interactions."
       "adverse_reactions": [
-        "ADVERSE REACTIONS Adverse reactions have been reported with specific vitamins and minerals, but generally at levels substantially higher than those in STROVITE® FORTE. However, allergic and idiosyncratic reactions are possible at lower levels. Iron, even at the usual recommended levels, has been associated with gastrointestinal intolerance in some patients."
+        "ADVERSE REACTIONS Adverse reactions have been reported with specific vitamins and minerals, but generally at levels substantially higher than those in STROVITE(R) FORTE. However, allergic and idiosyncratic reactions are possible at lower levels. Iron, even at the usual recommended levels, has been associated with gastrointestinal intolerance in some patients."
  
  
 --------------------------------------------------------------------------------------------------------------------
@@ -1570,7 +1570,7 @@ Page 153 of 228
           "WellMind Vertigo"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS Post-marketing Experience • No adverse events with a causal relationship to WellMindTM Vertigo tablets have been reported."
+        "ADVERSE REACTIONS Post-marketing Experience - No adverse events with a causal relationship to WellMindTM Vertigo tablets have been reported."
       "warnings_and_cautions": [
         "WARNINGS None"
  
@@ -1642,7 +1642,7 @@ Page 159 of 228
       "drug_interactions": [
         "Drug Interactions High doses of folic acid may result in decreased serum levels of anticonvulsant drugs. Vitamin D supplementation should not be given with large amounts of calcium in those with hypercalcemia or conditions that may lead to hypercalcemia such as hyperparathyroidism and those who form calciumcontaining kidney stones. Zinc can inhibit the absorption of certain antibiotics; take at least 2 hours apart to minimize interactions. Consult appropriate references for additional specific vitamin-drug interactions."
       "adverse_reactions": [
-        "ADVERSE REACTIONS Adverse reactions have been reported with specific vitamins and minerals, but generally at levels substantially higher than those in STROVITE® ONE."
+        "ADVERSE REACTIONS Adverse reactions have been reported with specific vitamins and minerals, but generally at levels substantially higher than those in STROVITE(R) ONE."
  
  
 --------------------------------------------------------------------------------------------------------------------

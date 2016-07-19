@@ -34,7 +34,7 @@ Page 2 of 4
           "Phenoxybenzamine Hydrochloride"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are insufficient data to support an estimate of their frequency. Autonomic Nervous System*: Postural hypotension, tachycardia, inhibition of ejaculation, nasal congestion, miosis. *These so-called “side effects” are actually evidence of adrenergic blockade and vary according to the degree of blockade. Miscellaneous: Gastrointestinal irritation, drowsiness, fatigue."
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are insufficient data to support an estimate of their frequency. Autonomic Nervous System*: Postural hypotension, tachycardia, inhibition of ejaculation, nasal congestion, miosis. *These so-called "side effects" are actually evidence of adrenergic blockade and vary according to the degree of blockade. Miscellaneous: Gastrointestinal irritation, drowsiness, fatigue."
  
  
 --------------------------------------------------------------------------------------------------------------------

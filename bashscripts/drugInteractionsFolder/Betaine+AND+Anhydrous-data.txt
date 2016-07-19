@@ -32,7 +32,7 @@ Page 2 of 3
           "EnLyte"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS: Allergic reactions have been reported following the use of oral and parenteral folate. Paresthesia, somnolence, nausea, and headaches have been reported with pyridoxine. Mild transient diarrhea, polycythemia vera, itching, transitory exanthema and the feeling of swelling of the entire body has been associated with cobalamin. These are not all the possible side effects associated with EnLyte® It is important to always contact your healthcare practitioner if you experience any side effects on EnLyte®. You may report side effects by calling (866) 280-5961."
+        "ADVERSE REACTIONS: Allergic reactions have been reported following the use of oral and parenteral folate. Paresthesia, somnolence, nausea, and headaches have been reported with pyridoxine. Mild transient diarrhea, polycythemia vera, itching, transitory exanthema and the feeling of swelling of the entire body has been associated with cobalamin. These are not all the possible side effects associated with EnLyte(R) It is important to always contact your healthcare practitioner if you experience any side effects on EnLyte(R). You may report side effects by calling (866) 280-5961."
  
  
 --------------------------------------------------------------------------------------------------------------------

@@ -6,7 +6,7 @@ Page 0 of 1
           "Provocholine"
  
       "adverse_reactions": [
-        "ADVERSE REACTIONS: Adverse reactions associated with 153 inhaled methacholine chloride challenges include one occurrence each of headache, throat irritation, Iightheadedness and itching. Provocholine® (methacholine chloride powder for inhalation) is to be administered only by inhalation. When administered orally or by injection, methacholine chloride is reported to be associated with nausea and vomiting, substernal pain or pressure, hypotension,fainting and transient complete heart block. (See OVERDOSAGE.)"
+        "ADVERSE REACTIONS: Adverse reactions associated with 153 inhaled methacholine chloride challenges include one occurrence each of headache, throat irritation, Iightheadedness and itching. Provocholine(R) (methacholine chloride powder for inhalation) is to be administered only by inhalation. When administered orally or by injection, methacholine chloride is reported to be associated with nausea and vomiting, substernal pain or pressure, hypotension,fainting and transient complete heart block. (See OVERDOSAGE.)"
  
  
 --------------------------------------------------------------------------------------------------------------------
