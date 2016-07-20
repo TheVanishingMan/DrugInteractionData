@@ -1,0 +1,96 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flavoxate+AND+HCl&limit=1&skip=0
+Page 0 of 8
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        "brand_name": [
+          "Flavoxate Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic: Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flavoxate+AND+HCl&limit=1&skip=1
+Page 1 of 8
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        "brand_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Nausea, vomiting, dry mouth. Gastrointestinal: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. CNS: Leukopenia (one case which was reversible upon discontinuation of the drug). Hematologic: Tachycardia and palpitation. Cardiovascular: Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Allergic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Ophthalmic: Dysuria. Renal:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flavoxate+AND+HCl&limit=1&skip=2
+Page 2 of 8
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        "brand_name": [
+          "Flavoxate Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic: Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flavoxate+AND+HCl&limit=1&skip=3
+Page 3 of 8
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        "brand_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic: Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flavoxate+AND+HCl&limit=1&skip=4
+Page 4 of 8
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        "brand_name": [
+          "Flavoxate Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic: Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flavoxate+AND+HCl&limit=1&skip=5
+Page 5 of 8
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        "brand_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic: Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flavoxate+AND+HCl&limit=1&skip=6
+Page 6 of 8
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        "brand_name": [
+          "Flavoxate Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic: Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flavoxate+AND+HCl&limit=1&skip=7
+Page 7 of 8
+        "generic_name": [
+          "FLAVOXATE HYDROCHLORIDE"
+        "brand_name": [
+          "Flavoxate Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Gastrointestinal: Nausea, vomiting, dry mouth. CNS: Vertigo, headache, mental confusion, especially in the elderly, drowsiness, nervousness. Hematologic: Leukopenia (one case which was reversible upon discontinuation of the drug). Cardiovascular: Tachycardia and palpitation. Allergic: Urticaria and other dermatoses, eosinophilia and hyperpyrexia. Ophthalmic: Increased ocular tension, blurred vision, disturbance in eye accommodation. Renal: Dysuria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

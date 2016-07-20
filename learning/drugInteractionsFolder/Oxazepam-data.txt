@@ -1,0 +1,98 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Oxazepam&limit=1&skip=0
+Page 0 of 8
+        "generic_name": [
+          "OXAZEPAM"
+        "brand_name": [
+          "Oxazepam"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The necessity for discontinuation of therapy due to undesirable effects has been rare. Transient, mild drowsiness is commonly seen in the first few days of therapy. If it persists, the dosage should be reduced. In few instances, dizziness, vertigo, headache, and rarely syncope have occurred either alone or together with drowsiness. Mild paradoxical reactions, i.e., excitement, stimulation of affect, have been reported in psychiatric patients; these reactions may be secondary to relief of anxiety and usually appear in the first two weeks of therapy. Other side effects occurring during oxazepam therapy include rare instances of nausea, lethargy, edema, slurred speech, tremor, altered libido, and minor diffuse skin rashes — morbilliform, urticarial, and maculopapular. Such side effects have been infrequent and are generally controlled with reduction of dosage. A case of an extensive fixed drug eruption also has been reported. Although rare, leukopenia and hepatic dysfunction including jaundice have been reported during therapy. Periodic blood counts and liver-function tests are advisable. Ataxia with oxazepam has been reported in rare instances and does not appear to be specifically related to dose or age. Although the following side reactions have not as yet been reported with oxazepam, they have occurred with related compounds (chlordiazepoxide and diazepam): paradoxical excitation with severe rage reactions, hallucinations, menstrual irregularities, change in EEG pattern, blood dyscrasias including agranulocytosis, blurred vision, diplopia, incontinence, stupor, disorientation, fever, and euphoria. Transient amnesia or memory impairment has been reported in association with the use of benzodiazepines."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Oxazepam&limit=1&skip=1
+Page 1 of 8
+        "generic_name": [
+          "OXAZEPAM"
+        "brand_name": [
+          "Oxazepam"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The necessity for discontinuation of therapy due to undesirable effects has been rare. Transient mild drowsiness is commonly seen in the first few days of therapy. If it persists, the dosage should be reduced. In few instances, dizziness, vertigo, headache and rarely syncope have occurred either alone or together with drowsiness. Mild paradoxical reactions; i.e., excitement, stimulation of affect, have been reported in psychiatric patients; these reactions may be secondary to relief of anxiety and usually appear in the first two weeks of therapy. Other side effects occurring during oxazepam therapy include rare instances of minor diffuse skin rashes-morbilliform, urticarial, and maculopapular, nausea, lethargy, edema, slurred speech, tremor, and altered libido. Such side effects have been infrequent and are generally controlled with reduction of dosage. A case of an extensive fixed drug eruption also has been reported. Although rare, leukopenia and hepatic dysfunction including jaundice have been reported during therapy. Periodic blood counts and liver-function tests are advisable. Ataxia with oxazepam has been reported in rare instances and does not appear to be specifically related to dose or age. Although the following side reactions have not as yet been reported with oxazepam, they have occurred with related compounds (chlordiazepoxide and diazepam): paradoxical excitation with severe rage reactions, hallucinations, menstrual irregularities, change in EEG pattern, blood dyscrasias including agranulocytosis, blurred vision, diplopia, incontinence, stupor, disorientation, fever and euphoria. Transient amnesia or memory impairment has been reported in association with the use of benzodiazepines."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Oxazepam&limit=1&skip=2
+Page 2 of 8
+        "generic_name": [
+          "OXAZEPAM"
+        "brand_name": [
+          "Oxazepam"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The necessity for discontinuation of therapy due to undesirable effects has been rare. Transient, mild drowsiness is commonly seen in the first few days of therapy. If it persists, the dosage should be reduced. In few instances, dizziness, vertigo, headache, and rarely syncope have occurred either alone or together with drowsiness. Mild paradoxical reactions, i.e., excitement, stimulation of affect, have been reported in psychiatric patients; these reactions may be secondary to relief of anxiety and usually appear in the first two weeks of therapy. Other side effects occurring during oxazepam therapy include rare instances of nausea, lethargy, edema, slurred speech, tremor, altered libido, and minor diffuse skin rashes — morbilliform, urticarial, and maculopapular. Such side effects have been infrequent and are generally controlled with reduction of dosage. A case of an extensive fixed drug eruption also has been reported. Although rare, leukopenia and hepatic dysfunction including jaundice have been reported during therapy. Periodic blood counts and liver-function tests are advisable. Ataxia with oxazepam has been reported in rare instances and does not appear to be specifically related to dose or age. Although the following side reactions have not as yet been reported with oxazepam, they have occurred with related compounds (chlordiazepoxide and diazepam): paradoxical excitation with severe rage reactions, hallucinations, menstrual irregularities, change in EEG pattern, blood dyscrasias including agranulocytosis, blurred vision, diplopia, incontinence, stupor, disorientation, fever, and euphoria. Transient amnesia or memory impairment has been reported in association with the use of benzodiazepines."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Oxazepam&limit=1&skip=3
+Page 3 of 8
+        "generic_name": [
+          "OXAZEPAM"
+        "brand_name": [
+          "Oxazepam"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Other side effects occurring during oxazepam therapy include rare instances of minor diffuse skin rashes-morbilliform, urticarial, and maculopapular, nausea, lethargy, edema, slurred speech, tremor, and altered libido. Such side effects have been infrequent and are generally controlled with reduction of dosage. A case of an extensive fixed drug eruption also has been reported. Although rare, leukopenia and hepatic dysfunction including jaundice have been reported during therapy. Periodic blood counts and liver-function tests are advisable. Ataxia with oxazepam has been reported in rare instances and does not appear to be specifically related to dose or age. Although the following side reactions have not as yet been reported with oxazepam, they have occurred with related compounds (chlordiazepoxide and diazepam): paradoxical excitation with severe rage reactions, hallucinations, menstrual irregularities, change in EEG pattern, blood dyscrasias including agranulocytosis, blurred vision, diplopia, incontinence, stupor, disorientation, fever and euphoria. Transient amnesia or memory impairment has been reported in association with the use of benzodiazepines."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Oxazepam&limit=1&skip=4
+Page 4 of 8
+        "generic_name": [
+          "OXAZEPAM"
+        "brand_name": [
+          "Oxazepam"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The necessity for discontinuation of therapy due to undesirable effects has been rare. Transient, mild drowsiness is commonly seen in the first few days of therapy. If it persists, the dosage should be reduced. In few instances, dizziness, vertigo, headache, and rarely syncope have occurred either alone or together with drowsiness. Mild paradoxical reactions, i.e., excitement, stimulation of affect, have been reported in psychiatric patients; these reactions may be secondary to relief of anxiety and usually appear in the first two weeks of therapy. Other side effects occurring during oxazepam therapy include rare instances of nausea, lethargy, edema, slurred speech, tremor, altered libido, and minor diffuse skin rashes — morbilliform, urticarial, and maculopapular. Such side effects have been infrequent and are generally controlled with reduction of dosage. A case of an extensive fixed drug eruption also has been reported. Although rare, leukopenia and hepatic dysfunction including jaundice have been reported during therapy. Periodic blood counts and liver-function tests are advisable. Ataxia with oxazepam has been reported in rare instances and does not appear to be specifically related to dose or age. Although the following side reactions have not as yet been reported with oxazepam, they have occurred with related compounds (chlordiazepoxide and diazepam): paradoxical excitation with severe rage reactions, hallucinations, menstrual irregularities, change in EEG pattern, blood dyscrasias including agranulocytosis, blurred vision, diplopia, incontinence, stupor, disorientation, fever, and euphoria. Transient amnesia or memory impairment has been reported in association with the use of benzodiazepines."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Oxazepam&limit=1&skip=5
+Page 5 of 8
+        "generic_name": [
+          "OXAZEPAM"
+        "brand_name": [
+          "Oxazepam"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The necessity for discontinuation of therapy due to undesirable effects has been rare. Transient, mild drowsiness is commonly seen in the first few days of therapy. If it persists, the dosage should be reduced. In few instances, dizziness, vertigo, headache, and rarely syncope have occurred either alone or together with drowsiness. Mild paradoxical reactions, i.e., excitement, stimulation of affect, have been reported in psychiatric patients; these reactions may be secondary to relief of anxiety and usually appear in the first two weeks of therapy. Other side effects occurring during oxazepam therapy include rare instances of nausea, lethargy, edema, slurred speech, tremor, altered libido, and minor diffuse skin rashes — morbilliform, urticarial, and maculopapular. Such side effects have been infrequent and are generally controlled with reduction of dosage. A case of an extensive fixed drug eruption also has been reported. Although rare, leukopenia and hepatic dysfunction including jaundice have been reported during therapy. Periodic blood counts and liver-function tests are advisable. Ataxia with oxazepam has been reported in rare instances and does not appear to be specifically related to dose or age. Although the following side reactions have not as yet been reported with oxazepam, they have occurred with related compounds (chlordiazepoxide and diazepam): paradoxical excitation with severe rage reactions, hallucinations, menstrual irregularities, change in EEG pattern, blood dyscrasias including agranulocytosis, blurred vision, diplopia, incontinence, stupor, disorientation, fever, and euphoria. Transient amnesia or memory impairment has been reported in association with the use of benzodiazepines."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Oxazepam&limit=1&skip=6
+Page 6 of 8
+        "generic_name": [
+          "OXAZEPAM"
+        "brand_name": [
+          "OXAZEPAM"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONSThe necessity for discontinuation of therapy due to undesirable effects has been rare. Transient, mild drowsiness is commonly seen in the first few days of therapy. If it persists, the dosage should be reduced. In few instances, dizziness, vertigo, headache, and rarely syncope have occurred either alone or together with drowsiness. Mild paradoxical reactions, i.e., excitement, stimulation of affect, have been reported in psychiatric patients; these reactions may be secondary to relief of anxiety and usually appear in the first two weeks of therapy. Other side effects occurring during oxazepam therapy include rare instances of nausea, lethargy, edema, slurred speech, tremor, altered libido, and minor diffuse skin rashes — morbilliform, urticarial, and maculopapular. Such side effects have been infrequent and are generally controlled with reduction of dosage. A case of an extensive fixed drug eruption also has been reported. Although rare, leukopenia and hepatic dysfunction including jaundice have been reported during therapy. Periodic blood counts and liver-function tests are advisable. Ataxia with oxazepam has been reported in rare instances and does not appear to be specifically related to dose or age. Although the following side reactions have not as yet been reported with oxazepam, they have occurred with related compounds (chlordiazepoxide and diazepam): paradoxical excitation with severe rage reactions, hallucinations, menstrual irregularities, change in EEG pattern, blood dyscrasias including agranulocytosis, blurred vision, diplopia, incontinence, stupor, disorientation, fever, and euphoria. Transient amnesia or memory impairment has been reported in association with the use of benzodiazepines"
+      "warnings_and_cautions": [
+        "WARNINGSAs with other CNS-acting drugs, patients should be cautioned against driving automobiles or operating dangerous machinery until it is known that they do not become drowsy or dizzy on oxazepam therapy. Patients should be warned that the effects of alcohol or other CNS-depressant drugs may be additive to those of Oxazepam, possibly requiring adjustment of dosage or elimination of such agents. Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section). Use in Pregnancy: An increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam, and meprobamate) during the first trimester of pregnancy has been suggested in several studies. Oxazepam, a benzodiazepine derivative, has not been studied adequately to determine whether it, too, may be associated with an increased risk of fetal abnormality. Because use of these drugs is rarely a matter of urgency, their use during this period should almost always be avoided. The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered. Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physician about the desirability of discontinuing the drug. PRECAUTIONS GeneralAlthough hypotension has occurred only rarely, oxazepam should be administered with caution to patients in whom a drop in blood pressure might lead to cardiac complications. This is particularly true in the elderly patient. Information for PatientsTo assure the safe and effective use of oxazepam, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug. Pediatric UseSafety and effectiveness in pediatric patients under 6 years of age have not been established. Absolute dosage for pediatric patients 6 to 12 years of age is not established. Geriatric UseClinical studies of oxazepam were not adequate to determine whether subjects aged 65 and over respond differently than younger subjects. Age (less than 80 years old) does not appear to have a clinically significant effect on oxazepam kinetics (see CLINICAL PHARMACOLOGY). Clinical circumstances, some of which may be more common in the elderly, such as hepatic or renal impairment, should be considered. Greater sensitivity of some older individuals to the effects of oxazepam (e.g., sedation, hypotension, paradoxical excitation) cannot be ruled out (see PRECAUTIONS, General; see ADVERSE REACTIONS). In general, dose selection for oxazepam for elderly patients should be cautious, usually starting at the lower end of the dosing range (see DOSAGE AND ADMINISTRATION)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Oxazepam&limit=1&skip=7
+Page 7 of 8
+        "generic_name": [
+          "OXAZEPAM"
+        "brand_name": [
+          "Oxazepam"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The necessity for discontinuation of therapy due to undesirable effects has been rare. Transient, mild drowsiness is commonly seen in the first few days of therapy. If it persists, the dosage should be reduced. In few instances, dizziness, vertigo, headache, and rarely syncope have occurred either alone or together with drowsiness. Mild paradoxical reactions, i.e., excitement, stimulation of affect, have been reported in psychiatric patients; these reactions may be secondary to relief of anxiety and usually appear in the first two weeks of therapy. Other side effects occurring during oxazepam therapy include rare instances of minor diffuse skin rashes-morbilliform, urticarial, and maculopapular, nausea, lethargy, edema, slurred speech, tremor, and altered libido. Such side effects have been infrequent and are generally controlled with reduction of dosage. A case of an extensive fixed drug eruption also has been reported. Although rare, leukopenia and hepatic dysfunction including jaundice have been reported during therapy. Periodic blood counts and liver-function tests are advisable. Ataxia with oxazepam has been reported in rare instances and does not appear to be specifically related to dose or age. Although the following side reactions have not as yet been reported with oxazepam, they have occurred with related compounds (chlordiazepoxide and diazepam): paradoxical excitation with severe rage reactions, hallucinations, menstrual irregularities, change in EEG pattern, blood dyscrasias including agranulocytosis, blurred vision, diplopia, incontinence, stupor, disorientation, fever, and euphoria. Transient amnesia or memory impairment has been reported in association with the use of benzodiazepines."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

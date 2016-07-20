@@ -1,0 +1,444 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=0
+Page 0 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the Skin Itching Acneiform Eruptions Secondary Infection Irritation Hypopigmentation Skin Atrophy Dryness Perioral Dermatitis Striae Folliculitis Allergic Contact Dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=1
+Page 1 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform Eruptions Hypopigmentation Perioral Dermatitis Allergic Contact Dermatitis Maceration of the Skin Secondary Infection Skin Atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=2
+Page 2 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The most commonly reported adverse reactions (>=1%) were headache, application site burning, nasopharyngitis, and nasal congestion. (6) To report SUSPECTED ADVERSE REACTIONS, contact Taro Pharmaceuticals U.S.A., Inc., at 1-866-923-4914 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical trials, a total of 443 adult subjects with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with fluocinonide cream USP, 0.1% for 2 weeks. The most commonly observed adverse reactions in these clinical trials were as follows: Table 1: Most Commonly Observed Adverse Reactions (>=1%) in Adult Clinical Trials Adverse Reaction Fluocinonide Cream USP, 0.1%, once daily (n=216) Fluocinonide Cream USP, 0.1%, twice daily (n=227) Vehicle Cream, once or twice daily (n=211) Headache 8 (3.7%) 9 (4.0%) 6 (2.8%) Application Site Burning 5 (2.3%) 4 (1.8%) 14 (6.6%) Nasopharyngitis 2 (0.9%) 3 (1.3%) 3 (1.4%) Nasal Congestion 3 (1.4%) 1 (0.4%) 0 Safety in patients 12 to 17 years of age was similar to that observed in adults. 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of fluocinonide cream USP, 0.1%: Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain and condition aggravated. Immune System Disorders: hypersensitivity. Nervous System Disorders: headache and dizziness. Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation and skin tightness. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Fluocinonide cream USP, 0.1% has been shown to suppress the HPA axis. Systemic absorption of fluocinonide cream USP, 0.1% may produce reversible hypothalamic-pituitaryadrenal (HPA) axis suppression, Cushing's syndrome, hyperglycemia and unmask latent diabetes (5.1) Systemic absorption may require evaluation for HPA axis suppression (5.1) Modify use should HPA axis suppression develop (5.1) Potent corticosteroids, use on large areas, prolonged use or occlusive use may increase systemic absorption (5.3) Local adverse reactions with topical steroids may include atrophy, striae, irritation, acneiform eruptions, hypopigmentation and allergic contact dermatitis and may be more likely to occur with occlusive use or more potent corticosteroids (5.3) Children may be more susceptible to systemic toxicity when treated with topical corticosteroids. (5.1, 8.4) 5.1 Effect on Endocrine System Systemic absorption of topical corticosteroids, including fluocinonide cream USP, 0.1%, can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency. This may occur during treatment or upon withdrawal of the topical corticosteroid. In addition, the use of fluocinonide cream USP, 0.1% for longer than 2 weeks may suppress the immune system [see Nonclinical Toxicology (13.1) ]. HPA axis suppression has been observed with fluocinonide cream USP, 0.1% applied once or twice daily in 2 out of 18 adult patients with plaque-type psoriasis, 1 out of 31 adult patients with atopic dermatitis and 4 out of 123 pediatric patients with atopic dermatitis [see Use in Specific Population (8.4) and Clinical Pharmacology (12.2)]. Because of the potential for systemic absorption, use of topical corticosteroids, including fluocinonide cream USP, 0.1%, may require that patients be periodically evaluated for HPA axis suppression. Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure. An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression. If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids. Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids. Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids. Use of more than one corticosteroid-containing product at the same time may increase the total systemic absorption of topical corticosteroids. Studies conducted in pediatric patients demonstrated reversible HPA axis suppression after use of fluocinonide cream USP, 0.1%. Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of fluocinonide cream USP, 0.1% due to their larger skin surface-to-body-mass ratios [See Use in Specific Populations (8.4) ]. 5.2 Local Adverse Reactions with Topical Corticosteroids Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids. Reactions may include atrophy, striae, telangiectasis, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria. Some local adverse reactions may be irreversible. 5.3 Concomitant Skin Infections If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used. If a favorable response does not occur promptly, use of fluocinonide cream USP, 0.1% should be discontinued until the infection has been adequately controlled. 5.4 Allergic Contact Dermatitis If irritation develops, fluocinonide cream USP, 0.1% should be discontinued and appropriate therapy instituted. Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids. Such an observation should be corroborated with appropriate diagnostic patch testing."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=3
+Page 3 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence. Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=4
+Page 4 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria. To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=5
+Page 5 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform Eruptions Hypopigmentation Perioral Dermatitis Allergic Contact Dermatitis Maceration of the Skin Secondary Infection Skin Atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=6
+Page 6 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Vanos"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, a total of 443 adult patients with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with VANOS Cream for 2 weeks. The most commonly observed adverse events in these clinical trials were as follows: Table 3: Most Commonly Observed Adverse Events in Adult Clinical Trials Adverse Event VANOS Cream, once daily (n=216) VANOS Cream, twice daily (n=227) Vehicle Cream, once or twice daily (n=211) Headache 8/216 (3.7%) 9/227 (4.0%) 6/211 (2.8%) Application Site Burning 5/216 (2.3%) 4/227 (1.8%) 14/211 (6.6%) Nasopharyngitis 2/216 (0.9%) 3/227 (1.3%) 3/211 (1.4%) Nasal Congestion 3/216 (1.4%) 1/227 (0.4%) 0 Unspecified Application Site Reaction 1/216 (0.4%) 1/227 (0.4%) 3/211 (1.4%) No other adverse events were reported by more than 1 subject receiving active treatment. The incidence of all adverse events was similar between the active treatment groups and the vehicle control groups. Safety in patients 12 to 17 years of age was similar to that observed in adults. The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. Systemic absorption of topical corticosteroids has produced hypothalamic-pituitary-adrenal (HPA) axis suppression manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=7
+Page 7 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=8
+Page 8 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "FLUOCINONIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=9
+Page 9 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=10
+Page 10 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=11
+Page 11 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=12
+Page 12 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "6ADVERSE REACTIONS The most commonly reported adverse reactions (>=1%) were headache, application site burning, nasopharyngitis, and nasal congestion. (6) To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical trials, a total of 443 adult subjects with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with Fluocinonide Cream for 2 weeks. The most commonly observed adverse reactions in these clinical trials were as follows: Table 1: Most Commonly Observed Adverse Reactions (>=1%) in Adult Clinical Trials Adverse Reaction Fluocinonide Cream, once daily (n=216) Fluocinonide Cream, twice daily (n=227) Vehicle Cream, once or twice daily (n=211) Headache 8 (3.7%) 9 (4.0%) 6 (2.8%) Application Site Burning 5 (2.3%) 4 (1.8%) 14 (6.6%) Nasopharyngitis 2 (0.9%) 3 (1.3%) 3 (1.4%) Nasal Congestion 3 (1.4%) 1 (0.4%) 0 Safety in patients 12 to 17 years of age was similar to that observed in adults. 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of Fluocinonide Cream: Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain and condition aggravated. Immune System Disorders: hypersensitivity. Nervous System Disorders: headache and dizziness. Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation and skin tightness. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure."
+      "warnings_and_cautions": [
+        "5WARNINGS AND PRECAUTIONS -Fluocinonide Cream has been shown to suppress the HPA axis. Systemic absorption of Fluocinonide Cream may produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, hyperglycemia and unmask latent diabetes (5.1) - Systemic absorption may require evaluation for HPA axis suppression (5.1) - Modify use should HPA axis suppression develop (5.1) - Potent corticosteroids, use on large areas, prolonged use or occlusive use may increase systemic absorption (5.3) - Local adverse reactions with topical steroids may include atrophy, striae, irritation, acneiform eruptions, hypopigmentation and allergic contact dermatitis and may be more likely to occur with occlusive use or more potent corticosteroids (5.3) - Children may be more susceptible to systemic toxicity when treated with topical corticosteroids (5.1, 8.4) 5.1Effect on Endocrine System Systemic absorption of topical corticosteroids, including Fluocinonide Cream, can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency. This may occur during treatment or upon withdrawal of the topical corticosteroid. In addition, the use of Fluocinonide Cream for longer than 2 weeks may suppress the immune system [see Nonclinical Toxicology (13.1) ]. HPA axis suppression has been observed with Fluocinonide Cream 0.1% applied once or twice daily in 2 out of 18 adult patients with plaque-type psoriasis, 1 out of 31 adult patients with atopic dermatitis and 4 out of 123 pediatric patients with atopic dermatitis [see Use in Specific Population (8.4) and Clinical Pharmacology (12.2)]. Because of the potential for systemic absorption, use of topical corticosteroids, including Fluocinonide Cream, may require that patients be periodically evaluated for HPA axis suppression. Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure. An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression. If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids. Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids. Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids. Use of more than one corticosteroid-containing product at the same time may increase the total systemic absorption of topical corticosteroids. Studies conducted in pediatric patients demonstrated reversible HPA axis suppression after use of Fluocinonide Cream. Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of Fluocinonide Cream due to their larger skin surface-to-body-mass ratios [See Use in Specific Populations (8.4) ]. 5.2Local Adverse Reactions with Topical Corticosteroids Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids. Reactions may include atrophy, striae, telangiectasis, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria. Some local adverse reactions may be irreversible. 5.3Concomitant Skin Infections If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used. If a favorable response does not occur promptly, use of Fluocinonide Cream should be discontinued until the infection has been adequately controlled. 5.4Allergic Contact Dermatitis If irritation develops, Fluocinonide Cream should be discontinued and appropriate therapy instituted. Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids. Such an observation should be corroborated with appropriate diagnostic patch testing."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=13
+Page 13 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The most commonly reported adverse reactions (>=1%) were headache, application site burning, nasopharyngitis, and nasal congestion. (6) To report SUSPECTED ADVERSE REACTIONS, contact Glenmark Pharmaceuticals Inc., USA at 1 (888)721-7115 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical trials, a total of 443 adult subjects with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with fluocinonide cream for 2 weeks. The most commonly observed adverse reactions in these clinical trials were as follows: Table 1: Most Commonly Observed Adverse Reactions (>=1%) in Adult Clinical Trials Adverse Reaction Fluocinonide cream, once daily (n=216) Fluocinonide cream, twice daily (n=227) Vehicle Cream, once or twice daily (n=211) Headache 8 (3.7%) 9 (4.0%) 6 (2.8%) Application Site Burning 5 (2.3%) 4 (1.8%) 14 (6.6%) Naso-pharyngitis 2 (0.9%) 3 (1.3%) 3 (1.4%) Nasal Congestion 3 (1.4%) 1 (0.4%) 0 Safety in patients 12 to 17 years of age was similar to that observed in adults. 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of fluocinonide cream: Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain and condition aggravated. Immune System Disorders: hypersensitivity. Nervous System Disorders: headache and dizziness. Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation and skin tightness. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS -Fluocinonide cream has been shown to suppress the HPA axis. Systemic absorption of fluocinonide cream may produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, hyperglycemia and unmask latent diabetes (5.1) -Systemic absorption may require evaluation for HPA axis suppression (5.1) -Modify use should HPA axis suppression develop (5.1) -Potent corticosteroids, use on large areas, prolonged use or occlusive use may increase systemic absorption (5.3) -Local adverse reactions with topical steroids may include atrophy, striae, irritation, acneiform eruptions, hypopigmentation and allergic contact dermatitis and may be more likely to occur with occlusive use or more potent corticosteroids (5.3) -Children may be more susceptible to systemic toxicity when treated with topical corticosteroids (5.1, 8.4) 5.1 Effect on Endocrine System Systemic absorption of topical corticosteroids, including fluocinonide cream can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency. This may occur during treatment or upon withdrawal of the topical corticosteroid. In addition, the use of fluocinonide cream for longer than 2 weeks may suppress the immune system [see Nonclinical Toxicology (13.1)]. HPA axis suppression has been observed with fluocinonide cream, 0.1% applied once or twice daily in 2 out of 18 adult patients with plaque-type psoriasis, 1 out of 31 adult patients with atopic dermatitis and 4 out of 123 pediatric patients with atopic dermatitis [see Use in Specific Population (8.4) and Clinical Pharmacology (12.2)]. Because of the potential for systemic absorption, use of topical corticosteroids, including fluocinonide cream, may require that patients be periodically evaluated for HPA axis suppression. Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure. An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression. If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids. Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids. Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids. Use of more than one corticosteroid-containing product at the same time may increase the total systemic absorption of topical corticosteroids. Studies conducted in pediatric patients demonstrated reversible HPA axis suppression after use of fluocinonide cream. Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of fluocinonide cream due to their larger skin surface-to-body-mass ratios [see Use in Specific Populations (8.4)]. 5.2 Local Adverse Reactions with Topical Corticosteroids Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids. Reactions may include atrophy, striae, telangiectasis, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria. Some local adverse reactions may be irreversible. 5.3 Concomitant Skin Infections If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used. If a favorable response does not occur promptly, use of fluocinonide cream should be discontinued until the infection has been adequately controlled. 5.4 Allergic Contact Dermatitis If irritation develops, fluocinonide cream should be discontinued and appropriate therapy instituted. Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids. Such an observation should be corroborated with appropriate diagnostic patch testing."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=14
+Page 14 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform Eruptions Hypopigmentation Perioral Dermatitis Allergic Contact Dermatitis Maceration of the Skin Secondary Infection Skin Atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=15
+Page 15 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "fluocinonide"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The most commonly reported adverse reactions (>=1%) were headache, application site burning, nasopharyngitis, and nasal congestion. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Fougera at 1-800-645-9833 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical trials, a total of 443 adult subjects with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with fluocinonide cream 0.1% for 2 weeks. The most commonly observed adverse reactions in these clinical trials were as follows: Table 1: Most Commonly Observed Adverse Reactions (>1%) in Adult Clinical Trials Adverse Reaction Fluocinonide Cream USP, 0.1%, once daily (n=216) Fluocinonide Cream USP, 0.1%, twice daily (n=227) Vehicle Cream once or twice daily (n =211) Headache 8 (3.7%) 9 (4.0%) 6 (2.8%) Application Site Burning 5 (2.3%) 4 (1.8%) 14 (6.6%) Nasopharyngitis 2 (0.9%) 3 (1.3%) 3 (1.4%) Nasal Congestion 3 (1.4%) 1 (0.4%) 0 Safety in patients 12 to17 years of age was similar to that observed in adults. 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of fluocinonide cream USP, 0.1%: Administration Site Conditions: discoloration, erythema, irritation, pruritis, swelling, pain and condition aggravated. Immune System Disorders: hypersensitivity. Nervous System Disorders: headache and dizziness. Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation and skin tightness. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS -Fluocinonide cream USP, 0.1% has been shown to suppress the HPA axis. Systemic absorption of fluocinonide cream USP, 0.1% may produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, hyperglycemia and unmask latent diabetes ( 5.1 ) -Systemic absorption may require evaluation for HPA axis suppression ( 5.1 ) -Modify use should HPA axis suppression develop ( 5.1 ) -Potent corticosteroids, use on large areas, prolonged use or occlusive use may increase systemic absorption ( 5.3 ) -Local adverse reactions with topical steroids may include atrophy, striae, irritation, acneiform eruptions, hypopigmentation and allergic contact dermatitis and may be more likely to occur with occlusive use or more potent corticosteroids ( 5.3 ) -Children may be more susceptible to systemic toxicity when treated with topical corticosteroids. ( 5.1 , 8.4 ) 5.1 Effect on Endocrine System Systemic absorption of topical corticosteroids, including fluocinonide cream USP, 0.1% can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency. This may occur during treatment or upon withdrawal of the topical corticosteroid. In addition, the use of fluocinonide cream USP, 0.1% for longer than 2 weeks may suppress the immune system [see Nonclinical Toxicology ( 13.1 )]. HPA axis suppression has been observed with fluocinonide cream USP, 0.1% applied once or twice daily in 2 out of 18 adult patients with plaque-type psoriasis, 1 out of 31 adult patients with atopic dermatitis and 4 out of 123 pediatric patients with atopic dermatitis [see Use in Specific Population ( 8.4 ) and Clinical Pharmacology ( 12.2 )]. Because of the potential for systemic absorption, use of topical corticosteroids, including fluocinonide cream USP, 0.1%, may require that patients be periodically evaluated for HPA axis suppression. Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure. An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression. If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids. Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids. Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids. Use of more than one corticosteroid-containing product at the same time may increase the total systemic absorption of topical corticosteroids. Studies conducted in pediatric patients demonstrated reversible HPA axis suppression after use of fluocinonide cream USP, 0.1%. Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of fluocinonide cream USP, 0.1% due to their larger skin surface-to-body-mass ratios [See Use in Specific Populations ( 8.4 )]. 5.2 Local Adverse Reactions with Topical Corticosteroids Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids. Reactions may include atrophy, striae, telangiectasis, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria. Some local adverse reactions may be irreversible. 5.3 Concomitant Skin Infections If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used. If a favorable response does not occur promptly, use of fluocinonide cream USP, 0.1% should be discontinued until the infection has been adequately controlled. 5.4 Allergic Contact Dermatitis If irritation develops, fluocinonide cream USP, 0.1% should be discontinued and appropriate therapy instituted. Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids. Such an observation should be corroborated with appropriate diagnostic patch testing."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=16
+Page 16 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence. Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=17
+Page 17 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=18
+Page 18 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, anceiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=19
+Page 19 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Vanos"
+ 
+      "adverse_reactions": [
+        "6ADVERSE REACTIONS The most commonly reported adverse reactions (>=1%) were headache, application site burning, nasopharyngitis, and nasal congestion. (6) To report SUSPECTED ADVERSE REACTIONS, contact Medicis, The Dermatology Company at 1-800-900-6389 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical trials, a total of 443 adult subjects with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with VANOS Cream for 2 weeks. The most commonly observed adverse reactions in these clinical trials were as follows: Table 1: Most Commonly Observed Adverse Reactions (>=1%) in Adult Clinical Trials Adverse Reaction VANOS Cream, once daily (n=216) VANOS Cream, twice daily (n=227) Vehicle Cream, once or twice daily (n=211) Headache 8 (3.7%) 9 (4.0%) 6 (2.8%) Application Site Burning 5 (2.3%) 4 (1.8%) 14 (6.6%) Nasopharyngitis 2 (0.9%) 3 (1.3%) 3 (1.4%) Nasal Congestion 3 (1.4%) 1 (0.4%) 0 Safety in patients 12 to 17 years of age was similar to that observed in adults. 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of VANOS Cream: Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain and condition aggravated. Immune System Disorders: hypersensitivity. Nervous System Disorders: headache and dizziness. Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation and skin tightness. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure."
+      "warnings_and_cautions": [
+        "5WARNINGS AND PRECAUTIONS - VANOS Cream has been shown to suppress the HPA axis. Systemic absorption of VANOS Cream may produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, hyperglycemia and unmask latent diabetes (5.1) - Systemic absorption may require evaluation for HPA axis suppression (5.1) - Modify use should HPA axis suppression develop (5.1) - Potent corticosteroids, use on large areas, prolonged use or occlusive use may increase systemic absorption (5.3) - Local adverse reactions with topical steroids may include atrophy, striae, irritation, acneiform eruptions, hypopigmentation and allergic contact dermatitis and may be more likely to occur with occlusive use or more potent corticosteroids (5.3) - Children may be more susceptible to systemic toxicity when treated with topical corticosteroids (5.1, 8.4) 5.1Effect on Endocrine System Systemic absorption of topical corticosteroids, including Vanos Cream, can produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency. This may occur during treatment or upon withdrawal of the topical corticosteroid. In addition, the use of VANOS Cream for longer than 2 weeks may suppress the immune system [see Nonclinical Toxicology (13.1) ]. HPA axis suppression has been observed with VANOS Cream, 0.1% applied once or twice daily in 2 out of 18 adult patients with plaque-type psoriasis, 1 out of 31 adult patients with atopic dermatitis and 4 out of 123 pediatric patients with atopic dermatitis [see Use in Specific Population (8.4) and Clinical Pharmacology (12.2)]. Because of the potential for systemic absorption, use of topical corticosteroids, including Vanos Cream, may require that patients be periodically evaluated for HPA axis suppression. Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure. An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression. If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids. Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids. Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids. Use of more than one corticosteroid-containing product at the same time may increase the total systemic absorption of topical corticosteroids. Studies conducted in pediatric patients demonstrated reversible HPA axis suppression after use of VANOS Cream. Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of VANOS Cream due to their larger skin surface-to-body-mass ratios [See Use in Specific Populations (8.4) ]. 5.2Local Adverse Reactions with Topical Corticosteroids Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids. Reactions may include atrophy, striae, telangiectasis, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria. Some local adverse reactions may be irreversible. 5.3Concomitant Skin Infections If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used. If a favorable response does not occur promptly, use of VANOS Cream should be discontinued until the infection has been adequately controlled. 5.4Allergic Contact Dermatitis If irritation develops, VANOS Cream should be discontinued and appropriate therapy instituted. Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids. Such an observation should be corroborated with appropriate diagnostic patch testing."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=20
+Page 20 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=21
+Page 21 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria. To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=22
+Page 22 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform Eruptions Hypopigmentation Perioral Dermatitis Allergic Contact Dermatitis Maceration of the Skin Secondary Infection Skin Atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=23
+Page 23 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform Eruptions Hypopigmentation Perioral Dermatitis Allergic Contact Dermatitis Maceration of the Skin Secondary Infection Skin Atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=24
+Page 24 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=25
+Page 25 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=26
+Page 26 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=27
+Page 27 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The most commonly reported adverse reactions (>=1%) were headache, application site burning, nasopharyngitis, and nasal congestion. To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice. In clinical trials, a total of 443 adult subjects with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with fluocinonide cream, 0.1% for 2 weeks. The most commonly observed adverse reactions in these clinical trials were as follows: Table 1 6.2 Postmarketing Experience The following adverse reactions have been identified during post approval use of fluocinonide cream, 0.1%: Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain and condition aggravated. Immune System Disorders: hypersensitivity. Nervous System Disorders: headache and dizziness. Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation and skin tightness. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS - Fluocinonide Cream USP, 0.1% has been shown to suppress the HPA axis. Systemic absorption of Fluocinonide Cream USP, 0.1% may produce reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, hyperglycemia and unmask latent diabetes - Systemic absorption may require evaluation for HPA axis suppression - Modify use should HPA axis suppression develop - Potent corticosteroids, use on large areas, prolonged use or occlusive use may increase systemic absorption - Local adverse reactions with topical steroids may include atrophy, striae, irritation, acneiform eruptions, hypopigmentation and allergic contact dermatitis and may be more likely to occur with occlusive use or more potent corticosteroids - Children may be more susceptible to systemic toxicity when treated with topical corticosteroids. 5.1 Effect on Endocrine System Systemic absorption of topical corticosteroids, including Fluocinonide Cream USP, 0.1%, can produce reversible hypothalamicpituitary- adrenal (HPA) axis suppression with the potential for clinical glucocorticosteroid insufficiency. This may occur during treatment or upon withdrawal of the topical corticosteroid. In addition, the use of Fluocinonide Cream USP, 0.1% for longer than 2 weeks may suppress the immune system [see Nonclinical Toxicology (13.1 ) ]. HPA axis suppression has been observed with fluocinonide cream, 0.1%, applied once or twice daily in 2 out of 18 adult patients with plaque-type psoriasis, 1 out of 31 adult patients with atopic dermatitis and 4 out of 123 pediatric patients with atopic dermatitis [see Use in Specific Population (8.4) and Clinical Pharmacology (12.2)]. Because of the potential for systemic absorption, use of topical corticosteroids, including Fluocinonide Cream USP, 0.1%, may require that patients be periodically evaluated for HPA axis suppression. Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent steroids, use over large surface areas, use over prolonged periods, use under occlusion, use on an altered skin barrier, and use in patients with liver failure. An ACTH stimulation test may be helpful in evaluating patients for HPA axis suppression. If HPA axis suppression is documented, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Manifestations of adrenal insufficiency may require supplemental systemic corticosteroids. Recovery of HPA axis function is generally prompt and complete upon discontinuation of topical corticosteroids. Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can also result from systemic absorption of topical corticosteroids. Use of more than one corticosteroid-containing product at the same time may increase the total systemic absorption of topical corticosteroids. Studies conducted in pediatric patients demonstrated reversible HPA axis suppression after use of fluocinonide cream, 0.1%. Pediatric patients may be more susceptible than adults to systemic toxicity from equivalent doses of fluocinonide cream, 0.1% due to their larger skin surface-to-body-mass ratios [See Use in Specific Populations (8.4)]. 5.2 Local Adverse Reactions with Topical Corticosteroids Local adverse reactions may be more likely to occur with occlusive use, prolonged use or use of higher potency corticosteroids. Reactions may include atrophy, striae, telangiectasis, burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria. Some local adverse reactions may be irreversible. 5.3 Concomitant Skin Infections If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used. If a favorable response does not occur promptly, use of Fluocinonide Cream USP, 0.1% should be discontinued until the infection has been adequately controlled. 5.4 Allergic Contact Dermatitis If irritation develops, Fluocinonide Cream USP, 0.1% should be discontinued and appropriate therapy instituted. Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids. Such an observation should be corroborated with appropriate diagnostic patch testing."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=28
+Page 28 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=29
+Page 29 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=30
+Page 30 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform Eruptions Hypopigmentation Perioral Dermatitis Allergic Contact Dermatitis Maceration of the Skin Secondary Infection Skin Atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=31
+Page 31 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform Eruptions Hypopigmentation Perioral Dermatitis Allergic Contact Dermatitis Maceration of the Skin Secondary Infection Skin Atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=32
+Page 32 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=33
+Page 33 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence. Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=34
+Page 34 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinonide&limit=1&skip=35
+Page 35 of 36
+        "generic_name": [
+          "FLUOCINONIDE"
+        "brand_name": [
+          "Fluocinonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the Skin Itching Acneiform Eruptions Secondary Infection Irritation Hypopigmentation Skin Atrophy Dryness Perioral Dermatitis Striae Folliculitis Allergic Contact Dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

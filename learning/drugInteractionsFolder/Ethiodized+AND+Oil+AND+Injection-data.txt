@@ -1,0 +1,22 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethiodized+AND+Oil+AND+Injection&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "ETHIODIZED OIL"
+        "brand_name": [
+          "LIPIODOL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Hypersensitivity reactions, foreign body reactions and exacerbation of pelvic inflammatory disease, although infrequent, have been reported. In an occasional patient, abdominal pains may occur. Such pains may be the result of tubal torsion, or possibly due to too rapid a rate of instillation or excessive pressure, or both. The condition is usually only transitory, lasting one or two hours at most, and may be relieved by the administration of any of the commonly used analgesics.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethiodized+AND+Oil+AND+Injection&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "ETHIODIZED OIL"
+        "brand_name": [
+          "Lipiodol Ultra-Fluide"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Belladonna+AND+and+AND+Opium&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "ATROPA BELLADONNA AND OPIUM"
+        "brand_name": [
+          "Belladonna and Opium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Belladonna may cause drowsiness, dry mouth, urinary retention, photophobia, rapid pulse, dizziness and blurred vision. Opium usage may result in constipation, nausea or vomiting. Pruritis and urticaria may occasionally occur."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

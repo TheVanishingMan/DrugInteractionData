@@ -1,0 +1,34 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Anthralin&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "ANTHRALIN"
+        "brand_name": [
+          "Zithranol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Very few instances of contact allergic reactions to anthralin have been reported. Transient primary irritation and staining of hair or skin may occur. The temporary discoloration of hair and skin may be minimized by careful application. Staining of fabrics may be permanent so contact should be avoided."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Anthralin&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "ANTHRALIN"
+        "brand_name": [
+          "ZITHRANOL-RR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Very few instances of contact allergic reactions to anthralin have been reported. Transient primary irritation and staining of normal or uninvolved skin surrounding the treated lesions, which is frequently seen with other anthralin preparations is less common with Zithranol-RR due to microcrystalline coating of the anthralin particles. If the initial treatment produces excessive soreness or if the lesions spread, reduce frequency of application and, in extreme cases, discontinue use and consult a physician. Some temporary discoloration of hair and fingernails may arise during the period of treatment but should be minimized by careful application. Staining of fabrics may be permanent, so contact should be avoided."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Anthralin&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "ANTHRALIN"
+        "brand_name": [
+          "DRITHO-CREME HP"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

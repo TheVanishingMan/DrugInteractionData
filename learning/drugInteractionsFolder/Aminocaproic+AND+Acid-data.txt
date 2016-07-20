@@ -1,0 +1,92 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Aminocaproic+AND+Acid&limit=1&skip=0
+Page 0 of 8
+        "generic_name": [
+          "AMINOCAPROIC ACID"
+        "brand_name": [
+          "Aminocaproic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Aminocaproic acid is generally well tolerated. The following adverse experiences have been reported: General: Edema, headache, malaise. Hypersensitivity Reactions: Allergic and anaphylactoid reactions, anaphylaxis. Cardiovascular: Bradycardia, hypotension, peripheral ischemia, thrombosis. Gastrointestinal: Abdominal pain, diarrhea, nausea, vomiting. Hematologic: Agranulocytosis, coagulation disorder, leukopenia, thrombocytopenia. Musculoskeletal: CPK increased, muscle weakness, myalgia, myopathy (see WARNINGS ), myositis, rhabdomyolysis. Neurologic: Confusion, convulsions, delirium, dizziness, hallucinations, intracranial hypertension, stroke, syncope. Respiratory: Dyspnea, nasal congestion, pulmonary embolism. Skin: Pruritis, rash. Special Senses: Tinnitus, vision decreased, watery eyes. Urogenital: BUN increased, renal failure. There have been some reports of dry ejaculation during the period of aminocaproic acid treatment. These have been reported to date only in hemophilia patients who received the drug after undergoing dental surgical procedures. However, this symptom resolved in all patients within 24 to 48 hours of completion of therapy. OVERDOSAGE A few cases of acute overdosage with aminocaproic acid administered intravenously have been reported. The effects have ranged from no reaction to transient hypotension to severe acute renal failure leading to death. One patient with a history of brain tumor and seizures experienced seizures after receiving an 8 gram bolus injection of aminocaproic acid. The single dose of aminocaproic acid causing symptoms of overdosage or considered to be life-threatening is unknown. Patients have tolerated doses as high as 100 grams while acute renal failure has been reported following a dose of 12 grams. The intravenous and oral LD50 of aminocaproic acid were 3.0 and 12.0 g/kg respectively in the mouse and 3.2 and 16.4 g/kg respectively in the rat. An intravenous infusion dose of 2.3 g/kg was lethal in the dog. On intravenous administration, tonic-clonic convulsions were observed in dogs and mice. No treatment for overdosage is known, although evidence exists that aminocaproic acid is removed by hemodialysis and may be removed by peritoneal dialysis. Pharmacokinetic studies have shown that total body clearance of aminocaproic acid is markedly decreased in patients with severe renal failure."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Aminocaproic+AND+Acid&limit=1&skip=1
+Page 1 of 8
+        "generic_name": [
+          "AMINOCAPROIC ACID"
+        "brand_name": [
+          "Aminocaproic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Aminocaproic Acid Injection is generally well tolerated. The following adverse experiences have been reported: General: Edema, headache, malaise. Hypersensitivity Reactions: Allergic and anaphylactoid reactions, anaphylaxis. Local Reactions: Injection site reactions, pain and necrosis. Cardiovascular: Bradycardia, hypotension, peripheral ischemia, thrombosis. Gastrointestinal: Abdominal pain, diarrhea, nausea, vomiting. Hematologic: Agranulocytosis, coagulation disorder, leukopenia, thrombocytopenia. Musculoskeletal: CPK increased, muscle weakness, myalgia, myopathy (see WARNINGS ), myositis, rhabdomyolysis. Neurologic: Confusion, convulsions, delirium, dizziness, hallucinations, intracranial hypertension, stroke, syncope. Respiratory: Dyspnea, nasal congestion, pulmonary embolism. Skin: Pruritus, rash. Special Senses: Tinnitus, vision decreased, watery eyes. Urogenital: BUN increased, renal failure. There have been some reports of dry ejaculation during the period of Aminocaproic Acid Injection treatment. These have been reported to date only in hemophilia patients who received the drug after undergoing dental surgical procedures. However, this symptom resolved in all patients within 24 to 48 hours of completion of therapy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Aminocaproic+AND+Acid&limit=1&skip=2
+Page 2 of 8
+        "generic_name": [
+          "AMINOCAPROIC ACID"
+        "brand_name": [
+          "AMICAR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS AMICAR is generally well tolerated. The following adverse experiences have been reported: General: Edema, headache, malaise. Hypersensitivity Reactions: Allergic and anaphylactoid reactions, anaphylaxis. Cardiovascular: Bradycardia, hypotension, peripheral ischemia, thrombosis. Gastrointestinal: Abdominal pain, diarrhea, nausea, vomiting. Hematologic: Agranulocytosis, coagulation disorder, leukopenia, thrombocytopenia. Musculoskeletal: CPK increased, muscle weakness, myalgia, myopathy (see WARNINGS ), myositis, rhabdomyolysis. Neurologic: Confusion, convulsions, delirium, dizziness, hallucinations, intracranial hypertension, stroke, syncope. Respiratory: Dyspnea, nasal congestion, pulmonary embolism. Skin: Pruritis, rash. Special Senses: Tinnitus, vision decreased, watery eyes. Urogenital: BUN increased, renal failure. There have been some reports of dry ejaculation during the period of AMICAR treatment. These have been reported to date only in hemophilia patients who received the drug after undergoing dental surgical procedures. However, this symptom resolved in all patients within 24 to 48 hours of completion of therapy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Aminocaproic+AND+Acid&limit=1&skip=3
+Page 3 of 8
+        "generic_name": [
+          "SILICON DIOXIDE , SODIUM FLUORIDE, AMINOCAPROIC ACID, GLYCYRRHIZINATE DIPOTASSIUM, CURCUMA XANTHORRHIZA OIL, SEA SALT"
+        "brand_name": [
+          "BAMBOO SALT Eunganggo Jook Yeom"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Aminocaproic+AND+Acid&limit=1&skip=4
+Page 4 of 8
+        "generic_name": [
+          "CALCIUM CARBONATE AMINOCAPROIC ACID ALUMINUM CHLOROHYDROXY ALLANTOINATE DIBASIC CALCIUM PHOSPHATE"
+        "brand_name": [
+          "NAVI Black and C-Clinic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Aminocaproic+AND+Acid&limit=1&skip=5
+Page 5 of 8
+        "generic_name": [
+          "AMINOCAPROIC ACID"
+        "brand_name": [
+          "AMINOCAPROIC ACID"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Aminocaproic Acid Injection is generally well tolerated. The following adverse experiences have been reported: General: Edema, headache, malaise. Hypersensitivity Reactions: Allergic and anaphylactoid reactions, anaphylaxis. Local Reactions: Injection site reactions, pain and necrosis. Cardiovascular: Bradycardia, hypotension, peripheral ischemia, thrombosis. Gastrointestinal: Abdominal pain, diarrhea, nausea, vomiting. Hematologic: Agranulocytosis, coagulation disorder, leukopenia, thrombocytopenia. Musculoskeletal: CPK increased, muscle weakness, myalgia, myopathy (see WARNINGS ), myositis, rhabdomyolysis. Neurologic: Confusion, convulsions, delirium, dizziness, hallucinations, intracranial hypertension, stroke, syncope. Respiratory: Dyspnea, nasal congestion, pulmonary embolism. Skin: Pruritus, rash. Special Senses: Tinnitus, vision decreased, watery eyes. Urogenital: BUN increased, renal failure. There have been some reports of dry ejaculation during the period of Aminocaproic Acid Injection treatment. These have been reported to date only in hemophilia patients who received the drug after undergoing dental surgical procedures. However, this symptom resolved in all patients within 24 to 48 hours of completion of therapy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Aminocaproic+AND+Acid&limit=1&skip=6
+Page 6 of 8
+        "generic_name": [
+          "SILICON DIOXIDE , SODIUM FLUORIDE, AMINOCAPROIC ACID, GLYCYRRHIZINATE DIPOTASSIUM, CURCUMA XANTHORRHIZA OIL, SEA SALT"
+        "brand_name": [
+          "BAMBOO SALT Eunganggo Jook Yeom Toothpaste"
+ 
+      "warnings_and_cautions": [
+        "This product is for brushing teeth only and uneatable. If a rash occurs, stop using this product and consult a doctor or dentist. If it comes in contact with eyes, cleanse off immediately and consult a doctor. Store this product away from children and supervise them while using."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Aminocaproic+AND+Acid&limit=1&skip=7
+Page 7 of 8
+        "generic_name": [
+          "AMINOCAPROIC ACID"
+        "brand_name": [
+          "Aminocaproic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Aminocaproic acid is generally well tolerated. The following adverse experiences have been reported: General: Edema, headache, malaise. Hypersensitivity Reactions: Allergic and anaphylactoid reactions, anaphylaxis. Local Reactions: Injection site reactions, pain and necrosis. Cardiovascular: Bradycardia, hypotension, peripheral ischemia, thrombosis. Gastrointestinal: Abdominal pain, diarrhea, nausea, vomiting. Hematologic: Agranulocytosis, coagulation disorder, leukopenia, thrombocytopenia. Musculoskeletal: CPK increased, muscle weakness, myalgia, myopathy (see WARNINGS), myositis, rhabdomyolysis. Neurologic: Confusion, convulsions, delirium, dizziness, hallucinations, intracranial hypertension, stroke, syncope. Respiratory: Dyspnea, nasal congestion, pulmonary embolism. Skin: Pruritus, rash. Special Senses: Tinnitus, vision decreased, watery eyes. Urogenital: BUN increased, renal failure. There have been some reports of dry ejaculation during the period of aminocaproic acid treatment. These have been reported to date only in hemophilia patients who received the drug after undergoing dental surgical procedures. However, this symptom resolved in all patients within 24 to 48 hours of completion of therapy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

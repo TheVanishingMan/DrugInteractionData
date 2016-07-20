@@ -1,0 +1,120 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=0
+Page 0 of 10
+        "generic_name": [
+          "MANNITOL"
+        "brand_name": [
+          "Osmitrol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Extensive use of mannitol over the last several decades has produced recorded adverse events, in a variety of clinical settings, that are isolated or idiosyncratic in nature. None of these adverse reactions have occurred with any great frequency nor with any security in attributing them to mannitol. The inability to clearly exclude the drug related nature of such events in these isolated reports prompts the necessity to list the reactions that have been observed in patients during or following mannitol infusion. In this fashion, patients have exhibited nausea, vomiting, rhinitis, local pain, skin necrosis and thrombophlebitis at the site of injection, chills, dizziness, urticaria, hypotension, hypertension, tachycardia, fever and angina-like chest pains. Of far greater clinical significance is a variety of events that are related to inappropriate recognition and monitoring of fluid shifts. These are not intrinsic adverse reactions to the drug but the consequence of manipulating osmolarity by any agency in a therapeutically inappropriate manner. Failure to recognize severe impairment of renal function with the high likelihood of nondiuretic response can lead to aggravated dehydration of tissues and increased vascular fluid load. Induced diuresis in the presence of preexisting hemoconcentration and preexisting deficiency of water and electrolytes can lead to serious imbalances. Expansion of the extracellular space can aggravate cardiac decompensation or induce it in the presence of latent heart failure. Pulmonary congestion or edema can be seriously aggravated with the expansion of the extracellular and therefore intravascular fluid load. Hemodilution and dilution of the extracellular fluid space by osmotic shift of water can induce or aggravate preexisting hyponatremia. If unrecognized, such fluid and/or electrolyte shift can produce the reported adverse reactions of pulmonary congestion, acidosis, electrolyte loss, dryness of mouth, thirst, edema, headache, blurred vision, convulsions and congestive cardiac failure. These are not truly adverse reactions to the drug and can be appropriately prevented by evaluation of degree of renal failure with a test dose response to mannitol when indicated; evaluation of hypervolemia and hypovolemia; sodium and potassium levels; hemodilution or hemoconcentration; and evaluation of renal, cardiac and pulmonary function at the onset of therapy."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=1
+Page 1 of 10
+        "generic_name": [
+          "SORBITOL AND MANNITOL"
+        "brand_name": [
+          "Sorbitol-Mannitol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions may result from intravascular absorption of sorbitol and mannitol. The literature reports occasional adverse reactions from intravenous sorbitol-mannitol infusions. Consequences of absorption of urologic irrigating solutions include fluid and electrolyte disturbances such as acidosis, electrolyte loss, marked diuresis, urinary retention, edema, dryness of mouth, thirst and dehydration; cardiovascular disorders such as hypotension, tachycardia, angina-like pains; pulmonary disorders such as pulmonary congestion; and other general reactions such as blurred vision, convulsions, nausea, vomiting, diarrhea, rhinitis, chills, vertigo, backache and urticaria. Allergic reactions from sorbitol-mannitol have also been reported. Should any adverse reaction occur, discontinue the irrigant, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=2
+Page 2 of 10
+        "generic_name": [
+          "MANNITOL"
+        "brand_name": [
+          "Mannitol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions are infrequent and may include: Metabolic: fluid and electrolyte imbalance, acidosis, dehydration. Gastrointestinal: dryness of mouth, nausea, vomiting, diarrhea. Genitourinary: osmotic nephrosis, urinary retention. Central Nervous System: headache, convulsions, dizziness. Special Senses: Blurred vision, rhinitis. Cardiovascular: pulmonary edema, hypotension, hypertension, tachycardia, angina-like chest pains. Dermatologic: skin necrosis, thrombophlebitis. Hypersensitivity: urticaria. Miscellaneous: thirst, arm pain, chills, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=3
+Page 3 of 10
+        "generic_name": [
+          "MANNITOL"
+        "brand_name": [
+          "Mannitol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions more commonly reported during or after the infusion of mannitol include: Pulmonary congestion, fluid and electrolyte imbalance, acidosis, electrolyte loss, dryness of mouth, thirst, marked diuresis, urinary retention, edema, headache, blurred vision, convulsions, nausea, vomiting, rhinitis, arm pain, skin necrosis, thrombophlebitis, chills, dizziness, urticaria, dehydration, hypotension, tachycardia, fever and angina-like chest pains. Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=4
+Page 4 of 10
+        "generic_name": [
+          "MANNITOL"
+        "brand_name": [
+          "Mannitol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions are infrequent and may include: Metabolic: fluid and electrolyte imbalance, acidosis, dehydration. Gastrointestinal: dryness of mouth, nausea, vomiting, diarrhea. Genitourinary: osmotic nephrosis, urinary retention. Central Nervous System: headache, convulsions, dizziness. Special Senses: Blurred vision, rhinitis. Cardiovascular: pulmonary edema, edema, hypotension, hypertension, tachycardia, angina-like chest pains. Dermatologic: skin necrosis, thrombophlebitis. Hypersensitivity: urticaria. Miscellaneous: thirst, arm pain, chills, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=5
+Page 5 of 10
+        "generic_name": [
+          "MANNITOL"
+        "brand_name": [
+          "Mannitol"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Adverse reactions more commonly reported during or after the infusion of mannitol include: Pulmonary congestion, fluid and electrolyte imbalance, acidosis, electrolyte loss, dryness of mouth, thirst, marked diuresis, urinary retention, edema, headache, blurred vision, convulsions, nausea, vomiting, rhinitis, arm pain, skin necrosis, thrombophlebitis, chills, dizziness, urticaria, dehydration, hypotension, tachycardia, fever and angina-like chest pains. Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=6
+Page 6 of 10
+        "generic_name": [
+          "MANNITOL"
+        "brand_name": [
+          "Mannitol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions more commonly reported during or after the infusion of mannitol include: Pulmonary congestion, fluid and electrolyte imbalance, acidosis, electrolyte loss, dryness of mouth, thirst, marked diuresis, urinary retention, edema, headache, blurred vision, convulsions, nausea, vomiting, rhinitis, arm pain, skin necrosis, thrombophlebitis, chills, dizziness, urticaria, dehydration, hypotension, tachycardia, fever and angina-like chest pains. Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=7
+Page 7 of 10
+        "generic_name": [
+          "MANNITOL"
+        "brand_name": [
+          "Mannitol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Occasional adverse reactions to intravenous mannitol infusions have been reported. These include fluid and electrolyte disturbances, such as acidosis, electrolyte loss, marked diuresis, urinary retention, edema, dryness of the mouth, thirst and dehydration, cardiovascular/pulmonary disorders such as pulmonary congestion, hypotension, tachycardia, angina-like pain, and thrombophlebitis, and other general reactions such as blurred vision, convulsions, nausea, vomiting, rhinitis, chills, vertigo, backache, and urticaria. If an adverse reaction does occur, discontinue administration of the irrigant, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination, if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=8
+Page 8 of 10
+        "generic_name": [
+          "MANNITOL"
+        "brand_name": [
+          "Mannitol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions are infrequent and may include: Metabolic: fluid and electrolyte imbalance, acidosis, dehydration. Gastrointestinal: dryness of mouth, nausea, vomiting, diarrhea. Genitourinary: osmotic nephrosis, urinary retention. Central Nervous System: headache, convulsions, dizziness. Special Senses: Blurred vision, rhinitis. Cardiovascular: pulmonary edema, edema, hypotension, hypertension, tachycardia, angina-like chest pains. Dermatologic: skin necrosis, thrombophlebitis. Hypersensitivity: urticaria. Miscellaneous: thirst, arm pain, chills, fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+Injection&limit=1&skip=9
+Page 9 of 10
+        "generic_name": [
+          "MANNITOL"
+        "brand_name": [
+          "Mannitol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. Extensive use of mannitol over the last several decades has produced recorded adverse events, in a variety of clinical settings, that are isolated or idiosyncratic in nature. None of these adverse reactions have occurred with any great frequency nor with any security in attributing them to mannitol. The inability to clearly exclude the drug related nature of such events in these isolated reports prompts the necessity to list the reactions that have been observed in patients during or following mannitol infusion. In this fashion, patients have exhibited nausea, vomiting, rhinitis, local pain, skin necrosis and thrombophlebitis at the site of infection, chills, dizziness, urticaria, hypotension, hypertension, tachycardia, fever and angina-like chest pains. Of far greater clinical significance is a variety of events that are related to inappropriate recognition and monitoring of fluid shifts. These are not intrinsic adverse reactions to the drug but the consequence of manipulating osmolarity by any agency in a therapeutically inappropriate manner. Failure to recognize severe impairment of renal function with the high likelihood of nondiuretic response can lead to aggravated dehydration of tissues and increased vascular fluid load. Induced diuresis in the presence of preexisting hemoconcentration and preexisting deficiency of water and electrolytes can lead to serious imbalances. Expansion of the extracellular space can aggravate cardiac decompensation or induce it in the presence of latent heart failure. Pulmonary congestion or edema can be seriously aggravated with the expansion of the extracellular and therefore intravascular fluid load. Hemodilution and dilution of the extracellular fluid space by osmotic shift of water can induce or aggravate preexisting hyponatremia. If unrecognized, such fluid and/or electrolyte shift can produce the reported adverse reactions of pulmonary congestion, acidosis, electrolyte loss, dryness of mouth, thirst, edema, headache, blurred vision, convulsions and congestive cardiac failure. These are not truly adverse reactions to the drug and can be appropriately prevented by evaluation of degree of renal failure with a test dose response to mannitol when indicated; evaluation of hypervolemia and hypovolemia; sodium and potassium levels; hemodilution or hemoconcentration; and evaluation of renal, cardiac and pulmonary function at the onset of therapy. Too rapid infusion of hypertonic solutions may cause local pain and venous irritation. Rate of administration should be adjusted according to tolerance. Use of the largest peripheral vein and a small bore needle is recommended. (See DOSAGE AND ADMINISTRATION .) The physician should also be alert to the possibility of adverse reactions to drug additives. Prescribing information for drug additives to be administered in this manner should be consulted. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

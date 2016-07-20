@@ -5,6 +5,12 @@ URL=https://api.fda.gov/drug/label.json?api_key=$KEY\&search=brand_name:$QUE\&li
 
 # Keep in mind: bash indentation =/= python indentation
 
+# Lots of inspiration from several sources on the cosine_sim function:
+# http://stackoverflow.com/questions/18424228/cosine-similarity-between-2-number-lists
+# http://stackoverflow.com/questions/14155669/call-python-script-from-bash-with-argument
+
+# And the post that started me down this rabbit hole:
+# http://www.gettingcirrius.com/2010/12/calculating-similarity-part-1-cosine.html
 function cosine_sim {
 ARG1="$1" ARG2="$2" python - <<EOF
 import os
@@ -47,6 +53,19 @@ SECOND=`echo "$DRUG" | grep -A 1 "\"generic_name\"\:\ \[" | grep -v "\"generic" 
 echo $FIRST
 echo " "
 echo "$SECOND"
+#SECOND may have multiple generic names (amiodarone+hydrochloride, amiodarone+hcl)
+#SECOND may also be a combination of drugs (D1,+D2,+D3) --> check for commas
+#SECOND may be empty if there was an error / bad data
+
+if [[ -z "$FIRST" ]] || [[ -z "$SECOND" ]]; then
+    echo Either FIRST or SECOND are empty.
+    echo Contents of FIRST:
+    echo "$FIRST"
+    echo " "
+    echo Contents of SECOND:
+    echo "$SECOND"
+    exit
+fi
 
 #FINALOUTPUT=$(cosine_sim $FIRST $SECOND)
 #echo $FINALOUTPUT

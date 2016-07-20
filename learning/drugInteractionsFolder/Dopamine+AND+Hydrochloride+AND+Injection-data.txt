@@ -1,0 +1,154 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=0
+Page 0 of 12
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride and Dextrose"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System azotemia Central Nervous System headache anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=1
+Page 1 of 12
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOPamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Central Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=2
+Page 2 of 12
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOPamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions 1.Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine HCl should receive initial doses of dopamine HCl no greater than one-tenth (1/10) of the usual dose. 2.Concurrent administration of dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. 3. Tricyclic antidepressants may potentiate the pressor response to adrenergic agents. 4.Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents , such as propranolol and metoprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents . Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. 5. Haloperidol appears to have strong central antidopaminergic properties. Haloperidol and haloperidol-like drugs suppress the dopaminergic renal and mesenteric vasodilation induced at low rates of dopamine infusion. 6. Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. This interaction appears to be related both to pressor activity and to beta-adrenergic stimulating properties of these catecholamines and may produce ventricular arrhythmias and hypertension. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. It has been reported that results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. 7.The concomitant use of vasopressors and some oxytocic drugs may result in severe persistent hypertension. See Labor and Delivery below. 8.Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed. Pregnancy: Teratogenic Effects: Pregnancy Category C Animal studies have revealed no evidence of teratogenic effects due to dopamine. However, in one study, administration of dopamine HCl to pregnant rats resulted in a decreased survival rate of the newborn and a potential for cataract formation in the survivors. There are no adequate and well-controlled studies in pregnant women and it is not known if dopamine crosses the placental barrier. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if, in the judgment of the physician, the potential benefit justifies the potential risk to the fetus."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Central Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=3
+Page 3 of 12
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to suport an estimate of their frequency. Cardiovascular System: ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Cetnral Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=4
+Page 4 of 12
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOPamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Central Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=5
+Page 5 of 12
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: ventricular arrhythmia (at very high doses) ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System: dyspnea Gastrointestinal System: nausea vomiting Metabolic/Nutritional System: azotemia Central Nervous System: headache anxiety Dermatological System: piloerection Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=6
+Page 6 of 12
+        "generic_name": [
+          "DOPAMINE HCL"
+        "brand_name": [
+          "Dopamine HCl"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. The interaction appears to be related both to pressor activity and to the beta adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. Results of studies in animals indicate that dopamine induced ventricular arrhythmias during anesthesia can be reversed by propranolol. Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine should receive initial doses of dopamine HCl not greater than one-tenth (1/10) of the usual dose. Concurrent administration of low-dose dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. Tricyclic antidepressants may potentiate the cardiovascular effects of adrenergic agents. Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents, such as propranolol and metroprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents. Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. Butyrophenones (such as haloperidol) and phenothiazines can suppress the dopaminergic renal and mesenteric vasodilation induced with low-dose dopamine infusion. The concomitant use of vasopressors, vasoconstricting agents (such as ergonovine) and some oxytocic drugs may result in severe hypertension. Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be considered if anticonvulsant therapy is needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia (at very high doses) ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System Dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System Azotemia Central Nervous System headache anxiety Dermatological System Piloerection Other Gangrene of the extremities has occurred when moderate to high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl. A few cases of peripheral cyanosis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=7
+Page 7 of 12
+        "generic_name": [
+          "DOPAMINE"
+        "brand_name": [
+          "Dopamine"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia (at very high doses) ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System azotemia Central Nervous System headache anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when moderate to high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl. A few cases of peripheral cyanosis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=8
+Page 8 of 12
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride and Dextrose"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. This interaction appears to be related both to pressor activity and to the beta-adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. Results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine should receive initial doses of dopamine hydrochloride no greater than one-tenth (1/10) of the usual dose. Concurrent administration of low-dose dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. Tricyclic antidepressants may potentiate the cardiovascular effects of adrenergic agents. Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents, such as propranolol and metoprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents. Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. Butyrophenones (such as haloperidol) and phenothiazines can suppress the dopaminergic renal and mesenteric vasodilation induced with low-dose dopamine infusion. The concomitant use of vasopressors, vasoconstrictor agents (such as ergonovine) and some oxytocic drugs may result in severe hypertension. Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be considered if anticonvulsant therapy is needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia atrial fibrillation ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System azotemia Central Nervous System headache anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=9
+Page 9 of 12
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dopamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia (at very high doses) ectopic beats tachycardia anginal pain palpitation cardiac conduction abnormalities widened QRS complex bradycardia hypotension hypertension vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea vomiting Metabolic/Nutritional System azotemia Central Nervous System headache anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when moderate to high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl. A few cases of peripheral cyanosis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=10
+Page 10 of 12
+        "generic_name": [
+          "DOPAMINE HCL"
+        "brand_name": [
+          "Dopamine HCl"
+ 
+      "drug_interactions": [
+        "Drug Interactions: 1. Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine HCl should receive initial doses of dopamine HCl no greater than one-tenth (1/10) of the usual dose. 2. Concurrent administration of dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. 3. Tricyclic antidepressants may potentiate the pressor response to adrenergic agents. 4. Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents , such as propranolol and metroprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents . Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. 5. Haloperidol appears to have strong central antidopaminergic properties. Haloperidol and haloperidol-like drugs suppress the dopaminergic renal and mesenteric vasodilation induced at low rates of dopamine infusion. 6. Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. The interaction appears to be related both to pressor activity and to the beta-adrenergic stimulating properties of these catecholamines, and may produce ventricular arrhythmias. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. It has been reported that results of studies in animals indicated that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. 7. The concomitant use of vasopressors, vasoconstricting agents and some oxytocic drugs may result in severe persistent hypertension. See Labor and Delivery below. 8. Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System ventricular arrhythmia (at very high doses), atrial fibrillation, ectopic beats, tachycardia, anginal pain, palpitation, cardiac conduction abnormalities, widened QRS complex, bradycardia, hypotension, hypertension, vasoconstriction Respiratory System dyspnea Gastrointestinal System nausea, vomiting Metabolic/Nutritional System azotemia Central Nervous System headache, anxiety Dermatological System piloerection Other Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dopamine+AND+Hydrochloride+AND+Injection&limit=1&skip=11
+Page 11 of 12
+        "generic_name": [
+          "DOPAMINE HYDROCHLORIDE AND DEXTROSE"
+        "brand_name": [
+          "DOPamine HYDROCHLORIDE AND DEXTROSE"
+ 
+      "drug_interactions": [
+        "Drug Interactions 1.Because dopamine is metabolized by monoamine oxidase (MAO), inhibition of this enzyme prolongs and potentiates the effect of dopamine. Patients who have been treated with MAO inhibitors within two to three weeks prior to the administration of dopamine HCl should receive initial doses of dopamine HCl no greater than one tenth (1/10) of the usual dose. 2.Concurrent administration of dopamine HCl and diuretic agents may produce an additive or potentiating effect on urine flow. 3.Tricyclic antidepressants may potentiate the pressor response to adrenergic agents. 4.Cardiac effects of dopamine are antagonized by beta-adrenergic blocking agents, such as propranolol and metoprolol. The peripheral vasoconstriction caused by high doses of dopamine HCl is antagonized by alpha-adrenergic blocking agents. Dopamine-induced renal and mesenteric vasodilation is not antagonized by either alpha- or beta-adrenergic blocking agents. 5.Haloperidol appears to have strong central antidopaminergic properties. Haloperidol and haloperidol-like drugs suppress the dopaminergic renal and mesenteric vasodilation induced at low rates of dopamine infusion. 6.Cyclopropane or halogenated hydrocarbon anesthetics increase cardiac autonomic irritability and may sensitize the myocardium to the action of certain intravenously administered catecholamines, such as dopamine. This interaction appears to be related both to pressor activity and to beta-adrenergic stimulating properties of these catecholamines and may produce ventricular arrhythmias and hypertension. Therefore, EXTREME CAUTION should be exercised when administering dopamine HCl to patients receiving cyclopropane or halogenated hydrocarbon anesthetics. It has been reported that results of studies in animals indicate that dopamine-induced ventricular arrhythmias during anesthesia can be reversed by propranolol. 7.The concomitant use of vasopressors and some oxytocic drugs may result in severe persistent hypertension. See Labor and Delivery below. 8.Administration of phenytoin to patients receiving dopamine HCl has been reported to lead to hypotension and bradycardia. It is suggested that in patients receiving dopamine HCl, alternatives to phenytoin should be used if anticonvulsant therapy is needed. Pregnancy: Teratogenic Effects: Pregnancy Category C — Animal studies have revealed no evidence of teratogenic effects due to dopamine. However, in one study, administration of dopamine HCl to pregnant rats resulted in a decreased survival rate of the newborn and a potential for cataract formation in the survivors. There are no adequate and well-controlled studies in pregnant women and it is not known if dopamine crosses the placental barrier. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if, in the judgment of the physician, the potential benefit justifies the potential risk to the fetus. Labor and Delivery — In obstetrics, if vasopressor drugs are used to correct hypotension or are added to a local anesthetic solution, some oxytocic drugs may cause severe persistent hypertension and may even cause rupture of a cerebral blood vessel to occur during the postpartum period. Nursing Mothers — It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when dopamine HCl is administered to a nursing woman. Pediatric Use — Safety and effectiveness in children have not been established. Dopamine HCl has been used in a limited number of pediatric patients, but such use has been inadequate to fully define proper dosage and limitations for use."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been observed, but there are not enough data to support an estimate of their frequency. Cardiovascular System: Ventricular arrhythmia, atrial fibrillation, ectopic beats, tachycardia, anginal pain, palpitation, cardiac conduction abnormalities, widened QRS complex, bradycardia, hypotension, hypertension and vasoconstriction. Respiratory System: Dyspnea. Gastrointestinal System: Nausea and vomiting. Metabolic/Nutritional System: Azotemia. Central Nervous System: Headache and anxiety. Dermatological System: Piloerection. Other: Gangrene of the extremities has occurred when high doses were administered for prolonged periods or in patients with occlusive vascular disease receiving low doses of dopamine HCl."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

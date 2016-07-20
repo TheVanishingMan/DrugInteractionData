@@ -1,0 +1,190 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=0
+Page 0 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Gris-PEG"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria, erythema multiforme-like drug reactions, and rarely, angioneurotic edema, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesia of the hands and feet have been reported after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both. To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=1
+Page 1 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Griseofulvin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria, erythema multiforme-like drug reactions, and rarely, angioneurotic edema, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesia of the hands and feet have been reported after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=2
+Page 2 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Griseofulvin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Griseofulvin has been reported in the literature to interfere with the metabolism of various compounds. Whether this is due to a P-450 mediated enzyme induction effects on sulfurtransferase and/or glucotransferase activity, or some other mechanism is unknown. Griseofulvin decreases the activity of warfarin-type anticoagulants, so that patients receiving these drugs concomitantly may require dosage adjustment of the anticoagulant during and after griseofulvin therapy. Griseofulvin may enhance the hepatic metabolism of estrogens, including the estrogen component of oral contraceptives, thereby reducing the effectiveness of contraception and causing menstrual irregularities. Therefore, an alternate or second form of birth control may be indicated during periods of concurrent use (see also CONTRAINDICATIONS ). Cyclosporine levels may be reduced when administered concomitantly with griseofulvin, resulting in a decrease in the pharmacologic effects of cyclosporine. Serum salicylate concentrations may be decreased when griseofulvin is given concomitantly with salicylates. Barbiturates usually depress griseofulvin activity by decreasing plasma levels and concomitant administration may require a dosage adjustment of the antifungal agent. Nausea, vomiting, flushing, tachycardia, and severe hypotension have been reported following alcohol ingestion during griseofulvin therapy."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type, such as skin rashes, urticaria, and rarely, angioneurotic edema, and erythema multiforme. These may necessitate withdrawal of therapy and appropriate countermeasures. Peripheral neuropathy and paresthesias of the hands and feet have been reported and may be related to treatment duration. Most patients treated with griseofulvin for less than six months experienced improvement or resolution of their neuropathy upon withdrawal of the griseofulvin. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria, nephrosis (sometimes associated with existing systemic lupus erythematosus), leukopenia, coagulopathy, hepatitis, elevated liver enzymes, hyperbilirubinemia, and GI bleeding have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=3
+Page 3 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Griseofulvin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria, and rarely, angioneurotic edema, and erythema multiforme. These may necessitate withdrawal of therapy and appropriate countermeasures. Peripheral neuropathy and paresthesias of the hands and feet have been reported and may be related to treatment duration. Most patients treated with griseofulvin for less than six months experienced improvement or resolution of their neuropathy upon withdrawal of the griseofulvin. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion and impairment of performance of routine activities. Proteinuria, nephrosis (sometimes associated with existing systemic lupus erythematosus), leukopenia, coagulopathy, hepatitis, elevated liver enzymes, hyperbilirubinemia, and GI bleeding have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=4
+Page 4 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Griseofulvin"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Patients on warfarin-type anticoagulant therapy may require dosage adjustment of the anticoagulant during and after griseofulvin therapy. Concomitant use of barbiturates usually depresses griseofulvin activity and may necessitate raising the dosage. The concomitant administration of griseofulvin has been reported to reduce the efficacy of oral contraceptives and to increase the incidence of breakthrough bleeding."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria and rarely, angioneurotic edema or erythema multiforme-like drug reaction, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesias of the hands and feet have been reported rarely after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=5
+Page 5 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Griseofulvin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Griseofulvin has been reported in the literature to interfere with the metabolism of various compounds. Whether this is due to a P-450 mediated enzyme induction effects on sulfurtransferase and/or glucotransferase activity, or some other mechanism is unknown. Griseofulvin decreases the activity of warfarin-type anticoagulants, so that patients receiving these drugs concomitantly may require dosage adjustment of the anticoagulant during and after griseofulvin therapy. Griseofulvin may enhance the hepatic metabolism of estrogens, including the estrogen component of oral contraceptives, thereby reducing the effectiveness of contraception and causing menstrual irregularities. Therefore, an alternate or second form of birth control may be indicated during periods of concurrent use (see also CONTRAINDICATIONS ). Cyclosporine levels may be reduced when administered concomitantly with griseofulvin, resulting in a decrease in the pharmacologic effects of cyclosporine. Serum salicylate concentrations may be decreased when griseofulvin is given concomitantly with salicylates. Barbiturates usually depress griseofulvin activity by decreasing plasma levels and concomitant administration may require a dosage adjustment of the antifungal agent. Nausea, vomiting, flushing, tachycardia, and severe hypotension have been reported following alcohol ingestion during griseofulvin therapy."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been postmarketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type, such as skin rashes, urticaria, and rarely, angioneurotic edema, and erythema multiforme. These may necessitate withdrawal of therapy and appropriate countermeasures. Peripheral neuropathy and paresthesias of the hands and feet have been reported and may be related to treatment duration. Most patients treated with griseofulvin for less than six months experienced improvement or resolution of their neuropathy upon withdrawal of the griseofulvin. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria, nephrosis (sometimes associated with existing systemic lupus erythematosus), leukopenia, coagulopathy, hepatitis, elevated liver enzymes, hyperbilirubinemia, and GI bleeding have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=6
+Page 6 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Griseofulvin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Griseofulvin has been reported in the literature to interfere with the metabolism of various compounds. Whether this is due to a P-450 mediated enzyme induction effects on sulfurtransferase and/or glucotransferase activity, or some other mechanism is unknown. Griseofulvin decreases the activity of warfarin-type anticoagulants, so that patients receiving these drugs concomitantly may require dosage adjustment of the anticoagulant during and after griseofulvin therapy. Griseofulvin may enhance the hepatic metabolism of estrogens, including the estrogen component of oral contraceptives, thereby reducing the effectiveness of contraception and causing menstrual irregularities. Therefore, an alternate or second form of birth control may be indicated during periods of concurrent use (see also CONTRAINDICATIONS ). Cyclosporine levels may be reduced when administered concomitantly with griseofulvin, resulting in a decrease in the pharmacologic effects of cyclosporine. Serum salicylate concentrations may be decreased when griseofulvin is given concomitantly with salicylates. Barbiturates usually depress griseofulvin activity by decreasing plasma levels and concomitant administration may require a dosage adjustment of the antifungal agent. Nausea, vomiting, flushing, tachycardia, and severe hypotension have been reported following alcohol ingestion during griseofulvin therapy."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type, such as skin rashes, urticaria, and rarely, angioneurotic edema, and erythema multiforme. These may necessitate withdrawal of therapy and appropriate countermeasures. Peripheral neuropathy and paresthesias of the hands and feet have been reported and may be related to treatment duration. Most patients treated with griseofulvin for less than six months experienced improvement or resolution of their neuropathy upon withdrawal of the griseofulvin. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion and impairment of performance of routine activities. Proteinuria, nephrosis (sometimes associated with existing systemic lupus erythematosus), leukopenia, coagulopathy, hepatitis, elevated liver enzymes, hyperbilirubinemia, and GI bleeding have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=7
+Page 7 of 15
+        "generic_name": [
+          "ULTRAMICROSIZE GRISEOFULVIN TABLETS"
+        "brand_name": [
+          "Ultramicrosize Griseofulvin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria, erythema multiforme-like drug reactions, and rarely, angioneurotic edema, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesia of the hands and feet have been reported after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=8
+Page 8 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Gris-PEG"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria, erythema multiform-like drug reactions, and rarely, angioneurotic edema, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesia of the hands and feet have been reported rarely after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=9
+Page 9 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Griseofulvin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been postmarketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type, such as skin rashes, urticaria, and rarely, angioneurotic edema, and erythema multiforme. These may necessitate withdrawal of therapy and appropriate countermeasures. Peripheral neuropathy and paresthesias of the hands and feet have been reported and may be related to treatment duration. Most patients treated with griseofulvin for less than six months experienced improvement or resolution of their neuropathy upon withdrawal of the griseofulvin. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion and impairment of performance of routine activities. Proteinuria, nephrosis (sometimes associated with existing systemic lupus erythematosus), leukopenia, coagulopathy, hepatitis, elevated liver enzymes, hyperbilirubinemia, and GI bleeding have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=10
+Page 10 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Griseofulvin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Patients on warfarin-type anticoagulant therapy may require dosage adjustment of the anticoagulant during and after griseofulvin therapy. Concomitant use of barbiturates usually depresses griseofulvin activity and may necessitate raising the dosage. The concomitant administration of griseofulvin has been reported to reduce the efficacy of oral contraceptives and to increase the incidence of breakthrough bleeding."
+      "adverse_reactions": [
+        "Adverse Reactions When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria and rarely, angioneurotic edema or erythema multiforme-like drug reaction, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesias of the hands and feet have been reported rarely after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=11
+Page 11 of 15
+        "generic_name": [
+          "ULTRAMICROSIZE GRISEOFULVIN TABLETS"
+        "brand_name": [
+          "Ultramicrosize Griseofulvin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria, erythema multiforme-like drug reactions, and rarely, angioneurotic edema, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesia of the hands and feet have been reported after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=12
+Page 12 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Gris-PEG"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria, erythema multiform-like drug reactions, and rarely, angioneurotic edema, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesia of the hands and feet have been reported after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=13
+Page 13 of 15
+        "generic_name": [
+          "GRISEOFULVIN (MICROSIZE)"
+        "brand_name": [
+          "Griseofulviin (microsize)"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria and rarely, angioneurotic edema or erythema multiforme-like drug reaction, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesias of the hands and feet have been reported rarely after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Griseofulvin+AND+Microsize&limit=1&skip=14
+Page 14 of 15
+        "generic_name": [
+          "GRISEOFULVIN"
+        "brand_name": [
+          "Griseofulvin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been post-marketing reports of severe skin and hepatic adverse events associated with griseofulvin use (see WARNINGS section). When adverse reactions occur, they are most commonly of the hypersensitivity type such as skin rashes, urticaria, erythema multiforme-like drug reactions, and rarely, angioneurotic edema, and may necessitate withdrawal of therapy and appropriate countermeasures. Paresthesia of the hands and feet have been reported rarely after extended therapy. Other side effects reported occasionally are oral thrush, nausea, vomiting, epigastric distress, diarrhea, headache, fatigue, dizziness, insomnia, mental confusion, and impairment of performance of routine activities. Proteinuria and leukopenia have been reported rarely. Administration of the drug should be discontinued if granulocytopenia occurs. When rare, serious reactions occur with griseofulvin, they are usually associated with high dosages, long periods of therapy, or both."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

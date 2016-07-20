@@ -1,0 +1,42 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metaproterenol+AND+Sulfate&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "METAPROTERENOL SULFATE"
+        "brand_name": [
+          "Metaproterenol Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Other beta adrenergic bronchodilators should not be used concomitantly with metaproterenol because they may have additive effects. Beta adrenergic agonist should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are similar to those noted with other sympathomimetic agents. The following table of adverse experiences is derived from 44 clinical trials involving 1,120 patients treated with metaproterenol sulfate syrup: Metaproterenol Sulfate Syrup Incidence of Adverse Events Occurring in at least 1% of Patients Adverse Experience Incidence Number of Patients % Cardiovascular Tachycardia 68 6.1 Central Nervous System Headache 12 1.1 Nervousness 54 4.8 Gastrointestinal Nausea 15 1.3 Musculoskeletal Tremor 18 1.6"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metaproterenol+AND+Sulfate&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "METAPROTERENOL SULFATE"
+        "brand_name": [
+          "Metaproterenol Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Other beta adrenergic bronchodilators should not be used concomitantly with metaproterenol because they may have additive effects. Beta adrenergic agonist should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are similar to those noted with other sympathomimetic agents. The following table of adverse experiences is derived from 44 clinical trials involving 1,120 patients treated with metaproterenol sulfate syrup: Metaproterenol Sulfate Syrup Incidence of Adverse Events Occurring in at least 1% of Patients Adverse Experience Incidence Number of Patients % Cardiovascular Tachycardia 68 6.1 Central Nervous System Headache 12 1.1 Nervousness 54 4.8 Gastrointestinal Nausea 15 1.3 Musculoskeletal Tremor 18 1.6"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metaproterenol+AND+Sulfate&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "METAPROTERENOL SULFATE"
+        "brand_name": [
+          "Metaproterenol Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Beta adrenergic agonists should be administered with caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, since the action of beta adrenergic agonists on the vascular system may be potentiated."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions are similar to those noted with other sympathomimetic agents. The following table of adverse experiences is derived from 26 controlled clinical trials with 496 patients treated with metaproterenol sulfate tablets: Metaproterenol Sulfate Tablets Incidence of Adverse Events Reported Among 496 Patients Treated in 26 Controlled Clinical Trials ADVERSE EXPERIENCE INCIDENCE Number of Patients % Cardiovascular Chest Pain 1 0.2 Edema 1 0.2 Hypertension 2 0.4 Palpitations 19 3.8 Tachycardia 85 17.1 Central Nervous System Dizziness 12 2.4 Drowsiness 3 0.6 Fatigue 7 1.4 Headache 35 7.0 Insomnia 9 1.8 Nervousness 100 20.2 Sensory disturbances 1 0.2 Syncope 2 0.4 Weakness 1 0.2 Dermatological Diaphoresis 1 0.2 Hives 1 0.2 Pruritus 2 0.4 Gastrointestinal Appetite changes 2 0.4 Diarrhea 6 1.2 Gastrointestinal distress 15 3.0 Nausea 18 3.6 Vomiting 4 0.8 Musculoskeletal Pain 1 0.2 Spasms 1 0.2 Tremor 84 16.9 Ophthalmological Blurred vision 1 0.2 Oro-Otolaryngeal Dry mouth/throat 2 0.4 Laryngeal changes 1 0.2 Bad taste 4 0.8 Respiratory Asthma exacerbation 10 2.0 Coughing 1 0.2 Other Chatty 1 0.2 Chills 1 0.2 Clonus noted on flexing foot 1 0.2 Feverish 2 0.4 Flu Symptoms 1 0.2 Facial and finger puffiness 1 0.2"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

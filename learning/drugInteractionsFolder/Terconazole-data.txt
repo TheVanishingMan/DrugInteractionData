@@ -1,0 +1,278 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=0
+Page 0 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The therapeutic effect of terconazole is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse Reactions from Clinical Trials : Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs. 0.0% with placebo), vulvovaginal burning, itching and irritation have also been reported. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching. Post-marketing Experience : The following adverse drug reactions have been first identified during post-marketing experience with terconazole vaginal cream 0.4%. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. General: Asthenia, Influenza-Like Illness consisting of multiple listed reactions including fever and chills, nausea, vomiting, myalgia, arthralgia, malaise. Immune: Hypersensitivity, Anaphylaxis, Face Edema Nervous: Dizziness Respiratory: Bronchospasm Skin: Rash, Toxic Epidermal Necrolysis, Urticaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=1
+Page 1 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Zazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The therapeutic effect of this product is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole vaginal cream 0.4%. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole vaginal cream 0.4% were headache (26% vs 17% with placebo) and body pain (2.1% vs 0% with placebo). Vulvovaginal burning (5.2%), itching (2.3%) or irritation (3.1%) occurred less frequently with terconazole vaginal cream 0.4% than with the vehicle placebo. Fever (1.7% vs 0.5% with placebo) and chills (0.4% vs 0.0% with placebo) have also been reported. The therapy-related dropout rate was 1.9%. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching (0.6%), which was lower than the incidence for placebo (0.9%)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=2
+Page 2 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions - The therapeutic effect of terconazole is not affected by oral contraceptive usage. The levels of estradiol and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. During controlled clinical studies conducted in the United States, 284 patients with vulvovaginal candidiasis were treated with terconazole 80 mg vaginal suppositories. Based on comparative analyses with placebo (295 patients), the adverse experiences considered adverse reactions most likely related to terconazole 80 mg vaginal suppositories were headache (30.3% vs. 20.7% with placebo) and pain of the female genitalia (4.2% vs. 0.7% with placebo). Adverse reactions that have also been reported but were not statistically significantly different from placebo were burning (15.2% vs. 11.2% with placebo) and body pain (3.9% vs. 1.7% with placebo). Fever (2.8% vs. 1.4% with placebo) and chills (1.8% vs. 0.7% with placebo) have also been reported. The adverse drug experience on terconazole most frequently causing discontinuation was burning (2.5% vs. 1.4% with placebo) and pruritus (1.8% vs. 1.4% with placebo). Post-marketing Experience The following adverse drug reactions have been first identified during post-marketing experience with Terconazole Vaginal Suppositories, 80 mg. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. General: Asthenia, Influenza-Like Illness consisting of multiple listed reactions including fever and chills, nausea, vomiting, myalgia, arthralgia, malaise Immune: Hypersensitivity, Anaphylaxis, Face Edema Nervous: Dizziness Respiratory: Bronchospasm Skin: Rash, Toxic Epidermal Necrolysis, Urticaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=3
+Page 3 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions The therapeutic effect of terconazole is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs, 0% with placebo), vulvovaginal burning, itching and irritation have also been reported. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching. Post-marketing Experience The following adverse drug reactions have been first identified during post-marketing experience with terconazole:. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. General: Asthenia, Influenza-Like Illness consisting of multiple listed reactions including fever and chills, nausea, vomiting, myalgia, arthralgia, malaise Immune: Hypersensitivity, Anaphylaxis, Face Edema Nervous: Dizziness Respiratory: Bronchospasm Skin: Rash, Toxic Epidermal Necrolysis, Urticaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=4
+Page 4 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions The therapeutic effect of this product is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. During controlled clinical studies conducted in the United States, 284 patients with vulvovaginal candidiasis were treated with terconazole 80 mg vaginal suppositories. Based on comparative analyses with placebo (295 patients), the adverse experiences considered adverse reactions most likely related to terconazole 80 mg vaginal suppositories were headache (30.3% vs. 20.7% with placebo) and pain of the female genitalia (4.2% vs. 0.7% with placebo). Adverse reactions that have also been reported but were not statistically significantly different from placebo were burning (15.2% vs. 11.2% with placebo) and body pain (3.9% vs. 1.7% with placebo). Fever (2.8% vs. 1.4% with placebo) and chills (1.8% vs. 0.7% with placebo) have also been reported. The adverse drug experience on terconazole most frequently causing discontinuation was burning (2.5% vs. 1.4% with placebo) and pruritus (1.8% vs. 1.4% with placebo). Post-marketing Experience The following adverse drug reactions have been first identified during post-marketing experience with terconazole:. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. General: Asthenia, Influenza-Like Illness consisting of multiple listed reactions including fever and chills, nausea, vomiting, myalgia, arthralgia, malaise Immune: Hypersensitivity, Anaphylaxis, Face Edema Nervous: Dizziness Respiratory: Bronchospasm Skin: Rash, Toxic Epidermal Necrolysis, Urticaria To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=5
+Page 5 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "TERCONAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Terconazole Vaginal Cream 0.4%: The therapeutic effect of this product is not affected by oral contraceptive usage. Terconazole Vaginal Cream 0.4%: The levels of estradiol (E2) and progesterone did not differ significantly when 0.4% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive."
+      "adverse_reactions": [
+        "adverse reactions Terconazole Vaginal Cream 0.4%: During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Vulvovaginal burning (5.2%), itching (2.3%) or irritation (3.1%) occurred less frequently with terconazole 0.4% vaginal cream than with the vehicle placebo. Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs. 0.0% with placebo) have also been reported. The therapy-related dropout rate was 1.9%. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching (0.6%), which was lower than the incidence for placebo (0.9%). Terconazole Vaginal Cream 0.4%: During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream for three days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (21% vs. 16% with placebo) and dysmenorrhea (6% vs. 2% with placebo). Genital complaints in general, and burning and itching in particular, occurred less frequently in the terconazole 0.4% vaginal cream 3 day regimen (5% vs. 6%-9% with placebo). Other adverse experiences reported with terconazole 0.4% vaginal cream were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The therapy-related dropout rate was 2.0% for the terconazole 0.4% vaginal cream. The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole 0.4% vaginal cream group and 0.3% with the placebo group."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=6
+Page 6 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "TERCONAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Terconazole Vaginal Cream 0.4%: The therapeutic effect of this product is not affected by oral contraceptive usage. Terconazole Vaginal Cream 0.8%: The levels of estradiol (E2) and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive."
+      "adverse_reactions": [
+        "adverse reactions Terconazole Vaginal Cream 0.4%: During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Vulvovaginal burning (5.2%), itching (2.3%) or irritation (3.1%) occurred less frequently with terconazole 0.4% vaginal cream than with the vehicle placebo. Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs. 0.0% with placebo) have also been reported. The therapy-related dropout rate was 1.9%. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching (0.6%), which was lower than the incidence for placebo (0.9%). Terconazole Vaginal Cream 0.8%: During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole 0.8% vaginal cream for three days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole 0.8% vaginal cream were headache (21% vs. 16% with placebo) and dysmenorrhea (6% vs. 2% with placebo). Genital complaints in general, and burning and itching in particular, occurred less frequently in the terconazole 0.8% vaginal cream 3 day regimen (5% vs. 6%-9% with placebo). Other adverse experiences reported with terconazole 0.8% vaginal cream were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The therapy-related dropout rate was 2.0% for the terconazole 0.8% vaginal cream. The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole 0.8% vaginal cream group and 0.3% with the placebo group."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=7
+Page 7 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions The therapeutic effect of Terconazole Vaginal Cream 0.4% is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headaches (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Vulvovaginal burning (5.2%), itching (2.3%) or irritation (3.1%) occurred less frequently with terconazole 0.4% vaginal cream than with the vehicle placebo. Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs. 0.0% with placebo) have also been reported. The therapy-related dropout rate was 1.9%. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching (0.6%), which was lower than the incidence for placebo (0.9%)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=8
+Page 8 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terazol 7"
+ 
+      "drug_interactions": [
+        "Drug Interactions: TERAZOL(R) 7 (terconazole) Vaginal Cream 0.4% and TERAZOL(R) 3 (terconazole) Vaginal Suppositories 80 mg: The therapeutic effect of these products is not affected by oral contraceptive usage. TERAZOL(R) 3 (terconazole) Vaginal Cream 0.8%: The levels of estradiol (E2) and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS TERAZOL(R) 7 (terconazole) Vaginal Cream 0.4%: During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Vulvovaginal burning (5.2%), itching (2.3%) or irritation (3.1%) occurred less frequently with terconazole 0.4% vaginal cream than with the vehicle placebo. Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs. 0.0% with placebo) have also been reported. The therapy-related dropout rate was 1.9%. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching (0.6%), which was lower than the incidence for placebo (0.9%). TERAZOL(R) 3 (terconazole) Vaginal Cream 0.8%: During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole 0.8% vaginal cream for three days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole 0.8% vaginal cream were headache (21% vs. 16% with placebo) and dysmenorrhea (6% vs. 2% with placebo). Genital complaints in general, and burning and itching in particular, occurred less frequently in the terconazole 0.8% vaginal cream 3 day regimen (5% vs. 6%-9% with placebo). Other adverse experiences reported with terconazole 0.8% vaginal cream were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The therapy-related dropout rate was 2.0% for the terconazole 0.8% vaginal cream. The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole 0.8% vaginal cream group and 0.3% with the placebo group. TERAZOL(R) 3 (terconazole) Vaginal Suppositories 80 mg: During controlled clinical studies conducted in the United States, 284 patients with vulvovaginal candidiasis were treated with terconazole 80 mg vaginal suppositories. Based on comparative analyses with placebo (295 patients), the adverse experiences considered adverse reactions most likely related to terconazole 80 mg vaginal suppositories were headache (30.3% vs. 20.7% with placebo) and pain of the female genitalia (4.2% vs. 0.7% with placebo). Adverse reactions that were reported but were not statistically significantly different from placebo were burning (15.2% vs. 11.2% with placebo) and body pain (3.9% vs. 1.7% with placebo). Fever (2.8% vs. 1.4% with placebo) and chills (1.8% vs. 0.7% with placebo) have also been reported. The therapy-related dropout rate was 3.5% and the placebo therapy-related dropout rate was 2.7%. The adverse drug experience on terconazole most frequently causing discontinuation was burning (2.5% vs. 1.4% with placebo) and pruritus (1.8% vs. 1.4% with placebo)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=9
+Page 9 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The therapeutic effect of this product is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole vaginal cream 0.4%. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole vaginal cream 0.4% were headache (26% vs 17% with placebo) and body pain (2.1% vs 0% with placebo). Vulvovaginal burning (5.2%), itching (2.3%) or irritation (3.1%) occurred less frequently with terconazole vaginal cream 0.4% than with the vehicle placebo. Fever (1.7% vs 0.5% with placebo) and chills (0.4% vs 0.0% with placebo) have also been reported. The therapy-related dropout rate was 1.9%. The adverse drug experience on terconazole most frequently causing discontinuation of therapy was vulvovaginal itching (0.6%), which was lower than the incidence for placebo (0.9%)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=10
+Page 10 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions The therapeutic effect of terconazole is not affected by oral contraceptive usage. The levels of estradiol and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole 0.8% vaginal cream for three days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole 0.8% vaginal cream were headache (21% vs. 16% with placebo) and dysmenorrhea (6% vs. 2% with placebo). Other adverse experiences reported with terconazole 0.8% vaginal cream were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole 0.8% vaginal cream group and 0.3% with the placebo group. Post-marketing Experience The following adverse drug reactions have been first identified during post-marketing experience with terconazole:. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. General: Asthenia, Influenza-Like Illness consisting of multiple listed reactions including fever and chills, nausea, vomiting, myalgia, arthralgia, malaise Immune: Hypersensitivity, Anaphylaxis, Face Edema Nervous: Dizziness Respiratory: Bronchospasm Skin: Rash, Toxic Epidermal Necrolysis, Urticaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=11
+Page 11 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terazol 3"
+ 
+      "drug_interactions": [
+        "Drug Interactions The therapeutic effect of terconazole is not affected by oral contraceptive usage. The levels of estradiol and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. TERAZOL(R) 7 (terconazole) Vaginal Cream 0.4% During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs. 0.0% with placebo), vulvovaginal burning, itching and irritation have also been reported. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching. TERAZOL(R) 3 (terconazole) Vaginal Cream 0.8% During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole 0.8% vaginal cream for three days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole 0.8% vaginal cream were headache (21% vs. 16% with placebo) and dysmenorrhea (6% vs. 2% with placebo). Other adverse experiences reported with terconazole 0.8% vaginal cream were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole 0.8% vaginal cream group and 0.3% with the placebo group. TERAZOL(R) 3 (terconazole) Vaginal Suppositories 80 mg During controlled clinical studies conducted in the United States, 284 patients with vulvovaginal candidiasis were treated with terconazole 80 mg vaginal suppositories. Based on comparative analyses with placebo (295 patients), the adverse experiences considered adverse reactions most likely related to terconazole 80 mg vaginal suppositories were headache (30.3% vs. 20.7% with placebo) and pain of the female genitalia (4.2% vs. 0.7% with placebo). Adverse reactions that have also been reported but were not statistically significantly different from placebo were burning (15.2% vs. 11.2% with placebo) and body pain (3.9% vs. 1.7% with placebo). Fever (2.8% vs. 1.4% with placebo) and chills (1.8% vs. 0.7% with placebo) have also been reported. The adverse drug experience on terconazole most frequently causing discontinuation was burning (2.5% vs. 1.4% with placebo) and pruritus (1.8% vs. 1.4% with placebo). Post-marketing Experience The following adverse drug reactions have been first identified during post-marketing experience with TERAZOL(R). Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. General: Asthenia, Influenza-Like Illness consisting of multiple listed reactions including fever and chills, nausea, vomiting, myalgia, arthralgia, malaise Immune: Hypersensitivity, Anaphylaxis, Face Edema Nervous: Dizziness Respiratory: Bronchospasm Skin: Rash, Toxic Epidermal Necrolysis, Urticaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=12
+Page 12 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terazol 3"
+ 
+      "drug_interactions": [
+        "Drug Interactions: TERAZOL(R) 7 (terconazole) Vaginal Cream 0.4% and TERAZOL(R) 3 (terconazole) Vaginal Suppositories 80 mg: The therapeutic effect of these products is not affected by oral contraceptive usage. TERAZOL(R) 3 (terconazole) Vaginal Cream 0.8%: The levels of estradiol (E2) and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS TERAZOL(R) 7 (terconazole) Vaginal Cream 0.4%: During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Vulvovaginal burning (5.2%), itching (2.3%) or irritation (3.1%) occurred less frequently with terconazole 0.4% vaginal cream than with the vehicle placebo. Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs. 0.0% with placebo) have also been reported. The therapy-related dropout rate was 1.9%. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching (0.6%), which was lower than the incidence for placebo (0.9%). TERAZOL(R) 3 (terconazole) Vaginal Cream 0.8%: During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole 0.8% vaginal cream for three days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole 0.8% vaginal cream were headache (21% vs. 16% with placebo) and dysmenorrhea (6% vs. 2% with placebo). Genital complaints in general, and burning and itching in particular, occurred less frequently in the terconazole 0.8% vaginal cream 3 day regimen (5% vs. 6%-9% with placebo). Other adverse experiences reported with terconazole 0.8% vaginal cream were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The therapy-related dropout rate was 2.0% for the terconazole 0.8% vaginal cream. The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole 0.8% vaginal cream group and 0.3% with the placebo group. TERAZOL(R) 3 (terconazole) Vaginal Suppositories 80 mg: During controlled clinical studies conducted in the United States, 284 patients with vulvovaginal candidiasis were treated with terconazole 80 mg vaginal suppositories. Based on comparative analyses with placebo (295 patients), the adverse experiences considered adverse reactions most likely related to terconazole 80 mg vaginal suppositories were headache (30.3% vs. 20.7% with placebo) and pain of the female genitalia (4.2% vs. 0.7% with placebo). Adverse reactions that were reported but were not statistically significantly different from placebo were burning (15.2% vs. 11.2% with placebo) and body pain (3.9% vs. 1.7% with placebo). Fever (2.8% vs. 1.4% with placebo) and chills (1.8% vs. 0.7% with placebo) have also been reported. The therapy-related dropout rate was 3.5% and the placebo therapy-related dropout rate was 2.7%. The adverse drug experience on terconazole most frequently causing discontinuation was burning (2.5% vs. 1.4% with placebo) and pruritus (1.8% vs. 1.4% with placebo)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=13
+Page 13 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "TERCONAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Terconazole Vaginal Cream 0.4%: The therapeutic effect of this product is not affected by oral contraceptive usage. Terconazole Vaginal Cream 0.8%: The levels of estradiol (E2) and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive."
+      "adverse_reactions": [
+        "adverse reactions Terconazole Vaginal Cream 0.4%: During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Vulvovaginal burning (5.2%), itching (2.3%) or irritation (3.1%) occurred less frequently with terconazole 0.4% vaginal cream than with the vehicle placebo. Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs. 0.0% with placebo) have also been reported. The therapy-related dropout rate was 1.9%. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching (0.6%), which was lower than the incidence for placebo (0.9%). Terconazole Vaginal Cream 0.8%: During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole 0.8% vaginal cream for three days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole 0.8% vaginal cream were headache (21% vs. 16% with placebo) and dysmenorrhea (6% vs. 2% with placebo). Genital complaints in general, and burning and itching in particular, occurred less frequently in the terconazole 0.8% vaginal cream 3 day regimen (5% vs. 6%-9% with placebo). Other adverse experiences reported with terconazole 0.8% vaginal cream were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The therapy-related dropout rate was 2.0% for the terconazole 0.8% vaginal cream. The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole 0.8% vaginal cream group and 0.3% with the placebo group."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=14
+Page 14 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole 0.8% vaginal cream for three days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole 0.8% vaginal cream were headache (21% vs. 16% with placebo) and dysmenorrhea (6% vs. 2% with placebo). Genital complaints in general, and burning and itching in particular, occurred less frequently in the terconazole 0.8% vaginal cream 3 day regimen (5% vs. 6%-9% with placebo). Other adverse experiences reported with terconazole 0.8% vaginal cream were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The therapy-related dropout rate was 2.0% for the terconazole 0.8% vaginal cream. The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching 0.7% with the terconazole 0.8% vaginal cream group and 0.3% with the placebo group."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=15
+Page 15 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions The therapeutic effect of this product is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. During controlled clinical studies conducted in the United States, 284 patients with vulvovaginal candidiasis were treated with terconazole 80 mg vaginal suppositories. Based on comparative analyses with placebo (295 patients), the adverse experiences considered adverse reactions most likely related to terconazole 80 mg vaginal suppositories were headache (30.3% vs. 20.7% with placebo) and pain of the female genitalia (4.2% vs. 0.7% with placebo). Adverse reactions that have also been reported but were not statistically significantly different from placebo were burning (15.2% vs. 11.2% with placebo) and body pain (3.9% vs. 1.7% with placebo). Fever (2.8% vs. 1.4% with placebo) and chills (1.8% vs. 0.7% with placebo) have also been reported. The adverse drug experience on terconazole most frequently causing discontinuation was burning (2.5% vs. 1.4% with placebo) and pruritus (1.8% vs. 1.4% with placebo). Post-marketing Experience The following adverse drug reactions have been first identified during post-marketing experience with terconazole:. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. General: Asthenia, Influenza-Like Illness consisting of multiple listed reactions including fever and chills, nausea, vomiting, myalgia, arthralgia, malaise Immune: Hypersensitivity, Anaphylaxis, Face Edema Nervous: Dizziness Respiratory: Bronchospasm Skin: Rash, Toxic Epidermal Necrolysis, Urticaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=16
+Page 16 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Zazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The therapeutic effect of this product is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: During controlled clinical studies conducted in the United States, 284 patients with vulvovaginal candidiasis were treated with terconazole vaginal suppositories 80 mg. Based on comparative analyses with placebo (295 patients), the adverse experiences considered adverse reactions most likely related to terconazole vaginal suppositories 80 mg, were headache (30.3% vs.20.7% with placebo) and pain of the female genitalia (4.2% vs. 0.7% with placebo). Adverse reactions that were reported but were not statistically significantly different from placebo were burning (15.2% vs. 11.2% with placebo) and body pain (3.9% vs. 1.7% with placebo). Fever (2.8% vs. 1.4% with placebo) and chills (1.8% vs. 0.7% with placebo) have also been reported. The therapy-related dropout rate was 3.5% and the placebo therapy-related dropout rate was 2.7%. The adverse drug experience on terconazole most frequently causing discontinuation was burning (2.5% vs 1.4% with placebo) and pruritus (1.8% vs. 1.4% with placebo)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=17
+Page 17 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "TERCONAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions The therapeutic effect of terconazole is not affected by oral contraceptive usage. The levels of estradiol and progesterone did not differ significantly when 0.8% terconazole vaginal cream was administered to healthy female volunteers established on a low dose oral contraceptive."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse Reactions from Clinical Trials Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice. Terconazole Vaginal Cream 0.4% During controlled clinical studies conducted in the United States, 521 patients with vulvovaginal candidiasis were treated with terconazole 0.4% vaginal cream. Based on comparative analyses with placebo, the adverse experiences considered most likely related to terconazole 0.4% vaginal cream were headache (26% vs. 17% with placebo) and body pain (2.1% vs. 0% with placebo). Fever (1.7% vs. 0.5% with placebo) and chills (0.4% vs. 0.0% with placebo), vulvovaginal burning, itching and irritation have also been reported. The adverse drug experience on terconazole most frequently causing discontinuation was vulvovaginal itching. Terconazole Vaginal Cream 0.8% During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole 0.8% vaginal cream for three days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole 0.8% vaginal cream were headache (21% vs. 16% with placebo) and dysmenorrhea (6% vs. 2% with placebo). Other adverse experiences reported with terconazole 0.8% vaginal cream were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole 0.8% vaginal cream group and 0.3% with the placebo group. Post-marketing Experience The following adverse drug reactions have been first identified during post-marketing experience with terconazole. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. General: Asthenia, Influenza-Like Illness consisting of multiple listed reactions including fever and chills, nausea, vomiting, myalgia, arthralgia, malaise Immune: Hypersensitivity, Anaphylaxis, Face Edema Nervous: Dizziness Respiratory: Bronchospasm Skin: Rash, Toxic Epidermal Necrolysis, Urticaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=18
+Page 18 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Zazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The therapeutic effect of this product is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole vaginal cream 0.8% for 3 days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole vaginal cream 0.8% were headache (21% vs 16% with placebo) and dysmenorrhea (6% vs 2% with placebo). Genital complaints in general, and burning and itching in particular, occurred less frequently in the terconazole vaginal cream 0.8% 3 day regimen (5% vs. 6%-9% with placebo). Other adverse experiences reported with terconazole vaginal cream 0.8% were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The therapy-related dropout rate was 2.0% for the terconazole vaginal cream 0.8%. The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole vaginal cream 0.8% group and 0.3% with the placebo group."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Terconazole&limit=1&skip=19
+Page 19 of 20
+        "generic_name": [
+          "TERCONAZOLE"
+        "brand_name": [
+          "Terconazole Vaginal Cream 0.8%"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The therapeutic effect of this product is not affected by oral contraceptive usage."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During controlled clinical studies conducted in the United States, patients with vulvovaginal candidiasis were treated with terconazole vaginal cream 0.8% for 3 days. Based on comparative analyses with placebo and a standard agent, the adverse experiences considered most likely related to terconazole vaginal cream 0.8% were headache (21% vs 16% with placebo) and dysmenorrhea (6% vs 2% with placebo). Genital complaints in general, and burning and itching in particular, occurred less frequently in the terconazole vaginal cream 0.8% 3 day regimen (5% vs. 6%-9% with placebo). Other adverse experiences reported with terconazole vaginal cream 0.8% were abdominal pain (3.4% vs. 1% with placebo) and fever (1% vs. 0.3% with placebo). The therapy-related dropout rate was 2.0% for the terconazole vaginal cream 0.8%. The adverse drug experience most frequently causing discontinuation of therapy was vulvovaginal itching, 0.7% with the terconazole vaginal cream 0.8% group and 0.3% with the placebo group."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

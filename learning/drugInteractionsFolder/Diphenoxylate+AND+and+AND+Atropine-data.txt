@@ -1,0 +1,436 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=0
+Page 0 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride may interact with MAO inhibitors (see Warnings ). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: therapeutic numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Nervous system: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Allergic: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. Gastrointestinal system: The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=1
+Page 1 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=2
+Page 2 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=3
+Page 3 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=4
+Page 4 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=5
+Page 5 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=6
+Page 6 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=7
+Page 7 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=8
+Page 8 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=9
+Page 9 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HCL AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hcl and Atropine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: Nervous system Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache Allergic Anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus Gastrointestinal system Toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=10
+Page 10 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=11
+Page 11 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=12
+Page 12 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate HCl and Atropine Sulfate tablets may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=13
+Page 13 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=14
+Page 14 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=15
+Page 15 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=16
+Page 16 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=17
+Page 17 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride may interact with MAO inhibitors (see Warnings ). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=18
+Page 18 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=19
+Page 19 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride may interact with MAO inhibitors (see Warnings ). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=20
+Page 20 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=21
+Page 21 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=22
+Page 22 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Direct Rx"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=23
+Page 23 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=24
+Page 24 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=25
+Page 25 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=26
+Page 26 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=27
+Page 27 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE"
+        "brand_name": [
+          "Lomotil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=28
+Page 28 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=29
+Page 29 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=30
+Page 30 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Lomotil"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Lomotil may interact with MAO inhibitors (see Warnings ). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported; they are listed in decreasing order of severity, but not of frequency: Nervous system: numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur, especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenoxylate+AND+and+AND+Atropine&limit=1&skip=31
+Page 31 of 32
+        "generic_name": [
+          "DIPHENOXYLATE HYDROCHLORIDE AND ATROPINE SULFATE"
+        "brand_name": [
+          "Diphenoxylate Hydrochloride and Atropine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Known drug interactions include barbiturates, tranquilizers, and alcohol. Diphenoxylate hydrochloride and atropine sulfate may interact with MAO inhibitors (see WARNINGS). In studies with male rats, diphenoxylate hydrochloride was found to inhibit the hepatic microsomal enzyme system at a dose of 2 mg/kg/day. Therefore, diphenoxylate has the potential to prolong the biological half-lives of drugs for which the rate of elimination is dependent on the microsomal drug metabolizing enzyme system."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS At therapeutic doses, the following have been reported: they are listed in decreasing order of severity, but not of frequency: Nervous system: Numbness of extremities, euphoria, depression, malaise/lethargy, confusion, sedation/drowsiness, dizziness, restlessness, headache. Allergic: anaphylaxis, angioneurotic edema, urticaria, swelling of the gums, pruritus. Gastrointestinal system: toxic megacolon, paralytic ileus, pancreatitis, vomiting, nausea, anorexia, abdominal discomfort. The following atropine sulfate effects are listed in decreasing order of severity, but not of frequency: hyperthermia, tachycardia, urinary retention, flushing, dryness of the skin and mucous membranes. These effects may occur especially in children. THIS MEDICATION SHOULD BE KEPT IN A CHILD-RESISTANT CONTAINER AND OUT OF THE REACH OF CHILDREN SINCE AN OVERDOSAGE MAY RESULT IN SEVERE RESPIRATORY DEPRESSION AND COMA, POSSIBLY LEADING TO PERMANENT BRAIN DAMAGE OR DEATH."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

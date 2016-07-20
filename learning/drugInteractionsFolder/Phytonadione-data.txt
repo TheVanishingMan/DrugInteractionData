@@ -1,0 +1,288 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=0
+Page 0 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Vitamin K1"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin- depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium. Laboratory Tests Prothrombin time should be checked regularly as clinical conditions indicate."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Deaths have occurred after intravenous and intramuscular administration. (See Box Warning.) Transient "flushing sensations" and "peculiar" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Pain, swelling, and tenderness at the injection site may occur. The possibility of allergic sensitivity including an anaphylactoid reaction, should be kept in mind. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. This has occurred rarely and primarily with doses above those recommended. (See PRECAUTIONS, Pediatric Use .)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=1
+Page 1 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Mephyton"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed with parenteral phytonadione, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Hyperbilirubinemia has been observed in the newborn following administration of parenteral phytonadione. This has occurred rarely and primarily with doses above those recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=2
+Page 2 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "MEPHYTON"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration. Transient "flushing sensations" and "peculiar" sensations of taste have been observed with parenteral phytonadione, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Hyperbilirubinemia has been observed in the newborn following administration of parenteral phytonadione. This has occurred rarely and primarily with doses above those recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=3
+Page 3 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Mephyton"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed with parenteral phytonadione, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Hyperbilirubinemia has been observed in the newborn following administration of parenteral phytonadione. This has occurred rarely and primarily with doses above those recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=4
+Page 4 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "PHYTONADIONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration (see Box Warning.) The possibility of allergic sensitivity, including an anaphylactoid reaction, should be kept in mind following parenteral administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Pain, swelling, and tenderness at the injection site may occur. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. This has occurred rarely and primarily with doses above those recommended. (See PRECAUTIONS, Pediatric Use.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=5
+Page 5 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Mephyton"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed with parenteral phytonadione, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Hyperbilirubinemia has been observed in the newborn following administration of parenteral phytonadione. This has occurred rarely and primarily with doses above those recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=6
+Page 6 of 21
+        "generic_name": [
+          "RETINOL, ERGOCALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, PHYTONADIONE, ASCORBIC ACID, NIACINAMIDE, RIBOFLAVIN 5-PHOSPHATE SODIUM, THIAMINE HYDROCHLORIDE, PYRIDOXINE HYDROCHLORIDE, DEXPANTHENOL, BIOTIN, FOLIC ACID, AND CYANOCOBALAMIN"
+        "brand_name": [
+          "M.V.I. Adult"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS A number of interactions between vitamins and drugs have been reported. The following are examples of these types of interactions: Effect of M.V.I.-Adult on other drugs: - Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin (7.1) - Bleomycin: Ascorbic acid and riboflavin may reduce the activity of bleomycin (7.1) - Levodopa: Pyridoxine may decrease blood levels of levodopa and levodopa efficacy may decrease (7.1) - Phenytoin: Folic acid may decrease phenytoin blood levels and increase the risk of seizure activity (7.1) - Methotrexate: Folic acid may decrease response to methotrexate (7.1) Effects of other drugs on M.V.I.-Adult: - Hydralazine, Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements (7.2) - Phenytoin: May decrease folic acid concentrations (7.2) 7.1 Effect of M.V.I.-Adult on Other Drugs Phenytoin: Folic acid may increase phenytoin metabolism and lower the serum concentration of phenytoin resulting in increased seizure activity. Methotrexate: Folic acid may decrease a patient's response to methotrexate therapy. Levodopa: Pyridoxine may increase the metabolism of levodopa (decrease blood level of levodopa) and decrease its efficacy. Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease antibiotic activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin. Bleomycin: Ascorbic acid and riboflavin inactivate bleomycin in vitro, thus the activity of bleomycin may be reduced. 7.2 Effect of Other Drugs on M.V.I.-Adult Hydralazine or Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements. Chloramphenicol: In patients with pernicious anemia, the hematologic response to vitamin B12 therapy may be inhibited by concomitant administration of chloramphenicol. Phenytoin: Phenytoin may decrease serum folic acid concentrations."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other section of the labeling. -Allergic reactions to thiamine [see Warnings and Precautions (5.4) ]. -Hypervitaminosis A [see Warnings and Precautions (5.5) ]. The following adverse reactions have been identified during post approval use of M.V.I.-Adult(TM). Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Dermatologic: rash, erythema, pruritus CNS: headache, dizziness, agitation, anxiety Ophthalmic: diplopia Adverse reactions have included anaphylaxis, rash, erythema, pruritus, headache, dizziness, agitation, anxiety, diplopia (6) To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS - Decreased Anticoagulant Effect of Warfarin (5.1) - Risk of Aluminum Toxicity: For at risk patients (renal failure or those with prolonged therapy), consider periodic monitoring of aluminum levels (5.2) - Low Vitamin A levels: Monitor vitamin A levels (5.3) - Allergic Reactions: to thiamine may occur (5.4) - Hypervitaminosis A: Patients with renal failure or liver disease may be at higher risk (5.5) - Interferes with Megaloblastic Anemia Diagnosis: Avoid during testing for this disorder (5.6) - Risk of Vitamin Deficiencies or Excess: Monitor blood vitamin concentrations (5.7) - False Negative Urine Glucose Tests: Due to vitamin C (5.8) 5.1 Decreased Anticoagulant Effect of Warfarin M.V.I.-Adult contains Vitamin K which may decrease the anticoagulant effect of warfarin. In patients who are on warfarin anticoagulant therapy receiving M.V.I-Adult, prothrombin time/INR should be periodically monitored to determine if the dose of warfarin needs to be adjusted. 5.2 Aluminum Toxicity M.V.I.-Adult(TM) contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration in patients with renal impairment. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 micrograms per kg per day, accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. To prevent aluminum toxicity monitor periodically aluminum levels with prolonged parenteral administration of M.V.I.-Adult. 5.3 Risk of Low Vitamin A Levels Vitamin A may adhere to plastic, resulting in lower vitamin A concentrations after administration of M.V.I.-Adult(TM). Therefore, blood vitamin concentrations should be periodically monitored and the administration of additional therapeutic doses of Vitamin A may be required. 5.4 Allergic Reactions to Thiamine Allergic reactions such as urticaria, periorbital and digital edema, have been reported following intravenous administration of thiamine, which is found in M.V.I.-Adult(TM). There have been rare reports of anaphylaxis following intravenous doses of thiamine. No fatal anaphylaxis reactions associated with M.V.I. Adult(TM) have been reported. 5.5 Hypervitaminosis A Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision, has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. Therefore, supplementation of renal failure patients and patients with liver diseases with vitamin A, an ingredient found in M.V.I.-Adult(TM), should be undertaken with caution [see Use in Specific Populations (8.6, 8.7)]. Blood levels of Vitamin A should be monitored periodically. 5.6 Interference with Diagnosis of Megaloblastic Anemia M.V.I-Adult contains folic acid and cyanocobalamin which can mask serum deficits of folic acid and cyanocobalamin in patients with megaloblastic anemia. Avoid the use of M.V.I.-Adult(TM) in patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. 5.7 Potential to Develop Vitamin Deficiencies or Excesses In patients receiving parenteral multivitamins, such as with M.V.I.-Adult(TM), blood vitamin concentrations should be periodically monitored to determine if vitamin deficiencies or excesses are developing. M.V.I.-Adult(TM) may not correct long-standing specific vitamin deficiencies. The administration of additional doses of specific vitamins may be required [see Dosage and Administration (2.2) ]. 5.8 Interference with Urine Glucose Testing M.V.I.-Adult(TM) contains Vitamin C which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose determinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=7
+Page 7 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Phytonadione"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration (see Box Warning.) The possibility of allergic sensitivity, including an anaphylactoid reaction, should be kept in mind following parenteral administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension dyspnea and cyanosis. Pain, swelling, and tenderness at the injection site may occur. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. The has occurred rarely and primarily with doses above those recommended (See Precautions, Pediatric Use.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=8
+Page 8 of 21
+        "generic_name": [
+          "ASCORBIC ACID, RETINOL, ERGOCALCIFEROL, THIAMINE HYDROCHLORIDE, RIBOFLAVIN 5-PHOSPHATE SODIUM, PYRIDOXINE HYDROCHLORIDE, NIACINAMIDE, DEXPANTHENOL, .ALPHA.-TOCOPHEROL ACETATE, DL-, BIOTIN, FOLIC ACID, CYANOCOBALAMIN, AND PHYTONADIONE"
+        "brand_name": [
+          "Multi Vitamin Infusion Pediatric"
+ 
+      "drug_interactions": [
+        "Drug-Drug Interactions Physical Incompatibilities: M.V.I. Pediatric(R) is not physically compatible with alkaline solutions or moderately alkaline drugs such as Diamox (Acetazolamide), Diuril Intravenous Sodium (Chlorothiazide sodium), Aminophylline or sodium bicarbonate. M.V.I. Pediatric(R) is not physically compatible with ampicillin and it may not be physically compatible with ACHROMYCIN (tetracycline HCl). It has also been reported that folic acid is unstable in the presence of calcium salts such as calcium gluconate. Direct addition of M.V.I. Pediatric(R) to intravenous fat emulsions is not recommended. Consult appropriate references for listings of physical compatibility of solutions and drugs with the vitamin infusion. In such circumstances, admixture or Y-site administration with vitamin solutions should be avoided. Several vitamins have been reported to decrease the activity of certain antibiotics. Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid have been reported to decrease the antibiotic activity of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin. Bleomycin is inactivated in vitro by ascorbic acid and riboflavin. Some of the vitamins in M.V.I. Pediatric(R) may react with vitamin K bisulfite or sodium bisulfite; if bisulfite solutions are necessary, patients should be monitored for vitamin A and thiamine deficiencies."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been rare reports of anaphylactic reactions following parenteral multivitamin administration. Rare reports of anaphylactoid reactions have also been reported after large intravenous doses of thiamine. The risk, however, is negligible if thiamine is coadministered with other vitamins in the B group. There have been no reports of fatal anaphylactoid reactions associated with M.V.I. Pediatric(R). There have been rare reports of the following types of reactions: Dermatologic - rash, erythema, pruritus CNS - headache, dizziness, agitation, anxiety Ophthalmic -diplopia Allergic - urticaria, shortness of breath, wheezing, and angioedema"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=9
+Page 9 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Phytonadione"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration (see Box Warning.) The possibility of allergic sensitivity, including an anaphylactoid reaction, should be kept in mind following parenteral administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Pain, swelling, and tenderness at the injection site may occur. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. This has occurred rarely and primarily with doses above those recommended. (See PRECAUTIONS, Pediatric Use.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=10
+Page 10 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "PHYTONADIONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration (see Box Warning.) The possibility of allergic sensitivity, including an anaphylactoid reaction, should be kept in mind following parenteral administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Pain, swelling, and tenderness at the injection site may occur. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. This has occurred rarely and primarily with doses above those recommended. (See PRECAUTIONS, Pediatric Use.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=11
+Page 11 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Mephyton"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed with parenteral phytonadione, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Hyperbilirubinemia has been observed in the newborn following administration of parenteral phytonadione. This has occurred rarely and primarily with doses above those recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=12
+Page 12 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Mephyton"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed with parenteral phytonadione, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Hyperbilirubinemia has been observed in the newborn following administration of parenteral phytonadione. This has occurred rarely and primarily with doses above those recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=13
+Page 13 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Phytonadione"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration (see Box Warning.) The possibility of allergic sensitivity, including an anaphylactoid reaction, should be kept in mind following parenteral administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension dyspnea and cyanosis. Pain, swelling, and tenderness at the injection site may occur. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. The has occurred rarely and primarily with doses above those recommended (See Precautions, Pediatric Use.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=14
+Page 14 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Vitamin K1"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Deaths have occurred after intravenous and intramuscular administration. (See Box Warning.) Transient "flushing sensations" and "peculiar" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Pain, swelling, and tenderness at the injection site may occur. The possibility of allergic sensitivity including an anaphylactoid reaction, should be kept in mind. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. This has occurred rarely and primarily with doses above those recommended. (See PRECAUTIONS, Pediatric Use.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=15
+Page 15 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Phytonadione"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration (see Box Warning.) The possibility of allergic sensitivity, including an anaphylactoid reaction, should be kept in mind following parenteral administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Pain, swelling, and tenderness at the injection site may occur. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. This has occurred rarely and primarily with doses above those recommended. (See PRECAUTIONS, Pediatric Use.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=16
+Page 16 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Phytonadione"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration (see Box Warning.) The possibility of allergic sensitivity, including an anaphylactoid reaction, should be kept in mind following parenteral administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Pain, swelling, and tenderness at the injection site may occur. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. This has occurred rarely and primarily with doses above those recommended. (See PRECAUTIONS, Pediatric Use.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=17
+Page 17 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Phytonadione"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration (see Box Warning.) The possibility of allergic sensitivity, including an anaphylactoid reaction, should be kept in mind following parenteral administration. Transient "flushing sensations" and "peculiar" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Pain, swelling, and tenderness at the injection site may occur. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. This has occurred rarely and primarily with doses above those recommended. (See PRECAUTIONS, Pediatric Use.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=18
+Page 18 of 21
+        "generic_name": [
+          "RETINOL, ERGOCALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, PHYTONADIONE, ASCORBIC ACID, NIACINAMIDE, RIBOFLAVIN 5-PHOSPHATE SODIUM, THIAMINE HYDROCHLORIDE, PYRIDOXINE HYDROCHLORIDE, DEXPANTHENOL, BIOTIN, FOLIC ACID, AND CYANOCOBALAMIN"
+        "brand_name": [
+          "M.V.I. Adult"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS A number of interactions between vitamins and drugs have been reported. The following are examples of these types of interactions: Effect of M.V.I.-Adult on other drugs: - Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin (7.1) - Bleomycin: Ascorbic acid and riboflavin may reduce the activity of bleomycin (7.1) - Levodopa: Pyridoxine may decrease blood levels of levodopa and levodopa efficacy may decrease (7.1) - Phenytoin: Folic acid may decrease phenytoin blood levels and increase the risk of seizure activity (7.1) - Methotrexate: Folic acid may decrease response to methotrexate (7.1) Effects of other drugs on M.V.I.-Adult: - Hydralazine, Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements (7.2) - Phenytoin: May decrease folic acid concentrations (7.2) 7.1 Effect of M.V.I.-Adult on Other Drugs Phenytoin: Folic acid may increase phenytoin metabolism and lower the serum concentration of phenytoin resulting in increased seizure activity. Methotrexate: Folic acid may decrease a patient's response to methotrexate therapy. Levodopa: Pyridoxine may increase the metabolism of levodopa (decrease blood level of levodopa) and decrease its efficacy. Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease antibiotic activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin. Bleomycin: Ascorbic acid and riboflavin inactivate bleomycin in vitro, thus the activity of bleomycin may be reduced. 7.2 Effect of Other Drugs on M.V.I.-Adult Hydralazine or Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements. Chloramphenicol: In patients with pernicious anemia, the hematologic response to vitamin B12 therapy may be inhibited by concomitant administration of chloramphenicol. Phenytoin: Phenytoin may decrease serum folic acid concentrations."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other section of the labeling. -Allergic reactions to thiamine [see Warnings and Precautions (5.4) ]. -Hypervitaminosis A [see Warnings and Precautions (5.5) ]. The following adverse reactions have been identified during post approval use of M.V.I.-Adult(TM). Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Dermatologic: rash, erythema, pruritus CNS: headache, dizziness, agitation, anxiety Ophthalmic: diplopia Adverse reactions have included anaphylaxis, rash, erythema, pruritus, headache, dizziness, agitation, anxiety, diplopia (6) To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS - Decreased Anticoagulant Effect of Warfarin (5.1) - Risk of Aluminum Toxicity: For at risk patients (renal failure or those with prolonged therapy), consider periodic monitoring of aluminum levels (5.2) - Low Vitamin A levels: Monitor vitamin A levels (5.3) - Allergic Reactions: to thiamine may occur (5.4) - Hypervitaminosis A: Patients with renal failure or liver disease may be at higher risk (5.5) - Interferes with Megaloblastic Anemia Diagnosis: Avoid during testing for this disorder (5.6) - Risk of Vitamin Deficiencies or Excess: Monitor blood vitamin concentrations (5.7) - False Negative Urine Glucose Tests: Due to vitamin C (5.8) 5.1 Decreased Anticoagulant Effect of Warfarin M.V.I.-Adult contains Vitamin K which may decrease the anticoagulant effect of warfarin. In patients who are on warfarin anticoagulant therapy receiving M.V.I-Adult, prothrombin time/INR should be periodically monitored to determine if the dose of warfarin needs to be adjusted. 5.2 Aluminum Toxicity M.V.I.-Adult(TM) contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration in patients with renal impairment. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 micrograms per kg per day, accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. To prevent aluminum toxicity monitor periodically aluminum levels with prolonged parenteral administration of M.V.I.-Adult. 5.3 Risk of Low Vitamin A Levels Vitamin A may adhere to plastic, resulting in lower vitamin A concentrations after administration of M.V.I.-Adult(TM). Therefore, blood vitamin concentrations should be periodically monitored and the administration of additional therapeutic doses of Vitamin A may be required. 5.4 Allergic Reactions to Thiamine Allergic reactions such as urticaria, periorbital and digital edema, have been reported following intravenous administration of thiamine, which is found in M.V.I.-Adult(TM). There have been rare reports of anaphylaxis following intravenous doses of thiamine. No fatal anaphylaxis reactions associated with M.V.I. Adult(TM) have been reported. 5.5 Hypervitaminosis A Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision, has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. Therefore, supplementation of renal failure patients and patients with liver diseases with vitamin A, an ingredient found in M.V.I.-Adult(TM), should be undertaken with caution [see Use in Specific Populations (8.6, 8.7)]. Blood levels of Vitamin A should be monitored periodically. 5.6 Interference with Diagnosis of Megaloblastic Anemia M.V.I-Adult contains folic acid and cyanocobalamin which can mask serum deficits of folic acid and cyanocobalamin in patients with megaloblastic anemia. Avoid the use of M.V.I.-Adult(TM) in patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. 5.7 Potential to Develop Vitamin Deficiencies or Excesses In patients receiving parenteral multivitamins, such as with M.V.I.-Adult(TM), blood vitamin concentrations should be periodically monitored to determine if vitamin deficiencies or excesses are developing. M.V.I.-Adult(TM) may not correct long-standing specific vitamin deficiencies. The administration of additional doses of specific vitamins may be required [see Dosage and Administration (2.2) ]. 5.8 Interference with Urine Glucose Testing M.V.I.-Adult(TM) contains Vitamin C which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose determinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=19
+Page 19 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Vitamin K1"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium. Laboratory Tests Prothrombin time should be checked regularly as clinical conditions indicate."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Deaths have occurred after intravenous and intramuscular administration. (See Box Warning.) Transient "flushing sensations" and "peculiar" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Pain, swelling, and tenderness at the injection site may occur. The possibility of allergic sensitivity including an anaphylactoid reaction, should be kept in mind. Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods. In other cases, these lesions have resembled erythema perstans. Hyperbilirubinemia has been observed in the newborn following administration of phytonadione. This has occurred rarely and primarily with doses above those recommended. (See PRECAUTIONS, Pediatric Use .)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phytonadione&limit=1&skip=20
+Page 20 of 21
+        "generic_name": [
+          "PHYTONADIONE"
+        "brand_name": [
+          "Mephyton"
+ 
+      "drug_interactions": [
+        "Drug Interactions Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used. If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Severe hypersensitivity reactions, including anaphylactoid reactions and deaths have been reported following parenteral administration. The majority of these reported events occurred following intravenous administration. Transient \"flushing sensations\" and \"peculiar\" sensations of taste have been observed with parenteral phytonadione, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis. Hyperbilirubinemia has been observed in the newborn following administration of parenteral phytonadione. This has occurred rarely and primarily with doses above those recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

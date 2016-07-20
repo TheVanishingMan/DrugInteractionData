@@ -1,0 +1,24 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hexachlorophene&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "HEXACHLOROPHENE"
+        "brand_name": [
+          "Phisohex"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions to pHisoHex may include dermatitis and photosensitivity. Sensitivity to hexachlorophene is rare; however, persons who have developed photoallergy to similar compounds also may become sensitive to hexachlorophene. In persons with highly sensitive skin the use of pHisoHex may at times produce a reaction characterized by redness and/or mild scaling or dryness, especially when it is combined with such mechanical factors as excessive rubbing or exposure to heat or cold."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hexachlorophene&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "HEXACHLOROPHENE"
+        "brand_name": [
+          "Phisohex"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions to pHisoHex may include dermatitis and photosensitivity. Sensitivity to hexachlorophene is rare; however, persons who have developed photoallergy to similar compounds also may become sensitive to hexachlorophene. In persons with highly sensitive skin the use of pHisoHex may at times produce a reaction characterized by redness and/or mild scaling or dryness, especially when it is combined with such mechanical factors as excessive rubbing or exposure to heat or cold."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

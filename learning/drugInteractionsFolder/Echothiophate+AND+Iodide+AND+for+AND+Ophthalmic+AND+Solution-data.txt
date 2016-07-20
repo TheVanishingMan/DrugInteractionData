@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Echothiophate+AND+Iodide+AND+for+AND+Ophthalmic+AND+Solution&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "ECHOTHIOPHATE IODIDE"
+        "brand_name": [
+          "Phospholine Iodide Ophthalmic"
+ 
+      "drug_interactions": [
+        "Drug Interactions Echothiophate iodide for ophthalmic solution potentiates other cholinesterase inhibitors such as succinylcholine or organophosphate and carbamate insecticides. Patients undergoing systemic anticholinesterase treatment should be warned of the possible additive effects of echothiophate iodide for ophthalmic solution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Although the relationship, if any, of retinal detachment to the administration of echothiophate iodide for ophthalmic solution has not been established, retinal detachment has been reported in a few cases during the use of echothiophate iodide for ophthalmic solution in adult patients without a previous history of this disorder. 2. Stinging, burning, lacrimation, lid muscle twitching, conjunctival and ciliary redness, browache, induced myopia with visual blurring may occur. 3. Activation of latent iritis or uveitis may occur. 4. Iris cysts may form, and if treatment is continued, may enlarge and obscure vision. This occurrence is more frequent in children. The cysts usually shrink upon discontinuance of the medication, reduction in strength of the drops or frequency of instillation. Rarely, they may rupture or break free into the aqueous. Regular examinations are advisable when the drug is being prescribed for the treatment of accommodative esotropia. 5. Prolonged use may cause conjunctival thickening, obstruction of nasolacrimal canals. 6. Lens opacities occurring in patients under treatment for glaucoma with echothiophate iodide for ophthalmic solution have been reported and similar changes have been produced experimentally in normal monkeys. Routine examinations should accompany clinical use of the drug. 7. Paradoxical increase in intraocular pressure may follow anticholinesterase instillation. This may be alleviated by prescribing a sympathomimetic mydriatic such as phenylephrine. 8. Cardiac irregularities."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Rimexolone&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "RIMEXOLONE"
+        "brand_name": [
+          "Vexol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions associated with ophthalmic steroids include elevated intraocular pressure, which may be associated with optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation, secondary ocular infection from pathogens including herpes simplex, and perforation of the globe where there is thinning of the cornea or sclera. Ocular adverse reactions occurring in 1 - 5% of patients in clinical studies of VEXOL(R) 1% (rimexolone ophthalmic suspension) included blurred vision, discharge, discomfort, ocular pain, increased intraocular pressure, foreign body sensation, hyperemia and pruritus. Other ocular adverse reactions occurring in less than 1% of patients included sticky sensation, increased fibrin, dry eye, conjunctival edema, corneal staining, keratitis, tearing, photophobia, edema, irritation, corneal ulcer, browache, lid margin crusting, corneal edema, infiltrate, and corneal erosion. Non-ocular adverse reactions occurred in less than 2% of patients. These included headache, hypotension, rhinitis, pharyngitis, and taste perversion."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

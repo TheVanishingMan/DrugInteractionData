@@ -1,0 +1,444 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=0
+Page 0 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=1
+Page 1 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=2
+Page 2 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=3
+Page 3 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "DRISDOL"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with DRISDOL may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal:Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS:Mental retardation. Soft Tissues:Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal:Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal:Nausea, anorexia, constipation. Metabolic:Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=4
+Page 4 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=5
+Page 5 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=6
+Page 6 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues:Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=7
+Page 7 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=8
+Page 8 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. Renal: Mental retardation. CNS: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Soft Tissues: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Skeletal: Nausea, anorexia, constipation. Gastrointestinal: Mild acidosis, anemia, weight loss. Metabolic:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=9
+Page 9 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=10
+Page 10 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with Ergocalciferol Capsules, USP may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=11
+Page 11 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. Renal: Mental retardation. CNS: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Soft Tissues: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Skeletal: Nausea, anorexia, constipation. Gastrointestinal: Mild acidosis, anemia, weight loss. Metabolic:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=12
+Page 12 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=13
+Page 13 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=14
+Page 14 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=15
+Page 15 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=16
+Page 16 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss. To report SUSPECTED ADVERSE REACTIONS, contact Banner at 1866-231-1749 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=17
+Page 17 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with Ergocalciferol Capsules, USP may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=18
+Page 18 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal : Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS : Mental retardation. Soft Tissues : Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal : Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal : Nausea, anorexia, constipation. Metabolic : Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=19
+Page 19 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=20
+Page 20 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Vitamin D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with Ergocalciferol Capsules, USP may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=21
+Page 21 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol capsules may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=22
+Page 22 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=23
+Page 23 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=24
+Page 24 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss.G"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=25
+Page 25 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=26
+Page 26 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=27
+Page 27 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=28
+Page 28 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues:Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=29
+Page 29 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=30
+Page 30 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "ERGOCALCIFEROL"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss. To report SUSPECTED ADVERSE REACTIONS, contact TEVA USA, PHARMACOVIGILANCE at 1-866-832-8537, or drug.safety@tevapharm.com or FDA at 1-800-FDA-1088 or"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=31
+Page 31 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol+AND+Capsules&limit=1&skip=32
+Page 32 of 33
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss. AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com ; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

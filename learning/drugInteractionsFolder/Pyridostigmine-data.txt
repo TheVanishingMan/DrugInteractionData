@@ -1,0 +1,158 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=0
+Page 0 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "Pyridostigmine Bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of pyridostigmine bromide are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=1
+Page 1 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "Pyridostigmine Bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of pyridostigmine bromide are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=2
+Page 2 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "Regonol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Concomitant administration of REGONOL(R) (pyridostigmine bromide injection USP) and 4-aminopyridine has been reported to delay the onset of action of REGONOL(R).9 Antibiotics Parenteral administration of high doses of certain antibiotics may intensify or produce neuromuscular block through their own pharmacologic actions. The following antibiotics have been associated with various degrees of paralysis: aminoglycosides (such as neomycin, streptomycin, kanamycin, gentamicin, and dihydrostreptomycin); tetracyclines; bacitracin; polymyxin B; colistin; and sodium colistimethate. If these or other newly introduced antibiotics are used in conjunction with nondepolarizing neuromuscular blocking drugs during surgery, unexpected prolongation of neuromuscular block or resistance to its reversal should be considered a possibility. Other Experience concerning injection of quinidine during recovery from use of nondepolarizing muscle relaxants suggest that recurrent paralysis may occur. This possibility must be considered when administering anticholinesterase agents to antagonize neuromuscular blockade induced by nondepolarizing muscle relaxants. Electrolyte imbalance and diseases which lead to electrolyte imbalance, such as adrenal cortical insufficiency, have been shown to alter neuromuscular blockade. Depending on the nature of the imbalance, either enhancement or inhibition may be expected. Magnesium salts, administered for the management of toxemia of pregnancy, may enhance the neuromuscular blockade. The possibility that such circumstances may interfere with the restoration of neuromuscular function should be considered when administering REGONOL(R)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of pyridostigmine bromide are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis, and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation, and weakness. Muscarinic side effects can usually be counteracted by atropine. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication. Thrombophlebitis has been reported subsequent to intravenous administration."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=3
+Page 3 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "Pyridostigmine Bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of pyridostigmine bromide are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=4
+Page 4 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "pyridostigmine bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of pyridostigmine bromide are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=5
+Page 5 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "pyridostigmine bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of Pyridostigmine Bromide Extended-release Tablets are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication. To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=6
+Page 6 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "Pyridostigmine Bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of Pyridostigmine Bromide Tablets are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=7
+Page 7 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "Pyridostigmine Bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of Pyridostigmine Bromide Extended release Tablets are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=8
+Page 8 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "Pyridostigmine Bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of Pyridostigmine Bromide Tablets are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=9
+Page 9 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "Mestinon"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of Mestinon are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=10
+Page 10 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of pyridostigmine bromide are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=11
+Page 11 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "Pyridostigmine Bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of pyridostigmine bromide are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Pyridostigmine&limit=1&skip=12
+Page 12 of 13
+        "generic_name": [
+          "PYRIDOSTIGMINE BROMIDE"
+        "brand_name": [
+          "pyridostigmine bromide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The side effects of pyridostigmine bromide are most commonly related to overdosage and generally are of two varieties, muscarinic and nicotinic. Among those in the former group are nausea, vomiting, diarrhea, abdominal cramps, increased peristalsis, increased salivation, increased bronchial secretions, miosis and diaphoresis. Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and weakness. Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger. As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient. Such reactions usually subside promptly upon discontinuance of the medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

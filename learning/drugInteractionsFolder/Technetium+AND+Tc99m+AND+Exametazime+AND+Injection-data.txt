@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc99m+AND+Exametazime+AND+Injection&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "TECHNETIUM TC-99M EXAMETAZIME"
+        "brand_name": [
+          "CERETEC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Rash with generalized erythema, facial edema and fever has been reported in less than 1% of patients. A transient increase in blood pressure was seen in 8% of patients."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

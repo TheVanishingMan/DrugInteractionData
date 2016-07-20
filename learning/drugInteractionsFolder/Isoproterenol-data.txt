@@ -1,0 +1,60 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Isoproterenol&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "ISOPROTERENOL HYDROCHLORIDE"
+        "brand_name": [
+          "Isuprel"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions to isoproterenol hydrochloride injection have been reported: CNS: Nervousness, headache, dizziness, nausea, visual blurring. Cardiovascular: Tachycardia, palpitations, angina, Adams-Stokes attacks, pulmonary edema, hypertension, hypotension, ventricular arrhythmias, tachyarrhythmias. In a few patients, presumably with organic disease of the AV node and its branches, isoproterenol hydrochloride injection has been reported to precipitate Adams-Stokes seizures during normal sinus rhythm or transient heart block. Respiratory: Dyspnea. Other: Flushing of the skin, sweating, mild tremors, weakness, pallor."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Isoproterenol&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "ISOPROTERENOL HYDROCHLORIDE"
+        "brand_name": [
+          "Isuprel"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions to isoproterenol hydrochloride injection have been reported: CNS: Nervousness, headache, dizziness, nausea, visual blurring. Cardiovascular: Tachycardia, palpitations, angina, Adams-Stokes attacks, pulmonary edema, hypertension, hypotension, ventricular arrhythmias, tachyarrhythmias. In a few patients, presumably with organic disease of the AV node and its branches, isoproterenol hydrochloride injection has been reported to precipitate Adams-Stokes seizures during normal sinus rhythm or transient heart block. Respiratory: Dyspnea. Other: Flushing of the skin, sweating, mild tremors, weakness, pallor."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Isoproterenol&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "ISOPROTERENOL HYDROCHLORIDE"
+        "brand_name": [
+          "Isuprel"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions to isoproterenol hydrochloride injection have been reported: CNS: Nervousness, headache, dizziness, nausea, visual blurring. Cardiovascular: Tachycardia, palpitations, angina, Adams-Stokes attacks, pulmonary edema, hypertension, hypotension, ventricular arrhythmias, tachyarrhythmias. In a few patients, presumably with organic disease of the AV node and its branches, isoproterenol hydrochloride injection has been reported to precipitate Adams-Stokes seizures during normal sinus rhythm or transient heart block. Respiratory: Dyspnea. Other: Flushing of the skin, sweating, mild tremors, weakness, pallor."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Isoproterenol&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "ISOPROTERENOL HYDROCHLORIDE"
+        "brand_name": [
+          "Isuprel"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions to isoproterenol hydrochloride injection have been reported: CNS: Nervousness, headache, dizziness, nausea, visual blurring. Cardiovascular: Tachycardia, palpitations, angina, Adams-Stokes attacks, pulmonary edema, hypertension, hypotension, ventricular arrhythmias, tachyarrhythmias. In a few patients, presumably with organic disease of the AV node and its branches, isoproterenol hydrochloride injection has been reported to precipitate Adams-Stokes seizures during normal sinus rhythm or transient heart block. Respiratory: Dyspnea. Other: Flushing of the skin, sweating, mild tremors, weakness, pallor."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Isoproterenol&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "ISOPROTERENOL HYDROCHLORIDE"
+        "brand_name": [
+          "Isuprel"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following reactions to isoproterenol hydrochloride injection have been reported: CNS: Nervousness, headache, dizziness, nausea, visual blurring. Cardiovascular: Tachycardia, palpitations, angina, Adams-Stokes attacks, pulmonary edema, hypertension, hypotension, ventricular arrhythmias, tachyarrhythmias. In a few patients, presumably with organic disease of the AV node and its branches, isoproterenol hydrochloride injection has been reported to precipitate Adams-Stokes seizures during normal sinus rhythm or transient heart block. Respiratory: Dyspnea. Other: Flushing of the skin, sweating, mild tremors, weakness, pallor."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

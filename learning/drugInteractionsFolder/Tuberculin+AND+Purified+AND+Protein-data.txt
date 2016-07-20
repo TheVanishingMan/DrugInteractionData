@@ -1,0 +1,62 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tuberculin+AND+Purified+AND+Protein&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "TUBERCULIN PURIFIED PROTEIN DERIVATIVE"
+        "brand_name": [
+          "Aplisol"
+ 
+      "drug_interactions": [
+        "Drug Interactions In patients who are receiving corticosteroids or immunosuppressive agents, reactivity to the test may be depressed or suppressed. This reduced reactivity may be present for as long as 5-6 weeks after discontinuation of therapy (see PRECAUTIONS - General ).9 The reactivity to PPD may be temporarily depressed by certain live virus vaccines (measles, mumps, rubella, oral polio, yellow fever, and varicella). Therefore, if a tuberculin test is to be performed, it should be administered either before the live vaccine or given simultaneously, but at a separate site than the live vaccine, or testing should be postponed for 4-6 weeks.9"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In highly sensitive individuals, strongly positive reactions including vesiculation, ulceration or necrosis may occur at the test site. Cold packs or topical steroid preparations may be employed for symptomatic relief of the associated pain, pruritus and discomfort. Strongly positive test reactions may result in scarring at the test site. Immediate erythematous or other reactions may occur at the injection site. Local hypersensitivity reactions may occur at the injection site including erythema, pruritus, edema, urticaria and rash. Systemic allergic reactions including anaphylaxis/anaphylactoid reactions have been reported to occur in association with the use of Aplisol. The reactions, including anaphylaxis, generally occurred within 24 hours of exposure and manifestations included rash, urticaria, edema/angioedema and pruritus. To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-888-INFO-FDA (1-888-463-6332) or www.fda.gov/medwatch/."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tuberculin+AND+Purified+AND+Protein&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "TUBERCULIN PURIFIED PROTEIN DERIVATIVE"
+        "brand_name": [
+          "TUBERCULINUM"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tuberculin+AND+Purified+AND+Protein&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "TUBERCULIN PURIFIED PROTEIN DERIVATIVE"
+        "brand_name": [
+          "TUBERSOL"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Reactivity to the test may be depressed or suppressed in persons who are receiving corticosteroids or immunosuppressive agents. (8) Reactivity to TUBERSOL may be temporarily depressed by certain live virus vaccines (measles, mumps, rubella, oral polio, yellow fever, and varicella). If a parenteral live attenuated virus vaccine has been administered recently, tuberculin testing should be delayed for >1 month after vaccination. (8) (12) (See Interpretation of the Test) When tuberculin screening is required at the same time as a measles-containing vaccine or other parenteral live attenuated virus vaccine, simultaneous administration of TUBERSOL and the vaccine at separate sites is the preferred option."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Induration at the TUBERSOL injection site is the expected reaction for a positive skin test. (See Interpretation of the Test) The information pertaining to adverse events has been compiled from historical clinical studies and post-marketing experience with TUBERSOL. General disorders and administration site conditions Injection site pain, injection site pruritus and injection site discomfort. Injection site erythema or injection site rash (without induration) occurring within 12 hours of testing. These reactions do not indicate TB infection. Injection site hemorrhage and injection site hematoma up to three days after the administration of the test. Injection site vesicles, injection site ulcer or injection site necrosis in highly sensitive persons. Injection site scar as a result of strongly positive reactions. Pyrexia Immune system disorders Hypersensitivity, including anaphylaxis/anaphylactic reactions, angiodema, urticaria Respiratory, thoracic and mediastinal disorders Stridor, dyspnea Skin and subcutaneous tissue disorders Rash, generalized rash Nervous system disorders Presyncope, syncope (including syncope associated with tonic-clonic movements and other seizure-like activity) sometimes resulting in transient loss of consciousness with injury REPORTING OF ADVERSE EVENTS To report SUSPECTED ADVERSE REACTIONS, contact the Pharmacovigilance Department, Sanofi Pasteur Inc., Discovery Drive, Swiftwater, PA 18370 or call 1-800-822-2463 (1-800-VACCINE) or Food and Drug Administration (FDA) MEDWATCH Program at 1-800-332-1088 and www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tuberculin+AND+Purified+AND+Protein&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "TUBERCULIN PURIFIED PROTEIN DERIVATIVE"
+        "brand_name": [
+          "TUBERSOL"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Reactivity to the test may be depressed or suppressed in persons who are receiving corticosteroids or immunosuppressive agents. (8) Reactivity to TUBERSOL may be temporarily depressed by certain live virus vaccines (measles, mumps, rubella, oral polio, yellow fever, and varicella). If a parenteral live attenuated virus vaccine has been administered recently, tuberculin testing should be delayed for >1 month after vaccination. (8) (12) (See Interpretation of the Test.) When tuberculin screening is required at the same time as a measles-containing vaccine or other parenteral live attenuated virus vaccine, simultaneous administration of TUBERSOL and the vaccine at separate sites is the preferred option."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Induration at the TUBERSOL injection site is the expected reaction for a positive skin test. (See Interpretation of the Test.) The information pertaining to adverse events has been compiled from historical clinical studies and post-marketing experience with TUBERSOL. General disorders and administration site conditions Injection site pain, injection site pruritus and injection site discomfort. Injection site erythema or injection site rash (without induration) occurring within 12 hours of testing. These reactions do not indicate TB infection. Injection site hemorrhage and injection site hematoma up to three days after the administration of the test. Injection site vesicles, injection site ulcer or injection site necrosis in highly sensitive persons. Injection site scar as a result of strongly positive reactions. Pyrexia Immune system disorders Hypersensitivity, including anaphylaxis/anaphylactic reactions, angiodema, urticaria Respiratory, thoracic and mediastinal disorders Stridor, dyspnea Skin and subcutaneous tissue disorders Rash, generalized rash Nervous system disorders Presyncope, syncope (including syncope associated with tonic-clonic movements and other seizure-like activity) sometimes resulting in transient loss of consciousness with injury REPORTING OF ADVERSE EVENTS To report SUSPECTED ADVERSE REACTIONS, contact the Pharmacovigilance Department, Sanofi Pasteur Inc., Discovery Drive, Swiftwater, PA 18370 or call 1-800-822-2463 (1-800-VACCINE) or Food and Drug Administration (FDA) MEDWATCH Program at 1-800-332-1088 and www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Tuberculin+AND+Purified+AND+Protein&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "CLAVICEPS PURPUREA SCLEROTIUM, SUS SCROFA CEREBELLUM, EPINEPHRINE, AND TUBERCULIN PURIFIED PROTEIN DERIVATIVE"
+        "brand_name": [
+          "Simvita"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

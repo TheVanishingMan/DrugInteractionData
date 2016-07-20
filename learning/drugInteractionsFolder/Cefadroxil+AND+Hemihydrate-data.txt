@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil+AND+Hemihydrate&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "CEFADROXIL HEMIHYDRATE"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS GastrointestinalOnset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. HypersensitivityAllergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. OtherOther reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia,idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, hepatic dysfunction including cholestasis, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

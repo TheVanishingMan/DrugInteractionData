@@ -1,0 +1,580 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=0
+Page 0 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram E"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=1
+Page 1 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=2
+Page 2 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE, PRAMOXINE"
+        "brand_name": [
+          "Acella Hydrocortisone Acetate - Pramoxine Singles"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=3
+Page 3 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proctofoam HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=4
+Page 4 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Epifoam"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximately decreasing order of occurrence: Burning, Itching, Irritation, Dryness, Folliculitis, Hypertrichosis, Acneiform eruptions, Hypopigmentation, Perioral dermatitis, Allergic contact dermatitis, Maceration of the skin, Secondary infection, Skin atrophy, Striae, Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=5
+Page 5 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "PRAMOSONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Foliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=6
+Page 6 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydrocortisone Acetate and Pramoxine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=7
+Page 7 of 48
+        "generic_name": [
+          "PRAMOXINE HCL / HYDROCORTISONE / CHLOROXYLENOL"
+        "brand_name": [
+          "Oto End 10"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions have been reported with topical corticosteroids, especially under occlusive dressings: burning, itching, irritation, dryness, folliculitis, hypertrichosis, allergic contact dermatitis, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=8
+Page 8 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "PRAMOSONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Foliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=9
+Page 9 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Foliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=10
+Page 10 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "ZyPram"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Dryness Perioral dermatitis Skin atrophy Itching Folliculitis Hypertrichosis Allergic contact dermatitis Striae Irritation Acneiform eruptions Maceration of the skin Miliaria Hypopigmentation Secondary infection"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=11
+Page 11 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Proctofoam HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria. To report SUSPECTED ADVERSE REACTIONS contact Alaven Pharmaceutical LLC at 1-888-317-0001 or FDA at 1-800-FDA-1088 or www.FDA.gov/safety/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=12
+Page 12 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram Advanced"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=13
+Page 13 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE PRAMOXINE HCL"
+        "brand_name": [
+          "hydrocortisone acetate pramoxine hcl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Adverse reactions list"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=14
+Page 14 of 48
+        "generic_name": [
+          "PRAMOXINE HYDROCHLORIDE HYDROCORTISONE ACETATE"
+        "brand_name": [
+          "PROCTOFOAM HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria. To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 866-210-5948 or FDA at 1-800-FDA-1088 or www.FDA.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=15
+Page 15 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=16
+Page 16 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone Cream"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=17
+Page 17 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Foliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=18
+Page 18 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "PRAMCORT"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS General: Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitaryadrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Conditions which augment systemic absorption include the application of the more potent steroids, use over large surface areas, prolonged use, and the addition of occlusive dressings. Therefore, patients receiving a large dose of a potent topical steroid applied to a large surface area and under an occlusive dressing should be evaluated periodically for evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests. If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug. Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids. Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity. (See Precautions-Pediatric Use.) If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted. In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted. If a favorable response does not occur promptly the corticosteroid should be discontinued until the infection has been adequately controlled."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=19
+Page 19 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydrocortisone Acetate and Pramoxine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=20
+Page 20 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone E"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=21
+Page 21 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND LIDOCAINE HYDROCHLORIDE"
+        "brand_name": [
+          "Ana-Lex"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: During or immediately following application of Ana-Lex(TM) there may be transient stinging or burning from open areas of skin, or transient blanching (lightening) or erythema (redness) of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=22
+Page 22 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=23
+Page 23 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressing. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=24
+Page 24 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=25
+Page 25 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressing. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=26
+Page 26 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE PRAMOXINE HCL"
+        "brand_name": [
+          "Hydrocortisone Acetate Pramoxine Hcl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: adverse reaction list"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=27
+Page 27 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram Advanced"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=28
+Page 28 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE, PRAMOXINE HCL"
+        "brand_name": [
+          "hydrocortisone acetate pramoxine HCl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Image 2"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=29
+Page 29 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressing. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=30
+Page 30 of 48
+        "generic_name": [
+          "1.85% HYDROCORTISONE ACETATE - 1.15% PRAMOXINE HCI CREAM"
+        "brand_name": [
+          "PROCORT"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, burning, skin irritation."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=31
+Page 31 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE PRAMOXINE HCL"
+        "brand_name": [
+          "hydrocortisone acetate pramoxine hcl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: adverse reactions image"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=32
+Page 32 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressing. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=33
+Page 33 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Hydrocortisone Acetate and Pramoxine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=34
+Page 34 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE PRAMOXINE HCL"
+        "brand_name": [
+          "hydrocortisone acetate pramoxine hcl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Adverse reactions list"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=35
+Page 35 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram E Cream 2.5% Kit hydrocortisone acetate 2.5% pramoxine hydrochloride 1%"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=36
+Page 36 of 48
+        "generic_name": [
+          "HYDROCORTISONE / CHLOROXYLENOL / PRAMOXINE HCL"
+        "brand_name": [
+          "Pramoxine-HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions have been reported with topical corticosteroids, especially under occlusive dressings: burning, itching, irritation, dryness, folliculitis, hypertrichosis, allergic contact dermatitis, skin atrophy, striae and millaria. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=37
+Page 37 of 48
+        "generic_name": [
+          "PRAMOXINE HYDROCHLORIDE AND HYDROCORTISONE ACETATE"
+        "brand_name": [
+          "EPIFOAM"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-877-848-6610 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximately decreasing order of occurrence: Burning, Itching, Irritation, Dryness, Folliculitis, Hypertrichosis, Acneiform eruptions, Hypopigmentation, Perioral dermatitis, Allergic contact dermatitis, Maceration of the skin, Secondary infection, Skin atrophy, Striae, Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=38
+Page 38 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Foliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=39
+Page 39 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE PRAMOXINE HCL"
+        "brand_name": [
+          "hydrocortisone acetate pramoxine hcl"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=40
+Page 40 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Novacort"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning, Itching, Irritation, Dryness, Folliculitis, Hypertrichosis, Acneiform eruptions, Hypopigmentation, Perioral dermatitis, Allergic contact dermatitis, Maceration of the skin, Secondary infections, Skin Atrophy, Striae, and Miliaria."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS General Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Conditions which augment systemic absorption include the application of the more potent steroids, use over large surface areas, prolonged use, and the addition of occlusive dressings. Therefore, patients receiving a large dose of a potent topical steroid applied over a large surface area and under an occlusive dressing should be evaluated periodically for the evidence of HPA axis suppression by using the urinary free cortisol and ACTH stimulation tests. If HPA axis suppression is noted, an attempt should be made to withdraw the drug, to reduce the frequency of application, or to substitute a less potent steroid. Recovery of HPA axis function is usually prompt and complete upon discontinuation of the drug. Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids. Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity. (See WARNINGS AND PRECAUTIONS-Pediatric Use.) Keep out of reach of children. If irritation develops, topical corticosteroids should be discontinued and appropriate therapy instituted. Burning, itching, Irritation and dryness have been reported infrequently following the use of topical corticosteroids. In the presence of dermatological infections, the use of an appropriate antifungal or antibacterial agent should be instituted. If a favorable response does not occur promptly, the corticosteroid should be discontinued until the infection has been adequately controlled. Information for the Patient: Patients using topical corticosteroids should receive the following information and instructions: This medication is to be used as directed by the physician. It is for external use only. Avoid contact with the eyes. Patients should be advised not to use this medication for any disorder other than for which it was prescribed. The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician. Patients should report any signs of local adverse reactions especially under occlusive dressing. Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings. Laboratory Tests: The following tests may be helpful in evaluating the HPA axis suppression: (1) Urinary free cortisol test; and (2) ACTH stimulation test. Carcinogenesis, Mutagenesis, and Impairment of Fertility: Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical corticosteroids. Studies to determine mutagenicity with prednisolone and Hydrocortisone have revealed negative results. Pregnancy. Teratogenic Effects. Category C: Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels. The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals. There are no adequate and well-controlled studies in pregnant women on teratogenic effects from topically applied corticosteroids. Therefore, topical corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Drugs of this class should not be used extensively on pregnant patients, in large amounts, or for prolonged periods of time. Nursing Mothers: It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable amounts in breast milk. Systemically administered corticosteroids are secreted into breast milk in quantities NOT likely to have a deleterious effect on the infant. Nevertheless, caution should be exercised when topical corticosteroids are administered to a nursing woman. Pediatric Use: Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA axis suppression and Cushing's syndrome than mature patients because of a larger skin surface area to body weight ratio. Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, and intracranial hypertension have been reported in children receiving topical corticosteroids. Manifestations of adrenal suppression in children include linear growth retardation, delayed weight gain, low plasma cortisol levels, and absence of response to ACTH stimulation. Manifestations of intracranial hypertension include; bulging fontanelles, headaches, and bilateral papilledema. Administration of topical corticosteroids to children should be limited to the least amount compatible with an effective therapeutic regimen. Chronic corticosteroid therapy may interfere with the growth and development of children."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=41
+Page 41 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram E"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=42
+Page 42 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "pramosone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=43
+Page 43 of 48
+        "generic_name": [
+          "PRAMOXINE HCL / HYDROCORTISONE / CHLOROXYLENOL"
+        "brand_name": [
+          "Oticin HC Ear Drops"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions have been reported with topical corticosteroids, especially under occlusive dressings: burning, itching, irritation, dryness, folliculitis, hypertrichosis, allergic contact dermatitis, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=44
+Page 44 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone E Cream 2.5% hydrocortisone acetate 2.5% pramoxine hydrochloride 1%"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=45
+Page 45 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=46
+Page 46 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pramosone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressing. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+and+AND+Pramoxine&limit=1&skip=47
+Page 47 of 48
+        "generic_name": [
+          "HYDROCORTISONE ACETATE AND PRAMOXINE HYDROCHLORIDE"
+        "brand_name": [
+          "Analpram HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Itching Irritation Dryness Folliculitis Hypertrichosis Acneiform eruptions Hypopigmentation Perioral dermatitis Allergic contact dermatitis Maceration of the skin Secondary infection Skin atrophy Striae Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

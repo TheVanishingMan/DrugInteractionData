@@ -1,0 +1,20 @@
+I will do DeepDive, Ciabhan and Devendra will work with the RNN, Savannah will do the gradient boosting (run through algorithms and see what they get)  Labeling positive and negative examples.
+
+Labeling noise is known, don't worry too much about it.
+
+We will now move beyond, meeting in the middle.  We need to do privileged information and boosting (Raoul has the code, check github).  That is propositional rather than relational, train on openFDA and PubMed, use blogs as privileged information (Sriraam predicts this will be a massive failure).
+
+Run boosting on the PubMed, use openFDA to train --> run three algorithms: Deep dive, boosting, neural network.  Use the training to test on PubMed.
+
+Next: use openFDA and PubMed, build a model and test on social blogs.
+
+Take Naranjan and Vignish's labels, extract PubMed labels, combine with Ciabhan's labels.  Using them as labels, construct the positive/negative examples as:
+d1, d2 - positive
+d3, d4 - positive
+(therefore, d1 d4, d2 d3, etc)
+
+Submit to triple AI (if possible), AIME (AI in Medicine) in January if possible.
+
+Weak supervised on PubMed?
+
+"Truthy" for medical blogs (look up what Truthy is, relates to Complex Systems and evaluating accuracy of politicians).

@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Conjugated+AND+Estrogens+AND+for+AND+Injection&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "CONJUGATED ESTROGENS"
+        "brand_name": [
+          "Premarin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS See BOXED WARNINGS , WARNINGS , and PRECAUTIONS . Premarin Intravenous for injection is indicated for short-term use. However, the warnings, precautions and adverse reactions associated with oral Premarin treatment should be taken into account. The following adverse reactions have been identified during post-approval use of oral or intravenous Premarin. Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Genitourinary system Abnormal uterine bleeding/spotting. Dysmenorrhea or pelvic pain. Increase in size of uterine leiomyomata. Vaginitis, including vaginal candidiasis. Change in amount of cervical secretion. Change in cervical ectropion. Ovarian cancer. Endometrial hyperplasia. Endometrial cancer. Breasts Tenderness, enlargement, pain, discharge, galactorrhea. Fibrocystic breast changes. Breast cancer. Cardiovascular Deep and superficial venous thrombosis. Pulmonary embolism. Thrombophlebitis. Myocardial infarction. Stroke. Increase in blood pressure. Gastrointestinal Nausea, vomiting. Abdominal cramps, bloating. Cholestatic jaundice. Increased incidence of gallbladder disease. Pancreatitis. Enlargement of hepatic hemangiomas. Ischemic colitis. Skin Chloasma or melasma that may persist when drug is discontinued. Erythema multiforme. Erythema nodosum. Hemorrhagic eruption. Loss of scalp hair. Hirsutism. Pruritis. Rash. Eyes Retinal vascular thrombosis. Intolerance to contact lenses. Central Nervous System Headache. Migraine. Dizziness. Mental depression. Exacerbation of chorea. Nervousness. Exacerbation of epilepsy. Dementia. Possible growth potentiation of benign meningioma. Miscellaneous Increase or decrease in weight. Glucose intolerance. Aggravation of porphyria. Edema. Arthralgia. Leg cramps. Changes in libido. Urticaria. Hypocalcemia (preexisting condition). Injection site pain. Injection site edema. Phlebitis (injection site). Exacerbation of asthma. Increased triglycerides."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

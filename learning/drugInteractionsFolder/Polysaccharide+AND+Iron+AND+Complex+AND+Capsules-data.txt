@@ -1,0 +1,58 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Polysaccharide+AND+Iron+AND+Complex+AND+Capsules&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "FERROUS FUMARATE AND POLYSACCHARIDE IRON"
+        "brand_name": [
+          "Se-Tan DHA"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions: Folic Acid: Allergic sensitizations have been reported following both oral and parenteral administration of folic acid. Ferrous Fumarate: Gastrointestinal disturbances (anorexia, nausea, diarrhea, constipation) occur occasionally, but are usually mild and may subside with continuation of therapy. Although the absorption of iron is best when taken between meals, giving Se-Tan DHA after meals may control occasional G.I. disturbances. Se-Tan DHA is best absorbed when taken at bedtime."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Polysaccharide+AND+Iron+AND+Complex+AND+Capsules&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "FERROUS FUMARATE, POLYSACCHARIDE IRON COMPLEX"
+        "brand_name": [
+          "PureVit DualFe Plus"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions: Folic Acid: Allergic sensitizations have been reported following both oral and parenteral administration of folic acid. Ferrous Fumarate: Gastrointestinal disturbances (anorexia, nausea, diarrhea, constipation) occur occasionally, but are usually mild and may subside with continuation of therapy. Although the absorption of iron is best when taken between meals, giving PureVit DualFe Plus after meals may control occasional gastrointestinal disturbances. PureVit DualFe Plus is best absorbed when taken at bedtime. Call your doctor for medical advice about side effects. You may report suspected side effects to the FDA at 1-800-FDA-1088."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Polysaccharide+AND+Iron+AND+Complex+AND+Capsules&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "FERROUS FUMARATE AND POLYSACCHARIDE IRON"
+        "brand_name": [
+          "Se-Tan DHA"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions: Folic Acid: Allergic sensitizations have been reported following both oral and parenteral administration of folic acid. Ferrous Fumarate: Gastrointestinal disturbances (anorexia, nausea, diarrhea, constipation) occur occasionally, but are usually mild and may subside with continuation of therapy. Although the absorption of iron is best when taken between meals, giving Se-Tan DHA after meals may control occasional G.I. disturbances. Se-Tan DHA is best absorbed when taken at bedtime."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Polysaccharide+AND+Iron+AND+Complex+AND+Capsules&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "POLYSACCHARIDE-IRON COMPLEX"
+        "brand_name": [
+          "IFEREX 150"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Polysaccharide+AND+Iron+AND+Complex+AND+Capsules&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "FERROUS FUMARATE AND POLYSACCHARIDE IRON COMPLEX"
+        "brand_name": [
+          "PureFe OB Plus"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions: Folic Acid: Allergic sensitizations have been reported following both oral and parenteral administration of folic acid. Ferrous Fumarate: Gastrointestinal disturbances (anorexia, nausea, diarrhea, constipation) occur occasionally, but are usually mild and may subside with continuation of therapy. Although the absorption of iron is best when taken between meals, giving PureFe OB Plus after meals may control occasional gastrointestinal disturbances. PureFe OB Plus is best absorbed when taken at bedtime. Call your doctor for medical advice about side effects. You may report suspected side effects to the FDA at 1-800-FDA-1088."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

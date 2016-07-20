@@ -1,0 +1,48 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinolone+AND+Acetonide+AND+Oil+AND+Ear+AND+Drops&limit=1&skip=0
+Page 0 of 4
+        "generic_name": [
+          "FLUOCINOLONE ACETONIDE"
+        "brand_name": [
+          "Fluocinolone Acetonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions have been reported infrequently with topical corticosteroids. They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinolone+AND+Acetonide+AND+Oil+AND+Ear+AND+Drops&limit=1&skip=1
+Page 1 of 4
+        "generic_name": [
+          "FLUOCINOLONE ACETONIDE"
+        "brand_name": [
+          "Fluocinolone Acetonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions have been reported infrequently with topical corticosteroids. They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinolone+AND+Acetonide+AND+Oil+AND+Ear+AND+Drops&limit=1&skip=2
+Page 2 of 4
+        "generic_name": [
+          "FLUOCINOLONE ACETONIDE"
+        "brand_name": [
+          "Fluocinolone acetonide 0.01%"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions have been reported infrequently with topical corticosteroids. They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria. One peanut sensitive child experienced a flare of his atopic dermatitis after 5 days of twice daily treatment with Fluocinolone acetonide 0.01% Oil."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluocinolone+AND+Acetonide+AND+Oil+AND+Ear+AND+Drops&limit=1&skip=3
+Page 3 of 4
+        "generic_name": [
+          "FLUOCINOLONE ACETONIDE"
+        "brand_name": [
+          "DermOtic"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions have been reported infrequently with topical corticosteroids. They may occur more frequently with the use of occlusive dressings, especially with higher potency corticosteroids. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria. One peanut sensitive child experienced a flare of his atopic dermatitis after 5 days of twice daily treatment with Derma-Smoothe/FS(R) Topical Oil."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,1256 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=0
+Page 0 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "kirkland signature minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=1
+Page 1 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil for Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=2
+Page 2 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "MINOXIDIL"
+ 
+      "drug_interactions": [
+        "4. Drug interactions See \"Interaction with Guanethidine\" under WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention (see WARNINGS: Concomitant use of Adequate Diuretic is Required) — Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial Effusion and Tamponade (see WARNINGS ). 3. Dermatologic — Hypertrichosis — Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic — Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic — Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal — Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous — Breast tenderness — This developed in less than 1 % of patients. 7. Altered Laboratory Findings — (a) ECG changes — Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution — hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other — Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=3
+Page 3 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Solution"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=4
+Page 4 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "MINOXIDIL"
+ 
+      "drug_interactions": [
+        "4. Drug interactions See \" \" under . Interaction with Guanethidine WARNINGS"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (see ) — Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 1. Salt and Water Retention WARNINGS: Concomitant use of Adequate Diuretic is Required (see ). 2. Pericarditis, Pericardial Effusion and Tamponade WARNINGS — — Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. 3. Dermatologic Hypertrichosis — Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. Allergic — Thrombocytopenia and leukopenia (WBC<3000/mm ) have rarely been reported. 4. Hematologic 3 — Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 5. Gastrointestinal — Breast tenderness — This developed in less than 1 % of patients. 6. Miscellaneous — — Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. — hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. — Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels. 7. Altered Laboratory Findings (a) ECG changes (b) Effects of hemodilution (c) Other"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=5
+Page 5 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "MINOXIDIL"
+ 
+      "drug_interactions": [
+        "4. Drug interactions See \"Interaction with Guanethidine\" under WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention (see WARNINGS: Concomitant use of Adequate Diuretic is Required) — Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial Effusion and Tamponade (see WARNINGS ). 3. Dermatologic — Hypertrichosis — Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic — Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic — Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal — Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous — Breast tenderness — This developed in less than 1 % of patients. 7. Altered Laboratory Findings — (a) ECG changes — Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution — hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other — Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=6
+Page 6 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "image essentials hair regrowth treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=7
+Page 7 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+      "drug_interactions": [
+        "Drug Interactions See "Interaction with Guanethidine" under WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention(seeWARNINGS:Concomitant Use of Adequate Diuretic is Required) - Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial EffusionandTamponade(seeWARNINGS). 3. Dermatologic -Hypertrichosis-Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic - Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic -Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal -Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous -Breast tenderness - This developed in less than 1% of patients. 7. Altered Laboratory Findings -(a) ECG changes - Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other - Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=8
+Page 8 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "simply right minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=9
+Page 9 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "kirkland signature Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=10
+Page 10 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+      "drug_interactions": [
+        "4. Drug Interactions See "Interaction with Guanethidine" under WARNINGS ."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention (see WARNINGS: Concomitant Use of Adequate Diuretic is Required)—Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial Effusion and Tamponade (see WARNINGS). 3. Dermatologic -Hypertrichosis-Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic - Rashes have been reported, including rare reports of bullous eruptions, toxic epidermal necrolysis, and Stevens-Johnson Syndrome. 4. Hematologic - Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal - Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous - Breast tenderness - This developed in less than 1% of patients. 7. Altered Laboratory Findings - (a) ECG changes - Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other - Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=11
+Page 11 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=12
+Page 12 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=13
+Page 13 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS SeeInteraction with GuanethidineunderWARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention(seeWARNINGS:Concomitant Use of Adequate Diuretic is Required) - Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial EffusionandTamponade(seeWARNINGS). 3. Dermatologic -Hypertrichosis-Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic - Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic -Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal -Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous -Breast tenderness - This developed in less than 1% of patients. 7. Altered Laboratory Findings -(a) ECG changes - Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other - Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=14
+Page 14 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=15
+Page 15 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=16
+Page 16 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Image Essentials Hair Regrowth Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=17
+Page 17 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "equaline hair regrowth treatment for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=18
+Page 18 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Good Sense hair regrowth treatment for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=19
+Page 19 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=20
+Page 20 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "up and up hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=21
+Page 21 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "good sense hair regrowth treatment for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=22
+Page 22 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Toppik Womens Hair Regrowth Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=23
+Page 23 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "harmon face values minoxidil mens"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=24
+Page 24 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment Extra Strength for Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=25
+Page 25 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "equate hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=26
+Page 26 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment for Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=27
+Page 27 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment for Men Extra Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=28
+Page 28 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Nioxin Hair Regrowth Treatment for Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=29
+Page 29 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Qilib Hair Regrowth Treatment for Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=30
+Page 30 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=31
+Page 31 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=32
+Page 32 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "minoxidil for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=33
+Page 33 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Womens Rogaine Unscented"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=34
+Page 34 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment for Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=35
+Page 35 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "KERANIQUE For Women Hair Regrowth Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=36
+Page 36 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=37
+Page 37 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=38
+Page 38 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "MINOXIDIL"
+ 
+      "drug_interactions": [
+        "4. Drug Interactions See "Interaction with Guanethidine" under WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention (see WARNINGS: Concomitant Use of an Adequate Diuretic is Required)—Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial Effusion, and Tamponade (see WARNINGS). 3. Dermatologic—Hypertrichosis—Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic—Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic—Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal—Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous—Breast tenderness—This developed in less than 1% of patients. 7. Altered Laboratory Findings—(a) ECG changes—Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b)—Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other—Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=39
+Page 39 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=40
+Page 40 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=41
+Page 41 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=42
+Page 42 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "HAIR REGROWTH TREATMENT FOR WOMEN"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=43
+Page 43 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Womens Rogaine Unscented"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=44
+Page 44 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "BOSLEY PROFESSIONAL STRENGTH HAIR REGROWTH TREATMENT Regular Strength For Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=45
+Page 45 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Kirkland Signature Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=46
+Page 46 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Pantene Pro-V Expert Collection Hair Regrowth Treatment for Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=47
+Page 47 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment for Men Extra Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=48
+Page 48 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=49
+Page 49 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "members mark minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=50
+Page 50 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil regular strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=51
+Page 51 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "vanarex hair regrowth treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=52
+Page 52 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Solution"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=53
+Page 53 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil For Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=54
+Page 54 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Toppik Mens Hair Regrowth Treatment Extra Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=55
+Page 55 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=56
+Page 56 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "harmon face values minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=57
+Page 57 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "MINOXIDIL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention (see WARNINGS: Concomitant use of Adequate Diuretic is Required) — Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial Effusion and Tamponade (see WARNINGS ). 3. Dermatologic — Hypertrichosis — Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic — Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic — Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal — Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous — Breast tenderness — This developed in less than 1 % of patients. 7. Altered Laboratory Findings — (a) ECG changes — Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution — hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other — Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=58
+Page 58 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "signature care hair regrowth treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=59
+Page 59 of 120
+        "generic_name": [
+          "5% MINOXIDIL TOPICAL SOLUTION"
+        "brand_name": [
+          "Hair Regrow"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=60
+Page 60 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "minoxidil foam"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=61
+Page 61 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "minoxidil for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=62
+Page 62 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=63
+Page 63 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Equaline Hair Regrowth Treatment For Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=64
+Page 64 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "up and up minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=65
+Page 65 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Mens rogaine Unscented Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=66
+Page 66 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment Extra Strength for Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=67
+Page 67 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment Extra Strength for Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=68
+Page 68 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=69
+Page 69 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=70
+Page 70 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "CareOne Hair Regrowth Treatment Extra Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=71
+Page 71 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Members Mark Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=72
+Page 72 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+      "drug_interactions": [
+        "4. Drug Interactions See "Interaction with Guanethidine" under WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention (see WARNINGS:Concomitant Use of Adequate Diuretic is Required) - Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial Effusion and Tamponade (see WARNINGS). 3. Dermatologic -Hypertrichosis-Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic - Rashes have been reported, including rare reports of bullous eruptions, toxic epidermal necrolysis, and Stevens-Johnson Syndrome. 4. Hematologic -Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal -Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous -Breast tenderness - This developed in less than 1% of patients. 7. Altered Laboratory Findings - (a) ECG changes - Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other - Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=73
+Page 73 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "good sense hair regrowth treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=74
+Page 74 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "BOSLEY PROFESSIONAL STRENGTH HAIR REGROWTH TREATMENT Regular Strength For Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=75
+Page 75 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+      "drug_interactions": [
+        "Drug Interactions See "Interaction with Guanethidine" under WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention(seeWARNINGS:Concomitant Use of Adequate Diuretic is Required) - Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial EffusionandTamponade(seeWARNINGS). 3. Dermatologic -Hypertrichosis-Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic - Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic -Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal -Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous -Breast tenderness - This developed in less than 1% of patients. 7. Altered Laboratory Findings -(a) ECG changes - Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other - Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=76
+Page 76 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Equaline hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=77
+Page 77 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "simply right minoxidil extra strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=78
+Page 78 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+      "drug_interactions": [
+        "Drug Interactions See "Interaction with Guanethidine" under WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention(seeWARNINGS:Concomitant Use of Adequate Diuretic is Required) - Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial EffusionandTamponade(seeWARNINGS). 3. Dermatologic -Hypertrichosis-Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic - Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic -Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal -Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous -Breast tenderness - This developed in less than 1% of patients. 7. Altered Laboratory Findings -(a) ECG changes - Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other - Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=79
+Page 79 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil Form Men extra strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=80
+Page 80 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Cerafill Retaliate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=81
+Page 81 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "careone hair regrowth treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=82
+Page 82 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "good neighbor pharmacy hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=83
+Page 83 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=84
+Page 84 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "equate hair regrowth treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=85
+Page 85 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+      "drug_interactions": [
+        "4. Drug Interactions See "Interaction with Guanethidine" under WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention (see WARNINGS: Concomitant Use of an Adequate Diuretic is Required)—Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial Effusion, and Tamponade (see WARNINGS). 3. Dermatologic—Hypertrichosis—Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic—Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic—Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal—Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous—Breast tenderness—This developed in less than 1% of patients. 7. Altered Laboratory Findings—(a) ECG changes—Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b)—Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other—Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=86
+Page 86 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "MINOXIDIL"
+ 
+      "drug_interactions": [
+        "4. Drug interactions See \"Interaction with Guanethidine\" under WARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention (see WARNINGS: Concomitant use of Adequate Diuretic is Required) — Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial Effusion and Tamponade (see WARNINGS ). 3. Dermatologic — Hypertrichosis — Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic — Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic — Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal — Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous — Breast tenderness — This developed in less than 1 % of patients. 7. Altered Laboratory Findings — (a) ECG changes — Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution — hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other — Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=87
+Page 87 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Womens Rogaine - Unscented"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=88
+Page 88 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "up and up minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=89
+Page 89 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil regular strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=90
+Page 90 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment For Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=91
+Page 91 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "up and up hair regrowth treatment for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=92
+Page 92 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Mens Hair Regrowth Treatment extra strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=93
+Page 93 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Qilib Hair Regrowth Treatment for Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=94
+Page 94 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Loesch Hair Regrowth Formula Unscented Topical Solution Regular-Strength for Men and Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=95
+Page 95 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "equaline hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=96
+Page 96 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Mens Rogaine Extra Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=97
+Page 97 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "renewal for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=98
+Page 98 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=99
+Page 99 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Cerafill Retaliate Extra Strength For Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=100
+Page 100 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Up and Up minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=101
+Page 101 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "minoxidil for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=102
+Page 102 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Good Sense Hair Regrowth Treatment for Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=103
+Page 103 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Loesch Hair Regrowth Formula Unscented Topical Solution Extra-Strength for Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=104
+Page 104 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=105
+Page 105 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=106
+Page 106 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Nioxin Hair Regrowth Treatment Extra Strength for Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=107
+Page 107 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+      "drug_interactions": [
+        "4. Drug Interactions See "Interaction with Guanethidine" underWARNINGS."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention(seeWARNINGS:Concomitant Use of Adequate Diuretic is Required) - Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial EffusionandTamponade(seeWARNINGS). 3. Dermatologic -Hypertrichosis-Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic - Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic -Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal -Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous -Breast tenderness - This developed in less than 1% of patients. 7. Altered Laboratory Findings -(a) ECG changes - Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other - Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=108
+Page 108 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Minoxidil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS 1. Salt and Water Retention(seeWARNINGS:Concomitant Use of Adequate Diuretic is Required) - Temporary edema developed in 7% of patients who were not edematous at the start of therapy. 2. Pericarditis, Pericardial EffusionandTamponade(seeWARNINGS). 3. Dermatologic -Hypertrichosis-Elongation, thickening, and enhanced pigmentation of fine body hair are seen in about 80% of patients taking minoxidil tablets. This develops within 3 to 6 weeks after starting therapy. It is usually first noticed on the temples, between the eyebrows, between the hairline and the eyebrows, or in the side-burn area of the upper lateral cheek, later extending to the back, arms, legs, and scalp. Upon discontinuation of minoxidil, new hair growth stops, but 1 to 6 months may be required for restoration to pretreatment appearance. No endocrine abnormalities have been found to explain the abnormal hair growth; thus, it is hypertrichosis without virilism. Hair growth is especially disturbing to children and women and such patients should be thoroughly informed about this effect before therapy with minoxidil is begun. Allergic - Rashes have been reported, including rare reports of bullous eruptions, and Stevens-Johnson Syndrome. 4. Hematologic -Thrombocytopenia and leukopenia (WBC<3000/mm3) have rarely been reported. 5. Gastrointestinal -Nausea and/or vomiting has been reported. In clinical trials the incidence of nausea and vomiting associated with the underlying disease has shown a decrease from pretrial levels. 6. Miscellaneous -Breast tenderness - This developed in less than 1% of patients. 7. Altered Laboratory Findings -(a) ECG changes - Changes in direction and magnitude of the ECG T-waves occur in approximately 60% of patients treated with minoxidil. In rare instances a large negative amplitude of the T-wave may encroach upon the S-T segment, but the S-T segment is not independently altered. These changes usually disappear with continuance of treatment and revert to the pretreatment state if minoxidil is discontinued. No symptoms have been associated with these changes, nor have there been alterations in blood cell counts or in plasma enzyme concentrations that would suggest myocardial damage. Long-term treatment of patients manifesting such changes has provided no evidence of deteriorating cardiac function. At present the changes appear to be nonspecific and without identifiable clinical significance. (b) Effects of hemodilution-hematocrit, hemoglobin and erythrocyte count usually fall about 7% initially and then recover to pretreatment levels. (c) Other - Alkaline phosphatase increased varyingly without other evidence of liver or bone abnormality. Serum creatinine increased an average of 6% and BUN slightly more, but later declined to pretreatment levels."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=109
+Page 109 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment for Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=110
+Page 110 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "equate hair regrowth treatment for women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=111
+Page 111 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Image Essentials Hair Regrowth Treatment For Men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=112
+Page 112 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Mens Kirkland Extra Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=113
+Page 113 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment for Men Extra Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=114
+Page 114 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Hair Regrowth Treatment for Women"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=115
+Page 115 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=116
+Page 116 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "Re-Gro"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=117
+Page 117 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "harmon face values minoxidil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=118
+Page 118 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "leader hair regrowth treatment"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Minoxidil&limit=1&skip=119
+Page 119 of 120
+        "generic_name": [
+          "MINOXIDIL"
+        "brand_name": [
+          "hair regrowth treatment for men"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

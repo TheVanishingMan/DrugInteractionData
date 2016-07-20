@@ -1,0 +1,432 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=0
+Page 0 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, and angioedema and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated. To report SUSPECTED ADVERSE EVENTS, contact FDA at 1-800-FDA-1088 or www.fda.gov."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=1
+Page 1 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=2
+Page 2 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=3
+Page 3 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=4
+Page 4 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (See WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (See DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=5
+Page 5 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=6
+Page 6 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=7
+Page 7 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=8
+Page 8 of 36
+        "generic_name": [
+          "CEFADROXIL MONOHYDRATE"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=9
+Page 9 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=10
+Page 10 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "CEFADROXIL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=11
+Page 11 of 36
+        "generic_name": [
+          "CEFADROXIL MONOHYDRATE"
+        "brand_name": [
+          "CEFADROXIL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=12
+Page 12 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=13
+Page 13 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=14
+Page 14 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=15
+Page 15 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=16
+Page 16 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=17
+Page 17 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=18
+Page 18 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=19
+Page 19 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=20
+Page 20 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=21
+Page 21 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=22
+Page 22 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=23
+Page 23 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "CEFADROXIL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=24
+Page 24 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (See WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (See DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=25
+Page 25 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=26
+Page 26 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=27
+Page 27 of 36
+        "generic_name": [
+          "CEFADROXIL HEMIHYDRATE"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS GastrointestinalOnset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. HypersensitivityAllergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. OtherOther reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia,idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, hepatic dysfunction including cholestasis, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=28
+Page 28 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=29
+Page 29 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=30
+Page 30 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics. Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=31
+Page 31 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=32
+Page 32 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=33
+Page 33 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=34
+Page 34 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cefadroxil&limit=1&skip=35
+Page 35 of 36
+        "generic_name": [
+          "CEFADROXIL"
+        "brand_name": [
+          "Cefadroxil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment (see WARNINGS ). Dyspepsia, nausea and vomiting have been reported rarely. Diarrhea has also occurred. Hypersensitivity Allergies (in the form of rash, urticaria, angioedema, and pruritus) have been observed. These reactions usually subsided upon discontinuation of the drug. Anaphylaxis has also been reported. Other Other reactions have included hepatic dysfunction including cholestasis and elevations in serum transaminase, genital pruritus, genital moniliasis, vaginitis, moderate transient neutropenia, fever. Agranulocytosis, thrombocytopenia, idiosyncratic hepatic failure, erythema multiforme, Stevens-Johnson syndrome, serum sickness, and arthralgia have been rarely reported. In addition to the adverse reactions listed above which have been observed in patients treated with cefadroxil, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibiotics: Toxic epidermal necrolysis, abdominal pain, superinfection, renal dysfunction, toxic nephropathy, aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, increased BUN, increased creatinine, elevated alkaline phosphatase, elevated aspartate aminotransferase (AST), elevated alanine aminotransferase (ALT), elevated bilirubin, elevated LDH, eosinophilia, pancytopenia, neutropenia. Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment, when the dosage was not reduced (see DOSAGE AND ADMINISTRATION and OVERDOSAGE ). If seizures associated with drug therapy occur, the drug should be discontinued. Anticonvulsant therapy can be given if clinically indicated."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

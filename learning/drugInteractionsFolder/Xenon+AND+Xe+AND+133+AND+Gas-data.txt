@@ -1,0 +1,24 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Xenon+AND+Xe+AND+133+AND+Gas&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "XENON XE-133"
+        "brand_name": [
+          "Xenon"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions related to the use of this agent have not been reported to date."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Xenon+AND+Xe+AND+133+AND+Gas&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "XENON"
+        "brand_name": [
+          "Xenon, Xe-133"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions specifically attributable to Xenon Xe 133 Gas have not been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

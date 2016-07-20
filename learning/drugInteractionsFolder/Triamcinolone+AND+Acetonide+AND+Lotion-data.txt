@@ -1,0 +1,72 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Triamcinolone+AND+Acetonide+AND+Lotion&limit=1&skip=0
+Page 0 of 6
+        "generic_name": [
+          "TRIAMCINOLONE ACETONIDE"
+        "brand_name": [
+          "Triamcinolone Acetonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings (reactions are listed in an approximate decreasing order of occurrence): burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Triamcinolone+AND+Acetonide+AND+Lotion&limit=1&skip=1
+Page 1 of 6
+        "generic_name": [
+          "TRIAMCINOLONE ACETONIDE"
+        "brand_name": [
+          "Triamcinolone Acetonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin Atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Triamcinolone+AND+Acetonide+AND+Lotion&limit=1&skip=2
+Page 2 of 6
+        "generic_name": [
+          "TRIAMCINOLONE ACETONIDE"
+        "brand_name": [
+          "Triamcinolone Acetonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin Atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Triamcinolone+AND+Acetonide+AND+Lotion&limit=1&skip=3
+Page 3 of 6
+        "generic_name": [
+          "TRIAMCINOLONE ACETONIDE"
+        "brand_name": [
+          "Triamcinolone Acetonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Hypertrichosis Maceration of the skin Itching Acneiform eruptions Secondary infection Irritation Hypopigmentation Skin Atrophy Dryness Perioral dermatitis Striae Folliculitis Allergic contact dermatitis Miliaria"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Triamcinolone+AND+Acetonide+AND+Lotion&limit=1&skip=4
+Page 4 of 6
+        "generic_name": [
+          "TRIAMCINOLONE ACETONIDE"
+        "brand_name": [
+          "triamcinolone acetonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Triamcinolone+AND+Acetonide+AND+Lotion&limit=1&skip=5
+Page 5 of 6
+        "generic_name": [
+          "TRIAMCINOLONE ACETONIDE"
+        "brand_name": [
+          "Triamcinolone Acetonide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following local adverse reactions are reported infrequently with topical corticosteroids, but may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: Burning Perioral dermatitis Itching Allergic contact dermatitis Irritation Maceration of the skin Dryness Secondary infection Folliculitis Skin Atrophy Hypertrichosis Striae Acneiform eruptions Miliaria Hypopigmentation"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

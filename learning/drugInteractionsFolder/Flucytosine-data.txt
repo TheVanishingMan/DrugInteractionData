@@ -1,0 +1,64 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flucytosine&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "FLUCYTOSINE"
+        "brand_name": [
+          "Flucytosine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions which have occurred during treatment with Flucytosine Capsules are grouped according to organ system affected. Cardiovascular: Cardiac arrest, myocardial toxicity, ventricular dysfunction. Respiratory: Respiratory arrest, chest pain, dyspnea. Dermatologic: Rash, pruritus, urticaria, photosensitivity. Gastrointestinal: Nausea, emesis, abdominal pain, diarrhea, anorexia, dry mouth, duodenal ulcer, gastrointestinal hemorrhage, acute hepatic injury including hepatic necrosis with possible fatal outcome in debilitated patients, hepatic dysfunction, jaundice, ulcerative colitis, enterocolitis, bilirubin elevation, increased hepatic enzymes. Genitourinary: Azotemia, creatinine and BUN elevation, crystalluria, renal failure. Hematologic: Anemia, agranulocytosis, aplastic anemia, eosinophilia, leukopenia, pancytopenia, thrombocytopenia, and fatal cases of bone marrow aplasia. Neurologic: Ataxia, hearing loss, headache, paresthesia, parkinsonism, peripheral neuropathy, pyrexia, vertigo, sedation, convulsions. Psychiatric: Confusion, hallucinations, psychosis. Miscellaneous: Fatigue, hypoglycemia, hypokalemia, weakness, allergic reactions, Lyell's syndrome."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flucytosine&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "FLUCYTOSINE"
+        "brand_name": [
+          "Flucytosine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Fatigue, hypoglycemia, hypokalemia, weakness, allergic reactions, Lyell's syndrome. The adverse reactions which have occurred during treatment with Flucytosine Capsules are grouped according to organ system affected. Cardiac arrest, myocardial toxicity, ventricular dysfunction. Cardiovascular: Respiratory arrest, chest pain, dyspnea. Respiratory: Rash, pruritus, urticaria, photosensitivity. Dermatologic: Nausea, emesis, abdominal pain, diarrhea, anorexia, dry mouth, duodenal ulcer, gastrointestinal hemorrhage, acute hepatic injury including hepatic necrosis with possible fatal outcome in debilitated patients, hepatic dysfunction, jaundice, ulcerative colitis, enterocolitis, bilirubin elevation, increased hepatic enzymes. Gastrointestinal: Azotemia, creatinine and BUN elevation, crystalluria, renal failure. Genitourinary: Anemia, agranulocytosis, aplastic anemia, eosinophilia, leukopenia, pancytopenia, thrombocytopenia, and fatal cases of bone marrow aplasia. Hematologic: Ataxia, hearing loss, headache, paresthesia, parkinsonism, peripheral neuropathy, pyrexia, vertigo, sedation, convulsions. Neurologic: Confusion, hallucinations, psychosis. Psychiatric: Miscellaneous:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flucytosine&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "FLUCYTOSINE"
+        "brand_name": [
+          "Flucytosine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions which have occurred during treatment with Flucytosine Capsules are grouped according to organ system affected. Cardiovascular: Cardiac arrest, myocardial toxicity, ventricular dysfunction. Respiratory: Respiratory arrest, chest pain, dyspnea. Dermatologic: Rash, pruritus, urticaria, photosensitivity. Gastrointestinal: Nausea, emesis, abdominal pain, diarrhea, anorexia, dry mouth, duodenal ulcer, gastrointestinal hemorrhage, acute hepatic injury including hepatic necrosis with possible fatal outcome in debilitated patients, hepatic dysfunction, jaundice, ulcerative colitis, enterocolitis, bilirubin elevation, increased hepatic enzymes. Genitourinary: Azotemia, creatinine and BUN elevation, crystalluria, renal failure. Hematologic: Anemia, agranulocytosis, aplastic anemia, eosinophilia, leukopenia, pancytopenia, thrombocytopenia, and fatal cases of bone marrow aplasia. Neurologic: Ataxia, hearing loss, headache, paresthesia, parkinsonism, peripheral neuropathy, pyrexia, vertigo, sedation, convulsions. Psychiatric: Confusion, hallucinations, psychosis. Miscellaneous: Fatigue, hypoglycemia, hypokalemia, weakness, allergic reactions, Lyell's syndrome."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flucytosine&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "FLUCYTOSINE"
+        "brand_name": [
+          "Ancobon"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cytosine arabinoside, a cytostatic agent, has been reported to inactivate the antifungal activity of Ancobon by competitive inhibition. Drugs which impair glomerular filtration may prolong the biological half-life of flucytosine."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions which have occurred during treatment with Ancobon are grouped according to organ system affected. Cardiovascular: Cardiac arrest, myocardial toxicity, ventricular dysfunction. Respiratory: Respiratory arrest, chest pain, dyspnea. Dermatologic: Rash, pruritus, urticaria, photosensitivity. Gastrointestinal: Nausea, emesis, abdominal pain, diarrhea, anorexia, dry mouth, duodenal ulcer, gastrointestinal hemorrhage, acute hepatic injury including hepatic necrosis with possible fatal outcome in debilitated patients, hepatic dysfunction, jaundice, ulcerative colitis, enterocolitis, bilirubin elevation, increased hepatic enzymes. Genitourinary: Azotemia, creatinine and BUN elevation, crystalluria, renal failure. Hematologic: Anemia, agranulocytosis, aplastic anemia, eosinophilia, leukopenia, pancytopenia, thrombocytopenia, and fatal cases of bone marrow aplasia. Neurologic: Ataxia, hearing loss, headache, paresthesia, parkinsonism, peripheral neuropathy, pyrexia, vertigo, sedation, convulsions. Psychiatric: Confusion, hallucinations, psychosis. Miscellaneous: Fatigue, hypoglycemia, hypokalemia, weakness, allergic reactions, Lyell's syndrome."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Flucytosine&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "FLUCYTOSINE"
+        "brand_name": [
+          "ANCOBON"
+ 
+      "drug_interactions": [
+        "Drug Interactions Cytosine arabinoside, a cytostatic agent, has been reported to inactivate the antifungal activity of Ancobon by competitive inhibition. Drugs which impair glomerular filtration may prolong the biological half-life of flucytosine."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The adverse reactions which have occurred during treatment with Ancobon are grouped according to organ system affected. Cardiovascular: Cardiac arrest, myocardial toxicity, ventricular dysfunction. Respiratory: Respiratory arrest, chest pain, dyspnea. Dermatologic: Rash, pruritus, urticaria, photosensitivity. Gastrointestinal: Nausea, emesis, abdominal pain, diarrhea, anorexia, dry mouth, duodenal ulcer, gastrointestinal hemorrhage, acute hepatic injury including hepatic necrosis with possible fatal outcome in debilitated patients, hepatic dysfunction, jaundice, ulcerative colitis, enterocolitis, bilirubin elevation, increased hepatic enzymes. Genitourinary: Azotemia, creatinine and BUN elevation, crystalluria, renal failure. Hematologic: Anemia, agranulocytosis, aplastic anemia, eosinophilia, leukopenia, pancytopenia, thrombocytopenia, and fatal cases of bone marrow aplasia. Neurologic: Ataxia, hearing loss, headache, paresthesia, parkinsonism, peripheral neuropathy, pyrexia, vertigo, sedation, convulsions. Psychiatric: Confusion, hallucinations, psychosis. Miscellaneous: Fatigue, hypoglycemia, hypokalemia, weakness, allergic reactions, Lyell's syndrome."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

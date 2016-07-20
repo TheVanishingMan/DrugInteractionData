@@ -1,0 +1,522 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=0
+Page 0 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=1
+Page 1 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=2
+Page 2 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=3
+Page 3 of 38
+        "generic_name": [
+          "RETINOL, ERGOCALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, NIACINAMIDE, RIBOFLAVIN 5-PHOSPHATE SODIUM, THIAMINE HYDROCHLORIDE, PYRIDOXINE HYDROCHLORIDE, DEXPANTHENOL, BIOTIN, FOLIC ACID, AND CYANOCOBALAMIN"
+        "brand_name": [
+          "MULTI VITAMIN INFUSION"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS A number of drug interactions between vitamins and other drugs have been reported. Consult appropriate references for additional specific vitamin-drug interactions. The following are examples of these types of interactions: A number of interactions between vitamins and drugs have been reported. The following are examples of these interactions: Physical Incompatibilities (7.1): Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid have been reported to decrease the antibiotic activity of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin. Bleomycin Clinical Interactions : Phenytoin (7.1) Levodopa (7.1) Chloramphenicol (7.2) 7.1 Clinical Interactions Affecting Drug Levels Folic acid Phenytoin metabolism may be increased by folic acid. Low serum concentration of phenytoin may result in increased seizure frequency. Patient's response to methotrexate therapy may be decreased by folic acid. Pyridoxine The metabolism of levodopa may be increased and its efficacy may be decreased by pyridoxine. Antibiotics Antibiotic activity of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin is decreased by thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid. Bleomycin is inactivated in vitro by ascorbic acid and riboflavin. 7.2 Clinical Interactions Affecting Vitamin Levels Hydralazine, Isoniazid Pyridoxine requirements may be increased by concomitant administration of hydralazine or isoniazid. Chloramphenicol In patients with pernicious anemia, the hematologic response to vitamin B12 therapy may be inhibited by concomitant administration of chloramphenicol. Phenytoin Serum folic acid concentrations may be decreased by phenytoin and, therefore it should be avoided in pregnancy.",
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other section of the labeling. Allergic and anaphylactoid reactions following intravenous administration of thiamine [ see Warnings and Precautions (5.4) ] . Hypervitaminosis A [ see Warnings and Precautions (5.5) ] . Other adverse reactions: Dermatologic : rash, erythema, pruritus CN S : headache: dizziness, agitation, anxiety Ophthalmic : diplopia There have been rare reports of the following types of reactions (6): Allergic — anaphylactoid reactions following large intravenous doses of thiamine, urticaria, periorbital and digital edema Dermatologic — rash, erythema, pruritus CNS — headache, dizziness, agitation, anxiety Ophthalmic — diplopia To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS This product contains aluminum that may be toxic. (5.1) Studies have shown that vitamin A may adhere to plastic, resulting in inadequate vitamin A administration in the doses recommended with M.V.I.-12(TM). (5.2) Do not add M.V.I.-12(TM) directly to intravenous fat emulsions. (5.3) Allergic reactions such as urticaria, periorbital and digital edema, have been reported following intravenous administration of thiamine. (5.4) Hypervitaminosis A has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. (5.5) Do not administer M.V.I.-12(TM) to patients with suspected or diagnosed megaloblastic anemia prior to the blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. (5.6) Blood vitamin concentration should be periodically monitored to determine if vitamin deficiencies or excesses are developing. (5.7) Ascorbic acid in the urine may cause negative urine glucose determination. (5.8) 5.1 Aluminum Toxicity M.V.I.-12(TM) contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. 5.2 Adherence of Vitamin A to Plastic Studies have shown that vitamin A, which is found in M.V.I.-12(TM), may adhere to polyvinyl chloride (PVC) plastic, resulting in lower vitamin A concentrations in the administered M.V.I.-12(TM) doses. Therefore, blood vitamin concentrations should be periodically monitored and the administration of additional therapeutic doses of Vitamin A may be required [ see Warnings and Precautions (5.7) ]. 5.3 Intravenous Fat Emulsions Do not add M.V.I.-12(TM) directly to intravenous fat emulsions. 5.4 Allergic Reactions to Thiamine Allergic reactions such as urticaria, periorbital and digital edema, have been reported following intravenous administration of thiamine, which is found in M.V.I.-12(TM). There have been rare reports of anaphylactoid reactions following large intravenous doses of thiamine. No fatal anaphylactoid reactions associated with M.V.I.-12(TM) have been reported. 5.5 Hypervitaminosis A Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision, has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. Therefore, supplementation of renal failure patients and patients with liver diseases with vitamin A, an ingredient found in M.V.I.-12(TM), should be undertaken with caution [ see Use in Specific Populations (8.6, 8.7) ]. 5.6 Blood Sampling of Megaloblastic Anemia Patients Do not administer M.V.I.-12(TM) to patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. The folic acid and the cyanocobalamin in the M.V.I.-12(TM) solution can mask serum deficits of folic acid and cyanocobalamin in these patients. 5.7 Monitor Blood Vitamin Concentrations In patients receiving parenteral multivitamins, such as with M.V.I.-12(TM), blood vitamin concentrations should be periodically monitored to determine if vitamin deficiencies or excesses are developing. M.V.I.-12(TM) may not correct long-standing specific vitamin deficiencies. The administration of additional therapeutic doses of specific vitamins may be required [ see Dosage and Administration (2.2) ]. 5.8 Interference with Urine Glucose Testing M.V.I-12(TM) contains Vitamin C, which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose determinations.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=4
+Page 4 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "DRISDOL"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with DRISDOL may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal:Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS:Mental retardation. Soft Tissues:Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal:Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal:Nausea, anorexia, constipation. Metabolic:Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=5
+Page 5 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=6
+Page 6 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=7
+Page 7 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues:Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=8
+Page 8 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=9
+Page 9 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. Renal: Mental retardation. CNS: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Soft Tissues: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Skeletal: Nausea, anorexia, constipation. Gastrointestinal: Mild acidosis, anemia, weight loss. Metabolic:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=10
+Page 10 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=11
+Page 11 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with Ergocalciferol Capsules, USP may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=12
+Page 12 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. Renal: Mental retardation. CNS: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Soft Tissues: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Skeletal: Nausea, anorexia, constipation. Gastrointestinal: Mild acidosis, anemia, weight loss. Metabolic:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=13
+Page 13 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=14
+Page 14 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=15
+Page 15 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=16
+Page 16 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=17
+Page 17 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss. To report SUSPECTED ADVERSE REACTIONS, contact Banner at 1866-231-1749 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=18
+Page 18 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with Ergocalciferol Capsules, USP may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=19
+Page 19 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal : Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS : Mental retardation. Soft Tissues : Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal : Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal : Nausea, anorexia, constipation. Metabolic : Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=20
+Page 20 of 38
+        "generic_name": [
+          "RETINOL, ERGOCALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, PHYTONADIONE, ASCORBIC ACID, NIACINAMIDE, RIBOFLAVIN 5-PHOSPHATE SODIUM, THIAMINE HYDROCHLORIDE, PYRIDOXINE HYDROCHLORIDE, DEXPANTHENOL, BIOTIN, FOLIC ACID, AND CYANOCOBALAMIN"
+        "brand_name": [
+          "M.V.I. Adult"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS A number of interactions between vitamins and drugs have been reported. The following are examples of these types of interactions: Effect of M.V.I.-Adult on other drugs: - Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin (7.1) - Bleomycin: Ascorbic acid and riboflavin may reduce the activity of bleomycin (7.1) - Levodopa: Pyridoxine may decrease blood levels of levodopa and levodopa efficacy may decrease (7.1) - Phenytoin: Folic acid may decrease phenytoin blood levels and increase the risk of seizure activity (7.1) - Methotrexate: Folic acid may decrease response to methotrexate (7.1) Effects of other drugs on M.V.I.-Adult: - Hydralazine, Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements (7.2) - Phenytoin: May decrease folic acid concentrations (7.2) 7.1 Effect of M.V.I.-Adult on Other Drugs Phenytoin: Folic acid may increase phenytoin metabolism and lower the serum concentration of phenytoin resulting in increased seizure activity. Methotrexate: Folic acid may decrease a patient's response to methotrexate therapy. Levodopa: Pyridoxine may increase the metabolism of levodopa (decrease blood level of levodopa) and decrease its efficacy. Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease antibiotic activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin. Bleomycin: Ascorbic acid and riboflavin inactivate bleomycin in vitro, thus the activity of bleomycin may be reduced. 7.2 Effect of Other Drugs on M.V.I.-Adult Hydralazine or Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements. Chloramphenicol: In patients with pernicious anemia, the hematologic response to vitamin B12 therapy may be inhibited by concomitant administration of chloramphenicol. Phenytoin: Phenytoin may decrease serum folic acid concentrations."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other section of the labeling. -Allergic reactions to thiamine [see Warnings and Precautions (5.4) ]. -Hypervitaminosis A [see Warnings and Precautions (5.5) ]. The following adverse reactions have been identified during post approval use of M.V.I.-Adult(TM). Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Dermatologic: rash, erythema, pruritus CNS: headache, dizziness, agitation, anxiety Ophthalmic: diplopia Adverse reactions have included anaphylaxis, rash, erythema, pruritus, headache, dizziness, agitation, anxiety, diplopia (6) To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS - Decreased Anticoagulant Effect of Warfarin (5.1) - Risk of Aluminum Toxicity: For at risk patients (renal failure or those with prolonged therapy), consider periodic monitoring of aluminum levels (5.2) - Low Vitamin A levels: Monitor vitamin A levels (5.3) - Allergic Reactions: to thiamine may occur (5.4) - Hypervitaminosis A: Patients with renal failure or liver disease may be at higher risk (5.5) - Interferes with Megaloblastic Anemia Diagnosis: Avoid during testing for this disorder (5.6) - Risk of Vitamin Deficiencies or Excess: Monitor blood vitamin concentrations (5.7) - False Negative Urine Glucose Tests: Due to vitamin C (5.8) 5.1 Decreased Anticoagulant Effect of Warfarin M.V.I.-Adult contains Vitamin K which may decrease the anticoagulant effect of warfarin. In patients who are on warfarin anticoagulant therapy receiving M.V.I-Adult, prothrombin time/INR should be periodically monitored to determine if the dose of warfarin needs to be adjusted. 5.2 Aluminum Toxicity M.V.I.-Adult(TM) contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration in patients with renal impairment. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 micrograms per kg per day, accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. To prevent aluminum toxicity monitor periodically aluminum levels with prolonged parenteral administration of M.V.I.-Adult. 5.3 Risk of Low Vitamin A Levels Vitamin A may adhere to plastic, resulting in lower vitamin A concentrations after administration of M.V.I.-Adult(TM). Therefore, blood vitamin concentrations should be periodically monitored and the administration of additional therapeutic doses of Vitamin A may be required. 5.4 Allergic Reactions to Thiamine Allergic reactions such as urticaria, periorbital and digital edema, have been reported following intravenous administration of thiamine, which is found in M.V.I.-Adult(TM). There have been rare reports of anaphylaxis following intravenous doses of thiamine. No fatal anaphylaxis reactions associated with M.V.I. Adult(TM) have been reported. 5.5 Hypervitaminosis A Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision, has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. Therefore, supplementation of renal failure patients and patients with liver diseases with vitamin A, an ingredient found in M.V.I.-Adult(TM), should be undertaken with caution [see Use in Specific Populations (8.6, 8.7)]. Blood levels of Vitamin A should be monitored periodically. 5.6 Interference with Diagnosis of Megaloblastic Anemia M.V.I-Adult contains folic acid and cyanocobalamin which can mask serum deficits of folic acid and cyanocobalamin in patients with megaloblastic anemia. Avoid the use of M.V.I.-Adult(TM) in patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. 5.7 Potential to Develop Vitamin Deficiencies or Excesses In patients receiving parenteral multivitamins, such as with M.V.I.-Adult(TM), blood vitamin concentrations should be periodically monitored to determine if vitamin deficiencies or excesses are developing. M.V.I.-Adult(TM) may not correct long-standing specific vitamin deficiencies. The administration of additional doses of specific vitamins may be required [see Dosage and Administration (2.2) ]. 5.8 Interference with Urine Glucose Testing M.V.I.-Adult(TM) contains Vitamin C which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose determinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=21
+Page 21 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=22
+Page 22 of 38
+        "generic_name": [
+          "RETINOL, ERGOCALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, ASCORBIC ACID, NIACINAMIDE, RIBOFLAVIN 5-PHOSPHATE SODIUM, THIAMINE HYDROCHLORIDE, PYRIDOXINE HYDROCHLORIDE, DEXPANTHENOL, BIOTIN, FOLIC ACID, AND CYANOCOBALAMIN"
+        "brand_name": [
+          "M.V.I.-12"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS A number of drug interactions between vitamins and other drugs have been reported. Consult appropriate references for additional specific vitamin-drug interactions. The following are examples of these types of interactions: A number of interactions between vitamins and drugs have been reported. The following are examples of these interactions: Physical Incompatibilities: -Acetazolamide (2.4) -Intravenous chlorothiazide sodium (2.4) -Aminophylline (2.4) -Ampicillin (2.4) -Moderately alkaline solutions (2.4) -Calcium salts such as calcium gluconate (2.4) -Vitamin K bisulfite or sodium bisulfite (2.4) -Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid have been reported to decrease the antibiotic activity of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin (7.1) -Bleomycin (7.1) Clinical Interactions: -Phenytoin (7.1) -Levodopa (7.1) -Chloramphenicol (7.2) 7.1 Clinical Interactions Affecting Drug Levels Folic acid Phenytoin metabolism may be increased by folic acid. Low serum concentration of phenytoin may result in increased seizure frequency. Patient's response to methotrexate therapy may be decreased by folic acid. Pyridoxine The metabolism of levodopa may be increased and its efficacy may be decreased by pyridoxine. Antibiotics Antibiotic activity of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin is decreased by thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid. Bleomycin is inactivated in vitro by ascorbic acid and riboflavin. 7.2 Clinical Interactions Affecting Vitamin Levels Hydralazine, Isoniazid Pyridoxine requirements may be increased by concomitant administration of hydralazine or isoniazid. Chloramphenicol In patients with pernicious anemia, the hematologic response to vitamin B12 therapy may be inhibited by concomitant administration of chloramphenicol. Phenytoin Serum folic acid concentrations may be decreased by phenytoin and, therefore it should be avoided in pregnancy.",
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other section of the labeling. -Allergic and anaphylactoid reactions following intravenous administration of thiamine [ see Warnings and Precautions (5.4) ]. -Hypervitaminosis A [ see Warnings and Precautions (5.5) ]. Other adverse reactions: Dermatologic : rash, erythema, pruritus CNS : headache, dizziness, agitation, anxiety Ophthalmic : diplopia There have been rare reports of the following types of reactions: -Allergic — anaphylactoid reactions following large intravenous doses of thiamine, urticaria, periorbital and digital edema (6) -Dermatologic — rash, erythema, pruritus (6) -CNS — headache, dizziness, agitation, anxiety (6) -Ophthalmic — diplopia (6) To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100 or electronically at ProductComplaintsPP@hospira.com, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS -This product contains aluminum that may be toxic. (5.1) -Studies have shown that vitamin A may adhere to plastic, resulting in inadequate vitamin A administration in the doses recommended with M.V.I.-12(TM). (5.2) -Do not add M.V.I.-12(TM) directly to intravenous fat emulsions. (5.3) -Allergic reactions such as urticaria, periorbital and digital edema, have been reported following intravenous administration of thiamine. (5.4) -Hypervitaminosis A has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. (5.5) -Do not administer M.V.I.-12(TM) to patients with suspected or diagnosed megaloblastic anemia prior to the blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. (5.6) -Blood vitamin concentration should be periodically monitored to determine if vitamin deficiencies or excesses are developing. (5.7) -Ascorbic acid in the urine may cause negative urine glucose determination. (5.8) 5.1 Aluminum Toxicity M.V.I.-12(TM) contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 microgram per kg per day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. 5.2 Adherence of Vitamin A to Plastic Studies have shown that vitamin A, which is found in M.V.I.-12(TM) may adhere to polyvinyl chloride (PVC) plastic, resulting in lower vitamin A concentrations in the administered M.V.I.-12(TM) doses. Therefore, blood vitamin concentrations should be periodically monitored and the administration of additional therapeutic doses of Vitamin A may be required [see Warnings and Precautions (5.7) ]. 5.3 Intravenous Fat Emulsions Do not add M.V.I.-12(TM) directly to intravenous fat emulsions. 5.4 Allergic Reactions to Thiamine Allergic reactions such as urticaria, periorbital and digital edema, have been reported following intravenous administration of thiamine, which is found in M.V.I.-12(TM). There have been rare reports of anaphylactoid reactions following intravenous doses of thiamine. No fatal anaphylactoid reactions associated with M.V.I.-12(TM) have been reported. 5.5 Hypervitaminosis A Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision, has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. Therefore, supplementation of renal failure patients and patients with liver diseases with vitamin A, an ingredient found in M.V.I.-12(TM), should be undertaken with caution [see Use in Specific Populations (8.6 and 8.7) ]. 5.6 Blood Sampling of Megaloblastic Anemia Patients Do not administer M.V.I.-12(TM) to patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. The folic acid and the cyanocobalamin in the M.V.I.-12(TM) solution can mask serum deficits of folic acid and cyanocobalamin in these patients. 5.7 Monitor Blood Vitamin Concentrations In patients receiving parenteral multivitamins, such as with M.V.I.-12(TM), blood vitamin concentrations should be periodically monitored to determine if vitamin deficiencies or excesses are developing. M.V.I.-12(TM) may not correct long-standing specific vitamin deficiencies. The administration of additional therapeutic doses of specific vitamins may be required [see Dosage and Administration (2.2) ]. 5.8 Interference with Urine Glucose Testing M.V.I-12(TM) contains Vitamin C which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose determinations.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=23
+Page 23 of 38
+        "generic_name": [
+          "ASCORBIC ACID, RETINOL, ERGOCALCIFEROL, THIAMINE HYDROCHLORIDE, RIBOFLAVIN 5-PHOSPHATE SODIUM, PYRIDOXINE HYDROCHLORIDE, NIACINAMIDE, DEXPANTHENOL, .ALPHA.-TOCOPHEROL ACETATE, DL-, BIOTIN, FOLIC ACID, CYANOCOBALAMIN, AND PHYTONADIONE"
+        "brand_name": [
+          "Multi Vitamin Infusion Pediatric"
+ 
+      "drug_interactions": [
+        "Drug-Drug Interactions Physical Incompatibilities: M.V.I. Pediatric(R) is not physically compatible with alkaline solutions or moderately alkaline drugs such as Diamox (Acetazolamide), Diuril Intravenous Sodium (Chlorothiazide sodium), Aminophylline or sodium bicarbonate. M.V.I. Pediatric(R) is not physically compatible with ampicillin and it may not be physically compatible with ACHROMYCIN (tetracycline HCl). It has also been reported that folic acid is unstable in the presence of calcium salts such as calcium gluconate. Direct addition of M.V.I. Pediatric(R) to intravenous fat emulsions is not recommended. Consult appropriate references for listings of physical compatibility of solutions and drugs with the vitamin infusion. In such circumstances, admixture or Y-site administration with vitamin solutions should be avoided. Several vitamins have been reported to decrease the activity of certain antibiotics. Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid have been reported to decrease the antibiotic activity of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin. Bleomycin is inactivated in vitro by ascorbic acid and riboflavin. Some of the vitamins in M.V.I. Pediatric(R) may react with vitamin K bisulfite or sodium bisulfite; if bisulfite solutions are necessary, patients should be monitored for vitamin A and thiamine deficiencies."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There have been rare reports of anaphylactic reactions following parenteral multivitamin administration. Rare reports of anaphylactoid reactions have also been reported after large intravenous doses of thiamine. The risk, however, is negligible if thiamine is coadministered with other vitamins in the B group. There have been no reports of fatal anaphylactoid reactions associated with M.V.I. Pediatric(R). There have been rare reports of the following types of reactions: Dermatologic - rash, erythema, pruritus CNS - headache, dizziness, agitation, anxiety Ophthalmic -diplopia Allergic - urticaria, shortness of breath, wheezing, and angioedema"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=24
+Page 24 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Vitamin D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with Ergocalciferol Capsules, USP may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=25
+Page 25 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol capsules may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=26
+Page 26 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=27
+Page 27 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "VITAMIN D"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=28
+Page 28 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss.G"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=29
+Page 29 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=30
+Page 30 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=31
+Page 31 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=32
+Page 32 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues:Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism) vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=33
+Page 33 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=34
+Page 34 of 38
+        "generic_name": [
+          "RETINOL, ERGOCALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, PHYTONADIONE, ASCORBIC ACID, NIACINAMIDE, RIBOFLAVIN 5-PHOSPHATE SODIUM, THIAMINE HYDROCHLORIDE, PYRIDOXINE HYDROCHLORIDE, DEXPANTHENOL, BIOTIN, FOLIC ACID, AND CYANOCOBALAMIN"
+        "brand_name": [
+          "M.V.I. Adult"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS A number of interactions between vitamins and drugs have been reported. The following are examples of these types of interactions: Effect of M.V.I.-Adult on other drugs: - Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin (7.1) - Bleomycin: Ascorbic acid and riboflavin may reduce the activity of bleomycin (7.1) - Levodopa: Pyridoxine may decrease blood levels of levodopa and levodopa efficacy may decrease (7.1) - Phenytoin: Folic acid may decrease phenytoin blood levels and increase the risk of seizure activity (7.1) - Methotrexate: Folic acid may decrease response to methotrexate (7.1) Effects of other drugs on M.V.I.-Adult: - Hydralazine, Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements (7.2) - Phenytoin: May decrease folic acid concentrations (7.2) 7.1 Effect of M.V.I.-Adult on Other Drugs Phenytoin: Folic acid may increase phenytoin metabolism and lower the serum concentration of phenytoin resulting in increased seizure activity. Methotrexate: Folic acid may decrease a patient's response to methotrexate therapy. Levodopa: Pyridoxine may increase the metabolism of levodopa (decrease blood level of levodopa) and decrease its efficacy. Antibiotics: Thiamine, riboflavin, pyridoxine, niacinamide, and ascorbic acid decrease antibiotic activities of erythromycin, kanamycin, streptomycin, doxycycline, and lincomycin. Bleomycin: Ascorbic acid and riboflavin inactivate bleomycin in vitro, thus the activity of bleomycin may be reduced. 7.2 Effect of Other Drugs on M.V.I.-Adult Hydralazine or Isoniazid: Concomitant administration of hydralazine or isoniazid may increase pyridoxine requirements. Chloramphenicol: In patients with pernicious anemia, the hematologic response to vitamin B12 therapy may be inhibited by concomitant administration of chloramphenicol. Phenytoin: Phenytoin may decrease serum folic acid concentrations."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other section of the labeling. -Allergic reactions to thiamine [see Warnings and Precautions (5.4) ]. -Hypervitaminosis A [see Warnings and Precautions (5.5) ]. The following adverse reactions have been identified during post approval use of M.V.I.-Adult(TM). Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Dermatologic: rash, erythema, pruritus CNS: headache, dizziness, agitation, anxiety Ophthalmic: diplopia Adverse reactions have included anaphylaxis, rash, erythema, pruritus, headache, dizziness, agitation, anxiety, diplopia (6) To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS - Decreased Anticoagulant Effect of Warfarin (5.1) - Risk of Aluminum Toxicity: For at risk patients (renal failure or those with prolonged therapy), consider periodic monitoring of aluminum levels (5.2) - Low Vitamin A levels: Monitor vitamin A levels (5.3) - Allergic Reactions: to thiamine may occur (5.4) - Hypervitaminosis A: Patients with renal failure or liver disease may be at higher risk (5.5) - Interferes with Megaloblastic Anemia Diagnosis: Avoid during testing for this disorder (5.6) - Risk of Vitamin Deficiencies or Excess: Monitor blood vitamin concentrations (5.7) - False Negative Urine Glucose Tests: Due to vitamin C (5.8) 5.1 Decreased Anticoagulant Effect of Warfarin M.V.I.-Adult contains Vitamin K which may decrease the anticoagulant effect of warfarin. In patients who are on warfarin anticoagulant therapy receiving M.V.I-Adult, prothrombin time/INR should be periodically monitored to determine if the dose of warfarin needs to be adjusted. 5.2 Aluminum Toxicity M.V.I.-Adult(TM) contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration in patients with renal impairment. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 micrograms per kg per day, accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration. To prevent aluminum toxicity monitor periodically aluminum levels with prolonged parenteral administration of M.V.I.-Adult. 5.3 Risk of Low Vitamin A Levels Vitamin A may adhere to plastic, resulting in lower vitamin A concentrations after administration of M.V.I.-Adult(TM). Therefore, blood vitamin concentrations should be periodically monitored and the administration of additional therapeutic doses of Vitamin A may be required. 5.4 Allergic Reactions to Thiamine Allergic reactions such as urticaria, periorbital and digital edema, have been reported following intravenous administration of thiamine, which is found in M.V.I.-Adult(TM). There have been rare reports of anaphylaxis following intravenous doses of thiamine. No fatal anaphylaxis reactions associated with M.V.I. Adult(TM) have been reported. 5.5 Hypervitaminosis A Hypervitaminosis A, manifested by nausea, vomiting, headache, dizziness, blurred vision, has been reported in patients with renal failure receiving 1.5 mg/day retinol and in patients with liver disease. Therefore, supplementation of renal failure patients and patients with liver diseases with vitamin A, an ingredient found in M.V.I.-Adult(TM), should be undertaken with caution [see Use in Specific Populations (8.6, 8.7)]. Blood levels of Vitamin A should be monitored periodically. 5.6 Interference with Diagnosis of Megaloblastic Anemia M.V.I-Adult contains folic acid and cyanocobalamin which can mask serum deficits of folic acid and cyanocobalamin in patients with megaloblastic anemia. Avoid the use of M.V.I.-Adult(TM) in patients with suspected or diagnosed megaloblastic anemia prior to blood sampling for the detection of the folic acid and cyanocobalamin deficiencies. 5.7 Potential to Develop Vitamin Deficiencies or Excesses In patients receiving parenteral multivitamins, such as with M.V.I.-Adult(TM), blood vitamin concentrations should be periodically monitored to determine if vitamin deficiencies or excesses are developing. M.V.I.-Adult(TM) may not correct long-standing specific vitamin deficiencies. The administration of additional doses of specific vitamins may be required [see Dosage and Administration (2.2) ]. 5.8 Interference with Urine Glucose Testing M.V.I.-Adult(TM) contains Vitamin C which is also known as ascorbic acid. Ascorbic acid in the urine may cause false negative urine glucose determinations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=35
+Page 35 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "ERGOCALCIFEROL"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss. To report SUSPECTED ADVERSE REACTIONS, contact TEVA USA, PHARMACOVIGILANCE at 1-866-832-8537, or drug.safety@tevapharm.com or FDA at 1-800-FDA-1088 or"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=36
+Page 36 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ergocalciferol&limit=1&skip=37
+Page 37 of 38
+        "generic_name": [
+          "ERGOCALCIFEROL"
+        "brand_name": [
+          "Ergocalciferol"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Mineral oil interferes with the absorption of fat-soluble vitamins, including vitamin D preparations. Administration of thiazide diuretics to hypoparathyroid patients who are concurrently being treated with ergocalciferol may cause hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypervitaminosis D is characterized by effects on the following organ system: Renal: Impairment of renal function with polyuria, nocturia, polydipsia, hypercalciuria, reversible azotemia, hypertension, nephrocalcinosis, generalized vascular calcification, or irreversible renal insufficiency which may result in death. CNS: Mental retardation. Soft Tissues: Widespread calcification of the soft tissues, including the heart, blood vessels, renal tubules, and lungs. Skeletal: Bone demineralization (osteoporosis) in adults occurs concomitantly. Decline in the average rate of linear growth and increased mineralization of bones in infants and children (dwarfism), vague aches, stiffness, and weakness. Gastrointestinal: Nausea, anorexia, constipation. Metabolic: Mild acidosis, anemia, weight loss. AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com ; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

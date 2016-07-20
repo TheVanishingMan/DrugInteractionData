@@ -1,0 +1,132 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=0
+Page 0 of 10
+        "generic_name": [
+          "DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, CALCIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride in Lactated Ringers and Dextrose"
+ 
+      "drug_interactions": [
+        "Drug Interactions Ceftriaxone - see CONTRAINDICATIONS Caution is advised when administering Potassium Chloride in Lactated Ringer's and 5% Dextrose Injection, USP to patients treated with drugs that may increase the risk of sodium and fluid retention, such as corticosteroids. Caution is advised when administering Potassium Chloride in Lactated Ringer's and 5% Dextrose Injection, USP to patients treated with drugs for which renal elimination is pH dependent. Due to the alkalinizing action of lactate (formation of bicarbonate), Potassium Chloride in Lactated Ringer's and 5% Dextrose Injection, USP may interfere with the elimination of such drugs. Renal clearance of acidic drugs such as salicylates and barbiturates may be increased. Renal clearance of alkaline drugs, such as sympathomimetics (e.g., ephedrine, pseudoephedrine) and dextroamphetamine (dexamphetamine) sulfate, may be decreased. Renal clearance of lithium may also be increased. Caution is advised when administering Potassium Chloride in Lactated Ringer's and 5% Dextrose Injection, USP to patients treated with lithium. Because of its potassium content, administration of Potassium Chloride in Lactated Ringer's and 5% Dextrose Injection, USP should be avoided in patients treated with agents or products that can cause hyperkalemia or increase the risk of hyperkalemia, such as potassium sparing diuretics (amiloride, spironolactone, triamterene), with ACE inhibitors, angiotensin II receptor antagonists, or the immunosuppressants tacrolimus and cyclosporine. Administration of potassium in patients treated with such medications can produce severe and potentially fatal hyperkalemia, particularly in patients with severe renal insufficiency. Caution is advised when administering Potassium Chloride in Lactated Ringer's and 5% Dextrose Injection, USP to patients treated with thiazide diuretics or vitamin D, as these can increase the risk of hypercalcemia."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Post-Marketing Adverse Reactions The following adverse reactions have been reported in the post-marketing experience, listed by MedDRA System Organ Class (SOC). Immune System Disorders: Hypersensitivity/infusion reactions, including anaphylactic/anaphylactoid reactions, and the following manifestations: angioedema, chest pain, chest discomfort, bronchospasm, dyspnea, cough, urticaria, rash, pruritus, erythema, nausea and pyrexia General Disorders and Administration Site Conditions: Infusion site reactions, including infusion site pruritus, infusion site erythema, infusion site anesthesia (numbness) Class Reactions Other manifestations of hypersensitivity/infusion reactions: decreased heart rate, tachycardia, blood pressure decreased, respiratory distress, flushing, throat irritation, paresthesias, hypoesthesia oral, dysgeusia, anxiety and headache Hyperkalemia Hypervolemia Other infusion site reactions: infection at the site of injection, phlebitis, extravasation, infusion site inflammation, infusion site swelling, infusion site rash, infusion site pain, infusion site burning Overdose An excessive volume or too high a rate of administration of Potassium Chloride in Lactated Ringer's and 5% Dextrose Injection, USP may lead to fluid and sodium overload with a risk of edema (peripheral and/or pulmonary), particularly when renal sodium excretion is impaired. Excessive administration of lactate may lead to metabolic alkalosis. Metabolic alkalosis may be accompanied by hypokalemia. Excessive administration of potassium may lead to the development of hyperkalemia, especially in patients with severe renal impairment. Excessive administration of calcium salts may lead to hypercalcemia. Excessive administration of a dextrose-containing solution may lead to hyperglycemia, hyperosmolarity, osmotic diuresis, and dehydration. When assessing overdose, any additives in the solution must also be considered. The effects of overdose may require immediate medical attention and treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=1
+Page 1 of 10
+        "generic_name": [
+          "DEXTROSE AND SODIUM CHLORIDE"
+        "brand_name": [
+          "Dextrose and Sodium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Caution must be exercised in the administration of Dextrose and Sodium Chloride Injection, USP to patients receiving corticosteroids or corticotropin. Studies have not been conducted to evaluate additional drug/drug or drug/food interactions with Dextrose and Sodium Chloride Injection, USP."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS - Hypersensitivity reactions, including anaphylaxis and chills - Hyponatremia (applies to solutions containing less than 0.9% Sodium Chloride) Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=2
+Page 2 of 10
+        "generic_name": [
+          "DEXTROSE MONOHYDRATE AND SODIUM CHLORIDE"
+        "brand_name": [
+          "Dextrose and Sodium Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=3
+Page 3 of 10
+        "generic_name": [
+          "DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, POTASSIUM ACETATE, AND MAGNESIUM ACETATE"
+        "brand_name": [
+          "Normosol-M and Dextrose"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=4
+Page 4 of 10
+        "generic_name": [
+          "DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, POTASSIUM ACETATE, MAGNESIUM ACETATE TETRAHYDRATE"
+        "brand_name": [
+          "PLASMA-LYTE 56 AND DEXTROSE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Caution is advised when administering PLASMA-LYTE 56 and 5% Dextrose Injection (Multiple Electrolytes and Dextrose Injection, Type 1, USP) to patients treated with drugs that may increase the risk of fluid retention, such as corticosteroids. Caution is advised when administering PLASMA-LYTE 56 and 5% Dextrose Injection (Multiple Electrolytes and Dextrose Injection, Type 1, USP) to patients treated with drugs for which renal elimination is pH dependent. Due to its alkalinizing effect (formation of bicarbonate), PLASMA-LYTE 56 and 5% Dextrose Injection (Multiple Electrolytes and Dextrose Injection, Type 1, USP) may interfere with the elimination of such drugs. -Renal clearance of acidic drugs such as salicylates and barbiturates may be increased. -Renal clearance of alkaline drugs, such as sympathomimetics (e.g., ephedrine, pseudoephedrine), quinidine, and dextroamphetamine (dexamphetamine) sulfate, may be decreased. Renal clearance of lithium may also be increased. Caution is advised when administering PLASMA-LYTE 56 and 5% Dextrose Injection (Multiple Electrolytes and Dextrose Injection, Type 1, USP) to patients treated with lithium. Because of its potassium content, PLASMA-LYTE 56 and 5% Dextrose Injection (Multiple Electrolytes and Dextrose Injection, Type 1, USP) should be administered with caution in patients treated with agents or products that can cause hyperkalemia or increase the risk of hyperkalemia, such as potassium sparing diuretics (amiloride, spironolactone, triamterene), with ACE inhibitors, angiotensin II receptor antagonists, or the immunosuppressants tacrolimus and cyclosporine. Administration of potassium in patients treated with these medications can produce severe and potentially fatal hyperkalemia, particularly in patients with severe renal insufficiency."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Post-marketing Adverse Reactions The following adverse reactions have been reported with PLASMA-LYTE products with Dextrose. Adverse reactions are listed by MedDRA System Organ Class (SOC), then by Preferred Term in order of severity, where feasible. -Immune System Disorders: Hypersensitivity/infusion reactions, including Anaphylactoid reaction, and the following manifestations: Hypotension, Chest discomfort, Dyspnea, Wheezing, Flushing, Hyperemia, Asthenia, Urticaria, Cold sweat, Pyrexia, Chills -Metabolism and Nutrition Disorders: Hyperkalemia, Hyperglycemia -General Disorders and Administration Site Conditions: Infusion site reactions (e.g., Burning sensation) Other adverse reactions, reported with PLASMA-LYTE products are: -Other manifestations of hypersensitivity/infusion reactions: Tachycardia, Palpitations, Chest Pain, Respiratory rate increased, Feeling abnormal, Piloerection, Edema peripheral -Infusion site pain"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=5
+Page 5 of 10
+        "generic_name": [
+          "SODIUM LACTATE, POTASSIUM CHLORIDE, MAGNESIUM CHLORIDE, MONOBASIC POTASSIUM PHOSPHATE, SODIUM CHLORIDE AND DEXTROSE MONOHYDRATE"
+        "brand_name": [
+          "Dextrose and Electrolyte No. 48"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures, and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=6
+Page 6 of 10
+        "generic_name": [
+          "POTASSIUM CHLORIDE, DEXTROSE MONOHYDRATE AND SODIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride in Dextrose and Sodium Chloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS - Hypersensitivity reactions, including anaphylaxis and chills - Hyponatremia (applies to solutions containing less than 0.9% Sodium Chloride) Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation, and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures, and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=7
+Page 7 of 10
+        "generic_name": [
+          "DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, AND POTASSIUM CHLORIDE"
+        "brand_name": [
+          "Potassium Chloride in Dextrose and Sodium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additives may be incompatible. Consult with pharmacist, if available. When introducing additives, use aseptic technique, mix thoroughly and do not store. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. See PRECAUTIONS ."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions which may occur because of the solutions or technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary. Nausea, vomiting, abdominal pain and diarrhea have been reported with potassium therapy. The signs and symptoms of potassium intoxication include paresthesias of the extremities, flaccid paralysis, listlessness, mental confusion, weakness and heaviness of the legs, hypotension, cardiac arrhythmias, heart block, electrocardiographic abnormalities such as disappearance of P waves, spreading and slurring of the QRS complex with development of a biphasic curve and cardiac arrest. Potassium-containing solutions are intrinsically irritating to tissues. Therefore, extreme care should be taken to avoid perivascular infiltration. Local tissue necrosis and subsequent sloughing may result if extravasation occurs. Chemical phlebitis and venospasm have also been reported. Should perivascular infiltration occur, I.V. administration at that site should be discontinued at once. Local infiltration of the affected area with procaine hydrochloride, 1%, to which hyaluronidase may be added, will often reduce venospasm and dilute the potassium remaining in the tissues locally. Local application of heat may also be helpful."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=8
+Page 8 of 10
+        "generic_name": [
+          "DEXTROSE AND SODIUM CHLORIDE"
+        "brand_name": [
+          "Dextrose and Sodium Chloride"
+ 
+      "drug_interactions": [
+        "Drug Interaction Caution must be exercised in the administration of Dextrose and Sodium Chloride Injection, USP to patients receiving corticosteroids or corticotropin."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS - Anaphylactic reaction, hypersensitivity, and chills - Hyponatremia (applies to solutions containing less than 0.9% Sodium Chloride) Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dextrose+AND+and+AND+Sodium+AND+Chloride+AND+Inj&limit=1&skip=9
+Page 9 of 10
+        "generic_name": [
+          "SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, CALCIUM CHLORIDE, AND DEXTROSE MONOHYDRATE"
+        "brand_name": [
+          "Lactated Ringers and Dextrose"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additives may be incompatible. Consult with pharmacist, if available. When introducing additives, use aseptic technique, mix thoroughly and do not store. The presence of calcium limits their compatibility with certain drugs that form precipitates of calcium salts, and also prohibits their simultaneous infusion through the same administration set as blood because of the likelihood of coagulation. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. See PRECAUTIONS ."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures and save the remainder of the fluid for examination if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,520 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=0
+Page 0 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus: In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis: The only adverse event occurring in >=3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other: The following adverse events have been reported; however, their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=1
+Page 1 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "DDAVP"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of DDAVP is very low compared to the antidiuretic activity, use of large doses of intranasal DDAVP with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high dosages of intranasal DDAVP have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percentage of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. ADVERSE REACTION PLACEBO (N=59) % DDAVP 20 mcg (N=60) % DDAVP 40 mcg (N=61) % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 NERVOUS SYSTEM Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Rhinitis 2 8 3 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=2
+Page 2 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "DDAVP"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of DDAVP is very low compared with the antidiuretic activity, use of doses as large as 0.3 mcg/kg of DDAVP with other pressor agents should be done only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution. DDAVP has been used with epsilon aminocaproic acid without adverse effects."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, DDAVP has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of DDAVP has produced local erythema, swelling or burning pain. Occasional facial flushing has been reported with the administration of DDAVP. DDAVP Injection has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with DDAVP Injection. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following DDAVP Injection in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=3
+Page 3 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis The only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other The following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Postmarketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=4
+Page 4 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "DESMOPRESSIN ACETATE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared to the antidiuretic activity, use of large doses of intranasal desmopressin acetate with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high dosages of intranasal desmopressin acetate have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percentage of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. ADVERSE REACTION PLACEBO (N=59) % DESMOPRESSIN ACETATE 20 mcg (N=60) % DESMOPRESSIN ACETATE 40 mcg (N=61) % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 NERVOUS SYSTEM Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Rhinitis 2 8 3 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=5
+Page 5 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus: In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis: The only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other: The following adverse events have been reported; however, their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=6
+Page 6 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "DDAVP"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of DDAVP is very low compared to its antidiuretic activity, large doses of DDAVP Tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, large doses of the intranasal formulations of DDAVP and DDAVP Injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of DDAVP Tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of DDAVP Tablets. Primary Nocturnal Enuresis The only adverse event occurring in >=3% of patients in controlled clinical trials with DDAVP Tablets that was probably, possibly, or remotely related to study drug was headache (4% DDAVP, 3% placebo). Other The following adverse events have been reported; however their relationship to DDAVP has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=7
+Page 7 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes InsipidusIn long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal EnuresisThe only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). OtherThe following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. PostmarketingThere have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=8
+Page 8 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, DESMOPRESSIN ACETATE has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of DESMOPRESSIN ACETATE has produced local erythema, swelling or burning pain. Occasional facial flushing has been reported with the administration of DESMOPRESSIN ACETATE. DESMOPRESSIN ACETATE Injection has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with DESMOPRESSIN ACETATE Injection. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following DESMOPRESSIN ACETATE Injection in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=9
+Page 9 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "desmopressin acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared with the antidiuretic activity, use of doses as large as 0.3 mcg/kg of desmopressin acetate with other pressor agents should be done only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution. Desmopressin acetate has been used with epsilon aminocaproic acid without adverse effects."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, desmopressin acetate has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of desmopressin acetate has produced local erythema, swelling or burning pain. Occasional facial flushing has been reported with the administration of desmopressin acetate. Desmopressin acetate injection has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with desmopressin acetate injection. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following desmopressin acetate injection in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=10
+Page 10 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Stimate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low, its use with other pressor agents should be done only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDS, lamotrigine and carbamazepine) should be performed with caution. DDAVP(R) Injection has been used with epsilon aminocaproic acid without adverse effects."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, DDAVP(R) Injection has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasional facial flushing has been reported with the administration of DDAVP(R) Injection. Infrequently, high doses of intranasal DDAVP(R) have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. In addition to those listed above, the following have also been reported in clinical trials with Stimate (R) Nasal Spray: Somnolence, dizziness, itchy or light-sensitive eyes, insomnia, chills, warm feeling, pain, chest pain, palpitations, tachycardia, dyspepsia, edema, vomiting, agitation and balanitis. DDAVP(R) Injection (desmopressin acetate) has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall with a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with DDAVP(R) Injection. Post Marketing There have been rare reports of convulsions from hyponatremia associated with concomitant use of desmopressin and the following medications: oxybutynin and imipramine. See WARNINGS for the possibility of water intoxication, hyponatremia and coma. To report SUSPECTED ADVERSE REACTIONS, contact CSL Behring Pharmacovigilance at 1-866-915-6958 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=11
+Page 11 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus: In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis: The only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other: The following adverse events have been reported; however, their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of hyponatremic convulsions asso-ciated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=12
+Page 12 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigene and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis The only adverse event occurring in >=3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other The following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=13
+Page 13 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus: In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis: The only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other: The following adverse events have been reported; however, their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=14
+Page 14 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis The only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other The following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Postmarketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=15
+Page 15 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high dosages of intranasal DESMOPRESSIN ACETATE have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percent of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. ADVERSE REACTION PLACEBO (N=59) % DESMOPRESSIN ACETATE 20 mcg (N=60) % DESMOPRESSIN ACETATE 40 mcg (N=61) % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 NERVOUS SYSTEM Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Rhinitis 2 8 3 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=16
+Page 16 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus: In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis: The only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other: The following adverse events have been reported; however, their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=17
+Page 17 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis The only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other The following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Postmarketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=18
+Page 18 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, desmopressin acetate has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of desmopressin acetate has produced local erythema, swelling or burning pain. Occasional facial flushing has been reported with the administration of desmopressin acetate. Desmopressin Acetate Injection has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with Desmopressin Acetate Injection. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing : There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following Desmopressin Acetate Injection in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutynin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=19
+Page 19 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "DDAVP"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of DDAVP is very low compared with the antidiuretic activity, use of doses as large as 0.3 mcg/kg of DDAVP with other pressor agents should be done only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution. DDAVP has been used with epsilon aminocaproic acid without adverse effects."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, DDAVP has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of DDAVP has produced local erythema, swelling or burning pain. Occasional facial flushing has been reported with the administration of DDAVP. DDAVP Injection has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with DDAVP Injection. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following DDAVP Injection in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=20
+Page 20 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "DDAVP"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of DDAVP is very low compared to its antidiuretic activity, large doses of DDAVP Tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigene and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high doses of the intranasal formulations of DDAVP and DDAVP Injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of DDAVP Tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of DDAVP Tablets. Primary Nocturnal Enuresis The only adverse event occurring in >=3% of patients in controlled clinical trials with DDAVP Tablets that was probably, possibly, or remotely related to study drug was headache (4% DDAVP, 3% placebo). Other The following adverse events have been reported; however their relationship to DDAVP has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=21
+Page 21 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, large doses of the intranasal formulations of desmopressin acetate tablets and injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis The only adverse event occurring in >=3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other The following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=22
+Page 22 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis The only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other The following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See for the possibility of water intoxication and hyponatremia. WARNINGS Postmarketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=23
+Page 23 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus: In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis: The only adverse event occurring in >= 3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other: The following adverse events have been reported; however, their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=24
+Page 24 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "DDAVP"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of DDAVP is very low compared to the antidiuretic activity, use of large doses of intranasal DDAVP with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high dosages of intranasal DDAVP have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percent of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. ADVERSE REACTION PLACEBO (N=59) % DDAVP 20 mcg (N=60) % DDAVP 40 mcg (N=61) % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 NERVOUS SYSTEM Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Rhinitis 2 8 3 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=25
+Page 25 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared with the antidiuretic activity, use of doses as large as 0.3 mcg/kg of desmopressin acetate with other pressor agents should be done only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution. Desmopressin acetate has been used with epsilon aminocaproic acid without adverse effects."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, desmopressin acetate has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of desmopressin acetate has produced local erythema, swelling, or burning pain. Occasional facial flushing has been reported with the administration of desmopressin acetate. Desmopressin acetate injection has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with desmopressin acetate injection. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following desmopressin acetate injection in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=26
+Page 26 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of intranasal desmopressin acetate is very low compared to the antidiuretic activity, use of large doses of intranasal desmopressin acetate with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high dosages of intranasal desmopressin acetate have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percentage of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. Desmopressin Acetate Placebo (N=59) 20 mcg (N=60) 40 mcg (N=61) Adverse Reaction % % % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 Throat Pain 2 0 0 NERVOUS SYSTEM Depression 2 0 0 Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Respiratory Infection 2 0 0 Rhinitis 2 8 3 CARDIOVASCULAR SYSTEM Vasodilation 2 0 0 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SKIN & APPENDAGES Leg Rash 2 0 0 Rash 2 0 0 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=27
+Page 27 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "DDAVP Rhinal Tube"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of DDAVP is very low compared to the antidiuretic activity, use of large doses of intranasal DDAVP with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high dosages of intranasal DDAVP have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percent of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. PLACEBO (N=59) DDAVP 20 mcg (N=60) DDAVP 40 mcg (N=61) ADVERSE REACTION % % % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 NERVOUS SYSTEM Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Rhinitis 2 8 3 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=28
+Page 28 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate is very low compared with the antidiuretic activity, use of doses as large as 0.3 mcg/kg of desmopressin acetate with other pressor agents should be done only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution. Desmopressin acetate has been used with epsilon aminocaproic acid without adverse effects."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, desmopressin acetate has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of desmopressin acetate has produced local erythema, swelling or burning pain. Occasional facial flushing has been reported with the administration of desmopressin acetate. Desmopressin acetate injection has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with desmopressin acetate injection. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following desmopressin acetate injection in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=29
+Page 29 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of desmopressin acetate is very low compared to its antidiuretic activity, large doses of desmopressin acetate tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitor, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Infrequently, large doses of the intranasal formulations of desmopressin acetate and desmopressin acetate injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus: In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of desmopressin acetate tablet therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of desmopressin acetate tablets. Primary Nocturnal Enuresis: The only adverse event occurring in >=3% of patients in controlled clinical trials with desmopressin acetate tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other: The following adverse events have been reported; however, their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of hyponatremic convulsions asso-ciated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=30
+Page 30 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of intranasal desmopressin acetate is very low compared to the antidiuretic activity, use of large doses of intranasal desmopressin acetate with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Infrequently, high dosages of intranasal desmopressin acetate have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percentage of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. Desmopressin Acetate Placebo (N=59) 20 μg (N=60) 40 μg (N=61) Adverse Reaction % % % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 Throat Pain 2 0 0 NERVOUS SYSTEM Depression 2 0 0 Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Respiratory Infection 2 0 0 Rhinitis 2 8 3 CARDIOVASCULAR SYSTEM Vasodilation 2 0 0 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SKIN & APPENDAGES Leg Rash 2 0 0 Rash 2 0 0 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=31
+Page 31 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of desmopressin acetate is very low compared to the antidiuretic activity, use of large doses of intranasal desmopressin acetate with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high dosages of intranasal desmopressin acetate have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percentage of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. ADVERSE REACTION PLACEBO (N=59) Desmopressin Acetate Desmopressin Acetate 20 mcg (N=60) 40 mcg (N=61) % % % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 NERVOUS SYSTEM Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Rhinitis 2 8 3 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=32
+Page 32 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of desmopressin acetate are very low compared to its antidiuretic activity, large doses of Desmopressin Acetate Tablets should be used with other pressor agents only with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high doses of the intranasal formulations of Desmopressin Acetate Tablets and Desmopressin Acetate Injection have produced transient headache, nausea, flushing and mild abdominal cramps. These symptoms have disappeared with reduction in dosage. Central Diabetes Insipidus In long-term clinical studies in which patients with diabetes insipidus were followed for periods up to 44 months of Desmopressin Acetate Tablets therapy, transient increases in AST (SGOT) no higher than 1.5 times the upper limit of normal were occasionally observed. Elevated AST (SGOT) returned to the normal range despite continued use of Desmopressin Acetate Tablets. Primary Nocturnal Enuresis The only adverse event occurring in >=3% of patients in controlled clinical trials with Desmopressin Acetate Tablets that was probably, possibly, or remotely related to study drug was headache (4% desmopressin acetate, 3% placebo). Other The following adverse events have been reported; however their relationship to desmopressin acetate has not been established: abnormal thinking, diarrhea, and edema-weight gain. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=33
+Page 33 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, desmopressin acetate has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of desmopressin acetate has produced local erythema, swelling or burning pain. Occasional facial flushing has been reported with the administration of desmopressin acetate. Desmopressin Acetate Injection has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with Desmopressin Acetate Injection. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing : There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following Desmopressin Acetate Injection in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutynin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=34
+Page 34 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of Desmopressin Acetate is very low compared to the antidiuretic activity, use of large doses of intranasal Desmopressin Acetate with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high dosages of intranasal Desmopressin Acetate have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percent of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. ADVERSE REACTION PLACEBO (N=59) % Desmopressin acetate 20 mcg (N=60) % Desmopressin acetate 40 mcg (N=61) % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 NERVOUS SYSTEM Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Rhinitis 2 8 3 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing There have been rare reports of hyponatremia convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=35
+Page 35 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the pressor activity of desmopressin acetate is very low compared to the antidiuretic activity, use of large doses of intranasal desmopressin acetate with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Infrequently, high dosages of intranasal desmopressin acetate have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percentage of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. Desmopressin Acetate PLACEBO (N=59) 20 mcg (N=60) 40 mcg (N=61) ADVERSE REACTION % % % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 NERVOUS SYSTEM Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Rhinitis 2 8 3 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing: There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=36
+Page 36 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "DDAVP"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although the pressor activity of DDAVP is very low compared to the antidiuretic activity, use of large doses of intranasal DDAVP with other pressor agents should only be done with careful patient monitoring. The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, high dosages of intranasal DDAVP have produced transient headache and nausea. Nasal congestion, rhinitis and flushing have also been reported occasionally along with mild abdominal cramps. These symptoms disappeared with reduction in dosage. Nosebleed, sore throat, cough and upper respiratory infections have also been reported. The following table lists the percentage of patients having adverse experiences without regard to relationship to study drug from the pooled pivotal study data for nocturnal enuresis. ADVERSE REACTION PLACEBO (N=59) DDAVP 20 mcg (N=60) DDAVP 40 mcg (N=61) % % % BODY AS A WHOLE Abdominal Pain 0 2 2 Asthenia 0 0 2 Chills 0 0 2 Headache 0 2 5 NERVOUS SYSTEM Dizziness 0 0 3 RESPIRATORY SYSTEM Epistaxis 2 3 0 Nostril Pain 0 2 0 Rhinitis 2 8 3 DIGESTIVE SYSTEM Gastrointestinal Disorder 0 2 0 Nausea 0 0 2 SPECIAL SENSES Conjunctivitis 0 2 0 Edema Eyes 0 2 0 Lachrymation Disorder 0 0 2 Post Marketing There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine. See WARNINGS for the possibility of water intoxication and hyponatremia."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Desmopressin+AND+Acetate+AND+Injection&limit=1&skip=37
+Page 37 of 38
+        "generic_name": [
+          "DESMOPRESSIN ACETATE"
+        "brand_name": [
+          "Desmopressin Acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequently, DESMOPRESSIN ACETATE has produced transient headache, nausea, mild abdominal cramps and vulval pain. These symptoms disappeared with reduction in dosage. Occasionally, injection of DESMOPRESSIN ACETATE has produced local erythema, swelling or burning pain. Occasional facial flushing has been reported with the administration of DESMOPRESSIN ACETATE. DESMOPRESSIN ACETATE Injection has infrequently produced changes in blood pressure causing either a slight elevation or a transient fall and a compensatory increase in heart rate. Severe allergic reactions including anaphylaxis have been reported rarely with DESMOPRESSIN ACETATE Injection. See WARNINGS for the possibility of water intoxication and hyponatremia. Post Marketing: There have been rare reports of thrombotic events (acute cerebrovascular thrombosis, acute myocardial infarction) following DESMOPRESSIN ACETATE Injection in patients predisposed to thrombus formation, and rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

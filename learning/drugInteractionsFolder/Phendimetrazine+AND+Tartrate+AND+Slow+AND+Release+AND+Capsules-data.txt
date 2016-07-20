@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Phendimetrazine+AND+Tartrate+AND+Slow+AND+Release+AND+Capsules&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "PHENDIMETRAZINE TARTRATE"
+        "brand_name": [
+          "BONTRIL"
+ 
+      "drug_interactions": [
+        "Drug Interactions Safe use in pregnancy has not been established. Until more information is available, phendimetrazine tartrate should not be taken by women who are or may become pregnant unless, in the opinion of the physician, the potential benefits outweigh the possible hazards"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular Palpitation, tachycardia, elevated blood pressure. Valvular heart disease associated with the use of some anorectic agents such as fenfluramine and dexfenfluramine, both independently and especially when used in combination with other anorectic drugs, have been reported. However, no case of this valvulopathy has been reported when phendimetrazine tartrate has been used alone. Central Nervous System Overstimulation, restlessness, insomnia, agitation, flushing, tremor, sweating, dizziness, headache, psychotic state, blurring of vision. Gastrointestinal Dryness of the mouth, nausea, diarrhea, constipation, stomach pain. Genitourinary Urinary frequency, dysuria, changes in libido."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Chorionic+AND+Gonadotropin+AND+for+AND+Injection&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "GONADOTROPHIN, CHORIONIC"
+        "brand_name": [
+          "Novarel"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS (see WARNINGS ) Headache, irritability, restlessness, depression, fatigue, edema, precocious puberty, gynecomastia, pain at the site of injection. Hypersensitivity reactions both localized and systemic in nature, including erythema, urticaria, rash, angioedema, dyspnea and shortness of breath, have been reported. The relationship of these allergic-like events to the polypeptide hormone or the diluent containing benzyl alcohol is not clear."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

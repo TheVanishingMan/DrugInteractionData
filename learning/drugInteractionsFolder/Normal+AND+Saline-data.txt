@@ -1,0 +1,10 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Normal+AND+Saline&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "NORMAL SALINE WITH PHENOL"
+        "brand_name": [
+          "Diluent for Allergenic Extract - Sterile Normal Saline with Phenol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,786 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=0
+Page 0 of 77
+        "generic_name": [
+          "DULCAMARA, ECHINACEA ANGUSTIFOLIA, AESCULUS HIPPOCASTANUM, ANTIMONIUM TARTARICUM, ASCORBIC ACID, COCCUS CACTI, CONIUM MACULATUM, GALIUM APARINE, GENTIANA LUTEA, GERANIUM ROBERTIANUM, PULSATILLA (VULGARIS), SARCOLACTICUM ACIDUM, LYMPH NODE (SUIS), SULPHUR, GLANDULA SUPRARENALIS SUIS, PHENYLALANINE, CALCAREA PHOSPHORICA, FERRUM PHOSPHORICUM, HEPAR SUIS, HYPOTHALAMUS (SUIS), SPLEEN (SUIS), CORTISONE ACETICUM, MERCURIUS SOLUBILIS, BARYTA CARBONICA, TONSIL (SUIS), FUNICULUS UMBILICALIS SUIS, GAERTNER BACILLUS,"
+        "brand_name": [
+          "Advanced Detox Core Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=1
+Page 1 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ALNUS SERRULATA, CARDUUS BENEDICTUS, CICHORIUM INTYBUS, CORTISONE ACETICUM, DOLICHOS PRURIENS, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, JUGLANS CINEREA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NASTURTIUM AQUATICUM, NATRUM MURIATICUM, RNA, RHUS TOXICODENDRON, SABADILLA, SASSAFRAS OFFICINALE"
+        "brand_name": [
+          "Southeast Regional Allergies"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=2
+Page 2 of 77
+        "generic_name": [
+          "CORTISONE ACETATE"
+        "brand_name": [
+          "Cortisone Acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Fluid and Electrolyte Disturbances Sodium retention Fluid retention Congestive heart failure in susceptible patients Potassium loss Hypokalemic alkalosis Hypertension Musculoskeletal Muscle weakness Steroid myopathy Loss of muscle mass Osteoporosis Vertebral compression fractures Aseptic necrosis of femoral and humeral heads Pathologic fracture of long bones Tendon rupture Gastrointestinal Peptic ulcer with possible perforation and hemorrhage Perforation of the small and large bowel, particularly in patients with inflammatory bowel disease Pancreatitis Abdominal distention Ulcerative esophagitis Dermatologic Impaired wound healing Thin fragile skin Petechiae and ecchymoses Erythema Increased sweating May suppress reactions to skin tests Other cutaneous reactions, such as allergic dermatitis, urticaria, angioneurotic edema Neurologic Convulsions Increased intracranial pressure with papilledema (pseudotumor cerbri) usually after treatment Vertigo Headache Psychic disturbances Endocrine Menstrual irregularities Development of cushingoid state Suppression of growth in children Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery, or illness Decreased carbohydrate tolerance Manifestations of latent diabetes mellitus Increased requirements for insulin or oral hypoglycemic agents in diabetics Hirsutism Ophthalmic Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos Metabolic Negative nitrogen balance due to protein catabolism Cardiovascular Myocardial rupture following recent myocardial infarctions (see WARNINGS ). Other Hypersensitivity Thromboembolism Weight gain Increased appetite Nausea Malaise"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=3
+Page 3 of 77
+        "generic_name": [
+          "THYROIDINUM (SUIS), CORTISONE ACETICUM, ANACARDIUM ORIENTALE, ANTIMONIUM CRUDUM, IGNATIA AMARA, NATRUM MURIATICUM, STAPHYSAGRIA, CORTISOL"
+        "brand_name": [
+          "Appetite Control"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=4
+Page 4 of 77
+        "generic_name": [
+          "BERBERIS VULGARIS, GLYCYRRHIZA GLABRA, LAPPA MAJOR, PHYTOLACCA DECANDRA, STILLINGIA SYLVATICA, TRIFOLIUM PRATENSE, GLANDULA SUPRARENALIS SUIS, HEPAR SUIS, LYMPH NODE (SUIS), THYROIDINUM (SUIS), BELLADONNA, IRIDIUM METALLICUM, LYCOPODIUM CLAVATUM, NITRICUM ACIDUM, NUX VOMICA, PHOSPHORICUM ACIDUM, SELENIUM METALLICUM, SALICYLICUM ACIDUM, ADRENOCORTICOTROPHIN, CORTISONE ACETICUM, EUGENOL, STEARYL ALCOHOL, XYLITOL, FOLLICULINUM, BENZOICUM ACIDUM, CHLORINUM, POTASSIUM SORBATE, SORBITOL, RESORCINUM"
+        "brand_name": [
+          "Chemtox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=5
+Page 5 of 77
+        "generic_name": [
+          "ARNICA MONTANA, BELLADONNA, CORTISONE ACETICUM, HYPERICUM PERFORATUM, SYMPHYTUM OFFICINALE"
+        "brand_name": [
+          "Relief-Tone"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=6
+Page 6 of 77
+        "generic_name": [
+          "SALSOLINOL HYDROCHLORIDE, CHOLESTERINUM, DHEA (DEHYDROEPIANDROSTERONE), 7-KETO-DHEA (DEHYDROEPIANDROSTERONE), FOLLICULINUM, OOPHORINUM (SUIS), PROGESTERONE, TESTOSTERONE, CORTISONE ACETICUM, ALDOSTERONE, ANDROSTERONE, FOLLICLE STIMULATING HORMONE"
+        "brand_name": [
+          "Hormone Combination"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=7
+Page 7 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADREN ALINUM, ADRENOCORTICOTROPHIN, AGRAPHIS NUTANS, ALLIUM CEPA, COLLINSONIA CANADENSIS, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUMEX CRISPUS, SABADILLA, SALVIA OFFICINALIS, TANACETUM VULGARE, TRIFOLIUM PRATENSE, VINCA MINOR"
+        "brand_name": [
+          "Allergies Northeastern US"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=8
+Page 8 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ASARUM CANADENSE, CORTISONE ACETICUM, EUPATORIUM AROMATICUM, EUPHRASIA OFFICINALIS, FRAXINUS AMERICANA, GALPHIMIA GLAUCA, HELIANTHUS ANNUUS, HISTAMINUM HYDROCHLORICUM, JUNIPERUS VIRGINIANA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PLANTAGO MAJOR, RNA, RUMEX CRISPUS, SABADILLA, SENECIO JACOBAEA"
+        "brand_name": [
+          "Allergies Southwest U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=9
+Page 9 of 77
+        "generic_name": [
+          "ARALIA QUINQUEFOLIA, AGNUS CASTUS, ASCORBIC ACID, CALADIUM SEGUINUM, KALI BROMATUM, STRYCHNINUM PHOSPHORICUM, CANTHARIS, DAMIANA, FUNICULUS UMBILICALIS SUIS, GLANDULA SUPRARENALIS SUIS, ORCHITINUM (SUIS), PITUITARIA GLANDULA (SUIS), PROSTATE (SUIS), CONIUM MACULATUM, DIENCEPHALON (SUIS), HEART (SUIS), FERRUM PHOSPHORICUM, MAGNESIA PHOSPHORICA, SELENIUM METALLICUM, ZINCUM METALLICUM, PINEAL (SUIS), CORTISONE ACETICUM, MANGANUM PHOSPHORICUM, LYCOPODIUM CLAVATUM, TESTOSTERONE, MORGAN GAERTNER"
+        "brand_name": [
+          "Male Stimulant"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=10
+Page 10 of 77
+        "generic_name": [
+          "THYROIDINUM, CORTISONE ACETICUM, ANACARDIUM ORIENTALE, ANTIMONIUM CRUDUM, IGNATIA AMARA, NATRUM MURIATICUM, STAPHYSAGRIA, CORTISOL"
+        "brand_name": [
+          "Appetite Control"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=11
+Page 11 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, AMBROSIA ARTEMISIAEFOLIA, CHELIDONIUM MAJUS, CHENOPODIUM VULVARIA, CICHORIUM INTYBUS, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HEDERA HELIX, HISTAMINUM HYDROCHLORICUM, JUGLANS CINEREA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PULSATILLA NUTTALLIANA, RNA, SABADILLA, TEUCRIUM SCORODONIA"
+        "brand_name": [
+          "Allergies Great Lakes U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=12
+Page 12 of 77
+        "generic_name": [
+          "BERBERIS VULGARIS, GLYCYRRHIZA GLABRA, LAPPA MAJOR, PHYTOLACCA DECANDRA, STILLINGIA SYLVATICA, TRIFOLIUM PRATENSE, GLANDULA SUPRARENALIS SUIS, HEPAR SUIS, LYMPH NODE (SUIS), THROIDINUM (SUIS), BELLADONNA, IRIDIUM METALLICUM, LYCOPODIUM CLAVATUM, NITRICUM ACIDUM, NUX VOMICA, PHOSPHORICUM ACIDUM, SELENIUM METALLICUM, SALICYLICUM ACIDUM, ADRENOCORTICOTROPHIN, CORTISONE ACETICUM, EUGENOL, STEARYL ALCOHOL, XYLITOL, FOLLICULINUM, BENZOICUM ACIDUM, CHLORINUM, POTASSIUM SORBATE, SORBITOL, RESORCINUM"
+        "brand_name": [
+          "Chemdetox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=13
+Page 13 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, AGRIMONIA EUPATORIA, AGROSTEMMA GITHAGO, AILANTHUS GLANDULOSUS, ALLIUM CEPA, CORTISONE ACETICUM, CYNODON DACTYLON, EQUISETUM HYEMALE, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PLATANUS, POPULUS CANDICANS, RNA, SABADILLA, SOLIDAGO VIRGAUREA"
+        "brand_name": [
+          "Regional Allergies Rocky Mtns. U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=14
+Page 14 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ALNUS SERRULATA, CARDUUS BENEDICTUS, CICHORIUM INTYBUS, CORTISONE ACETICUM, DOLICHOS PRURIENS, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, JUGLANS CINEREA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NASTURTIUM AQUATICUM, NATRUM MURIATICUM, RNA, RHUS TOXICODENDRON, SABADILLA, SASSAFRAS OFFICINALE"
+        "brand_name": [
+          "Regional Allergies Southern U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=15
+Page 15 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, SABADILLA"
+        "brand_name": [
+          "Regional Allergies Hawaii U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=16
+Page 16 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ALNUS SERRULATA, CARDUUS BENEDICTUS, CICHORIUM INTYBUS, CORTISONE ACETICUM, DOLICHOS PRURIENS, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, JUGLANS CINEREA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NASTURTIUM, NATRUM MURIATICUM, RHUS TOX, RNA, SABADILLA, SASSAFRAS OFFICINALE"
+        "brand_name": [
+          "AllergyEase Southern"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=17
+Page 17 of 77
+        "generic_name": [
+          "TRITICUM AESTIVUM, BERBERIS VULGARIS, GLYCYRRHIZA GLABRA, LAPPA MAJOR, PHYTOLACCA DECANDRA, RHAMNUS FRANGULA, RHAMNUS PURSHIANA, STILLINGIA SYLVATICA, TRIFOLIUM PRETENSE, XANTHOXYLUM FRAXINEUM, GLANDULA SUPRARENALIS, HEPAR BOVINUM, LYMPH, THYROIDINUM, BELLADONNA, LYCOPODIUM CLAVATUM, NITRICUM ACIDUM, NUX VOMICA, PHOSPHORICUM ACIDUM, PHOSPHORUS, SALICYLICUM ACIDUM, ADRENOCORTICOTROPHIN, CORTISONE ACETICUM, EUGENOL, STEARYL ALCOHOL, XYLITOL, FOLLICULINUM, BENZOICUM ACIDUM, CHLORINUM,"
+        "brand_name": [
+          "Chemtox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=18
+Page 18 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALFALFA, ALLIUM CEPA, BELLIS PERENNIS, CONIUM MACULATUM, CORTISONE ACETICUM, EQUISETUM HYEMALE, EUPHRASIA OFFICINALIS, FAGOPYRUM ESCULENTUM, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MILLEFOLIUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PRUNUS SPINOSA, RNA, SABADILLA, SOLIDAGO VIRGAUREA"
+        "brand_name": [
+          "Pacific Regional Allergies"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=19
+Page 19 of 77
+        "generic_name": [
+          "POTASSIUM GLUCONATE, GLANDULA SUPRARENALIS BOVINE, HEPAR BOVINE, ARSENICUM ALBUM, LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORUS, CORTISONE ACETICUM, HISTAMINUM HYDROCHLORICUM, HYALURONIDASE, INTERFERON (SUIS), SEROTONIN HYDROCHLORIDE, ALLIUM CEPA, AMYGDALA AMARA, ANACARDIUM OCCIDENTALE, BANANA, BEEF, BLACK WALNUT, BRAZIL NUS, CHEESE, CHICKEN, COCONUT, COC, EGG, EGGPLANT, JUGLANS REGIA, FLAX, FRAGARIA VESCA, LAC VACCINUM, LAMB, LEVANT COTTON, LIMULUS, LYCOPERSICUM ESCULENTUM,"
+        "brand_name": [
+          "Allergen I"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=20
+Page 20 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALFALFA, ALLIUM CEPA, AMBROSIA ARTEMISIAEFOLIA, CORTISONE ACETICUM, ERECHTITES HIERACIFOLIA, ERIGERON CANADENSIS, EUONYMUS ATROPURPUREUS, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, SABADILLA, STRAMONIUM, TRITICUM REPENS"
+        "brand_name": [
+          "AllergyEase Desert"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=21
+Page 21 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALFALFA, ALLIUM CEPA, AMBROSIA ARTEMISIAEFOLIA, CORTISONE ACETICUM, ERECHTITES HIERACIFOLIA, ERIGERON CANADENSIS, EUONYMUS ATROPURPUREUS, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, SABADILLA, STRAMONIUM, TRITICUM REPENS"
+        "brand_name": [
+          "Allergies Desert U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=22
+Page 22 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, AMBROSIA ARTEMISIAEFOLIA, CHELIDONIUM MAJUS, CHENOPODIUM VULVARIA, CICHORIUM INTYBUS, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HEDERA HELIX, HISTAMINUM HYDROCHLORICUM, JUGLANS CINEREA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PULSATILLA NUTTALLIANA, RNA, SABADILLA, TEUCRIUM SCORODONIA"
+        "brand_name": [
+          "Regional Allergies Great Lakes U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=23
+Page 23 of 77
+        "generic_name": [
+          "HYDROCORTISONE (CORTISOL), HISTAMINUM HYDROCHLORICUM, ADENOSINUM TRIPHOSPHORICUM DINATRUM, ASCORBIC ACID, PYRIDOXINUM HYDROCHLORICUM, RIBOFLAVINUM, SARCOLACTICUM ACIDUM, SPLEEN (SUIS), STOMACH (SUIS), CORTISONE ACETICUM, ARSENICUM ALBUM, CALCAREA CARBONICA, CARDUUS MARIANUS, CEANOTHUS AMERICANUS, CINCHONA OFFICINALIS, DIGITALIS PURPUREA, DYSENTERY BACILLUS, IGNATIA AMARA, KALI BICHROMICUM, LYCOPODIUM CLAVATUM, PHOSPHORUS, PLUMBUM METALLICUM, PULSATILLA (VULGARIS), RANUNCULUS BULBOSUS, VERATRUM VIRIDE"
+        "brand_name": [
+          "Stomach Spleen Meridian Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=24
+Page 24 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALFALFA, ALLIUM CEPA, AMBROSIA ARTEMISIAEFOLIA, CORTISONE ACETICUM, ERECHTITES HIERACIFOLIA, ERIGERON CANADENSIS, EUONYMUS ATROPURPUREUS, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, SABADILLA, STRAMONIUM AND TRITICUM REPENS"
+        "brand_name": [
+          "Regional Allergies Desert U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=25
+Page 25 of 77
+        "generic_name": [
+          "TRITICUM AESTIVUM, CHELIDONIUM MAJUS, TARAXACUM OFFICINALE, GLUTATHIONE, HEPAR SUIS, THYROIDINUM (SUIS), LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORICUM ACIDUM, ACETICUM ACIDUM, ADRENOCORTICOTROPHIN, BENZOICUM ACIDUM, BENZYL ALCOHOL, BORICUM ACIDUM, CHLORINUM, CORTISONE ACETICUM, EUGENOL, FOLLICULINUM, ISOPROPYL PALMITATE, LACTICUM ACIDUM, PETROLEUM JELLY, PHENYLBUTAZONE, PLUMBUM METALLICUM, POTASSIUM SORBATE, RESORCINOL, SALICYLIEUM ACIDUM, SORBITOL, STEARY ALCOHOL, XYLITOL,"
+        "brand_name": [
+          "Hepatatox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=26
+Page 26 of 77
+        "generic_name": [
+          "CORTISONE ACETATE"
+        "brand_name": [
+          "Cortisone Acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Fluid and Electrolyte Disturbances Sodium retention Fluid retention Congestive heart failure in susceptible patients Potassium loss Hypokalemic alkalosis Hypertension Musculoskeletal Muscle weakness Steroid myopathy Loss of muscle mass Osteoporosis Vertebral compression fractures Aseptic necrosis of femoral and humeral heads Pathologic fracture of long bones Tendon rupture Gastrointestinal Peptic ulcer with possible perforation and hemorrhage Perforation of the small and large bowel, particularly in patients with inflammatory bowel disease Pancreatitis Abdominal distention Ulcerative esophagitis Dermatologic Impaired wound healing Thin fragile skin Petechiae and ecchymoses Erythema Increased sweating May suppress reactions to skin tests Other cutaneous reactions, such as allergic dermatitis, urticaria, angioneurotic edema Neurologic Convulsions Increased intracranial pressure with papilledema (pseudotumor cerbri) usually after treatment Vertigo Headache Psychic disturbances Endocrine Menstrual irregularities Development of cushingoid state Suppression of growth in children Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery, or illness Decreased carbohydrate tolerance Manifestations of latent diabetes mellitus Increased requirements for insulin or oral hypoglycemic agents in diabetics Hirsutism Ophthalmic Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos Metabolic Negative nitrogen balance due to protein catabolism Cardiovascular Myocardial rupture following recent myocardial infarctions (see WARNINGS ). Other Hypersensitivity Thromboembolism Weight gain Increased appetite Nausea Malaise"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=27
+Page 27 of 77
+        "generic_name": [
+          "PULSATILLA VULGARIS AND SULFUR AND CORTISONE ACETATE"
+        "brand_name": [
+          "Pulsatilla Compositum"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=28
+Page 28 of 77
+        "generic_name": [
+          "SALSOLINOL HYDROCHLORIDE, CHOLESTERINUM, DHEA (DEHYDROEPIANDROSTERONE), 7-KETO-DHEA (DEHYDROEPIANDROSTERONE), FOLLICULINUM, OOPHORINUM (SUIS), PROGESTERONE, TESTOSTERONE, CORTISONE ACETICUM, ALDOSTERONE, ANDROSTERONE, FOLLICLE STIMULATING HORMONE"
+        "brand_name": [
+          "Hormone Combination"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=29
+Page 29 of 77
+        "generic_name": [
+          "TRITICUM AESTIVUM, BERBERIS VULGARIS, GLYCYRRHIZA GLABRA, LAPPA MAJOR, PHYTOLACCA DECANDRA, RHAMNUS FRANGULA, RHAMNUS PURSHIANA, STILLINGIA SYLVATICA, TRIFOLIUM PRATENSE, XANTHOXYLUM FRAXINEUM, GLANDULA SUPRARENALIS SUIS, HEPAR SUIS, LYMPH (SUIS), THYROIDINUM (SUIS), BELLADONNA, LYCOPODIUM CLAVATUM, NITRICUM ACIDUM, NUX VOMICA, PHOSPHORICUM ACIDUM, PHOSPHORUS, SALICYLICUM ACIDUM, ADRENOCORTICOTROPHIN, CORTISONE ACETICUM, EUGENOL, STEARYL ALCOHOL, XYLITOL, FOLLICULINUM, BENZOICUM ACIDUM"
+        "brand_name": [
+          "Chemtox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=30
+Page 30 of 77
+        "generic_name": [
+          "ARALIA QUINQUEFOLIA, HUMULUS LUPULUS, ADRENALINUM, CORTISONE ACETICUM, THYROIDINUM SUIS, SELENIUM METALLICUM, ARSENICUM ALBUM, CALCAREA CARBONICA, CONVALLARIA MAJALIS, CROTALUS HORRIDUS, FERRUM METALLICUM, NUX VOMICA, PHOSPHORUS, SEPIA, PHOSPHORICUM ACIDUM"
+        "brand_name": [
+          "Adrenal Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=31
+Page 31 of 77
+        "generic_name": [
+          "ARALIA QUINQUEFOLIA, HUMULUS LUPULUS, ADRENALINUM, CORTISONE ACETICUM, THYROIDINUM SUIS, SELENIUM METALLICUM, ARSENICUM ALBUM, CALCAREA CARBONICA, CONVALLARIA MAJALIS, CROTALUS HORRIDUS, FERRUM METALLICUM, NUX VOMICA, PHOSPHORUS SEPIA, PHOSPHORICUM ACIDUM"
+        "brand_name": [
+          "Adrenal Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=32
+Page 32 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, AGRAPHIS NUTANS, ALLIUM CEPA, COLLINSONIA CANADENSIS, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUMEX CRISPUS, SABADILLA, SALVIA OFFICINALIS, TANACETUM VULGARE, TRIFOLIUM PRATENSE, VINCA MINOR"
+        "brand_name": [
+          "Northeast Regional Allergies"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=33
+Page 33 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ASARUM CANADENSE, CORTISONE ACETICUM, EUPATORIUM AROMATICUM, EUPHRASIA OFFICINALIS, FRAXINUS AMERICANA, GALPHIMIA GLAUCA, HELIANTHUS ANNUUS, HISTAMINUM HYDROCHLORICUM, JUNIPERUS VIRGINIANA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PLANTAGO MAJOR, RNA, RUMEX CRISPUS, SABADILLA, SENECIO JACOBAEA"
+        "brand_name": [
+          "Allergies Total Mold Control"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=34
+Page 34 of 77
+        "generic_name": [
+          "CONIUM MACULATUM, DULCAMARA, ECHINACEA, AESCULUS HIPPOCASTANUM, ANTIMONIUM TARTARICUM, ASCORBIC ACID, COCCUS CACTI, GALIUM APARINE, GENTIANA LUTEA, GERANIUM ROBERTIANUM, PULSATILLA (VULGARIS), SARCOLACTICUM ACIDUM, LYMPH (SUIS), SULPHUR, GLANDULA SUPRARENALIS SUIS, PHENYLALANINE, CALCAREA PHOSPHORICA, FERRUM PHOSPHORICUM, HEPAR SUIS, HYPOTHALAMUS (SUIS), SPLEEN (SUIS), CORTISONE ACETICUM, MERCURIUS SOLUBILIS, BARYTA CARBONICA, FUNICULUS UMBILICALIS SUIS, TONSIL (SUIS), GAERTNER BACILLUS (BACH)"
+        "brand_name": [
+          "D3 Organ Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=35
+Page 35 of 77
+        "generic_name": [
+          "ADRENALINUM, ADRENOCORTICOTROPHIN, AGRIMONIA EUPATORIA FLOS, ANACARDIUM ORIENTALE, ANTIMONIUM CRUDUM, CALCAREA CARBONICA, CASTANEA SATIVA FLOS, CORTISONE ACETICUM, FUCUS VESICULOSUS, HYPOTHALAMUS , KALI BICHROMICUM, OLEANDER, PITUITARUM POSTERIUM, SABADILLA, STAPHYSAGRIA, THYROIDINUM"
+        "brand_name": [
+          "AppetiteGo"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=36
+Page 36 of 77
+        "generic_name": [
+          "SQUALENE, CHOLESTERINUM, ESTRADIOL, PROGESTERONE, ASPARTAME, BENZALKONIUM CHLORIDE, FORMALINUM, METHYLENE CHLORIDE, METHYL PARABEN, PROPYL PARABEN, SODIUM BENZOATE, SODIUM CITRATE, TITANIUM DIOXIDE, ZINCUM OXYDATUM, ARSENICUM ALBUM, LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORICUM ACIDUM, PHOSPHORUS, ACETICUM ACIDUM, ADRENOCORTICOTROPHIN, BENZOICUM ACIDUM, BENZYL ALCOHOL, BORICUM ACIDUM, CHLORINUM, CORTISONE ACETICUM, EUGENOL, FOLLICULINUM, ISOPROPYL PALMITATE, LACTICUM ACIDUM, PETROLEUM JELLY"
+        "brand_name": [
+          "Lipotox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=37
+Page 37 of 77
+        "generic_name": [
+          "CORTISONE ACETATE"
+        "brand_name": [
+          "Cortisone Acetate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Fluid and Electrolyte Disturbances Sodium retention Fluid retention Congestive heart failure in susceptible patients Potassium loss Hypokalemic alkalosis Hypertension Musculoskeletal Muscle weakness Steroid myopathy Loss of muscle mass Osteoporosis Vertebral compression fractures Aseptic necrosis of femoral and humeral heads Pathologic fracture of long bones Tendon rupture Gastrointestinal Peptic ulcer with possible perforation and hemorrhage Perforation of the small and large bowel, particularly in patients with inflammatory bowel disease Pancreatitis Abdominal distention Ulcerative esophagitis Dermatologic Impaired wound healing Thin fragile skin Petechiae and ecchymoses Erythema Increased sweating May suppress reactions to skin tests Other cutaneous reactions, such as allergic dermatitis, urticaria, angioneurotic edema Neurologic Convulsions Increased intracranial pressure with papilledema (pseudotumor cerbri) usually after treatment Vertigo Headache Psychic disturbances Endocrine Menstrual irregularities Development of cushingoid state Suppression of growth in children Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery, or illness Decreased carbohydrate tolerance Manifestations of latent diabetes mellitus Increased requirements for insulin or oral hypoglycemic agents in diabetics Hirsutism Ophthalmic Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos Metabolic Negative nitrogen balance due to protein catabolism Cardiovascular Myocardial rupture following recent myocardial infarctions (see WARNINGS ). Other Hypersensitivity Thromboembolism Weight gain Increased appetite Nausea Malaise"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=38
+Page 38 of 77
+        "generic_name": [
+          "SALSOLINOL HYDROCHLORIDE, CHOLESTERINUM, DHEA (DEHYDROEPIANDROSTERONE), 7-KETO-DHEA (DEHYDROEPIANDROSTERONE), FOLLICULINUM, OOPHORINUM (SUIS), PROGESTERONE, TESTOSTERONE, CORTISONE ACETICUM, ALDOSTERONE, ANDROSTERONE, FOLLICLE STIMULATING HORMONE"
+        "brand_name": [
+          "Hormone Combination"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=39
+Page 39 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, AGRIMONIA EUPATORIA, AGROSTEMMA GITHAGO, AILANTHUS GLANDULOSUS, ALLIUM CEPA, CORTISONE ACETICUM, CYNODON DACTYLON, EQUISETUM HYEMALE, EUPRHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PLATANUS, POPULUS CANDICANS, RNA, SABADILLA, SOLIDAGO VIRGAUREA"
+        "brand_name": [
+          "AllergyEase Rocky Mtns"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=40
+Page 40 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALIUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, JUNIPERUS VIRGINIANA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUNEX CRISP, SABADILLA"
+        "brand_name": [
+          "AllergyEase Hawaii"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=41
+Page 41 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ARSENICUM ALBUM, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, SABADILLA"
+        "brand_name": [
+          "Allergies Foundational Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=42
+Page 42 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ASARUM CANADENSE, CORTISONE ACETICUM, EUPATORIUM AROMATICUM, EUPHRASIA OFFICINALIS, FRAXINUS AMERICANA, GALPHIMIA GLAUCA, HELIANTHUS ANNUS, HISTAMINUM HYDROCHLORICUM, JUNIPERUS VIRGINIANA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PLANTAGO MAJOR, RNA, RUMEX CRISPUS, SABADILLA, SENECIO JACOBAEA"
+        "brand_name": [
+          "AllergyEase Southwestern"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=43
+Page 43 of 77
+        "generic_name": [
+          "ADRENALINUM, ADRENOCORTICOTROPHIN, AGRIMONIA EUPATORIA, FLOS, ANACARDIUM ORIENTALE, ANTIMONIUM CRUDUM, CALCAREA CARBONICA, CASTANEA SATIVA, FLOS, CORTISONE ACETICUM, FUCUS VESICULOSUS, HYPOTHALAMUS, KALI BICHROMICUM, OLEANDER, PITUITARUM POSTERIUM, SABADILLA, STAPHYSAGRIA, THYROIDINUM"
+        "brand_name": [
+          "Slim Remedy No. 15"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=44
+Page 44 of 77
+        "generic_name": [
+          "CONIUM MACULATUM, DULCAMARA, ECHINACEA, AESCULUS HIPPOCASTANUM, ANTIMONIUM TARTARICUM, ASCORBIC ACID, COCCUS CACTI, GALIUM APARINE, GENTIANA LUTEA, GERANIUM ROBERTIANUM, PULSATILLA, SARCOLACTICUM ACIDUM, LYMPH (SUIS), SULPHUR, GLANDULA SUPRARENALIS SUIS, PHENYLALANINE, CALCAREA PHOSPHORICA, FERRUM PHOSPHORICUM, HEPAR SUIS, HYPOTHALAMUS (SUIS), SPLEEN (SUIS), CORTISONE ACETICUM, MERCURIUS SOLUBILIS, BARYTA CARBONICA, FUNICULUS UMBILICALIS SUIS, TONSIL (SUIS), GAERTNER BACH, TRIIODOTHYRONINE"
+        "brand_name": [
+          "Detox III"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=45
+Page 45 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, AGRAPHIS NUTANS, ALLIUM CEPA, COLLINSONIA CANADENSIS, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUMEX CRISPUS, SABADILLA, SALVIA OFFICINALIS, TANACETUM VULGARE, TRIFOLIUM PRATENSE, VINCA MINOR"
+        "brand_name": [
+          "Regional Allergies Northeastern US"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=46
+Page 46 of 77
+        "generic_name": [
+          "ARALIA QUINQUEFOLIA, HUMULUS LUPULUS, ADRENALINUM, CORTISONE ACETICUM, THYROIDINUM (SUIS), SELENIUM METALLICUM, ARSENICUM ALBUM, CALCAREA CARBONICA, CONVALLARIA MAJALIS, CROTALUS HORRIDUS, FERRUM METALLICUM, NUX VOMICA, PHOSPHORUS, SEPIA, PHOSPHORICUM ACIDUM"
+        "brand_name": [
+          "Adrenal Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=47
+Page 47 of 77
+        "generic_name": [
+          "ARALIA QUINQUEFOLIA, HUMULUS LUPULUS, ADRENALINUM, CORTISONE ACETICUM, THYROIDINUM (SUIS), SELENIUM METALLICUM, ARSENICUM ALBUM, CALCAREA CARBONICA, CONVALLARIA MAJALIS, CROTALUS HORRIDUS, FERRUM METALLICUM, NUX VOMICA, PHOSPHORUS, SEPIA, PHOSPHORICUM ACIDUM"
+        "brand_name": [
+          "Adrenal Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=48
+Page 48 of 77
+        "generic_name": [
+          "CONIUM MACULATUM FLOWERING TOP, SOLANUM DULCAMARA TOP, ECHINACEA, UNSPECIFIED, HORSE CHESTNUT,ANTIMONY POTASSIUM TARTRATE, ASCORBIC ACID, PROTORTONIA CACTI,GALIUM APARINE,GENTIANA LUTEA ROOT,GERANIUM ROBERTIANUM, PULSATILLA VULGARIS,LACTIC ACID, L-, SUS SCROFA ADRENAL GLAND,SULFUR,TRIBASIC CALCIUM PHOSPHATE,FERROSOFERRIC PHOSPHATE,SUS SCROFA UMBILICAL CORD,PORK LIVER,SUS SCROFA HYPOTHALAMUSSUS SCROFA BONE MARROW,SUS SCROFA SPLEEN,SUS SCROFA ADRENAL GLAND, CORTISONE ACETATE, SUS SCROFA EMBRYO,"
+        "brand_name": [
+          "Tonsilla compositum"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS No adverse events have been reported with a causal relationship Thonsilla compositum(R) Oral Vials."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS Warnings and Precautions None"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=49
+Page 49 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, AGRIMONIA EUPATORIA, AGROSTEMMA GITHAGO, AILANTHUS GLANDULOSUS, ALLIUM CEPA, CORTISONE ACETICUM, CYNODON DACTYLON, EQUISETUM HYEMALE, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCASA NASALIS SUIS, NATRUM MURIATICUM, PLATANUS, POPULUS CANDICANS, RNA, SABADILLA, SOLIDAGO VIRGAUREA"
+        "brand_name": [
+          "Allergies Rocky MTNS. U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=50
+Page 50 of 77
+        "generic_name": [
+          "ABSINTHIUM, ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, AMBROSIA ARTEMISSFOLIA, CAULOPHYLLUM THALICTROIDES, CONIUM MACULATUM, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, FAGOPYRUM ESCULENTUM, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MELILOTUS OFFICINALIS, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUMEX CRISPUS, SABADILLA, SECALE CORNUTUM"
+        "brand_name": [
+          "AllergyEase Plains"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=51
+Page 51 of 77
+        "generic_name": [
+          "SALSOLINOL HYDROCHLORIDE, CHOLESTERINUM, DEHYDROEPIANDRSTERONE, FOLLICULINUM, OOPHORINUM (SUIS), PROGESTERONE, TESTOSTERONE, CORTISONE ACETICUM, ALDOSTERONE, ANDROSTERONE, FOLLICLE STIMULATING HORMONE,"
+        "brand_name": [
+          "Hormone Combination"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=52
+Page 52 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ALNUS SERRULATA, CARDUUS BENEDICTUS, CICHORIUM INTYBUS, CORTISONE ACETICUM, DOLICHOS PRURIENS, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, JUGLANS CINEREA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NASTURTIUM AQUATICUM, NATRUM MURIATICUM, RHUS TOXICODENDRON, RNA, SABADILLA, SASSAFRAS OFFICINALE RNA,"
+        "brand_name": [
+          "Allergies Southern US"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=53
+Page 53 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, AMBROSIA ARTEMISIAEFOLIA, CHELIDONIUM MAJUS, CHENOPODIUM VULVARIA, CICHORIUM INTYBUS, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HEREDA HELIX, HISTAMINUM HYDROCHLORICUM, JUNGLANS CINEREA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PULSATILLA NUTTALLIANA, RNA, SABADILLA, TEUCRIUM SCORODONIA"
+        "brand_name": [
+          "AllergyEase Great Lakes"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=54
+Page 54 of 77
+        "generic_name": [
+          "LLIUM CEPA, AMBROSIA ARTEMISIAEFOLIA, ARUM TRIPHYLLUM, ARUNDO MAURITANICA, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, NATRUM MURIATICUM, RNA, SABADILLA AND WYETHIA HELENIOIDES"
+        "brand_name": [
+          "AllergyCare"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=55
+Page 55 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, AGRAPHIS NUTANS, ALLIUM CEPA, COLLINSONIA CANADENSIS, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUMEX CRISPUS, SABADILLA, SALVIA OFFICINALIS, TANACETUM VULGARE TRIFOLIUM PRATENSE, VINCA MINOR"
+        "brand_name": [
+          "Allergies Northeast U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=56
+Page 56 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALFALFA, ALLIUM CEPA, BELLIS PERENNIS, CONIUM MACULATUM, CORTISONE ACETICUM, EQUISETUM HYEMALE, EUPHRASIA OFFICINALIS, FAGOPYRUM ESCULENTUM, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MILLEFOLIUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PRUNUS SPINOSA, RNA, SABADILLA, SOLIDAGO VIRGAUREA"
+        "brand_name": [
+          "Regional Allergies Pacific US"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=57
+Page 57 of 77
+        "generic_name": [
+          "TRITICUM AESTIVUM, CHELIDONIUM MAJUS, TARAXACUM OFFICINALE, GLUTATHIONE, HEPAR SUIS, THYROIDINUM (SUIS), LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORICUM ACIDUM, SALICYLICUM ACIDUM, ADRENOCORTICOTROPHIN, CORTISONE ACETICUM, EUGENOL, STEARYL ALCOHOL, XYLITOL, FOLLICULINUM, BENZOICUM ACIDUM, CHLORINUM POTASSIUM SORBATE, SORBITOL, RESORCINUM, BENZYL ALCOHOL, LACTICUM ACIDUM, ISOPROPYL PALMITATE, BORICUM ACIDUM, ACETICUM ACIDUM, PHENYL BUTAZONE, PETROLEUM JELLY, PLUMBUM METALLICUM"
+        "brand_name": [
+          "Hepatatox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=58
+Page 58 of 77
+        "generic_name": [
+          "ARALIA QUINQUEFOLIA, HUMULUS LUPULUS, ADRENALINUM, CORTISONE ACETICUM, THYROIDINUM (SUIS), SELENIUM METALLICUM, ARSENICUM ALBUM, CALCAREA CARBONICA, CONVALLARIA MAJALIS, CROTALUS HORRIDUS, FERRUM METALLICUM, NUX VOMICA, PHOSPHORUS, SEPIA, PHOSPHORICUM ACIDUM"
+        "brand_name": [
+          "Adrenal Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=59
+Page 59 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, AGRAPHIS NUTANS, ALLIUM CEPA, COLLINSONIA CANADENSIS, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUMEX CRISP, SABADILLA, SALVIA OFFICINALIS, TANACETUM VULGARE, TROFOLIUM PRATENSE, VINCA MINOR"
+        "brand_name": [
+          "AllergyEase Northeastern"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=60
+Page 60 of 77
+        "generic_name": [
+          "THYROIDINUM, CORTISONE ACETICUM, ANACARDIUM ORENTALE, ANTIMONIUM CRUDUM, IGNATIA AMARA,"
+        "brand_name": [
+          "Appetite Control"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=61
+Page 61 of 77
+        "generic_name": [
+          "ABSINTHIUM, ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, AMBROSIA ARTEMISIIFOLIA, CAULOPHYLLUM THALICTROIDES, CONIUM MACULATUM, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, FAGOPYRUM ESCULENTUM, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MELILOTUS, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUMEX CRISPUS, SABADILLA, SECALE CORNUTUM"
+        "brand_name": [
+          "Allergies Plains U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=62
+Page 62 of 77
+        "generic_name": [
+          "CORTISOL, HISTAMINUM HYDROCHLORICUM, ADENOSINE TRIPHOSPHATE, ASCORBICUM ACIDUM, PYRIDOXINUM HYDROCHLORICUM, RIBOFLAVINUM, SARCOLACTICUM ACIDUM, SPLEEN (SUIS), STOMACH (SUIS), CORTISONE ACETICUM, ARSENICUM ALBUM, CALCAREA CARBONICA, CARDUUS MARIANUS, CEANOTHUS AMERICANUS, CINCHONA OFFICINALIS, DIGITALIS PURPUREA, DYSENTERY BACILLUS, IGNATIA AMARA, KALE BICHROMICUM, LYCOPODIUM CLAVATUM, PHOSPHORUS, PLUMBUM METALLICUM, PULSATILLA (VULGARIS) RANUNCULUS BULBOSUS, VERATRUM VIRIDE"
+        "brand_name": [
+          "Stomach Spleen Meridian Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=63
+Page 63 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, AMBROSIA ARTEMISIAEFOLIA, CICHORIUM INTYBUS, CONIUM MACULATUM, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, FAGOPYRUM ESCULENTUM, GALPHIMIA GLAUCA, HEDERA HELIX, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUMEX CRISPUS, SABADILLA, SECALE CORNUTUM"
+        "brand_name": [
+          "Midwest Regional Allergies"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=64
+Page 64 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM,ADRENOCORTICOTROPHIN, ALFALFA, ALLIUM CEPA, BELLIS PERENNIS, CONIUM MACULATUM, CORTISONE ACETICUM, EQUISETUM HYEMALE, EUPHRASIA OFFICINALISM, FAGOPYRUM ESCULENTUM, GALPHIMIA GLAUCA, HISTAMINUM, HYDROCHLORICUM, KALI MURIATICUM, MILLEFOLIUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PRUNUS SPINOSA, RNA, SABADILLA SOLIDAGO VIRGAUREA"
+        "brand_name": [
+          "Allergies Pacific U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=65
+Page 65 of 77
+        "generic_name": [
+          "ADRENALINUM, ADRENOCORTICOTROPHIN, AGRIMONIA EUPATORIA, FLOS, ANACARDIUM ORIENTALE, ANTIMONIUM CRUDUM, CALCAREA CARBONICA, CASTANEA SATIVA, FLOS, CORTISONE ACETICUM, FUCUS VESICULOSUS, HYPOTHALAMUS, KALI BICHROMICUM, OLEANDER, PITUITARUM POSTERIUM, SABADILLA, STAPHYSAGRIA, THYROIDINUM"
+        "brand_name": [
+          "Ultra Pure"
+ 
+      "warnings_and_cautions": [
+        "Warnings: Stop use and ask a doctor if symptoms persist or worsen. In case of overdose, get medical help or contact a Poison Control Center right away. If pregnant or breast-feeding, take only on advice of physician. Other Information: Store in a cool dry place. Tamper resistant for your protection. Use only if safety seal is intact."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=66
+Page 66 of 77
+        "generic_name": [
+          "CONIUM MACULATUM, DULCAMARA, ECHINACEA (ANGUSTIFOLIA), AESCULUS HIPPOCASTANUM, ANTIMONIUM TARTARICUM, ASCORBIC ACID, COCCUS CACTI, GALIUM APARINE, GENTIANA LUTEA, GERANIUM ROBERTIANUM, PULSATILLA (VULGARIS), SARCOLACTICUM ACIDUM, LYMPH NODE (SUIS), SULPHUR, GLANDULA SUPRARENALIS SUIS, PHENYLALANINE, CALCAREA PHOSPHORICA, FERRUM PHOSPHORICUM, HEPAR SUIS, HYPOTHALAMUS (SUIS), SPLEEN (SUIS), CORTISONE ACETICUM, MERCURIUS SOLUBILIS, BARYTA CARBONICA, FUNICULUS UMBILICALIS SUIS, TONSIL (SUIS)"
+        "brand_name": [
+          "D3 Organ Support"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=67
+Page 67 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ASARUM CANADENSE, CORTISONE ACETICUM, EUPATORIUM AROMATICUM, EUPHRASIA OFFICINALIS, FRAXINUS AMERICANA, GALPHIMIA GLAUCA, HELIANTHUS ANNUUS, HISTAMINUM HYDROCHLORICUM, JUNIPERUS VIRGINIANA, KALI MURIATICUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PLANTAGO MAJOR, RNA, RUMEX CRISPUS, SABADILLA, SENECIO JACOBAEA"
+        "brand_name": [
+          "Regional Allergies Southwestern U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=68
+Page 68 of 77
+        "generic_name": [
+          "TRITICUM AESTIVUM, CHELIDONIUM MAJUS, TARAXACUM OFFICINALE, GLUTATHIONE, HEPAR BOVINUM, THYROIDINUM, LYCOPODIUM CLAVATUM, NUX VOMICA, PHOSPHORICUM ACIDUM, SALICYLICUM ACIDUM, ADRENOCORTICOTROPHIN, CORTISONE ACETICUM, EUGENOL, STEARYL ALCOHOL, XYLITOL, FOLLICULINUM, BENZOICUM ACIDUM, CHLORINUM, POTASSIUM SORBATE, SORBITOL, RESORCINOL, BENZYL ALCOHOL, LACTICUM ACIDUM, ISOPROPYL PALMITATE, BORICUM ACIDUM, ACETICUM ACIDUM, PHENYL BUTAZONE, PETROLEUM JELLY, PLUMBUM METALLICUM"
+        "brand_name": [
+          "Hepatatox"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=69
+Page 69 of 77
+        "generic_name": [
+          "ADENOSINUN CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, ALNUS SERRULATA, CARDUUS BENEDICTUS, CICHORIUM INTYBUS, CORTISONE ACETICUM, DOLICHOS PRURIENS, EUPHRASIA OFFICINALIS, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, JUGLANS CINEREA, KALI MURIATICUM MUCOSA NASALIS SUIS, NASTURTIUM AQUATICUM, NATRUM MURIATICUM, RHUS TOXICODENDRON, RNA, SABADILLA, SASSAFRAS OFFICINALE"
+        "brand_name": [
+          "Allergies Southern US"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=70
+Page 70 of 77
+        "generic_name": [
+          "ADRENALINUM, ADRENOCORTICOTROPHIN, AGRIMONIA EUPATORIA, FLOS, ANACARDIUM ORIENTALE, ANTIMONIUM CRUDUM, CALCAREA CARBONICA, CASTANEA SATIVA, FLOS, CORTISONE ACETICUM, FUCUS VESICULOSUS, HYPOTHALAMUS, KALI BICHROMICUM, OLEANDER, PITUITARUM POSTERIUM, SABADILLA, STAPHYSAGRIA, THYROIDINUM"
+        "brand_name": [
+          "Appetite and Weight with P.H.A.T."
+ 
+      "warnings_and_cautions": [
+        "Warnings Stop use and ask your doctor if symptoms persist or worsen. If pregnant or breast-feeding, take only on advice of a healthcare professional. Keep out of reach of children Tamper resistant for your protection. Use only if safety seal is intact."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=71
+Page 71 of 77
+        "generic_name": [
+          "CONIUM MACULATUM, DULCAMARA, ECHINACEA, AESCULUS HIPPOCASTANUM, ANTIMONIUM TARTARICUM, ASCORBIC ACID, COCCUS CACTI, GALIUM APARINE, GENTIANA LUTEA, GERANIUM ROBERTIANUM, PULSATILLA, SARCOLACTICUM ACIDUM, LYMPH (SUIS), SULPHUR, GLANDULA SUPRARENALIS SUIS, PHENYLALANINE, CALCAREA PHOSPHORICA, FERRUM PHOSPHORICUM, HEPAR SUIS, HYPOTHALAMUS (SUIS), SPLEEN (SUIS), CORTISONE ACETICUM, MERCURIUS SOLUBILIS, BARYTA CARBONICA, FUNICULUS UMBILICALIS SUIS, TONSIL (SUIS), GAERTNER BACH, TRIIODOTHYRONINE"
+        "brand_name": [
+          "Detox III"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=72
+Page 72 of 77
+        "generic_name": [
+          "ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALFALFA, ALLIUM CEPA, BELLIS PERENNIS, CONIUM MACULATUM, CORTISONE ACETICUM, EQUISETUM HYEMALE, EUPHRASIA OFFICINALIS, FOGOPYRUM ESCULENTUM, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MILLEFOLIUM, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, PRUNUS SPINOSA, RNA, SABADILLA, SOLIDAGO VIRGAUREA"
+        "brand_name": [
+          "AllergyEase Pacific"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=73
+Page 73 of 77
+        "generic_name": [
+          "CORTISONE ACETATE"
+        "brand_name": [
+          "CORTISONE ACETATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Fluid and Electrolyte Disturbances Sodium retention Fluid retention Congestive heart failure in susceptible patients Potassium loss Hypokalemic alkalosis Hypertension Musculoskeletal Muscle weakness Steroid myopathy Loss of muscle mass Osteoporosis Vertebral compression fractures Aseptic necrosis of femoral and humeral heads Pathologic fracture of long bones Tendon rupture Gastrointestinal Peptic ulcer with possible perforation and hemorrhage Perforation of the small and large bowel, particularly in patients with inflammatory bowel disease Pancreatitis Abdominal distention Ulcerative esophagitis Dermatologic Impaired wound healing Thin fragile skin Petechiae and ecchymoses Erythema Increased sweating May suppress reactions to skin tests Other cutaneous reactions, such as allergic dermatitis, urticaria, angioneurotic edema Neurologic Convulsions Increased intracranial pressure with papilledema (pseudotumor cerbri) usually after treatment Vertigo Headache Psychic disturbances Endocrine Menstrual irregularities Development of cushingoid state Suppression of growth in children Secondary adrenocortical and pituitary unresponsiveness, particularly in times of stress, as in trauma, surgery, or illness Decreased carbohydrate tolerance Manifestations of latent diabetes mellitus Increased requirements for insulin or oral hypoglycemic agents in diabetics Hirsutism Ophthalmic Posterior subcapsular cataracts Increased intraocular pressure Glaucoma Exophthalmos Metabolic Negative nitrogen balance due to protein catabolism Cardiovascular Myocardial rupture following recent myocardial infarctions (see WARNINGS ). Other Hypersensitivity Thromboembolism Weight gain Increased appetite Nausea Malaise"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=74
+Page 74 of 77
+        "generic_name": [
+          "THYROIDINUM (SUIS), CORTISONE ACETICUM, ANACARDIUM ORIENTALE, ANTIMONIUM CRUDUM, IGNATIA AMARA, NATRUM MURIATICUM, STAPHYSAGRIA, HYDROCORTISONE (CORTISOL)."
+        "brand_name": [
+          "Emotional Eating"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=75
+Page 75 of 77
+        "generic_name": [
+          "ABSINTHIUM, ADENOSINUM CYCLOPHOSPHORICUM, ADRENALINUM, ADRENOCORTICOTROPHIN, ALLIUM CEPA, AMBROSIA ARTEMISIAEFOLLA, CAULOPHYLLUM THALICTROIDES, CONIUM MACULATUM, CORTISONE ACETICUM, EUPHRASIA OFFICINALIS, FAGOPYRUM ESCULENTUM, GALPHIMIA GLAUCA, HISTAMINUM HYDROCHLORICUM, KALI MURIATICUM, MELILOTUS OFFICINALIS, MUCOSA NASALIS SUIS, NATRUM MURIATICUM, RNA, RUMEX CRISPUS, SABADILLA, SECALE CORNUTUM"
+        "brand_name": [
+          "Regional Allergies Plains U.S."
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cortisone+AND+Acetate&limit=1&skip=76
+Page 76 of 77
+        "generic_name": [
+          "BETULA (PENDULA), CORTEX, CALTHA PALUSTRIS, CLEMATIS ERECTA, GALIUM APARINE, HEDERA HELIX, JUNIPERUS COMMUNIS, SEDUM ACRE, SEMPERVIVUM TECTORUM, THUJA OCCIDENTALIS, URTICA URENS, ECHINACEA (ANGUSTIFOLIA), NITRICUM ACIDUM, CORTISONE ACETICUM, ARGENTUM METALLICUM, CALCAREA FLUORICA, PHOSPHORUS, AURUM METALLICUM, ONONIS SPINOSA, GAERTNER BACILLUS (BACH)"
+        "brand_name": [
+          "Bio Galium Phase"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

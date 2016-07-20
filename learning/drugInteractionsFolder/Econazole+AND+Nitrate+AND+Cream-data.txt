@@ -1,0 +1,108 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate+AND+Cream&limit=1&skip=0
+Page 0 of 9
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate+AND+Cream&limit=1&skip=1
+Page 1 of 9
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate+AND+Cream&limit=1&skip=2
+Page 2 of 9
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate+AND+Cream&limit=1&skip=3
+Page 3 of 9
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate+AND+Cream&limit=1&skip=4
+Page 4 of 9
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate+AND+Cream&limit=1&skip=5
+Page 5 of 9
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate+AND+Cream&limit=1&skip=6
+Page 6 of 9
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate+AND+Cream&limit=1&skip=7
+Page 7 of 9
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Econazole+AND+Nitrate+AND+Cream&limit=1&skip=8
+Page 8 of 9
+        "generic_name": [
+          "ECONAZOLE NITRATE"
+        "brand_name": [
+          "Econazole Nitrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During clinical trials, approximately 3% of patients treated with econazole nitrate 1% cream reported side effects thought possibly to be due to the drug, consisting mainly of burning, itching, stinging, and erythema. One case of pruritic rash has also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

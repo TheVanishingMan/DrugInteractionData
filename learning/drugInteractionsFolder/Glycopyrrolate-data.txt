@@ -1,0 +1,582 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=0
+Page 0 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycate"
+ 
+      "drug_interactions": [
+        "Interactions There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate Tablets, USP is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=1
+Page 1 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate Tablets, USP is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=2
+Page 2 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=3
+Page 3 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The concurrent use of glycopyrrolate injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects. Concomitant administration of glycopyrrolate injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including gylcopyrrolate injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Postmarketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=4
+Page 4 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=5
+Page 5 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=6
+Page 6 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Anticholinergics, including Glycopyrrolate Injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydrasis (dilation of the pupil); cycloplegia; increased ocular tension; tacycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoide reactions; hypersensitivity; urticaria, pruritus, dry skin, and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate; malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Post-marketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemcially a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=7
+Page 7 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Robinul"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Anticholinergics, including ROBINUL Injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin, and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with ROBINUL: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Post-marketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. ROBINUL is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=8
+Page 8 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets are chemically quaternary ammonium compounds; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily. To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc. at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=9
+Page 9 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including gylcopyrrolate injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Postmarketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=10
+Page 10 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia;decreased sweating; urinary hesitancy and retention; blurred vision;tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling;impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=11
+Page 11 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets are chemically quaternary ammonium compounds; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily. To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc. at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=12
+Page 12 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets are chemically quaternary ammonium compounds; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=13
+Page 13 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "Drug Interactions There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=14
+Page 14 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The concurrent use of glycopyrrolate injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects. Concomitant administration of glycopyrrolate injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including glycopyrrolate injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin, and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Post-marketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily. To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=15
+Page 15 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets are chemically quaternary ammonium compounds; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=16
+Page 16 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The concurrent use of Glycopyrrolate Injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects. Concomitant administration of Glycopyrrolate Injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including Glycopyrrolate Injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin, and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Post-marketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=17
+Page 17 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The concurrent use of glycopyrrolate injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects. Concomitant administration of glycopyrrolate injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including gylcopyrrolate injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Postmarketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=18
+Page 18 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The concurrent use of glycopyrrolate injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects. Concomitant administration of glycopyrrolate injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including glycopyrrolate injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin, and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Post-marketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily. To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=19
+Page 19 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=20
+Page 20 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=21
+Page 21 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=22
+Page 22 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=23
+Page 23 of 43
+        "generic_name": [
+          "INDACATEROL AND GLYCOPYRROLATE"
+        "brand_name": [
+          "UTIBRON NEOHALER"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Other adrenergic drugs may potentiate effect: Use with caution (5.3, 7.1) Xanthine derivatives, steroids, diuretics or non-potassium-sparing diuretics may potentiate hypokalemia or ECG changes. Use with caution. (7.2, 7.3) Monoamine Oxidase inhibitors, tricyclic antidepressants, and drugs that prolong QTc interval may potentiate effect on cardiovascular system. Use with extreme caution. (7.4) Beta-blockers may decrease effectiveness: Use with caution and only when medically necessary. (7.5) Anticholinergics: May interact additively with concomitantly used anticholinergic medications. Avoid administration of UTIBRON NEOHALER with other anticholinergic-containing drugs. (7.6) 7.1 Adrenergic Drugs If additional adrenergic drugs are to be administered by any route, they should be used with caution because the sympathetic effects of indacaterol, a component of UTIBRON NEOHALER, may be potentiated [see Warnings and Precautions (5.3, 5.6, 5.7, 5.10)]. 7.2 Xanthine Derivatives, Steroids, or Diuretics Concomitant treatment with xanthine derivatives, steroids, or diuretics may potentiate any hypokalemic effect of beta2-adrenergic agonists such as indacaterol, a component of UTIBRON NEOHALER [see Warnings and Precautions (5.10)]. 7.3 Non-Potassium-Sparing Diuretics The electrocardiographic (ECG) changes and/or hypokalemia that may result from the administration of non-potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, such as indacaterol, a component of UTIBRON NEOHALER, especially when the recommended dose of the beta-agonist is exceeded. Although the clinical relevance of these effects is not known, caution is advised in the coadministration of UTIBRON NEOHALER with non-potassium-sparing diuretics. 7.4 Monoamine Oxidase Inhibitors, Tricyclic Antidepressants, QTc-Prolonging Drugs Indacaterol, one of the components of UTIBRON NEOHALER, as with other beta2-agonists, should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors, tricyclic antidepressants, or other drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents. Drugs that are known to prolong the QTc interval may have an increased risk of ventricular arrhythmias. 7.5 Beta-Blockers Beta-adrenergic receptor antagonists (beta-blockers) and UTIBRON NEOHALER may interfere with the effect of each other when administered concurrently. Beta-blockers not only block the therapeutic effects of beta-agonists, but may produce severe bronchospasm in COPD patients. Therefore, patients with COPD should not normally be treated with beta-blockers. However, under certain circumstances, e.g., as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-blockers in patients with COPD. In this setting, cardioselective beta-blockers could be considered, although they should be administered with caution. 7.6 Anticholinergics There is potential for an additive interaction with concomitantly used anticholinergic medicines. Therefore, avoid coadministration of UTIBRON NEOHALER with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.8, 5.9), Adverse Reactions (6)]. 7.7 Inhibitors of Cytochrome P450 3A4 and P-gp Efflux Transporter Drug interaction studies with indacaterol, a component of UTIBRON NEOHALER, were carried out using potent and specific inhibitors of CYP3A4 and P-gp (i.e., ketoconazole, erythromycin, verapamil, and ritonavir). The data suggest that systemic clearance of indacaterol is influenced by modulation of both P-gp and CYP3A4 activities and that the 2-fold area under the curve (AUC) increase caused by the strong dual inhibitor ketoconazole reflects the impact of maximal combined inhibition. Indacaterol was evaluated in clinical trials for up to 1 year at doses up to 600 mcg. Inhibition of the key contributors of indacaterol clearance, CYP3A4 and P-gp, has no impact on safety of therapeutic doses of indacaterol. Therefore, no dose adjustment is warranted at the recommended 27.5/15.6 mcg twice-daily dose for UTIBRON NEOHALER when administered concomitantly with inhibitors of CYP3A4 and P-gp [see Clinical Pharmacology (12.3)]."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS LABAs, such as indacaterol, one of the active ingredients in UTIBRON NEOHALER, increase the risk of asthma-related death. UTIBRON NEOHALER is not indicated for the treatment of asthma [see Boxed Warning and Warnings and Precautions (5.1)]. The following adverse reactions are described in greater detail in other sections: Paradoxical bronchospasm [see Warnings and Precautions (5.4)]. Immediate hypersensitivity reactions [see Warnings and Precautions (5.5)]. Cardiovascular effects [see Warnings and Precautions (5.6)]. Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.8)]. Worsening of urinary retention [see Warnings and Precautions (5.9)]. Most common adverse reactions (incidence >=2% and higher than placebo) are nasopharyngitis and hypertension. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in clinical practice. The UTIBRON NEOHALER safety database included 2654 subjects with COPD in two 12-week lung function trials and one 52-week long-term safety study. A total of 712 subjects received treatment with UTIBRON NEOHALER 27.5 mcg/15.6 mcg BID. The safety data described below are based on the two 12-week trials and the one 52-week trial. 12-Week Trials The incidence of adverse reactions associated with UTIBRON NEOHALER in Table 1 is based on two 12-week, placebo-controlled trials (Trials 1 and 2; N=1,001 and N=1,042 respectively). Of the 2040 subjects, 63% were male and 91% were Caucasian. They had a mean age of 63 years and an average smoking history of 47 pack-years, with 52% identified as current smokers. At screening, the mean post-bronchodilator percent predicted forced expiratory volume in 1 second (FEV1) was 55% (range: 29% to 79%), the mean post-bronchodilator FEV1/forced vital capacity (FVC) ratio was 50% (range: 19% to 71%), and the mean percent reversibility was 23% (range: 0% to 144%). The most common adverse reaction (incidence greater than or equal to 2% and higher than placebo) was nasopharyngitis and hypertension. The proportion of patients who discontinued treatment due to adverse reactions was 2.95% for the UTIBRON NEOHALER treated patients and 4.13% for placebo-treated patients. Subjects received 1 dose twice-daily of the following: UTIBRON NEOHALER 27.5 mcg/15.6 mcg, indacaterol 27.5 mcg, glycopyrrolate 15.6 mcg, or placebo. Table 1. Adverse reactions with UTIBRON NEOHALER (greater than or equal to 1% incidence and higher than placebo) in COPD patients Adverse Reaction UTIBRON NEOHALER 27.5/15.6 mcg BID (N=508) n (%) Indacaterol 27.5 mcg BID (N=511) n (%) Glycopyrrolate 15.6 mcg BID (N=513) n (%) Placebo (N=508) n (%) Nasopharyngitis 21 (4.1) 13 (2.5) 12 (2.3) 9 (1.8) Hypertension 10 (2.0) 5 (1.0) 3 (0.6) 7 (1.4) Back pain 9 (1.8) 7 (1.4) 2 (0.4) 3 (0.6) Oropharyngeal pain 8 (1.6) 4 (0.8) 8 (1.6) 6 (1.2) Other adverse reactions occurring more frequently with UTIBRON NEOHALER than with placebo, but with an incidence of less than 1% include dyspepsia, gastroenteritis, chest pain, fatigue, peripheral edema, rash/pruritus, insomnia, dizziness, bladder obstruction/urinary retention, atrial fibrillation, palpitations, tachycardia. 52-Week Trial In a long-term safety trial, 614 subjects were treated for up to 52 weeks with indacaterol/glycopyrrolate 27.5 mcg/15.6 mcg twice-daily, indacaterol/glycopyrrolate 27.5/31.2 mcg twice-daily or indacaterol 75 mcg once-daily. The demographic and baseline characteristics of the long-term safety trial were similar to those of the placebo-controlled efficacy trials described above. The adverse reactions reported in the long-term safety trial were consistent with those observed in the placebo-controlled trials of 12 weeks. Additional adverse reactions that occurred with a frequency greater than or equal to 2% in the group receiving indacaterol/glycopyrrolate 27.5 mcg/15.6 mcg twice-daily that exceeded the frequency of indacaterol 75 mcg once-daily in this trial were: upper and lower respiratory tract infection, pneumonia, diarrhea, headache, gastroesophageal reflux disease, hyperglycemia, rhinitis. 6.2 Postmarketing Experience The following additional adverse reaction of angioedema has been identified during worldwide post-approval use of indacaterol/glycopyrrolate at higher than the recommended dose. Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Do not initiate in acutely deteriorating COPD or to treat acute symptoms. (5.2) Do not use in combination with an additional medicine containing LABA because of risk of overdose. (5.3, 7.1) If paradoxical bronchospasm occurs, discontinue UTIBRON NEOHALER immediately and institute alternative therapy. (5.4) Use with caution in patients with cardiovascular or convulsive disorders, thyrotoxicosis, sensitivity to sympathomimetic drugs, diabetes mellitus, and ketoacidosis. (5.6, 5.7, 7.1) Worsening of narrow-angle glaucoma or urinary retention may occur. Use with caution in patients with narrow-angle glaucoma, prostatic hyperplasia, or bladder-neck obstruction and instruct patients to contact a physician immediately if symptoms occur. (5.8, 5.9) Be alert to hypokalemia and hyperglycemia. (5.10) 5.1 Asthma-Related Death [see Boxed Warning] Data from a large placebo-controlled U.S. study in asthma patients showed that LABAs may increase the risk of asthma-related death. Data are not available to determine whether the rate of death in patients with COPD is increased by LABAs. A 28-week, placebo-controlled U.S. study comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol versus 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34). The increased risk of asthma-related death is considered a class effect of the LABAs, including indacaterol, one of the ingredients in UTIBRON NEOHALER. No study adequate to determine whether the rate of asthma-related death is increased in patients treated with UTIBRON NEOHALER has been conducted. The safety and efficacy of UTIBRON NEOHALER in patients with asthma have not been established. UTIBRON NEOHALER is not indicated for the treatment of asthma. 5.2 Deterioration of Disease and Acute Episodes UTIBRON NEOHALER should not be initiated in patients with acutely deteriorating or potentially life-threatening episodes of COPD. UTIBRON NEOHALER has not been studied in patients with acutely deteriorating COPD. The initiation of UTIBRON NEOHALER in this setting is not appropriate. UTIBRON NEOHALER should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm. UTIBRON NEOHALER has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose. Acute symptoms should be treated with an inhaled short-acting beta2-agonist. When beginning UTIBRON NEOHALER, patients who have been taking oral or inhaled, short-acting beta2-agonists on a regular basis (e.g., 4 times a day) should be instructed to discontinue the regular use of these drugs and use them only for symptomatic relief of acute respiratory symptoms. When prescribing UTIBRON NEOHALER, the healthcare provider should also prescribe an inhaled, short-acting beta2-agonist and instruct the patient on how it should be used. Increasing inhaled beta2-agonist use is a signal of deteriorating disease for which prompt medical attention is indicated. COPD may deteriorate acutely over a period of hours or chronically over several days or longer. If UTIBRON NEOHALER no longer controls the symptoms of bronchoconstriction; the patient's inhaled, short-acting beta2-agonist becomes less effective; or the patient needs more inhalation of short-acting beta2-agonist than usual, these may be markers of deterioration of disease. In this setting, a re-evaluation of the patient and the COPD treatment regimen should be undertaken at once. Increasing the daily dose of UTIBRON NEOHALER beyond the recommended dose is not appropriate in this situation. 5.3 Excessive Use of UTIBRON NEOHALER and Use with Other Long-Acting Beta2-Adrenergic Agonists As with other inhaled drugs containing beta2-adrenergics, UTIBRON NEOHALER should not be used more often than recommended, at higher doses than recommended, or in conjunction with other medications containing LABAs, as an overdose may result. Clinically significant cardiovascular effects and fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs. Patients using UTIBRON NEOHALER should not use another medicine containing a LABA for any reason [see Drug Interactions (7.1)]. 5.4 Paradoxical Bronchospasm As with other inhaled medicines, UTIBRON NEOHALER can produce paradoxical bronchospasm that may be life-threatening. If paradoxical bronchospasm occurs following dosing with UTIBRON NEOHALER, it should be treated immediately with an inhaled, short-acting bronchodilator; UTIBRON NEOHALER should be discontinued immediately and alternative therapy instituted. 5.5 Immediate Hypersensitivity Reactions Immediate hypersensitivity reactions have been reported after administration of indacaterol or glycopyrrolate, the components of UTIBRON NEOHALER. If signs suggesting allergic reactions occur, in particular, angioedema (including difficulties in breathing or swallowing, swelling of tongue, lips and face), urticaria, or skin rash, UTIBRON NEOHALER should be discontinued immediately and alternative therapy instituted. UTIBRON NEOHALER should be used with caution in patients with severe hypersensitivity to milk proteins. 5.6 Cardiovascular Effects Indacaterol, like other beta2-agonists, can produce a clinically significant cardiovascular effect in some patients as measured by increases in pulse rate, systolic or diastolic blood pressure, or symptoms. If such effects occur, UTIBRON NEOHALER may need to be discontinued. In addition, beta-agonists have been reported to produce ECG changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression, although the clinical significance of these findings is unknown. Therefore, UTIBRON NEOHALER should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension. 5.7 Coexisting Conditions UTIBRON NEOHALER, like all medicines containing sympathomimetic amines, should be used with caution in patients with convulsive disorders or thyrotoxicosis, and in patients who are unusually responsive to sympathomimetic amines. Doses of the related beta2-agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis. 5.8 Worsening of Narrow-Angle Glaucoma UTIBRON NEOHALER should be used with caution in patients with narrow-angle glaucoma. Prescribers and patients should be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema). Instruct patients to consult a physician immediately should any of these signs or symptoms develop. 5.9 Worsening of Urinary Retention UTIBRON NEOHALER should be used with caution in patients with urinary retention. Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction. Instruct patients to consult a physician immediately should any of these signs or symptoms develop. 5.10 Hypokalemia and Hyperglycemia Beta2-adrenergic agonists may produce significant hypokalemia in some patients, which has the potential to produce adverse cardiovascular effects [see Clinical Pharmacology (12.2)]. The decrease in serum potassium is usually transient, not requiring supplementation. Inhalation of high doses of beta2-adrenergic agonists may produce increases in plasma glucose. In patients with severe COPD, hypokalemia may be potentiated by hypoxia and concomitant treatment [see Drug Interactions (7.2)], which may increase the susceptibility for cardiac arrhythmias. In 2 clinical trials of 12-weeks duration evaluating UTIBRON NEOHALER in subjects with COPD, there was no evidence of a treatment effect on serum glucose or potassium."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=24
+Page 24 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com ; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=25
+Page 25 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "SEEBRI NEOHALER"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Anticholinergics: May interact additively with concomitantly used anticholinergic medications. Avoid administration of SEEBRI NEOHALER with other anticholinergic-containing drugs. (7.2) 7.1 Sympathomimetics, Methylxanthines, Steroids In clinical studies, concurrent administration of short-acting and long-acting sympathomimetic (beta-agonists) bronchodilators (including indacaterol), methylxanthines, oral and inhaled steroids with SEEBRI NEOHALER showed no increases in adverse drug reactions. 7.2 Anticholinergics There is a potential for an additive interaction with concomitantly used anticholinergic medications. Therefore, avoid coadministration of SEEBRI NEOHALER with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic effects [see Warnings and Precautions (5.4, 5.5) and Adverse Reactions (6)]."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following adverse reactions are described in greater detail, in other sections Paradoxical bronchospasm [see Warnings and Precautions (5.2)]. Immediate hypersensitivity reactions [see Warnings and Precautions (5.3)]. Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.4)]. Worsening of urinary retention [see Warnings and Precautions (5.5)]. Most common adverse reactions (incidence greater than or equal to 2% and higher than placebo) are upper respiratory tract infection and nasopharyngitis. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of another drug and may not reflect the rates observed in clinical practice. The SEEBRI NEOHALER safety database included 3415 subjects with COPD in four 12-week lung function trials and one 52-week long-term safety study. A total of 1202 subjects received treatment with SEEBRI NEOHALER 15.6 mcg twice-daily (BID). The safety data described below are based on the four 12-week trials and the one 52-week trial. 12-Week Trials The incidence of adverse reactions associated with SEEBRI NEOHALER in Table 1 is based on four 12-week, placebo-controlled trials in 2908 subjects with COPD. In the total population, 61.2% of patients had moderate COPD and 37.8% had severe COPD. In these trials, 951 subjects received SEEBRI NEOHALER 15.6 mcg BID, 511 subjects received indacaterol 27.5 mcg BID, 508 subjects received a fixed-dose combination of indacaterol/glycopyrrolate 27.5 mcg/15.6 mcg BID, and 938 subjects received placebo. Overall, 62% were males, 90% were Caucasian, and the mean age was 63 years (ranging from 41 to 89 years). In this population, 53% were identified as current smokers with an average smoking history of 48 pack-years. The most common adverse reactions (incidence greater than or equal to 2% and higher than placebo) were upper respiratory tract infection and nasopharyngitis. The proportion of subjects who discontinued treatment due to adverse reactions was 2.4% for the SEEBRI NEOHALER-treated patients and 3.8% for placebo-treated patients. Table 1. Adverse reactions with SEEBRI NEOHALER (greater than or equal to 1% incidence and higher than placebo) in COPD patients Adverse Reaction SEEBRI NEOHALER 15.6 mcg BID (N=951) n (%) Placebo (N=938) n (%) Upper respiratory tract infection 32 (3.4) 22 (2.3) Nasopharyngitis 20 (2.1) 18 (1.9) Urinary tract infection 13 (1.4) 12 (1.3) Sinusitis 13 (1.4) 7 (0.7) Oropharyngeal pain 17 (1.8) 11 (1.2) Other adverse reactions occurring more frequently with SEEBRI NEOHALER than with placebo, but with an incidence of less than 1% include rash, pruritus, gastroenteritis, hypersensitivity, atrial fibrillation, insomnia, pain in extremity, dysuria, vomiting, productive cough, and diabetes mellitus/hyperglycemia. 52-Week Trial In a long-term safety trial, 507 subjects were treated for up to 52 weeks with glycopyrrolate 15.6 mcg twice-daily or indacaterol 75 mcg once-daily. The demographic and baseline characteristics of the long-term safety trial were similar to those of the placebo-controlled efficacy trials described above. The adverse reactions reported in the long-term safety trial were consistent with those observed in the placebo-controlled trials of 12 weeks. Additional adverse reactions that occurred with a frequency greater than or equal to 2% in the group receiving glycopyrrolate 15.6 mcg twice-daily that exceeded the frequency of indacaterol 75 mcg once-daily in this trial were: diarrhea, nausea, upper abdominal pain, fatigue, bronchitis, pneumonia, rhinitis, back pain, arthralgia, dyspnea, and wheezing. 6.2 Postmarketing Experience The following additional adverse reactions have been identified during worldwide post-approval use of glycopyrrolate, the active ingredient in SEEBRI NEOHALER, at higher than the recommended dose. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. These adverse reactions are: angioedema and paradoxical bronchospasm."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Do not initiate in acutely deteriorating COPD or to treat acute symptoms. (5.1) If paradoxical bronchospasm occurs, discontinue SEEBRI NEOHALER immediately and institute alternative therapy. (5.2) Worsening of narrow-angle glaucoma may occur. Use with caution in patients with narrow-angle glaucoma and instruct patients to contact a physician immediately if symptoms occur. (5.4) Worsening of urinary retention may occur. Use with caution in patients with prostatic hyperplasia or bladder neck obstruction and instruct patients to consult a physician immediately if symptoms occur. (5.5) 5.1 Deterioration of Disease and Acute Episodes SEEBRI NEOHALER should not be initiated in patients during acutely deteriorating or potentially life-threatening episodes of COPD. SEEBRI NEOHALER has not been studied in subjects with acutely deteriorating COPD. The initiation of SEEBRI NEOHALER in this setting is not appropriate. SEEBRI NEOHALER should not be used for the relief of acute symptoms, i.e., as rescue therapy for the treatment of acute episodes of bronchospasm. SEEBRI NEOHALER has not been studied in the relief of acute symptoms and extra doses should not be used for that purpose. Acute symptoms should be treated with an inhaled, short-acting beta2-agonist. COPD may deteriorate acutely over a period of hours or chronically over several days or longer. If SEEBRI NEOHALER no longer controls symptoms of bronchoconstriction; the patient's inhaled, short-acting beta2-agonist becomes less effective; or the patient needs more inhalation of a short-acting beta2-agonist than usual, these may be markers of deterioration of disease. In this setting, a re-evaluation of the patient and the COPD treatment regimen should be undertaken at once. Increasing the daily dose of SEEBRI NEOHALER beyond the recommended dose is not appropriate in this situation. 5.2 Paradoxical Bronchospasm As with other inhaled medicines, SEEBRI NEOHALER can produce paradoxical bronchospasm that may be life-threatening. If paradoxical bronchospasm occurs following dosing with SEEBRI NEOHALER, it should be treated immediately with an inhaled, short-acting bronchodilator; SEEBRI NEOHALER should be discontinued immediately, and alternative therapy instituted. 5.3 Immediate Hypersensitivity Reactions Immediate hypersensitivity reactions have been reported after administration of SEEBRI NEOHALER. If signs suggesting allergic reactions occur, in particular, angioedema (including difficulties in breathing or swallowing, swelling of the tongue, lips, and face), urticaria, or skin rash, SEEBRI NEOHALER should be discontinued immediately and alternative therapy instituted. SEEBRI NEOHALER should be used with caution in patients with severe hypersensitivity to milk proteins. 5.4 Worsening of Narrow-Angle Glaucoma SEEBRI NEOHALER should be used with caution in patients with narrow-angle glaucoma. Prescribers and patients should be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema). Instruct patients to consult a physician immediately should any of these signs or symptoms develop. 5.5 Worsening of Urinary Retention SEEBRI NEOHALER should be used with caution in patients with urinary retention. Prescribers and patients should be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination), especially in patients with prostatic hyperplasia or bladder-neck obstruction. Instruct patients to consult a physician immediately should any of these signs or symptoms develop."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=26
+Page 26 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate Tablets is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily. To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=27
+Page 27 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets are chemically quaternary ammonium compounds; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=28
+Page 28 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets are chemically quaternary ammonium compounds; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=29
+Page 29 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets are chemically quaternary ammonium compounds; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=30
+Page 30 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=31
+Page 31 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The concurrent use of Glycopyrrolate Injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects. Concomitant administration of Glycopyrrolate Injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including Glycopyrrolate Injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin, and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Post-marketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=32
+Page 32 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Robinul"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Robinul (glycopyrrolate) is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=33
+Page 33 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=34
+Page 34 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Cuvposa"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Digoxin tablets: Use with glycopyrrolate can increase digoxin serum levels. Monitor patients and consider use of alternative dosage forms of digoxin. (7) Amantadine: Effects of glycopyrrolate may be increased with concomitant administration of amantadine. Consider decreasing the dose of glycopyrrolate during concomitant use. (7) Atenolol or metformin: Glycopyrrolate may increase serum levels of atenolol or metformin. Consider dose reduction when used with glycopyrrolate. (7) Haloperidol or levodopa: Glycopyrrolate may decrease serum levels of haloperidol or levodopa. Consider a dose increase when used with glycopyrrolate. (7) Drugs Affected by Reduced GI Transit Time Glycopyrrolate reduces GI transit time, which may result in altered release of certain drugs when formulated in delayed- or controlled-release dosage forms. The passage of potassium chloride tablets through the GI tract may be arrested or delayed with coadministration of glycopyrrolate. Solid dosage forms of potassium chloride are contraindicated [see Contraindications (4) ]. Digoxin administered as slow dissolution oral tablets may have increased serum levels and enhanced action when administered with glycopyrrolate. Monitor patients receiving slow dissolution digoxin for increased action if glycopyrrolate is coadministered regularly. Consider the use of other oral dosage forms of digoxin (e.g., elixir or capsules). Amantadine The anticholinergic effects of glycopyrrolate may be increased with concomitant administration of amantadine. Consider decreasing the dose of glycopyrrolate during coadministration of amantadine. Drugs Whose Plasma Levels May be Increased by Glycopyrrolate Coadministration of glycopyrrolate may result in increased levels of certain drugs. Atenolol's bioavailability may be increased with coadministration of glycopyrrolate. A reduction in the atenolol dose may be needed. Metformin plasma levels may be elevated with coadministration of glycopyrrolate, increasing metformin's pharmacologic and toxic effects. Monitor clinical response to metformin with concomitant glycopyrrolate administration; consider a dose reduction of metformin if warranted. Drugs Whose Plasma Levels May be Decreased by Glycopyrrolate Coadministration of glycopyrrolate may result in decreased levels of certain drugs. Haloperidol's serum level may be decreased when coadministered with glycopyrrolate, resulting in worsening of schizophrenic symptoms, and development of tardive dyskinesia. Closely monitor patients if coadministration cannot be avoided. Levodopa's therapeutic effect may be reduced with glycopyrrolate administration. Consider increasing the dose of levodopa."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS The following serious adverse reactions are described elsewhere in the labeling: Constipation or intestinal pseudo-obstruction [see Warnings and Precautions (5.1) ] Incomplete mechanical intestinal obstruction [see Warnings and Precautions (5.2) ] The most common adverse reactions reported with CUVPOSA are dry mouth, vomiting, constipation, flushing, and nasal congestion. The most common adverse reactions (incidence >=30%) are dry mouth, vomiting, constipation, flushing, and nasal congestion. (6) To report SUSPECTED ADVERSE REACTIONS, contact Merz Pharmaceuticals, LLC at 866-862-1211 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The data described below reflect exposure to CUVPOSA in 151 subjects, including 20 subjects who participated in an 8-week placebo-controlled study (Study 1) and 137 subjects who participated in a 24-week open-label study (six subjects who received CUVPOSA in the placebo-controlled study and 131 new subjects). Table 2 presents adverse reactions reported by >= 15% of CUVPOSA-treated subjects for the placebo-controlled clinical trial. Table 2: Adverse Reactions Occurring in >= 15% of CUVPOSA-Treated Subjects and at a Greater Frequency than Placebo in Study 1 CUVPOSA (N=20) n (%) Placebo (N=18) n (%) Dry Mouth 8 (40%) 2 (11%) Vomiting 8 (40%) 2 (11%) Constipation 7 (35%) 4 (22%) Flushing 6 (30%) 3 (17%) Nasal Congestion 6 (30%) 2 (11%) Headache 3 (15%) 1 (6%) Sinusitis 3 (15%) 1 (6%) Upper Respiratory Tract Infection 3 (15%) 0 Urinary Retention 3 (15%) 0 The following adverse reactions occurred at a rate of <2% of patients receiving CUVPOSA in the open-label study. Gastrointestinal: Abdominal distention, abdominal pain, stomach discomfort, chapped lips, flatulence, retching, dry tongue General Disorders: Irritability, pain Infections: Pneumonia, sinusitis, tracheostomy infection, upper respiratory tract infection, urinary tract infection Investigations: Heart rate increase Metabolism and Nutrition: Dehydration Nervous System: Headache, convulsion, dysgeusia, nystagmus Psychiatric: Agitation, restlessness, abnormal behavior, aggression, crying, impulse control disorder, moaning, mood altered Respiratory: Increased viscosity of bronchial secretion, nasal congestion, nasal dryness Skin: Dry skin, pruritus, rash Vascular: Pallor 6.2 Postmarketing Experience The following adverse reactions have been identified during postapproval use of other formulations of glycopyrrolate for other indications. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Additional adverse reactions identified during postapproval use of glycopyrrolate tablets include: loss of taste and suppression of lactation."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Constipation or intestinal pseudo-obstruction: May present as abnormal distention, pain, nausea, or vomiting. Assess patients for constipation, particularly within 4-5 days of initial dosing or after a dose increase. (5.1) Incomplete mechanical intestinal obstruction: May present as diarrhea. If obstruction is suspected, discontinue CUVPOSA and evaluate. (5.2) High ambient temperature: To reduce the risk of heat prostration, avoid high temperatures. (5.3) 5.1 Constipation or Intestinal Pseudo-obstruction Constipation is a common dose-limiting adverse reaction which sometimes leads to glycopyrrolate discontinuation [see Adverse Reactions (6.1) ]. Assess patients for constipation, particularly within 4-5 days of initial dosing or after a dose increase. Intestinal pseudo-obstruction has been reported and may present as abdominal distention, pain, nausea or vomiting. 5.2 Incomplete Mechanical Intestinal Obstruction Diarrhea may be an early symptom of incomplete mechanical intestinal obstruction, especially in patients with ileostomy or colostomy. If incomplete mechanical intestinal obstruction is suspected, discontinue treatment with CUVPOSA and evaluate for intestinal obstruction. 5.3 High Ambient Temperatures In the presence of high ambient temperature, heat prostration (fever and heat stroke due to decreased sweating) can occur with the use of anticholinergic drugs such as CUVPOSA. Advise patients/caregivers to avoid exposure of the patient to hot or very warm environmental temperatures. 5.4 Operating Machinery or an Automobile CUVPOSA may produce drowsiness or blurred vision. As appropriate for a given age, warn the patient not to engage in activities requiring mental alertness such as operating a motor vehicle or other machinery, or performing hazardous work while taking CUVPOSA. 5.5 Anticholinergic Drug Effects Use CUVPOSA with caution in patients with conditions that are exacerbated by anticholinergic drug effects including: Autonomic neuropathy Renal disease Ulcerative colitis - Large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate \"toxic megacolon\", a serious complication of the disease. Hyperthyroidism Coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, tachycardia, and hypertension Hiatal hernia associated with reflux esophagitis, since anticholinergic drugs may aggravate this condition"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=35
+Page 35 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate tablets are chemically quaternary ammonium compounds; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=36
+Page 36 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=37
+Page 37 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The concurrent use of glycopyrrolate injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects. Concomitant administration of glycopyrrolate injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including glycopyrrolate injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin, and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Post-marketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily. To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=38
+Page 38 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "GLYCOPYRROLATE"
+ 
+      "drug_interactions": [
+        "Drug Interactions The concurrent use of Glycopyrrolate Injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects. Concomitant administration of Glycopyrrolate Injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including Glycopyrrolate Injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin, and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Post-marketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=39
+Page 39 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilatation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=40
+Page 40 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "GLYCOPYRROLATE"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=41
+Page 41 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "GLYCOPYRROLATE"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS There are no known drug interactions."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions. Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Glycopyrrolate&limit=1&skip=42
+Page 42 of 43
+        "generic_name": [
+          "GLYCOPYRROLATE"
+        "brand_name": [
+          "Glycopyrrolate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The concurrent use of Glycopyrrolate Injection with other anticholinergics or medications with anticholinergic activity, such as phenothiazines, antiparkinson drugs, or tricyclic antidepressants, may intensify the antimuscarinic effects and may result in an increase in anticholinergic side effects. Concomitant administration of Glycopyrrolate Injection and potassium chloride in a wax matrix may increase the severity of potassium chloride-induced gastrointestinal lesions as a result of a slower gastrointestinal transit time."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Anticholinergics, including Glycopyrrolate Injection, can produce certain effects, most of which are extensions of their pharmacologic actions. Adverse reactions may include xerostomia (dry mouth); urinary hesitancy and retention; blurred vision and photophobia due to mydriasis (dilation of the pupil); cycloplegia; increased ocular tension; tachycardia; palpitation; decreased sweating; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; severe allergic reactions including anaphylactic/anaphylactoid reactions; hypersensitivity; urticaria, pruritus, dry skin, and other dermal manifestations; some degree of mental confusion and/or excitement, especially in elderly persons. In addition, the following adverse events have been reported from post-marketing experience with glycopyrrolate: malignant hyperthermia; cardiac arrhythmias (including bradycardia, ventricular tachycardia, ventricular fibrillation); cardiac arrest; hypertension; hypotension; seizures; and respiratory arrest. Post-marketing reports have included cases of heart block and QTc interval prolongation associated with the combined use of glycopyrrolate and an anticholinesterase. Injection site reactions including pruritus, edema, erythema, and pain have also been reported. Glycopyrrolate is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier is limited in contrast to atropine sulfate and scopolamine hydrobromide. For this reason the occurrence of CNS-related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

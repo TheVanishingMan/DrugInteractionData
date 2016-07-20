@@ -1,0 +1,60 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ammonium+AND+Lactate+AND+Cream&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "AMMONIUM LACTATE"
+        "brand_name": [
+          "Ammonium Lactate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse experiences in patients with xeroxis are transient stinging (1 in 30 patients), burning (1 in 30 patients), erythema (1 in 50 patients) and peeling (1 in 60 patients). Other adverse reactions which occur less frequently are irritation, eczema, petechiae, dryness and hyperpigmentation. Due to more severe initial skin conditions associated with ichthyosis, there was a higher incidence of transient stinging, burning and erythema (each occurring in 1 in 10 patients)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ammonium+AND+Lactate+AND+Cream&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "AMMONIUM LACTATE"
+        "brand_name": [
+          "Ammonium Lactate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials of patients with ichthyosis vulgaris, the most frequent adverse reactions in patients treated with ammonium lactate cream were rash (including erythema and irritation) and burning/stinging. Each was reported in approximately 10-15% of patients. In addition, itching was reported in approximately 5% of patients. In controlled clinical trials of patients with xerosis, the most frequent adverse reactions in patients treated with ammonium lactate cream were transient burning, in about 3% of patients, stinging, dry skin and rash, each reported in approximately 2% of patients."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ammonium+AND+Lactate+AND+Cream&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "AMMONIUM LACTATE"
+        "brand_name": [
+          "AMMONIUM LACTATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials of patients with ichthyosis vulgaris, the most frequent adverse reactions in patients treated with ammonium lactate cream were rash (including erythema and irritation) and burning/stinging. Each was reported in approximately 10-15% of patients. In addition, itching was reported in approximately 5% of patients. In controlled clinical trials of patients with xerosis, the most frequent adverse reactions in patients treated with ammonium lactate cream were transient burning, in about 3% of patients, stinging, dry skin and rash, each reported in approximately 2% of patients."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ammonium+AND+Lactate+AND+Cream&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "AMMONIUM LACTATE"
+        "brand_name": [
+          "Lac Hydrin Cream"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials of patients with ichthyosis vulgaris, the most frequent adverse reactions in patients treated with Lac-Hydrin Cream were rash (including erythema and irritation) and burning/stinging. Each was reported in approximately 10-15% of patients. In addition, itching was reported in approximately 5% of patients. In controlled clinical trials of patients with xerosis, the most frequent adverse reactions in patients treated with Lac-Hydrin Cream were transient burning, in about 3% of patients, stinging, dry skin and rash, each reported in approximately 2% of patients."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ammonium+AND+Lactate+AND+Cream&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "AMMONIUM LACTATE"
+        "brand_name": [
+          "Ammonium Lactate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials of patients with ichthyosis vulgaris, the most frequent adverse reactions in patients treated with Ammonium Lactate Cream, 12% were rash (including erythema and irritation) and burning/stinging. Each was reported in approximately 10-15% of patients. In addition, itching was reported in approximately 5% of patients. In controlled clinical trials of patients with xerosis, the most frequent adverse reactions in patients treated with Ammonium Lactate Cream, 12% were transient burning, in about 3% of patients, stinging, dry skin and rash, each reported in approximately 2% of patients."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

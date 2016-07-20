@@ -1,0 +1,60 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cromolyn+AND+Ophthalmic&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "CROMOLYN SODIUM"
+        "brand_name": [
+          "Cromolyn Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The most frequently reported adverse reaction attributed to the use of cromolyn sodium ophthalmic solution, on the basis of reoccurrence following readministration, is transient ocular stinging or burning upon instillation. The following adverse reactions have been reported as infrequent events. It is unclear whether they are attributed to the drug: Conjunctival injection; watery eyes; itchy eyes; dryness around the eye; puffy eyes; eye irritation; and styes. Immediate hypersensitivity reactions have been reported rarely and include dyspnea, edema, and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cromolyn+AND+Ophthalmic&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "CROMOLYN SODIUM"
+        "brand_name": [
+          "Cromolyn Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The most frequently reported adverse reaction attributed to the use of cromolyn sodium ophthalmic solution, on the basis of reoccurrence following readministration, is transient ocular stinging or burning upon instillation. The following adverse reactions have been reported as infrequent events. It is unclear whether they are attributed to the drug: Conjunctival injection; watery eyes; itchy eyes; dryness around the eye; puffy eyes; eye irritation; and styes. Immediate hypersensitivity reactions have been reported rarely and include dyspnea, edema, and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cromolyn+AND+Ophthalmic&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "CROMOLYN SODIUM"
+        "brand_name": [
+          "Cromolyn Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently reported adverse reaction attributed to the use of cromolyn sodium ophthalmic solution, on the basis of reoccurrence following readministration, is transient ocular stinging or burning upon instillation. The following adverse reactions have been reported as infrequent events. It is unclear whether they are attributable to the drug: Conjunctival injection; watery eyes; itchy eyes; dryness around the eye; puffy eyes; eye irritation; and styes. Immediate hypersensitivity reactions have been reported rarely and include dyspnea, edema and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cromolyn+AND+Ophthalmic&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "CROMOLYN SODIUM"
+        "brand_name": [
+          "Cromolyn Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The most frequently reported adverse reaction attributed to the use of cromolyn sodium ophthalmic solution, on the basis of reoccurrence following readministration, is transient ocular stinging or burning upon instillation. The following adverse reactions have been reported as infrequent events. It is unclear whether they are attributed to the drug: Conjunctival injection; watery eyes; itchy eyes; dryness around the eye; puffy eyes; eye irritation; and styes. Immediate hypersensitivity reactions have been reported rarely and include dyspnea, edema, and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Cromolyn+AND+Ophthalmic&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "CROMOLYN SODIUM"
+        "brand_name": [
+          "Cromolyn Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently reported adverse reaction attributed to the use of cromolyn sodium, on the basis of reoccurrence following readministration, is transient ocular stinging or burning upon instillation. The following adverse reactions have been reported as infrequent events. It is unclear whether they are attributed to the drug: Conjunctival injection; watery eyes; itchy eyes; dryness around the eye; puffy eyes; eye irritation; and styes. Immediate hypersensitivity reactions have been reported rarely and include dyspnea, edema, and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

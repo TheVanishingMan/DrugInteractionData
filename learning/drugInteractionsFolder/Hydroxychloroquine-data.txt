@@ -1,0 +1,340 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=0
+Page 0 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=1
+Page 1 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=2
+Page 2 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=3
+Page 3 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Plaquenil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Psychiatric disorders: Nervousness, emotional lability, psychosis, suicidal behavior. Nervous system disorders: Dizziness, headache, convulsions have been reported with this class of drugs. Eye disorders: Retinopathy with changes in pigmentation and visual field defects have been reported. In its early form, it appears reversible on discontinuation of hydroxychloroquine. If allowed to develop, there may be a risk of progression even after treatment withdrawal. Cases of maculopathies and macular degeneration have been reported and may be irreversible. Skin and subcutaneous tissue disorders: Bullous eruptions including very rare cases of Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, photosensitivity and exfoliative dermatitis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=4
+Page 4 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=5
+Page 5 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=6
+Page 6 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=7
+Page 7 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=8
+Page 8 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets.",
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=9
+Page 9 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=10
+Page 10 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Plaquenil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Psychiatric disorders: Nervousness, emotional lability, psychosis, suicidal behavior. Nervous system disorders: Dizziness, headache, convulsions and extrapyramidal disorders such as dystonia, dyskinesia, and tremor (see WARNINGS, General) have been reported with this class of drugs. Eye disorders: Retinopathy with changes in pigmentation and visual field defects have been reported. In its early form, it appears reversible on discontinuation of hydroxychloroquine. If allowed to develop, there may be a risk of progression even after treatment withdrawal. Cases of maculopathies and macular degeneration have been reported and may be irreversible. Skin and subcutaneous tissue disorders: Bullous eruptions including very rare cases of Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, photosensitivity, and exfoliative dermatitis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=11
+Page 11 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Plaquenil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Nervousness, emotional lability, psychosis, suicidal behavior. Psychiatric disorders: Dizziness, headache, convulsions have been reported with this class of drugs. Nervous system disorders: Retinopathy with changes in pigmentation and visual field defects have been reported. In its early form, it appears reversible on discontinuation of hydroxychloroquine. If allowed to develop, there may be a risk of progression even after treatment withdrawal. Cases of maculopathies and macular degeneration have been reported and may be irreversible. Eye disorders: Bullous eruptions including very rare cases of Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, photosensitivity and exfoliative dermatitis have been reported. Skin and subcutaneous tissue disorders:"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=12
+Page 12 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=13
+Page 13 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=14
+Page 14 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Psychiatric disorders: Nervousness, emotional lability, psychosis, suicidal behavior. Nervous system disorders: Dizziness, headache, and convulsions have been reported with this class of drugs. Eye disorders: Retinopathy with changes in pigmentation and visual field defects have been reported. In its early form, it appears reversible on discontinuation of hydroxychloroquine. If allowed to develop, there may be a risk of progression even after treatment withdrawal. Cases of maculopathies and macular degeneration have been reported and may be irreversible. Skin and subcutaneous tissue disorders: Bullous eruptions including very rare cases of Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, photosensitivity, and exfoliative dermatitis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=15
+Page 15 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Plaquenil"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Psychiatric disorders: Nervousness, emotional lability, psychosis, suicidal behavior. Nervous system disorders: Dizziness, headache, convulsions have been reported with this class of drugs. Eye disorders: Retinopathy with changes in pigmentation and visual field defects have been reported. In its early form, it appears reversible on discontinuation of hydroxychloroquine. If allowed to develop, there may be a risk of progression even after treatment withdrawal. Cases of maculopathies and macular degeneration have been reported and may be irreversible. Skin and subcutaneous tissue disorders: Bullous eruptions including very rare cases of Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, photosensitivity and exfoliative dermatitis have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=16
+Page 16 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=17
+Page 17 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=18
+Page 18 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=19
+Page 19 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=20
+Page 20 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=21
+Page 21 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=22
+Page 22 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=23
+Page 23 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=24
+Page 24 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=25
+Page 25 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=26
+Page 26 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=27
+Page 27 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness, and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine sulfate tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=28
+Page 28 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydroxychloroquine&limit=1&skip=29
+Page 29 of 30
+        "generic_name": [
+          "HYDROXYCHLOROQUINE SULFATE"
+        "brand_name": [
+          "Hydroxychloroquine Sulfate"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Following the administration in doses adequate for the treatment of an acute malarial attack, mild and transient headache, dizziness and gastrointestinal complaints (diarrhea, anorexia, nausea, abdominal cramps and, on rare occasions, vomiting) may occur. Cardiomyopathy has been rarely reported with high daily dosages of hydroxychloroquine."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

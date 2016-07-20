@@ -1,0 +1,262 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=0
+Page 0 of 22
+        "generic_name": [
+          "ACETIC ACID IN AQUEOUS ALUMINUM ACETATE"
+        "brand_name": [
+          "Borofair"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Irritation may occur."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=1
+Page 1 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "DYSPEPSIA FATIGUE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=2
+Page 2 of 22
+        "generic_name": [
+          "ACETIC ACID, ARANEUS DIADEMATUS, ASAFETIDA, BRYONIA ALBA WHOLE, TRIBASIC CALCIUM PHOSPHATE, ACTIVATED CHARCOAL, CINCHONA OFFICINALIS BARK, MARSDENIA CONDURANGO BARK, TUBOCURARINE CHLORIDE, KALMIA LATIFOLIA LEAF, LYCOPODIUM CLAVATUM SPORE, SODIUM SULFATE, PHOSPHORIC ACID, PULSATILLA VULGARIS, CLAVICEPS PURPUREA SCLEROTIUM, AND SILICON DIOXIDE"
+        "brand_name": [
+          "BHI Migraine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=3
+Page 3 of 22
+        "generic_name": [
+          "HYDROCORTISONE AND ACETIC ACID"
+        "brand_name": [
+          "VoSoL HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=4
+Page 4 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "VoSoL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=5
+Page 5 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=6
+Page 6 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Systemic acidosis, pain and hematuria have been reported in patients receiving urinary bladder irrigation with 0.25% Acetic Acid Irrigation, USP. Should adverse reactions occur, discontinue the irrigation and reevaluate the clinical status of the patient."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=7
+Page 7 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Systemic acidosis has been reported in patients receiving urinary bladder irrigation with 0.25% acetic acid solution. Urologic pain and hematuria have been reported in patients receiving urinary bladder irrigation with 0.25% acetic acid solution."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=8
+Page 8 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "acetic acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=9
+Page 9 of 22
+        "generic_name": [
+          "HYDROCORTISONE AND ACETIC ACID"
+        "brand_name": [
+          "Hydrocortisone and Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=10
+Page 10 of 22
+        "generic_name": [
+          "ACETIC ACID AND OXYQUINOLINE SULFATE"
+        "brand_name": [
+          "Fem pH"
+ 
+      "drug_interactions": [
+        "Drug Interactions No incidence of drug interactions has been reported with concomitant use of Fem pH and any other medication."
+      "adverse_reactions": [
+        "Adverse Reactions Occasional cases of local stinging and burning have been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=11
+Page 11 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "acetic acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=12
+Page 12 of 22
+        "generic_name": [
+          "HYDROCORTISONE AND ACETIC ACID"
+        "brand_name": [
+          "Hydrocortisone and Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=13
+Page 13 of 22
+        "generic_name": [
+          "HYDORCORTISONE AND ACETIC ACID"
+        "brand_name": [
+          "Acetasol HC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=14
+Page 14 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "acetic acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=15
+Page 15 of 22
+        "generic_name": [
+          "HYDROCORTISONE AND ACETIC ACID"
+        "brand_name": [
+          "Hydrocortisone and Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=16
+Page 16 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=17
+Page 17 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "acetic acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=18
+Page 18 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Systemic acidosis, pain, and hematuria have been reported in patients receiving urinary bladder irrigation with 0.25% acetic acid solution. If an adverse reaction does occur, discontinue administration of the irrigant, evaluate the patient, institute appropriate therapeutic countermeasures, and save the remainder of the fluid for examination, if deemed necessary."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=19
+Page 19 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Irritation may occur."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=20
+Page 20 of 22
+        "generic_name": [
+          "ACETIC ACID"
+        "brand_name": [
+          "Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetic+AND+Acid&limit=1&skip=21
+Page 21 of 22
+        "generic_name": [
+          "HYDROCORTISONE AND ACETIC ACID"
+        "brand_name": [
+          "Hydrocortisone and Acetic Acid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

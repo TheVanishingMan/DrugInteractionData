@@ -1,0 +1,680 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=0
+Page 0 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "good neighbor pharmacy itchy eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=1
+Page 1 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Itchy Eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=2
+Page 2 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "wal zyr"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=3
+Page 3 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Ketotifen Fumarate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=4
+Page 4 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Ketotifen Fumarate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=5
+Page 5 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=6
+Page 6 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=7
+Page 7 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Allergy Eye Drops"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=8
+Page 8 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=9
+Page 9 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Topcare Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=10
+Page 10 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "up and up eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=11
+Page 11 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "care one eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=12
+Page 12 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "Good Sense itchy eye original prescription strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=13
+Page 13 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "itchy eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=14
+Page 14 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "EYE ITCH RELIEF"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=15
+Page 15 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=16
+Page 16 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Ketotifen Fumarate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=17
+Page 17 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "equaline eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=18
+Page 18 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "equate itchy eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=19
+Page 19 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=20
+Page 20 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "equate Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=21
+Page 21 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "care one allergy eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=22
+Page 22 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=23
+Page 23 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Ketotifen Fumarate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=24
+Page 24 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "good sense eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=25
+Page 25 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=26
+Page 26 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "allergy eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=27
+Page 27 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Itchy Eye Drops"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=28
+Page 28 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Allergy Relief Eye Drops"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=29
+Page 29 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "smart sense allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=30
+Page 30 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Itchy Eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=31
+Page 31 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=32
+Page 32 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=33
+Page 33 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "allergy eye original prescription strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=34
+Page 34 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Itchy Eye Drops"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=35
+Page 35 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=36
+Page 36 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=37
+Page 37 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "Itchy Eye Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=38
+Page 38 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "LEADER EYE ITCH RELIEF DROPS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=39
+Page 39 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=40
+Page 40 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=41
+Page 41 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "Leader Allergy Eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=42
+Page 42 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Ketotifen Fumarate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=43
+Page 43 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "good sense allergy eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=44
+Page 44 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=45
+Page 45 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "itchy eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=46
+Page 46 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Allergy Eye Drops"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=47
+Page 47 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Zaditor"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=48
+Page 48 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=49
+Page 49 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=50
+Page 50 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "antihistamine eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=51
+Page 51 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=52
+Page 52 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Allergy Eye Drops"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=53
+Page 53 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Health Mart eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=54
+Page 54 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Sunmark eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=55
+Page 55 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "Itchy Eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=56
+Page 56 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=57
+Page 57 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "allergy relief eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=58
+Page 58 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=59
+Page 59 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "good neighbor pharmacy eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=60
+Page 60 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Alaway"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=61
+Page 61 of 68
+        "generic_name": [
+          "KETOTIFEN"
+        "brand_name": [
+          "itchy eye original prescription strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=62
+Page 62 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Alaway"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=63
+Page 63 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Ketotifen Fumarate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=64
+Page 64 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "allergy eye"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=65
+Page 65 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "good neighbor pharmacy eye itch relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=66
+Page 66 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketotifen+AND+Fumarate&limit=1&skip=67
+Page 67 of 68
+        "generic_name": [
+          "KETOTIFEN FUMARATE"
+        "brand_name": [
+          "Eye Itch"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
