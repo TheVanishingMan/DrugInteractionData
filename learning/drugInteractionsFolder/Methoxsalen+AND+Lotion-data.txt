@@ -1,12 +1,2 @@
-https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methoxsalen+AND+Lotion&limit=1&skip=0
-Page 0 of 1
-        "generic_name": [
-          "METHOXSALEN"
-        "brand_name": [
-          "Oxsoralen"
- 
-      "adverse_reactions": [
-        "VII. ADVERSE REACTIONS Systemic adverse reactions have not been reported. The most common adverse reaction is severe burns of the treated area from overexposure to UVA, including sunlight. TREATMENT MUST BE INDIVIDUALIZED. Minor blistering of the skin is not a contraindication to further treatment and generally heals without incident. Treatment would be the standard for burn therapy. Since 1953, many studies have demonstrated the safety and effectiveness of topical methoxsalen and UVA for the treatment of vitiligo when used as directed. (Lerner, A.B., et al, 1953)6 (Fitzpatrick, T.B., et al, 1966)7 (Fulton, James F. et al, 1969)8"
- 
- 
---------------------------------------------------------------------------------------------------------------------
+
+"VII. ADVERSE REACTIONS Systemic adverse reactions have not been reported. The most common adverse reaction is severe burns of the treated area from overexposure to UVA, including sunlight. TREATMENT MUST BE INDIVIDUALIZED. Minor blistering of the skin is not a contraindication to further treatment and generally heals without incident. Treatment would be the standard for burn therapy. Since 1953, many studies have demonstrated the safety and effectiveness of topical methoxsalen and UVA for the treatment of vitiligo when used as directed. (Lerner, A.B., et al, 1953)6 (Fitzpatrick, T.B., et al, 1966)7 (Fulton, James F. et al, 1969)8"$$

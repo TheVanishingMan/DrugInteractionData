@@ -1,0 +1,52 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dehydrated+AND+Alcohol&limit=1&skip=0
+Page 0 of 4
+        "generic_name": [
+          "DEHYDRATED ALCOHOL"
+        "brand_name": [
+          "Dehydrated Alcohol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most commonly encountered side effects are post-injection neuritis with persistent pain, hyperesthesia and paresthesia. Subarachnoid neurolysis and lumbar sympathetic block may be followed by motor paralysis, bladder or rectal incontinence and impotence. Severe hypotension may follow celiac ganglion injection. Corneal anesthesia, meningitis or cranial nerve palsy may follow injection of the gasserian ganglion."
+      "warnings_and_cautions": [
+        "Rx Only For Therapeutic Neurolysis"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dehydrated+AND+Alcohol&limit=1&skip=1
+Page 1 of 4
+        "generic_name": [
+          "DEHYDRATED ALCOHOL INJECTION"
+        "brand_name": [
+          "Dehydrated Alcohol"
+ 
+      "adverse_reactions": [
+        "The most commonly encountered side effects are post-injection neuritis with persistent pain, hyperesthesia and paresthesia. Subarachnoid neurolysis and lumbar sympathetic block may be followed by motor paralysis, bladder or rectal incontinence and impotence. Severe hypotension may follow celiac ganglion injection. Corneal anesthesia, meningitis or cranial nerve palsy may follow injection of the gasserian ganglion."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dehydrated+AND+Alcohol&limit=1&skip=2
+Page 2 of 4
+        "generic_name": [
+          "DEHYDRATED ALCOHOL"
+        "brand_name": [
+          "Dehydrated Alcohol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most commonly encountered side effects are post-injection neuritis with persistent pain, hyperesthesia and paresthesia. Subarachnoid neurolysis and lumbar sympathetic block may be followed by motor paralysis, bladder or rectal incontinence and impotence. Severe hypotension may follow celiac ganglion injection. Corneal anesthesia, meningitis or cranial nerve palsy may follow injection of the gasserian ganglion."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dehydrated+AND+Alcohol&limit=1&skip=3
+Page 3 of 4
+        "generic_name": [
+          "DEHYDRATED ALCOHOL INJECTION"
+        "brand_name": [
+          "Dehydrated Alcohol"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most commonly encountered side effects are post-injection neuritis with persistent pain, hyperesthesia and paresthesia. Subarachnoid neurolysis and lumbar sympathetic block may be followed by motor paralysis, bladder or rectal incontinence and impotence. Severe hypotension may follow celiac ganglion injection. Corneal anesthesia, meningitis or cranial nerve palsy may follow injection of the gasserian ganglion."
+      "warnings_and_cautions": [
+        "Rx Only For Therapeutic Neurolysis"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

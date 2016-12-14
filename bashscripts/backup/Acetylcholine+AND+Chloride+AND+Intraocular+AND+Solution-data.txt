@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Acetylcholine+AND+Chloride+AND+Intraocular+AND+Solution&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "ACETYLCHOLINE CHLORIDE"
+        "brand_name": [
+          "Miochol E"
+ 
+      "drug_interactions": [
+        "Drug Interactions Although clinical studies with acetylcholine chloride and animal studies with acetylcholine or carbachol revealed no interference, and there is no known pharmacological basis for an interaction, there have been reports that acetylcholine chloride and carbachol have been ineffective when used in patients treated with topical nonsteroidal anti-inflammatory agents."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Infrequent cases of corneal edema, corneal clouding, and corneal decompensation have been reported with the use of intraocular acetylcholine. Adverse reactions have been reported rarely which are indicative of systemic absorption. These include bradycardia, hypotension, flushing, breathing difficulties and sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,50 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyaluronate&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "SODIUM HYALURONATE"
+        "brand_name": [
+          "HYLASE Wound"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyaluronate&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "HYALURONATE SODIUM, NIACINAMIDE"
+        "brand_name": [
+          "Clapiel Hyalon Serum"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyaluronate&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "SODIUM HYALURONATE"
+        "brand_name": [
+          "HyGel"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyaluronate&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "HYALURONATE SODIUM"
+        "brand_name": [
+          "Hyaluronic Acid Micro"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyaluronate&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "SODIUM HYALURONATE, SNAIL SECRETION FILTRATE, MORUS ALBA BARK EXTRACT"
+        "brand_name": [
+          "Cotta"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

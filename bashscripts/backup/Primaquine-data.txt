@@ -1,0 +1,64 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primaquine&limit=1&skip=0
+Page 0 of 5
+        "generic_name": [
+          "PRIMAQUINE PHOSPHATE"
+        "brand_name": [
+          "Primaquine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Caution is advised if Primaquine is used concomitantly with other drugs that prolong the QT interval (see PRECAUTIONS, ADVERSE REACTIONS, and OVERDOSAGE)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal: nausea, vomiting, epigastric distress, and abdominal cramps. Hematologic: leukopenia, hemolytic anemia in glucose-6-phosphate dehydrogenase (G-6-PD) deficient individuals, and methemoglobinemia in nicotinamide adenine dinucleotide (NADH) methemoglobin reductase deficient individuals. Cardiac: Cardiac Arrhythmia and QT interval prolongation (see PRECAUTIONS, OVERDOSAGE)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primaquine&limit=1&skip=1
+Page 1 of 5
+        "generic_name": [
+          "PRIMAQUINE PHOSPHATE"
+        "brand_name": [
+          "Primaquine Phosphate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Caution is advised if primaquine is used concomitantly with other drugs that prolong the QT interval (see PRECAUTIONS, ADVERSE REACTIONS, and OVERDOSAGE)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal: nausea, vomiting, epigastric distress, and abdominal cramps. Hematologic: leukopenia, hemolytic anemia in glucose-6-phosphate dehydrogenase (G-6-PD) deficient individuals, and methemoglobinemia in nicotinamide adenine dinucleotide (NADH) methemoglobin reductase deficient individuals. Cardiac: Cardiac arrhythmia and QT interval prolongation (see PRECAUTIONS, OVERDOSAGE)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primaquine&limit=1&skip=2
+Page 2 of 5
+        "generic_name": [
+          "PRIMAQUINE PHOSPHATE"
+        "brand_name": [
+          "Primaquine Phosphate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal: nausea, vomiting, epigastric distress, and abdominal cramps. Hematologic: leukopenia, hemolytic anemia in glucose-6-phosphate dehydrogenase (G-6-PD) deficient individuals, and methemoglobinemia in nicotinamide adenine dinucleotide (NADH) methemoglobin reductase deficient individuals."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primaquine&limit=1&skip=3
+Page 3 of 5
+        "generic_name": [
+          "PRIMAQUINE"
+        "brand_name": [
+          "PRIMAQUINE PHOSPHATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal: nausea, vomiting, epigastric distress, and abdominal cramps. Hematologic: leukopenia, hemolytic anemia in glucose-6-phosphate dehydrogenase (G-6-PD) deficient individuals, and methemoglobinemia in nicotinamide adenine dinucleotide (NADH) methemoglobin reductase deficient individuals."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primaquine&limit=1&skip=4
+Page 4 of 5
+        "generic_name": [
+          "PRIMAQUINE PHOSPHATE"
+        "brand_name": [
+          "Primaquine Phosphate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal: nausea, vomiting, epigastric distress, and abdominal cramps. Hematologic: leukopenia, hemolytic anemia in glucose-6-phosphate dehydrogenase (G-6-PD) deficient individuals, and methemoglobinemia in nicotinamide adenine dinucleotide (NADH) methemoglobin reductase deficient individuals."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

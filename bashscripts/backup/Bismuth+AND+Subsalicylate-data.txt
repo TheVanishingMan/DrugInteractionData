@@ -1,0 +1,2224 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=0
+Page 0 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismatrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=1
+Page 1 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=2
+Page 2 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pink Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=3
+Page 3 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=4
+Page 4 of 222
+        "generic_name": [
+          "BISMUTH SUBSLICYLATE"
+        "brand_name": [
+          "Pepbis Regular"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=5
+Page 5 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Lil Drug Store Products"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=6
+Page 6 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Moore Medical Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=7
+Page 7 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Medique Diotame"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=8
+Page 8 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Percy Medicine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=9
+Page 9 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief original strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=10
+Page 10 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "GERI-PECTATE PEPPERMINT FLAVOR"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=11
+Page 11 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=12
+Page 12 of 222
+        "generic_name": [
+          "BISMUTH SUBSALYCILATE"
+        "brand_name": [
+          "Bismutina"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=13
+Page 13 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=14
+Page 14 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Sunmark Stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=15
+Page 15 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=16
+Page 16 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=17
+Page 17 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=18
+Page 18 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pink Bismuth Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=19
+Page 19 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "equate stomach relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=20
+Page 20 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Desempacho Cucharadas"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=21
+Page 21 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=22
+Page 22 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=23
+Page 23 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "7-Select Pepto Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=24
+Page 24 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=25
+Page 25 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=26
+Page 26 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "healthy accents stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=27
+Page 27 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismuth subsalicylate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=28
+Page 28 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=29
+Page 29 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=30
+Page 30 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=31
+Page 31 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=32
+Page 32 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=33
+Page 33 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=34
+Page 34 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=35
+Page 35 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=36
+Page 36 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=37
+Page 37 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismuth Subsalicylate 262 mg"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=38
+Page 38 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=39
+Page 39 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "equate stomach relief regular strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=40
+Page 40 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=41
+Page 41 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "KAO-TIN PEPPERMINT FLAVOR"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=42
+Page 42 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=43
+Page 43 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=44
+Page 44 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Multi-Symptom"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=45
+Page 45 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=46
+Page 46 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=47
+Page 47 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Estomax"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=48
+Page 48 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=49
+Page 49 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=50
+Page 50 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Soothe"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=51
+Page 51 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=52
+Page 52 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Family Care Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=53
+Page 53 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=54
+Page 54 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Soothe Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=55
+Page 55 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=56
+Page 56 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=57
+Page 57 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismatrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=58
+Page 58 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "GERI-PECTATE VANILLA FLAVOR"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=59
+Page 59 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=60
+Page 60 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Topcare Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=61
+Page 61 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=62
+Page 62 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=63
+Page 63 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=64
+Page 64 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismatrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=65
+Page 65 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach relief chewables"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=66
+Page 66 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Equaline Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=67
+Page 67 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=68
+Page 68 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=69
+Page 69 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismatrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=70
+Page 70 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Kola-Pectin DS"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=71
+Page 71 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=72
+Page 72 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=73
+Page 73 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Good Sense Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=74
+Page 74 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "rexall bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=75
+Page 75 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismuth Tabs"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=76
+Page 76 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=77
+Page 77 of 222
+        "generic_name": [
+          "BISMUTH SUBSALYCILATE"
+        "brand_name": [
+          "Threda"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=78
+Page 78 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "STOMACH RELIEF MAXIMUM STRENGTH"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=79
+Page 79 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "equaline stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=80
+Page 80 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Soothe"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=81
+Page 81 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=82
+Page 82 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismatrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=83
+Page 83 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=84
+Page 84 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=85
+Page 85 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Up and Up Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=86
+Page 86 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismatrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=87
+Page 87 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief original"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=88
+Page 88 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "careone stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=89
+Page 89 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "rx act stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=90
+Page 90 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=91
+Page 91 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Topcare stomach relief original strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=92
+Page 92 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=93
+Page 93 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=94
+Page 94 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=95
+Page 95 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=96
+Page 96 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Moore Medical Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=97
+Page 97 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=98
+Page 98 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=99
+Page 99 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "careone stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=100
+Page 100 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "7 Select Pink Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=101
+Page 101 of 222
+        "generic_name": [
+          "BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE, TETRACYCLINE HYDROCHLORIDE (140 MG/125 MG/125 MG)"
+        "brand_name": [
+          "Pylera"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Methoxyflurane: Risk of fatal renal toxicity; do not co-administer. (4.1, 7.1) Disulfiram: Psychotic reactions can occur; do not take concurrently or within the last 2 weeks of disulfiram. (4.2, 7.2) Alcohol: Abdominal cramps, nausea, vomiting, headaches, and flushing can occur; do no consume during therapy and for at least 3 days afterwards. (7.3) Oral Contraceptives: Decreased efficacy possibly resulting in pregnancy; use a different or additional form of contraception. (7.4) Anticoagulants: Potentiation of the anticoagulant effect; Prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored. (7.5) Lithium: Increased lithium serum concentrations; measure serum lithium and serum creatinine concentrations during therapy. (7.6) Antacids, Multivitamins or Dairy Products: Decreased absorption of PYLERA; do not take concomitantly. (7.7) 7.1 Methoxyflurane Do not administer methoxyflurane to patients taking PYLERA. The concurrent use of tetracycline hydrochloride, a component of PYLERA, with methoxyflurane has been reported to result in fatal renal toxicity [See Contraindications (4.1)]. 7.2 Disulfiram Psychotic reactions have been reported in alcoholic patients who are using metronidazole, a component of PYLERA and disulfiram concurrently. PYLERA should not be given to patients who have taken disulfiram within the last 2 weeks [See Contraindications (4.2)]. 7.3 Alcohol Consumption of alcoholic beverages or administration of other products containing propylene glycol during treatment with PYLERA and for at least 3 days afterwards may cause a disulfiram-like reaction (abdominal cramps, nausea, vomiting, headaches, and flushing) due to the interaction between alcohol or propylene glycol and metronidazole, a component of PYLERA. Discontinue alcoholic beverage or other products containing propylene glycol during and for at least 3 days after therapy with PYLERA [See Contraindications (4.3)]. 7.4 Oral Contraceptives Concurrent use of PYLERA with oral contraceptive may make oral contraceptives less effective due to an interaction with the tetracycline component of PYLERA. Breakthrough bleeding has been reported. Women of child-bearing potential should use a different or additional form of contraception while taking PYLERA. 7.5 Anticoagulants PYLERA may alter the anticoagulant effects of warfarin and other oral coumarin anticoagulants. Metronidazole has been reported to potentiate the anticoagulant effect of warfarin, and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time. Tetracycline has been shown to depress plasma prothrombin activity. Prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if PYLERA is administered concomitantly with warfarin. Patients should also be monitored for evidence of bleeding. 7.6 Lithium In patients stabilized on relatively high doses of lithium, short-term use of PYLERA may cause elevation of serum lithium concentrations and signs of lithium toxicity due to the interaction between metronidazole and lithium. Serum lithium and serum creatinine concentrations should be monitored several days after beginning treatment with PYLERA to detect any increase that may precede clinical symptoms of lithium toxicity. 7.7 Antacids, Multivitamins, or Dairy Products The absorption of PYLERA may be reduced if administered with antacids containing aluminium, calcium, or magnesium; preparations containing iron, zinc, or sodium bicarbonate; or milk or dairy products due to the interaction between these products and tetracycline. These products should not be consumed concomitantly with PYLERA. However, the clinical significance of reduced tetracycline systemic exposure is unknown as the relative contribution of systemic versus local antimicrobial activity against Helicobacter pylori has not been established. 7.8 Penicillin Bacteriostatic drugs, such as the tetracycline class of antibiotics, may interfere with the bactericidal action of penicillin; therefore, penicillin should not be used concomitantly with PYLERA. 7.9 Inhibitors of CYP450 liver enzymes The simultaneous administration of PYLERA and drugs that inhibit microsomal liver enzymes, such as cimetidine, may result in a prolonged half-life and decreased plasma clearance of metronidazole. 7.10 Inducers of CYP450 liver enzymes The simultaneous administration of PYLERA and drugs that induce microsomal liver enzymes, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole, resulting in reduced plasma concentrations of metronidazole. Impaired clearance of phenytoin has also been reported in this situation. Monitor phenytoin concentrations during treatment with PYLERA."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most frequently reported adverse reactions (>=5%); abnormal feces, diarrhea, nausea, and headache. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact AXCAN Pharma US, Inc. at 1-800-472-2634 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The safety of PYLERA plus omeprazole (OBMT) to eradicate Helicobacter pylori was assessed in an open-label, randomized, active-controlled clinical trial conducted in North America. The duration of treatment was 10 days with 147 patients exposed to PYLERA plus omeprazole (OBMT) and 152 exposed to control, consisting of omeprazole, amoxicillin, and clarithromycin (OAC). The age of the population in the study ranged from 18 to 75 years, with 59% male patients and 59% Caucasian patients. Adverse drug reactions were reported in 58% of patients in the OBMT group and 59% of patients in the OAC group. There were no adverse reactions leading to discontinuation of the study during the clinical trial. Adverse reactions with an incidence of >= 5% in OBMT group include abnormal feces, diarrhea, nausea, and headache. Adverse drug reactions with an incidence of >= 5% in OAC group include diarrhea, dysgeusia, dyspepsia, nausea and headache. Table 2 lists adverse reactions with an incidence of >= 1%, in either groups (OBMT vs OAC) and in order of decreasing incidence for the OBMT group. Table 2: Adverse reactions with an incidence of >= 1% from North American trial, [n (%)] Preferred Term OBMTOBMT = Omeprazole + PYLERA (n = 147) OACOAC = Omeprazole + Amoxicillin + Clarithromycin; (n = 152) Gastrointestinal disorders Abnormal fecesDark stools [See Warnings and Precautions (5.7)]. 23 (15.6%) 7 (4.6%) Nausea 12 (8.2%) 14 (9.2%) Diarrhea 10 (6.8%) 20 (13.2%) Abdominal Pain 7 (4.8%) 2 (1.3%) Dyspepsia 4 (2.7%) 10 (6.6%) Constipation 2 (1.4%) 5 (3.3%) Dry Mouth 2 (1.4%) 1 (0.7%) Flatulence 0 4 (2.6%) Glossitis 0 2 (1.3%) General disorders and administration site conditions Asthenia 5 (3.4%) 2 (1.3%) Infections and infestations Vaginal infection 4 (2.7%) 3 (2.0%) Nervous system disorders Headache 8 (5.4%) 8 (5.3%) Dysgeusia 6 (4.1%) 18 (11.8%) Dizziness 4 (2.7%) 4 (2.6%) Investigations Laboratory test abnormal 3 (2.0%) 4 (2.6%) Alanine aminotransferase increased 2 (1.4%) 0 Aspartate aminotransferase increased 2 (1.4%) 0 Renal and urinary disorders Urine abnormality 2 (1.4%) 0 Skin and subcutaneous tissue disorders Rash Maculo-Papular 2 (1.4%) 0 Rash 1 (0.7%) 3 (2.0%) Pruritus 0 4 (2.6%) Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiting, tongue darkening [See Warnings and Precautions (5.7)]., anxiety, gastritis, gastroenteritis, myalgia, chest pain, increased appetite, blood creatine phosphokinase increased, malaise, somnolence, tachycardia, duodenal ulcer, visual disturbance, weight increased. 6.2 Postmarketing Experience Additionally, the following adverse reactions, presented by system organ class in alphabetical order, have been identified during post approval use of PYLERA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Gastrointestinal disorders: abdominal distention, eructation, flatulence General disorders and administration site conditions: chest discomfort, fatigue. Infections and infestations: candidiasis. 6.3 Other Important Adverse Reactions from Labeling for the Individual Components of PYLERA Metronidazole Blood and Lymphatic system disorders: reversible neutropenia, (leucopenia) in cases of prolonged treatment; rarely reversible thrombocytopenia however no persistent haematological abnormalities attributable to metronidazole have been observed [See Warnings and Precautions (5.4)]. Cardiac disorders: Flattening of the T-wave may be seen in electrocardiographic tracings. Gastrointestinal disorders: Furry tongue, glositis, stomatitis; these may be associated with a sudden overgrowth of candida which may occur during therapy[See Warnings and Precautions (5.1)]. Immune system disorders: Urticaria, erythematous rash, Stevens - Johnson syndrome, toxic epidermal necrolysis, flushing, nasal congestion, and fever [See Contraindications (4.5)]. Metabolism and nutrition disorders: Cases of pancreatitis have been reported, which abated on withdrawal of the drug, have been reported. Nervous system disorders: The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity. In addition, patients have reported syncope, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness and insomnia [See Warnings and Precautions (5.4)]. Tetracycline Hydrochloride Blood and lymphatic system disorders: Hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia, and eosinophilia. Gastrointestinal disorders: Rare instances of esophagitis and esophageal ulceration have been reported in patients taking the tetracycline-class antibiotics in capsule and tablet form. Most of the patients who experienced esophageal irritation took the medication immediately before going to bed. Permanent discoloration of teeth may be caused when tetracycline is used during tooth development. Enamel hypoplasia has also been reported [See Warnings and Precautions (5.1)]. Nervous system disorders: Pseudotumor cerebri (benign intracranial hypertension) in adults and bulging fontanels in infants. Tinnitus and myasthenic syndrome have been reported rarely. Renal and urinary disorders: Rise in BUN has been reported and is possibly dose related [See Contraindications (4.4)]. Skin and subcutaneous tissue disorders: Exfoliative dermatitis and photosensitivity have been rarely reported [See Warnings and Precautions (5.5)]."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Fetal Toxicity: Advise pregnant women of the risk for permanent discoloration of teeth with tetracycline if used during the second or third trimester (5.1, 8.1) Maternal Toxicity: Risk of hepatotoxicity in pregnant women with high doses of intravenous tetracycline also resulting in stillborn or premature birth (5.2, 8.1) Central and Peripheral Nervous System Effects: encephalopathy and peripheral neuropathy with metronidazole, pseudotumor cerebri with tetracycline and neurotoxicity with bismuth-containing products; Monitor patients with CNS conditions closely and discontinue promptly if abnormal neurologic signs develop. (5.4) Development of Superinfection: If superinfection occurs, discontinue PYLERA and institute appropriate therapy. (5.5) Photosensitivity: avoid exposure to sun and sun lamps. (5.6) 5.1 Fetal Toxicity There are no adequate and well-controlled studies of PYLERA in pregnant women. However, tetracycline can cause fetal harm when administered to a pregnant women. The use of drugs of the tetracycline class during the second and third trimester pregnancy can also cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [See Warnings and Precautions (5.3)]. Administration of oral tetracycline to pregnant rats at various doses resulted in yellow fluorescence in teeth and bones in newborn animals. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [See Use in Specific Populations (8.1)] 5.2 Maternal Toxicity Tetracycline administered during pregnancy at high doses (> 2 g IV) was associated with rare but serious cases of maternal hepatotoxicity. This syndrome may result in stillborn or premature birth due to maternal pathology [See Use in Specific Populations (8.3)]. 5.3 Tooth Enamel Discoloration and Hypoplasia The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy, and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray brown). This adverse reaction is more commom during long-term use of the drug, but has been observed following repeated short-courses. Enamel hypoplasia has also been reported. PYLERA, therefore, should not be used in this age group unless other drugs are not likely to be effective or are contraindicated [See Use in Specific Populations (8.4)] . 5.4 Central and Peripheral Nervous System Effects Metronidazole: Cases of encephalopathy and peripheral neuropathy (including optic neuropathy) have been reported with metronidazole: Encephalopathy has been reported in association with cerebellar toxicity characterized by ataxia, dizziness, and dysarthria. CNS lesions seen on MRI have been described in reports of encephalopathy. CNS symptoms are generally reversible within days to weeks upon discontinuation of metronidazole. CNS lesions seen on MRI have also been described as reversible; Peripheral neuropathy, mainly of sensory type has been reported and is characterized by numbness or paresthesia of an extremity. Convulsive seizures have been reported in patients treated with metronidazole. Aseptic meningitis: Cases of aseptic meningitis have been reported with metronidazole. Symptoms can occur within hours of dose adiminstration and generally resolve after metronidazole therapy is discontinued. Tetracycline: Cases of pseudotumor cerebri in adults have been associated with the use of tetracycline. The usual clinical manifestations are headache and blurred vision. While this condition and related symptoms usually resolve soon after discontinuation of the tetracycline, the possibility for permanent sequelae exists. Bismuth-containing products: Cases of neurotoxicity associated with excessive doses of various bismuth-containing products have been reported. Effects have been reversible with discontinuation of bismuth therapy. The appearance of abnormal neurologic signs and symptoms demands the prompt evaluation of the benefit/risk ratio of the continuation of PYLERA therapy [See Adverse Reactions (6.3)] 5.5 Development of Superinfections Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with metronidazole and requires treatment with an antifungal agent. As with other antibiotics, use of tetracycline hydrochloride may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue PYLERA and institute appropriate therapy 5.6 Photosensitivity Photosensitivity, manifested by an exaggerated sunburn reaction, has been observed in patients taking tetracycline [See Adverse Reactions (6.3)]. Patients apt to be exposed to direct sunlight or ultraviolet light should be advised that this reaction can occur with tetracycline drugs. Instruct patients taking PYLERA to avoid exposure to the sun or sun lamps. Discontinue treatment at the first evidence of skin erythema. 5.7 Darkening of the Tongue and/or Black Stool Bismuth subcitrate potassium may cause temporary and harmless darkening of the tongue and/or black stool, generally reversible within several days after treatment is stopped [See Adverse Reactions (6.1)]. Stool darkening should not be confused with melena. 5.8 Use in Patients with Blood Dyscrasias Metronidazole is a nitroimidazole, and should be used with care in patients with evidence or history of blood dyscrasia. A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies. Total and differential leukocyte counts are recommended before and after therapy [See Adverse Reactions (6.3)]. 5.9 Laboratory Test Interactions Bismuth absorbs x-rays and may interfere with x-ray diagnostic procedures of the gastrointestinal tract. Bismuth subcitrate potassium may cause a temporary and harmless darkening of the stool. However, this change does not interfere with standard tests for occult blood. Metronizadole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and hexokinase glucose. Values of zero may be observed. All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide (NAD+ <=> NADH). Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7 5.10 Development of Drug Resistant Bacteria Prescribing PYLERA in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=102
+Page 102 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "PINK BISMUTH"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=103
+Page 103 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=104
+Page 104 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Medique Diotame"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=105
+Page 105 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=106
+Page 106 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Good Sense Stomach Relief original strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=107
+Page 107 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Soothe"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=108
+Page 108 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=109
+Page 109 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=110
+Page 110 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "healthy accents stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=111
+Page 111 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol Max Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=112
+Page 112 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength ReadyInCase"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=113
+Page 113 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=114
+Page 114 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Medi-First Pep-T-Med"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=115
+Page 115 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Topcare Stomach Relief Original Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=116
+Page 116 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "good sense stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=117
+Page 117 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=118
+Page 118 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief original strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=119
+Page 119 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=120
+Page 120 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=121
+Page 121 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Kaopectate Regular Strength Cherry Flavor"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=122
+Page 122 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=123
+Page 123 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=124
+Page 124 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Kaopectate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=125
+Page 125 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Health Mart Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=126
+Page 126 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Kaopectate Regular Strength Peppermint Flavor Anti Diarrheal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=127
+Page 127 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Green Relief"
+ 
+      "warnings_and_cautions": [
+        "Allergy alert: Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=128
+Page 128 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Upset Stomach Relief to Go"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=129
+Page 129 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=130
+Page 130 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol InstaCool"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=131
+Page 131 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=132
+Page 132 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismatrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=133
+Page 133 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=134
+Page 134 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Soothe"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=135
+Page 135 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Original Formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=136
+Page 136 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=137
+Page 137 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=138
+Page 138 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=139
+Page 139 of 222
+        "generic_name": [
+          "BISMUTH SUBCITRATE POTASSIUM, METRONIDAZOLE, TETRACYCLINE HYDROCHLORIDE"
+        "brand_name": [
+          "Pylera"
+ 
+      "drug_interactions": [
+        "7 DRUG INTERACTIONS Methoxyflurane: Risk of fatal renal toxicity; do not co-administer. (4.1, 7.1) Disulfiram: Psychotic reactions can occur; do not take concurrently or within the last 2 weeks of disulfiram. (4.2, 7.2) Alcohol: Abdominal cramps, nausea, vomiting, headaches, and flushing can occur; do not consume during therapy and for at least 3 days afterwards. (7.3) Oral Contraceptives: Decreased efficacy possibly resulting in pregnancy; use a different or additional form of contraception. (7.4) Anticoagulants: Potentiation of the anticoagulant effect; Prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored. (7.5) Lithium: Increased lithium serum concentrations; measure serum lithium and serum creatinine concentrations during therapy. (7.6) Antacids, Multivitamins or Dairy Products: Decreased absorption of PYLERA; do not take concomitantly. (7.7) 7.1 Methoxyflurane Do not administer methoxyflurane to patients taking PYLERA. The concurrent use of tetracycline hydrochloride, a component of PYLERA, with methoxyflurane has been reported to result in fatal renal toxicity [See Contraindications (4.1)]. 7.2 Disulfiram Psychotic reactions have been reported in alcoholic patients who are using metronidazole, a component of PYLERA and disulfiram concurrently. PYLERA should not be given to patients who have taken disulfiram within the last two weeks [See Contraindications (4.2)]. 7.3 Alcohol Consumption of alcoholic beverages or administration of other products containing propylene glycol during treatment with PYLERA and for at least 3 days afterwards may cause a disulfiram-like reaction (abdominal cramps, nausea, vomiting, headaches, and flushing) due to the interaction between alcohol or propylene glycol and metronidazole, a component of PYLERA. Discontinue alcoholic beverage or other products containing propylene glycol during and for at least 3 days after therapy with PYLERA [See Contraindications (4.3)]. 7.4 Oral Contraceptives Concurrent use of PYLERA with oral contraceptive may make oral contraceptives less effective due to an interaction with the tetracycline component of PYLERA. Breakthrough bleeding has been reported. Women of child-bearing potential should use a different or additional form of contraception while taking PYLERA. 7.5 Anticoagulants PYLERA may alter the anticoagulant effects of warfarin and other oral coumarin anticoagulants. Metronidazole has been reported to potentiate the anticoagulant effect of warfarin, and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time. Tetracycline has been shown to depress plasma prothrombin activity. Prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if PYLERA is administered concomitantly with warfarin. Patients should also be monitored for evidence of bleeding. 7.6 Lithium In patients stabilized on relatively high doses of lithium, short-term use of PYLERA may cause elevation of serum lithium concentrations and signs of lithium toxicity due to the interaction between metronidazole and lithium. Serum lithium and serum creatinine concentrations should be monitored several days after beginning treatment with PYLERA to detect any increase that may precede clinical symptoms of lithium toxicity. 7.7 Antacids, Multivitamins, or Dairy Products The absorption of PYLERA may be reduced if administered with antacids containing aluminium, calcium, or magnesium; preparations containing iron, zinc, or sodium bicarbonate; or milk or dairy products due to the interaction between these products and tetracycline. These products should not be consumed concomitantly with PYLERA. However, the clinical significance of reduced tetracycline systemic exposure is unknown as the relative contribution of systemic versus local antimicrobial activity against Helicobacter pylori has not been established. 7.8 Penicillin Bacteriostatic drugs, such as the tetracycline class of antibiotics, may interfere with the bactericidal action of penicillin; therefore, penicillin should not be used concomitantly with PYLERA. 7.9 Inhibitors of CYP450 liver enzymes The simultaneous administration of PYLERA and drugs that inhibit microsomal liver enzymes, such as cimetidine, may result in a prolonged half-life and decreased plasma clearance of metronidazole. 7.10 Inducers of CYP450 liver enzymes The simultaneous administration of PYLERA and drugs that induce microsomal liver enzymes, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole, resulting in reduced plasma concentrations of metronidazole. Impaired clearance of phenytoin has also been reported in this situation. Monitor phenytoin concentrations during treatment with PYLERA."
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most frequently reported adverse reactions (>=5%); abnormal feces, diarrhea, nausea, and headache. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact APTALIS Pharma US, Inc. at 1-800-472-2634 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The safety of PYLERA plus omeprazole (OBMT) to eradicate Helicobacter pylori was assessed in an open-label, randomized, active-controlled clinical trial conducted in North America. The duration of treatment was 10 days with 147 patients exposed to PYLERA plus omeprazole (OBMT) and 152 exposed to control, consisting of omeprazole, amoxicillin, and clarithromycin (OAC). The age of the population in the study ranged from 18 to 75 years, with 59% male patients and 59% Caucasian patients. Adverse drug reactions were reported in 58% of patients in the OBMT group and 59% of patients in the OAC group. There were no adverse reactions leading to discontinuation of the study during the clinical trial. Adverse reactions with an incidence of >= 5% in OBMT group include abnormal feces, diarrhea, nausea, and headache. Adverse drug reactions with an incidence of >= 5% in OAC group include diarrhea, dysgeusia, dyspepsia, nausea and headache. Table 2 lists adverse reactions with an incidence of >= 1%, in either groups (OBMT vs OAC) and in order of decreasing incidence for the OBMT group. Table 2: Adverse reactions with an incidence of >= 1% from North American trial, [n (%)] Preferred Term OBMTOBMT = Omeprazole + PYLERA (n = 147) OACOAC = Omeprazole + Amoxicillin + Clarithromycin; (n = 152) Gastrointestinal disorders Abnormal fecesDark stools [See Warnings and Precautions (5.7)]. 23 (15.6%) 7 (4.6%) Nausea 12 (8.2%) 14 (9.2%) Diarrhea 10 (6.8%) 20 (13.2%) Abdominal Pain 7 (4.8%) 2 (1.3%) Dyspepsia 4 (2.7%) 10 (6.6%) Constipation 2 (1.4%) 5 (3.3%) Dry Mouth 2 (1.4%) 1 (0.7%) Flatulence 0 4 (2.6%) Glositis 0 2 (1.3%) General disorders and administration site conditions Asthenia 5 (3.4%) 2 (1.3%) Infections and infestations Vaginal infection 4 (2.7%) 3 (2.0%) Nervous system disorders Headache 8 (5.4%) 8 (5.3%) Dysgeusia 6 (4.1%) 18 (11.8%) Dizziness 4 (2.7%) 4 (2.6%) Investigations Laboratory test abnormal 3 (2.0%) 4 (2.6%) Alanine aminotransferase increased 2 (1.4%) 0 Aspartate aminotransferase increased 2 (1.4%) 0 Renal and urinary disorders Urine abnormality 2 (1.4%) 0 Skin and subcutaneous tissue disorders Rash Maculo-Papular 2 (1.4%) 0 Rash 1 (0.7%) 3 (2.0%) Pruritus 0 4 (2.6%) Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiting, tongue darkening [See Warnings and Precautions (5.7)], anxiety, gastritis, gastroenteritis, myalgia, chest pain, increased appetite, blood creatine phosphokinase increased, malaise, somnolence, tachycardia, duodenal ulcer, visual disturbance, weight increased. 6.2 Postmarketing Experience Additionally, the following adverse reactions, presented by system organ class in alphabetical order, have been identified during post approval use of PYLERA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Gastrointestinal disorders: abdominal distention, eructation, flatulence General disorders and administration site conditions: chest discomfort, fatigue. Infections and infestations: candidiasis. 6.3 Other Important Adverse Reactions from Labeling for the Individual Components of PYLERA Metronidazole Blood and Lymphatic system disorders: reversible neutropenia (leucopenia) in cases of prolonged treatment; rarely reversible thrombocytopenia however no persistent haematological abnormalities attributable to metronidazole have been observed [See Warnings and Precautions (5.4)]. Cardiac disorders: Flattening of the T-wave may be seen in electrocardiographic tracings. Gastrointestinal disorders: Furry tongue, glositis, stomatitis; these may be associated with a sudden overgrowth of candida which may occur during therapy[See Warnings and Precautions (5.1)]. Immune system disorders: Urticaria, erythematous rash, Stevens - Johnson syndrome, toxic epidermal necrolysis, flushing, nasal congestion, and fever [See Contraindications (4.5)]. Metabolism and nutrition disorders: Cases of pancreatitis have been reported, which abated on withdrawal of the drug, have been reported. Nervous system disorders: The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity. In addition, patients have reported syncope, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness and insomnia [See Warnings and Precautions (5.4)]. Tetracycline Hydrochloride Blood and lymphatic system disorders: Hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia, and eosinophilia. Gastrointestinal disorders: Rare instances of esophagitis and esophageal ulceration have been reported in patients taking the tetracycline-class antibiotics in capsule and tablet form. Most of the patients who experienced esophageal irritation took the medication immediately before going to bed. Permanent discoloration of teeth may be caused when tetracycline is used during tooth development. Enamel hypoplasia has also been reported [See Warnings and Precautions (5.1)]. Nervous system disorders: Pseudotumor cerebri (benign intracranial hypertension) in adults and bulging fontanels in infants. Tinnitus and myasthenic syndrome have been reported rarely. Renal and urinary disorders: Rise in BUN has been reported and is possibly dose related [See Contraindications (4.4)]. Skin and subcutaneous tissue disorders: Maculopapular and erythematous rashes have been reported. Steven-Johnson syndrome, toxic epidermal necrolysis, and erythema multiforme have been reported. Exfoliative dermatitis and photosensitivity have been rarely reported [See Warnings and Precautions (5.5)]."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Fetal Toxicity: Advise pregnant women of the risk for permanent discoloration of teeth with tetracycline if used during the second or third trimester (5.1, 8.1) Maternal Toxicity: Risk of hepatotoxicity in pregnant women with high doses of intravenous tetracycline also resulting in stillborn or premature birth (5.2, 8.1) Central and Peripheral Nervous System Effects: encephalopathy and peripheral neuropathy with metronidazole, pseudotumor cerebri with tetracycline and neurotoxicity with bismuth-containing products. Monitor patients with CNS conditions closely and discontinue promptly if abnormal neurologic signs develop. (5.4) Development of Superinfection: If superinfection occurs, discontinue PYLERA and institute appropriate therapy. (5.5) Photosensitivity: avoid exposure to sun and sun lamps. (5.6) 5.1 Fetal Toxicity There are no adequate and well-controlled studies of PYLERA in pregnant women. However, tetracycline can cause fetal harm when administered to a pregnant women. The use of drugs of the tetracycline class during the second and third trimester pregnancy can also cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [See Warnings and Precautions (5.3)]. Administration of oral tetracycline to pregnant rats at various doses resulted in yellow fluorescence in teeth and bones in the newborn animals. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [See Use in Specific Populations (8.1)] 5.2 Maternal Toxicity Tetracycline administered during pregnancy at high doses (> 2 g IV) was associated with rare but serious cases of maternal hepatotoxicity. This syndrome may result in stillborn or premature birth due to maternal pathology [See Use in Specific Populations (8.3)]. 5.3 Tooth Enamel Discoloration and Hypoplasia The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy, and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown). This adverse reaction is more common during long-term use of the drug, but has been observed following repeated short-term courses. Enamel hypoplasia has also been reported. PYLERA, therefore, should not be used in this age group unless other drugs are not likely to be effective or are contraindicated [See Use in Specific Populations (8.4)] . 5.4 Central and Peripheral Nervous System Effects Metronidazole: Cases of encephalopathy and peripheral neuropathy (including optic neuropathy) have been reported with metronidazole: Encephalopathy has been reported in association with cerebellar toxicity characterized by ataxia, dizziness, and dysarthria. CNS lesions seen on MRI have been described in reports of encephalopathy. CNS symptoms are generally reversible within days to weeks upon discontinuation of metronidazole. CNS lesions seen on MRI have also been described as reversible; Peripheral neuropathy, mainly of sensory type has been reported and is characterized by numbness or paresthesia of an extremity. Convulsive seizures have been reported in patients treated with metronidazole. Aseptic meningitis: Cases of aseptic meningitis have been reported with metronidazole. Symptoms can occur within hours of dose administration and generally resolve after metronidazole therapy is discontinued. Tetracycline: Cases of pseudotumor cerebri in adults have been associated with the use of tetracycline. The usual clinical manifestations are headache and blurred vision. While this condition and related symptoms usually resolve soon after discontinuation of the tetracycline, the possibility for permanent sequelae exists. Bismuth-containing products: Cases of neurotoxicity associated with excessive doses of various bismuth-containing products have been reported. Effects have been reversible with discontinuation of bismuth therapy. The appearance of abnormal neurologic signs and symptoms demands the prompt evaluation of the benefit/risk ratio of the continuation of PYLERA therapy [See Adverse Reactions (6.3)]. 5.5 Development of Superinfections Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with metronidazole and requires treatment with an antifungal agent. As with other antibiotics, use of tetracycline hydrochloride may result in overgrowth of nonsusceptible organisms, including fungi. If superinfection occurs, discontinue PYLERA and institute appropriate therapy. 5.6 Photosensitivity Photosensitivity, manifested by an exaggerated sunburn reaction, has been observed in patients taking tetracycline [See Adverse Reactions (6.3)]. Patients apt to be exposed to direct sunlight or ultraviolet light should be advised that this reaction can occur with tetracycline drugs. Instruct patients taking PYLERA to avoid exposure to the sun or sun lamps. Discontinue treatment at the first evidence of skin erythema. 5.7 Darkening of the Tongue and/or Black Stool Bismuth subcitrate potassium may cause temporary and harmless darkening of the tongue and/or black stools, generally reversible within several days after treatment is stopped [See Adverse Reactions (6.1)]. Stool darkening should not be confused with melena. 5.8 Use in Patients with Blood Dyscrasias Metronidazole is a nitroimidazole, and should be used with care in patients with evidence of or history of blood dyscrasia. A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies. Total and differential leukocyte counts are recommended before and after therapy [See Adverse Reactions (6.3)]. 5.9 Laboratory Test Interactions Bismuth absorbs x-rays and may interfere with x-ray diagnostic procedures of the gastrointestinal tract. Bismuth subcitrate potassium may cause a temporary and harmless darkening of the stool. However, this change does not interfere with standard tests for occult blood. Metronizadole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and hexokinase glucose. Values of zero may be observed. All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide (NAD+ <=> NADH). Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7. 5.10 Development of Drug Resistant Bacteria Prescribing PYLERA in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=140
+Page 140 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength ReadyInCase"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=141
+Page 141 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=142
+Page 142 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=143
+Page 143 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=144
+Page 144 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Leader Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=145
+Page 145 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=146
+Page 146 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=147
+Page 147 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Circle K Stomach"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=148
+Page 148 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=149
+Page 149 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Upset Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=150
+Page 150 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief original strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=151
+Page 151 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=152
+Page 152 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=153
+Page 153 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "up and up digestive relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=154
+Page 154 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=155
+Page 155 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=156
+Page 156 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pink Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=157
+Page 157 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=158
+Page 158 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "original formula stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=159
+Page 159 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "ShopRite Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=160
+Page 160 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=161
+Page 161 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=162
+Page 162 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=163
+Page 163 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=164
+Page 164 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Health Mart Stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=165
+Page 165 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "PINK BISMUTH"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=166
+Page 166 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=167
+Page 167 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Cherry"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=168
+Page 168 of 222
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=169
+Page 169 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Leader Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=170
+Page 170 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "BISMOL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=171
+Page 171 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pink-Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=172
+Page 172 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Kao-Bis"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=173
+Page 173 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "healthy accents stomach relief original strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=174
+Page 174 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pink Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=175
+Page 175 of 222
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=176
+Page 176 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "rexall bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=177
+Page 177 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Estomaquil Polvo"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=178
+Page 178 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "sunmark stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=179
+Page 179 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=180
+Page 180 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "leader stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=181
+Page 181 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Original Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=182
+Page 182 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Original Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=183
+Page 183 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "maximum strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=184
+Page 184 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "chewable"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=185
+Page 185 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Sunmark stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=186
+Page 186 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=187
+Page 187 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Kaopectate Regular Strength Vanilla Flavor Anti Diarrheal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=188
+Page 188 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Sun Mark Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=189
+Page 189 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=190
+Page 190 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Being Well stomach relief original strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=191
+Page 191 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=192
+Page 192 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "dg health stomach relief maximum strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=193
+Page 193 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pink Bismuth Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=194
+Page 194 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Bismatrol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=195
+Page 195 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=196
+Page 196 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=197
+Page 197 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=198
+Page 198 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Original Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=199
+Page 199 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "sound body stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=200
+Page 200 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Original Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=201
+Page 201 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol To Go"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=202
+Page 202 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pink Bismuth"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=203
+Page 203 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol and Pepto-Bismol To Go"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=204
+Page 204 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "leader stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=205
+Page 205 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=206
+Page 206 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "sunmark stomach relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=207
+Page 207 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Leader Stomach Relief original strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=208
+Page 208 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Pepto-Bismol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=209
+Page 209 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=210
+Page 210 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Maximum strength Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=211
+Page 211 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Regular Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=212
+Page 212 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=213
+Page 213 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Kaopectate Regular Strength Vanilla Flavor Anti Diarrheal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=214
+Page 214 of 222
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=215
+Page 215 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "stomach relief original strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=216
+Page 216 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "ShopRite Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=217
+Page 217 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "MEDIQUE DIOTAME"
+ 
+      "adverse_reactions": [
+        "Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Contains salicylate. Do not take if you are: ■ allergic to salicylates (including aspirin) ■ taking other salicylate products"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=218
+Page 218 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Ka Pec"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=219
+Page 219 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Peptic Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=220
+Page 220 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "sound body stomach relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Bismuth+AND+Subsalicylate&limit=1&skip=221
+Page 221 of 222
+        "generic_name": [
+          "BISMUTH SUBSALICYLATE"
+        "brand_name": [
+          "Stomach Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

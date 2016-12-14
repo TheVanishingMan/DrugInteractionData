@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Iodipamide+AND+Meglumine+AND+Injection&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "DIATRIZOATE MEGLUMINE AND IODIPAMIDE MEGLUMINE"
+        "brand_name": [
+          "Sinografin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Sudden onset of bradycardia, hypotension, cardiac arrest and death have rarely been reported. Hypersensitivity reactions, which include sweating, flushing, pruritus, urticaria, skin rashes, arthralgia, respiratory distress, and circulatory collapse have occurred. Dizziness, syncope, hypotension, chills, fever, nausea, vomiting, and abdominal pain and tenderness are occasionally seen following instillation of the contrast medium. It should be kept in mind that the serious or anaphylactoid reactions that may occur with intravascular administration of radiopaque contrast agents are theoretically possible following administration by other routes."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

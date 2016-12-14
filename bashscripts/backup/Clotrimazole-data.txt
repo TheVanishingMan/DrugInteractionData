@@ -1,0 +1,1922 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=0
+Page 0 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=1
+Page 1 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions reported for Clotrimazole and Betamethasone Dipropionate Cream in clinical trials were paresthesia in 1.9% of patients, and rash, edema, and secondary infection, each in less than 1% of patients. Adverse reactions reported for Clotrimazole and Betamethasone Dipropionate Lotion in clinical trials were burning and dry skin in 1.6% of patients and stinging in less than 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). In the pediatric population, reported adverse events for Clotrimazole and Betamethasone Dipropionate Cream include growth retardation, benign intracranial hypertension, Cushing's syndrome (HPA axis suppression), and local cutaneous reactions, including skin atrophy. Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=2
+Page 2 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Gyne-Lotrimin 3"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=3
+Page 3 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions reported for Clotrimazole and Betamethasone Dipropionate Cream in clinical trials were paresthesia in 1.9% of patients, and rash, edema, and secondary infection, each in less than 1% of patients. Adverse reactions reported for Clotrimazole and Betamethasone Dipropionate Lotion in clinical trials were burning and dry skin in 1.6% of patients and stinging in less than 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). In the pediatric population, reported adverse events for Clotrimazole and Betamethasone Dipropionate Cream include growth retardation, benign intracranial hypertension, Cushing's syndrome (HPA axis suppression), and local cutaneous reactions, including skin atrophy. Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=4
+Page 4 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Budpak Antifungal Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=5
+Page 5 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Abnormal liver function tests have been reported in patients treated with clotrimazole troches; elevated SGOT levels were reported in about 15% of patients in the clinical trials (See PRECAUTIONS). Nausea, vomiting, unpleasant mouth sensations and pruritus have also been reported with the use of the troche."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=6
+Page 6 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "sunmark Clotrimazole 3"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=7
+Page 7 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=8
+Page 8 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Rexall Jock Itch"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=9
+Page 9 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=10
+Page 10 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole Jock Itch"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=11
+Page 11 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=12
+Page 12 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Lakesia"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=13
+Page 13 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=14
+Page 14 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Rite Aid antifungal ringworm"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=15
+Page 15 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions reported for Clotrimazole and Betamethasone Dipropionate Cream were paraesthesia in 1.9% of patients and rash, edema, and secondary infections each in less than 1% of patients. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Taro at 1-866-923-4914 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trial Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In clinical trials common adverse reaction reported for clotrimazole and betamethasone dipropionate cream was paresthesia in 1.9% of patients. Adverse reactions reported at a frequency < 1% included rash, edema, and secondary infection. 6.2 Postmarketing Experience Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following local adverse reactions have been reported with topical corticosteroids: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). Adverse reactions reported with the use of clotrimazole are: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Clotrimazole and Betamethasone Dipropionate Cream can cause reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during and after withdrawal of the treatment. Risk factor(s) are: use of high-potency topical corticosteroid, use over a large surface area or to areas under occlusion, prolonged use, altered skin barrier, liver failure, and young age. Modify use should HPA axis suppression develop. (5.1, 8.4) Pediatric patients may be more susceptible to systemic toxicity. (5.1, 8.4) The use of Clotrimazole and Betamethasone Dipropionate Cream in the treatment of diaper dermatitis is not recommended. (5.2) 5.1 Effects on Endocrine System Clotrimazole and betamethasone dipropionate cream can cause reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Cushing's syndrome and hyperglycemia may also occur due to the systemic effect of corticosteroids while on treatment. Factors that predispose a patient to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressing, altered skin barrier, liver failure, and young age. Because of the potential for systemic corticosteroid effects, patients may need to be periodically evaluated for HPA axis suppression. This may be done by using the adrenocorticotropic hormone (ACTH) stimulation test. In a small trial, clotrimazole and betamethasone dipropionate cream was applied using large dosages, 7 g daily for 14 days (BID) to the crural area of normal adult subjects. Three of the 8 normal subjects on whom clotrimazole and betamethasone dipropionate cream was applied exhibited low morning plasma cortisol levels during treatment. One of these subjects had an abnormal cosyntropin test. The effect on morning plasma cortisol was transient and subjects recovered 1 week after discontinuing dosing. In addition, 2 separate trials in pediatric subjects demonstrated adrenal suppression as determined by cosyntropin testing [see Use in Specific Populations (8.4) ]. If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. Pediatric patients may be more susceptible to systemic toxicity due to their larger skin-surface-to-body mass ratios [see Use in Specific Populations (8.4) ]. 5.2 Diaper Dermatitis The use of clotrimazole and betamethasone dipropionate cream in the treatment of diaper dermatitis is not recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=16
+Page 16 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE LIQUID"
+        "brand_name": [
+          "Kleer-Plex Fungistat Fungus Cure"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=17
+Page 17 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Fungicure Intensive"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=18
+Page 18 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in connection with the use of this product: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, burning, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=19
+Page 19 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Protective Nail and skin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=20
+Page 20 of 184
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=21
+Page 21 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Major Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=22
+Page 22 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions reported for clotrimazole and betamethasone dipropionate lotion in clinical trials were burning and dry skin in 1.6% of patients and stinging in less than 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=23
+Page 23 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Jock Itch"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=24
+Page 24 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=25
+Page 25 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=26
+Page 26 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=27
+Page 27 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in connection with the use of this product: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, burning, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=28
+Page 28 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "TopCare Clotrimazole 3"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=29
+Page 29 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Jock Itch"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=30
+Page 30 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Good Neighbor Pharmacy Clotrimazole 3"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=31
+Page 31 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Gehwol Fusskraft Nail and Skin Protection"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=32
+Page 32 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "smart sense athletes foot antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=33
+Page 33 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Walgreens Jock Itch"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=34
+Page 34 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=35
+Page 35 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Occulus Skin Hydrating Topical Foam CLO-1"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=36
+Page 36 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=37
+Page 37 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole 7"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=38
+Page 38 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions reported for Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) were paraesthesia in 1.9% of patients and rash, edema, and secondary infections each in less than 1% of patients. ( ) 6.1 To report SUSPECTED ADVERSE REACTIONS, contact Fougera Pharmaceuticals Inc. at 1-800-645-9833 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trial Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In clinical trials common adverse reaction reported for Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) was paresthesia in 1.9% of patients. Adverse reactions reported at a frequency < 1% included rash, edema, and secondary infection. 6.2 Postmarketing Experience Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following local adverse reactions have been reported with topical corticosteroids: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). Adverse reactions reported with the use of clotrimazole are: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) can cause reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during and after withdrawal of the treatment. Risk factor(s) are: use of high-potency topical corticosteroid, use over a large surface area or to areas under occlusion, prolonged use, altered skin barrier, liver failure, and young age. Modify use should HPA axis suppression develop. ( , ) - 5.1 8.4 Pediatric patients may be more susceptible to systemic toxicity. ( , ) - 5.1 8.4 The use of Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) in the treatment of diaper dermatitis is not recommended. ( ) - 5.2 5.1 Effects on Endocrine System Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) can cause reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Cushing's syndrome and hyperglycemia may also occur due to the systemic effect of corticosteroids while on treatment. Factors that predispose a patient to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressing, altered skin barrier, liver failure, and young age. Because of the potential for systemic corticosteroid effects, patients may need to be periodically evaluated for HPA axis suppression. This may be done by using the adrenocorticotropic hormone (ACTH) stimulation test. In a small trial, Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) was applied using large dosages, 7 g daily for 14 days (BID) to the crural area of normal adult subjects. Three of the 8 normal subjects on whom Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) was applied exhibited low morning plasma cortisol levels during treatment. One of these subjects had an abnormal cosyntropin test. The effect on morning plasma cortisol was transient and subjects recovered 1 week after discontinuing dosing. In addition, 2 separate trials in pediatric subjects demonstrated adrenal suppression as determined by cosyntropin testing [see ]. Use in Specific Populations (8.4) If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. Pediatric patients may be more susceptible to systemic toxicity due to their larger skin-surface-to-body mass ratios [see ]. Use in Specific Populations (8.4) 5.2 Diaper Dermatitis The use of Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) in the treatment of diaper dermatitis is not recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=39
+Page 39 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Walgreens Clotrimazole Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=40
+Page 40 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "SoundBody Clotrimazole Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=41
+Page 41 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Aspiera Anti-Fungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=42
+Page 42 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Major Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=43
+Page 43 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=44
+Page 44 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions reported for clotrimazole and betamethasone dipropionate cream in clinical trials were paresthesia in 1.9% of patients, and rash, edema, and secondary infection, each in less than 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), and sensitization (local reactions upon repeated application of product). In the pediatric population, reported adverse events for clotrimazole and betamethasone dipropionate cream include growth retardation, benign intracranial hypertension, Cushing's syndrome (HPA axis suppression), and local cutaneous reactions, including skin atrophy. Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=45
+Page 45 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=46
+Page 46 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in connection with the use of clotrimazole: erythema, stinging, blistering, peeling, edema, pruritius, urticaria, burning, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=47
+Page 47 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "ShopRite antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=48
+Page 48 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Abnormal liver function tests have been reported in patients treated with clotrimazole lozenges; elevated SGOT levels were reported in about 15% of patients in the clinical trials (See Precautions section). Nausea, vomiting, unpleasant mouth sensations and pruritus have also been reported with the use of the lozenge."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=49
+Page 49 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Rexall Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=50
+Page 50 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Lotrisone"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions reported for LOTRISONE cream were paraesthesia in 1.9% of patients and rash, edema, and secondary infections each in less than 1% of patients. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., at 1-877-888-4231 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trial Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In clinical trials common adverse reaction reported for LOTRISONE cream was paresthesia in 1.9% of patients. Adverse reactions reported at a frequency < 1% included rash, edema, and secondary infection. 6.2 Postmarketing Experience Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following local adverse reactions have been reported with topical corticosteroids: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). Adverse reactions reported with the use of clotrimazole are: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS LOTRISONE cream can cause reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during and after withdrawal of the treatment. Risk factor(s) are: use of high-potency topical corticosteroid, use over a large surface area or to areas under occlusion, prolonged use, altered skin barrier, liver failure, and young age. Modify use should HPA axis suppression develop. (5.1, 8.4) Pediatric patients may be more susceptible to systemic toxicity. (5.1, 8.4) The use of LOTRISONE cream in the treatment of diaper dermatitis is not recommended. (5.2) 5.1 Effects on Endocrine System LOTRISONE cream can cause reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Cushing's syndrome and hyperglycemia may also occur due to the systemic effect of corticosteroids while on treatment. Factors that predispose a patient to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressing, altered skin barrier, liver failure, and young age. Because of the potential for systemic corticosteroid effects, patients may need to be periodically evaluated for HPA axis suppression. This may be done by using the adrenocorticotropic hormone (ACTH) stimulation test. In a small trial, LOTRISONE cream was applied using large dosages, 7 g daily for 14 days (BID) to the crural area of normal adult subjects. Three of the 8 normal subjects on whom LOTRISONE cream was applied exhibited low morning plasma cortisol levels during treatment. One of these subjects had an abnormal cosyntropin test. The effect on morning plasma cortisol was transient and subjects recovered 1 week after discontinuing dosing. In addition, 2 separate trials in pediatric subjects demonstrated adrenal suppression as determined by cosyntropin testing [see Use in Specific Populations (8.4)]. If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. Pediatric patients may be more susceptible to systemic toxicity due to their larger skin-surface-to-body mass ratios [see Use in Specific Populations (8.4)]. 5.2 Diaper Dermatitis The use of LOTRISONE cream in the treatment of diaper dermatitis is not recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=51
+Page 51 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Our Family Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=52
+Page 52 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "WinCo Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=53
+Page 53 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Terrasil Rapid-Clear Anti-Fungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=54
+Page 54 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=55
+Page 55 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Meijer Clotrimazole Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=56
+Page 56 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Athlete s Foot Afac"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=57
+Page 57 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Good Sense Athletes Foot antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=58
+Page 58 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Anti-Fungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=59
+Page 59 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Kerasal foot and toe"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=60
+Page 60 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions reported for Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) were paraesthesia in 1.9% of patients and rash, edema, and secondary infections each in less than 1% of patients. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Fougera Pharmaceuticals Inc. at 1-800-645-9833 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trial Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In clinical trials common adverse reaction reported for Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) was paresthesia in 1.9% of patients. Adverse reactions reported at a frequency < 1% included rash, edema, and secondary infection. 6.2 Postmarketing Experience Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following local adverse reactions have been reported with topical corticosteroids: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). Adverse reactions reported with the use of clotrimazole are: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS -Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) can cause reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during and after withdrawal of the treatment. Risk factor(s) are: use of high-potency topical corticosteroid, use over a large surface area or to areas under occlusion, prolonged use, altered skin barrier, liver failure, and young age. Modify use should HPA axis suppression develop. ( 5.1 , 8.4 ) -Pediatric patients may be more susceptible to systemic toxicity. ( 5.1 , 8.4 ) -The use of Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) in the treatment of diaper dermatitis is not recommended. ( 5.2 ) 5.1 Effects on Endocrine System Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) can cause reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Cushing's syndrome and hyperglycemia may also occur due to the systemic effect of corticosteroids while on treatment. Factors that predispose a patient to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressing, altered skin barrier, liver failure, and young age. Because of the potential for systemic corticosteroid effects, patients may need to be periodically evaluated for HPA axis suppression. This may be done by using the adrenocorticotropic hormone (ACTH) stimulation test. In a small trial, Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) was applied using large dosages, 7 g daily for 14 days (BID) to the crural area of normal adult subjects. Three of the 8 normal subjects on whom Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) was applied exhibited low morning plasma cortisol levels during treatment. One of these subjects had an abnormal cosyntropin test. The effect on morning plasma cortisol was transient and subjects recovered 1 week after discontinuing dosing. In addition, 2 separate trials in pediatric subjects demonstrated adrenal suppression as determined by cosyntropin testing [see Use in Specific Populations (8.4) ]. If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. Pediatric patients may be more susceptible to systemic toxicity due to their larger skin-surface-to-body mass ratios [see Use in Specific Populations (8.4) ]. 5.2 Diaper Dermatitis The use of Clotrimazole and Betamethasone Dipropionate Cream USP, 1%/0.05% (base) in the treatment of diaper dermatitis is not recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=61
+Page 61 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=62
+Page 62 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Terrasil Foot and Nail Anti-Fungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=63
+Page 63 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "CVS Pharmacy Clotrimazole 3"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=64
+Page 64 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Pedesil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=65
+Page 65 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Family Wellness Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=66
+Page 66 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Dermatin Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=67
+Page 67 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Antifungal Cream"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=68
+Page 68 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Leader Clotrimazole Anti-Fungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=69
+Page 69 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=70
+Page 70 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "CVS Antifungal Ringworm"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=71
+Page 71 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE 1.0%"
+        "brand_name": [
+          "TERRASIL ANTI-FUNGAL TREATMENT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=72
+Page 72 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=73
+Page 73 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "JiDeSheng"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=74
+Page 74 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "TopCare Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=75
+Page 75 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "CVS Pharmacy ITCH RELIEF ANTIFUNGAL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=76
+Page 76 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "CAREONE Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=77
+Page 77 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=78
+Page 78 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "footlogix intensive care diabetic formula"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=79
+Page 79 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Gerlasan Hand"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=80
+Page 80 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Gehwol med Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=81
+Page 81 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=82
+Page 82 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in connection with the use of this product: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, burning, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=83
+Page 83 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Gyne-Lotrimin 7"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=84
+Page 84 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Major Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=85
+Page 85 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Live Better Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=86
+Page 86 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=87
+Page 87 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "EQUALINE CLOTRIMAZOLE ANTIFUNGAL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=88
+Page 88 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "JiDeSheng"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=89
+Page 89 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Walgreens Clotrimazole 3"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=90
+Page 90 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "CLOTRIMAZOLE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=91
+Page 91 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole 1% Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=92
+Page 92 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "MakeSense"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=93
+Page 93 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions reported for clotrimazole and betamethasone dipropionate cream in clinical trials were paresthesia in 1.9% of patients, and rash, edema, and secondary infection, each in less than 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), and sensitization (local reactions upon repeated application of product). In the pediatric population, reported adverse events for clotrimazole and betamethasone dipropionate cream include growth retardation, benign intracranial hypertension, Cushing's syndrome (HPA axis suppression), and local cutaneous reactions, including skin atrophy. Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=94
+Page 94 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions reported for clotrimazole and betamethasone dipropionate cream were paraesthesia in 1.9% of patients and rash, edema, and secondary infections each in less than 1% of patients. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Glenmark Pharmaceuticals Inc., USA at 1-888-721-7115 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trial Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In clinical trials common adverse reaction reported for clotrimazole and betamethasone dipropionate cream was paresthesia in 1.9% of patients. Adverse reactions reported at a frequency < 1% included rash, edema, and secondary infection. 6.2 Postmarketing Experience Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following local adverse reactions have been reported with topical corticosteroids: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). Adverse reactions reported with the use of clotrimazole are: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS - Clotrimazole and betamethasone dipropionate cream can cause reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during and after withdrawal of the treatment. Risk factor(s) are: use of high-potency topical corticosteroid, use over a large surface area or to areas under occlusion, prolonged use, altered skin barrier, liver failure, and young age. Modify use should HPA axis suppression develop. (5.1, 8.4) - Pediatric patients may be more susceptible to systemic toxicity. (5.1, 8.4) - The use of clotrimazole and betamethasone dipropionate cream in the treatment of diaper dermatitis is not recommended. (5.2) 5.1 Effects on Endocrine System Clotrimazole and betamethasone dipropionate cream can cause reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Cushing's syndrome and hyperglycemia may also occur due to the systemic effect of corticosteroids while on treatment. Factors that predispose a patient to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressing, altered skin barrier, liver failure, and young age. Because of the potential for systemic corticosteroid effects, patients may need to be periodically evaluated for HPA axis suppression. This may be done by using the adrenocorticotropic hormone (ACTH) stimulation test. In a small trial, clotrimazole and betamethasone dipropionate cream was applied using large dosages, 7 g daily for 14 days (BID) to the crural area of normal adult subjects. Three of the 8 normal subjects on whom clotrimazole and betamethasone dipropionate cream was applied exhibited low morning plasma cortisol levels during treatment. One of these subjects had an abnormal cosyntropin test. The effect on morning plasma cortisol was transient and subjects recovered 1 week after discontinuing dosing. In addition, 2 separate trials in pediatric subjects demonstrated adrenal suppression as determined by cosyntropin testing [see Use in Specific Populations (8.4)]. If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. Pediatric patients may be more susceptible to systemic toxicity due to their larger skin-surface-to-body mass ratios [see Use in Specific Populations (8.4)]. 5.2 Diaper Dermatitis The use of clotrimazole and betamethasone dipropionate cream in the treatment of diaper dermatitis is not recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=95
+Page 95 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=96
+Page 96 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "HEB Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=97
+Page 97 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=98
+Page 98 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Fungicure Pumpspray"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=99
+Page 99 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "CLOTRIMAZOLE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=100
+Page 100 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "WALGREENS CLOTRIMAZOLE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=101
+Page 101 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "ATOPALM CLOTRIMAZOLE ANTIFUNGAL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=102
+Page 102 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Western Family Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=103
+Page 103 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Best Choice Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=104
+Page 104 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Fungicure Manicure Pedicure"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=105
+Page 105 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Kroger ATHLETES FOOT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=106
+Page 106 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Abnormal liver function tests have been reported in patients treated with clotrimazole troches; elevated SGOT levels were reported in about 15% of patients in the clinical trials (See PRECAUTIONS). Nausea, vomiting, unpleasant mouth sensations and pruritus have also been reported with the use of the troche."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=107
+Page 107 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE 1%"
+        "brand_name": [
+          "Fortinia"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=108
+Page 108 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Abnormal liver function tests have been reported in patients treated with clotrimazole troches; elevated SGOT levels were reported in about 15% of patients in the clinical trials (See PRECAUTIONS). Nausea, vomiting, unpleasant mouth sensations and pruritus have also been reported with the use of the troche."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=109
+Page 109 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=110
+Page 110 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=111
+Page 111 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Publix athletic foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=112
+Page 112 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions reported for clotrimazole and betamethasone dipropionate cream in clinical trials were paresthesia in 1.9% of patients, and rash, edema, and secondary infection, each in less than 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), and sensitization (local reactions upon repeated application of product). In the pediatric population, reported adverse events for clotrimazole and betamethasone dipropionate cream include growth retardation, benign intracranial hypertension, Cushing's syndrome (HPA axis suppression), and local cutaneous reactions, including skin atrophy. Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=113
+Page 113 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Occulus SKIN HYDRATING TOPICAL FOAM CLO-1 ANTIFUNGAL FOAM"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=114
+Page 114 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=115
+Page 115 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "meijer Clotrimazole 3"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=116
+Page 116 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Good Neighbor Pharmacy Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=117
+Page 117 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "First Aid Research Antifungal .5oz"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=118
+Page 118 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=119
+Page 119 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Signature Care Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=120
+Page 120 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Shopko Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=121
+Page 121 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "APTRIMAZOLE 1.0% ANTIFUNGAL CREAM"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=122
+Page 122 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Lotrimin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=123
+Page 123 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions reported for Clotrimazole and Betamethasone Dipropionate Cream in clinical trials were paresthesia in 1.9% of patients, and rash, edema, and secondary infection, each in less than 1% of patients. Adverse reactions reported for Clotrimazole and Betamethasone Dipropionate Lotion in clinical trials were burning and dry skin in 1.6% of patients and stinging in less than 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria, capillary fragility (ecchymoses), and sensitization (local reactions upon repeated application of product). In the pediatric population, reported adverse events for Clotrimazole and Betamethasone Dipropionate Cream include growth retardation, benign intracranial hypertension, Cushing's syndrome (HPA axis suppression), and local cutaneous reactions, including skin atrophy. Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=124
+Page 124 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Dr Sheffield Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=125
+Page 125 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=126
+Page 126 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE 1%"
+        "brand_name": [
+          "FungaZoil Advanced"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=127
+Page 127 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=128
+Page 128 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "PRO-EX Anti Fungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=129
+Page 129 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Terrasil Jock-Itch Treatment MAX"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=130
+Page 130 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Quality Choice Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=131
+Page 131 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "CVSHealth Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=132
+Page 132 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Lucky SuperSoft Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=133
+Page 133 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=134
+Page 134 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=135
+Page 135 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "UpandUp Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=136
+Page 136 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Kroger Jock Itch"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=137
+Page 137 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=138
+Page 138 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "First Aid Research Antifungal Cream 1oz"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=139
+Page 139 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "HUA TUO XIAN GAO"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=140
+Page 140 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Terrasil Tinea Treatment MAX"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=141
+Page 141 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "footlogix"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=142
+Page 142 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=143
+Page 143 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=144
+Page 144 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Foot Care Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=145
+Page 145 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=146
+Page 146 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Lotrimin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=147
+Page 147 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Terrasil Anti-Fungal Treatment MAX"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=148
+Page 148 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=149
+Page 149 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "TheraPlus Plus"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=150
+Page 150 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "FAMILY WELLNESS ANTIFUNGAL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=151
+Page 151 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Fungicure Liquid Gel"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=152
+Page 152 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=153
+Page 153 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Signature Care Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=154
+Page 154 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Sunmark Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=155
+Page 155 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Pedesil Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=156
+Page 156 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions reported for clotrimazole and betamethasone dipropionate cream in clinical trials were paresthesia in 1.9% of patients, and rash, edema, and secondary infection, each in less than 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), and sensitization (local reactions upon repeated application of product). In the pediatric population, reported adverse events for clotrimazole and betamethasone dipropionate cream include growth retardation, benign intracranial hypertension, Cushing's syndrome (HPA axis suppression), and local cutaneous reactions, including skin atrophy. Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=157
+Page 157 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions reported for clotrimazole and betamethasone dipropionate lotion in clinical trials were burning and dry skin in 1.6% of patients and stinging in less than 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=158
+Page 158 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Terrasil Foot and Nail Anti-Fungal Maximum Strength"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=159
+Page 159 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Athletes Foot Antifungal Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=160
+Page 160 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Protective and Moisturizing Skin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=161
+Page 161 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in connection with the use of clotrimazole: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, burning, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=162
+Page 162 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=163
+Page 163 of 184
+        "generic_name": [
+          "BETAMETHASONE CLOTRIMAZOLE"
+        "brand_name": [
+          "BETAMETHASONE CLOTRIMAZOLE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONSAdverse reactions reported for clotrimazole and betamethasone dipropionate cream in clinical trials were paresthesia in 1.9% of patients, and rash, edema, and secondary infection, each in 1% of patients. The following local adverse reactions have been reported with topical corticosteroids and may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria. In the pediatric population, reported adverse events for clotrimazole and betamethasone dipropionate cream include growth retardation, benign intracranial hypertension, Cushing's syndrome (HPA-axis suppression), and local cutaneous reactions, including skin atrophy. Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, and glucosuria in some patients. Adverse reactions reported with the use of clotrimazole are as follows: erythema, stinging, blistering, peeling, edema, pruritus, urticaria and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=164
+Page 164 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Abnormal liver function tests have been reported in patients treated with clotrimazole lozenges; elevated SGOT levels were reported in about 15% of patients in the clinical trials (See Precautions section). Nausea, vomiting, unpleasant mouth sensations and pruritus have also been reported with the use of the lozenge."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=165
+Page 165 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Family Wellness Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=166
+Page 166 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "CAREALL Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=167
+Page 167 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in connection with the use of this product: erythema, stinging, blistering, peeling, edema, pruritis, urticaria, burning, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=168
+Page 168 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Alevazol"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=169
+Page 169 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=170
+Page 170 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Femmesil"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=171
+Page 171 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "CLOTRIMAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in connection with the use of this product: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, burning, and general irritation of the skin."
+      "warnings_and_cautions": [
+        "WARNINGS AMD PRECAUTIONS WARNINGS Clotrimazole Cream is not for ophthalmic use. PRECAUTIONS General If irritation or sensitivity develops with the use of Clotrimazole Cream, treatment should be discontinued and appropriate therapy instituted. Information for Patients The patient should be advised to: Use the medication for the full treatment time even though the symptoms may have improved. Notify the physician if there is no improvement after four weeks of treatment. Inform the physician if the area of application shows signs of increased irritation (redness, itching, burning, blistering, swelling, oozing) indicative of possible sensitization. Avoid the use of occlusive wrappings or dressings. Avoid sources of infection or reinfection. Laboratory Tests If there is lack of response to Clotrimazole Cream, appropriate microbiological studies should be repeated to confirm the diagnosis and rule out other pathogens before instituting another course of antimycotic therapy. Drug Interactions Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported. Carcinogenesis, Mutagenesis, Impairment of Fertility An 18-month oral dosing study with clotrimazole in rats has not revealed any carcinogenic effect. In tests for mutagenesis, chromosomes of the spermatophores of Chinese hamsters which had been exposed to clotrimazole were examined for structural changes during the metaphase. Prior to testing, the hamsters had received five oral clotrimazole doses of 100 mg/kg body weight. The results of this study showed that clotrimazole had no mutagenic effect. Usage in Pregnancy Pregnancy Category BThe disposition of 14C-clotrimazole has been studied in humans and animals. Clotrimazole is very poorly absorbed following dermal application or intravaginal administration to humans. (See CLINICAL PHARMACOLOGY) In clinical trials, use of vaginally applied clotrimazole in pregnant women in their second and third trimesters has not been associated with ill effects. There are, however, no adequate and well-controlled studies in pregnant women during the first trimester of pregnancy. Studies in pregnant rats with intravaginal doses up to 100 mg/kg have revealed no evidence of harm to the fetus due to clotrimazole. High oral doses of clotrimazole in rats and mice ranging from 50 to 120 mg/kg resulted in embryotoxicity (possibly secondary to maternal toxicity), impairment of mating, decreased litter size and number of viable young and decreased pup survival to weaning. However, clotrimazole was not teratogenic in mice, rabbits and rats at oral doses up to 200, 180 and 100 mg/kg, respectively. Oral absorption in the rat amounts to approximately 90% of the administered dose. Because animal reproduction studies are not always predictive of human response, this drug should be used only if clearly indicated during the first trimester of pregnancy. Nursing Mothers It is not known whether this drug is excreted in human milk, caution should be exercised when clotrimazole is used by a nursing woman. Pediatric Use Safety and effectiveness in children have been established for clotrimazole when used as indicated and in the recommended dosage."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=172
+Page 172 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE AND BETAMETHASONE DIPROPIONATE"
+        "brand_name": [
+          "Clotrimazole and Betamethasone Dipropionate"
+ 
+      "adverse_reactions": [
+        "6 ADVERSE REACTIONS Most common adverse reactions reported for clotrimazole and betamethasone dipropionate cream were paraesthesia in 1.9% of patients and rash, edema, and secondary infections each in less than 1% of patients. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., at 1-877-888-4231 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trial Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. In clinical trials common adverse reaction reported for clotrimazole and betamethasone dipropionate cream was paresthesia in 1.9% of patients. Adverse reactions reported at a frequency < 1% included rash, edema, and secondary infection. 6.2 Postmarketing Experience Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. The following local adverse reactions have been reported with topical corticosteroids: itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, skin atrophy, striae, miliaria, capillary fragility (ecchymoses), telangiectasia, and sensitization (local reactions upon repeated application of product). Adverse reactions reported with the use of clotrimazole are: erythema, stinging, blistering, peeling, edema, pruritus, urticaria, and general irritation of the skin."
+      "warnings_and_cautions": [
+        "5 WARNINGS AND PRECAUTIONS Clotrimazole and Betamethasone Dipropionate cream can cause reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency during and after withdrawal of the treatment. Risk factor(s) are: use of high-potency topical corticosteroid, use over a large surface area or to areas under occlusion, prolonged use, altered skin barrier, liver failure, and young age. Modify use should HPA axis suppression develop. (5.1, 8.4) Pediatric patients may be more susceptible to systemic toxicity. (5.1, 8.4) The use of clotrimazole and betamethasone dipropionate cream in the treatment of diaper dermatitis is not recommended. (5.2) 5.1 Effects on Endocrine System Clotrimazole and Betamethasone Dipropionate cream can cause reversible hypothalamic-pituitary-adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency. This may occur during treatment or after withdrawal of treatment. Cushing's syndrome and hyperglycemia may also occur due to the systemic effect of corticosteroids while on treatment. Factors that predispose a patient to HPA axis suppression include the use of high-potency steroids, large treatment surface areas, prolonged use, use of occlusive dressing, altered skin barrier, liver failure, and young age. Because of the potential for systemic corticosteroid effects, patients may need to be periodically evaluated for HPA axis suppression. This may be done by using the adrenocorticotropic hormone (ACTH) stimulation test. In a small trial, clotrimazole and betamethasone dipropionate cream was applied using large dosages, 7 g daily for 14 days (BID) to the crural area of normal adult subjects. Three of the 8 normal subjects on whom clotrimazole and betamethasone dipropionate cream was applied exhibited low morning plasma cortisol levels during treatment. One of these subjects had an abnormal cosyntropin test. The effect on morning plasma cortisol was transient and subjects recovered 1 week after discontinuing dosing. In addition, 2 separate trials in pediatric subjects demonstrated adrenal suppression as determined by cosyntropin testing [see Use in Specific Populations (8.4)]. If HPA axis suppression is documented, gradually withdraw the drug, reduce the frequency of application, or substitute with a less potent corticosteroid. Pediatric patients may be more susceptible to systemic toxicity due to their larger skin-surface-to-body mass ratios [see Use in Specific Populations (8.4)]. 5.2 Diaper Dermatitis The use of clotrimazole and betamethasone dipropionate cream in the treatment of diaper dermatitis is not recommended."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=173
+Page 173 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Up and Up Jock Itch Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=174
+Page 174 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported in connection with the use of this product: erythema, stinging, blistering, peeling, edema, pruritis, urticaria, burning, and general irritation of the skin."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=175
+Page 175 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Jock Itch Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=176
+Page 176 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=177
+Page 177 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Lotrimin Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=178
+Page 178 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Terrasil Ringworm Treatment MAX"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=179
+Page 179 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Major Clotrimazole"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=180
+Page 180 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "FAMILY CARE CLOTRIMAZOLE ANTIFUNGAL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=181
+Page 181 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "ClotrimazOil Antifungal"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=182
+Page 182 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "meijer Athletes Foot"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Clotrimazole&limit=1&skip=183
+Page 183 of 184
+        "generic_name": [
+          "CLOTRIMAZOLE"
+        "brand_name": [
+          "Gehwol Nail Protection Pen"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

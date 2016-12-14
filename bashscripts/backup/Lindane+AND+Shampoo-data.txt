@@ -1,0 +1,56 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lindane+AND+Shampoo&limit=1&skip=0
+Page 0 of 4
+        "generic_name": [
+          "LINDANE"
+        "brand_name": [
+          "Lindane"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oils may enhance absorption of lindane, therefore, patients and caregivers applying the shampoo to others should avoid using oil treatments, or oil-based hair dressings or conditioners immediately before and after applying Lindane Shampoo. In addition, there are many drugs that may lower the seizure threshold, and Lindane Shampoo should be prescribed with caution in patients taking these medications. Drugs that may lower the seizure threshold include, but are not limited to the following: Antipsychotics Antidepressants Theophylline Cyclosporine, mycophenolate mofetil, tacrolimus capsules Penicillins, imipenem, quinolone antibiotics Chloroquine sulfate, pyrimethamine Isoniazid Meperidine Radiographic contrast agents Centrally active anticholinesterases Methocarbamol"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Central nervous system stimulation ranging from dizziness to seizures, has been reported particularly with use of Lindane Lotion. Although seizures were almost always associated with ingestion or misuse of the product (to include repeat treatment), seizures and deaths have been reported when Lindane Shampoo was used according to directions. Irritant dermatitis from contact with this product has also been reported. (See WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION.) Postmarketing Experience The following adverse reactions reflect the additional postmarketing experience of Lindane Shampoo. These events include alopecia, dermatitis, headache, pain, paresthesia, pruritus and urticaria. The relationship of some of these events to lindane therapy is unknown."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lindane+AND+Shampoo&limit=1&skip=1
+Page 1 of 4
+        "generic_name": [
+          "LINDANE"
+        "brand_name": [
+          "Lindane"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oils may enhance absorption of Lindane, therefore, patients or caregivers applying Lindane Lotion should be warned about simultaneous use of creams, ointments, or oils. In addition, there are many drugs that may lower the seizure threshold, and Lindane Lotion should be prescribed with caution in patients taking these medications. Drugs that may lower the seizure threshold include, but are not limited to the following: Antipsychotics Antidepressants Theophylline Cyclosporine, mycophenolate mofetil, tacrolimus capsules Penicillins, imipenem, quinolone antibiotics Chloroquine sulfate, pyrimethamine Isoniazid Meperidine Radiographic contrast agents Centrally active anticholinesterases Methocarbamol"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Lindane Lotion has been reported to cause central nervous system stimulation ranging from dizziness to seizures. Although seizures were almost always associated with ingestion or misuse of the product (to include repeat treatment), seizures and deaths have been reported when Lindane Lotion was used according to directions. Irritant dermatitis from contact with this product has also been reported. (See WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION.) Postmarketing Experience The following adverse reactions reflect additional postmarketing experience of Lindane Lotion. These events include alopecia, dermatitis, headache, pain, paresthesia, pruritus and urticaria. The relationship of some of these events to Lindane therapy is unknown."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lindane+AND+Shampoo&limit=1&skip=2
+Page 2 of 4
+        "generic_name": [
+          "LINDANE"
+        "brand_name": [
+          "Lindane"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oils may enhance absorption of Lindane, therefore, patients or caregivers applying Lindane Lotion should be warned about simultaneous use of creams, ointments, or oils. In addition, there are many drugs that may lower the seizure threshold, and Lindane Lotion should be prescribed with caution in patients taking these medications. Drugs that may lower the seizure threshold include, but are not limited to the following: Antipsychotics Antidepressants Theophylline Cyclosporine, mycophenolate mofetil, tacrolimus capsules Penicillins, imipenem, quinolone antibiotics Chloroquine sulfate, pyrimethamine Isoniazid Meperidine Radiographic contrast agents Centrally active anticholinesterases Methocarbamol"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Lindane Lotion has been reported to cause central nervous system stimulation ranging from dizziness to seizures. Although seizures were almost always associated with ingestion or misuse of the product (to include repeat treatment), seizures and deaths have been reported when Lindane Lotion was used according to directions. Irritant dermatitis from contact with this product has also been reported. (See WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION.) Postmarketing Experience The following adverse reactions reflect additional postmarketing experience of Lindane Lotion. These events include alopecia, dermatitis, headache, pain, paresthesia, pruritus and urticaria. The relationship of some of these events to Lindane therapy is unknown."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Lindane+AND+Shampoo&limit=1&skip=3
+Page 3 of 4
+        "generic_name": [
+          "LINDANE"
+        "brand_name": [
+          "Lindane"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oils may enhance absorption of lindane, therefore, patients and caregivers applying the shampoo to others should avoid using oil treatments, or oil-based hair dressings or conditioners immediately before and after applying Lindane Shampoo. In addition, there are many drugs that may lower the seizure threshold, and Lindane Shampoo should be prescribed with caution in patients taking these medications. Drugs that may lower the seizure threshold include, but are not limited to the following: Antipsychotics Antidepressants Theophylline Cyclosporine, mycophenolate mofetil, tacrolimus capsules Penicillins, imipenem, quinolone antibiotics Chloroquine sulfate, pyrimethamine Isoniazid Meperidine Radiographic contrast agents Centrally active anticholinesterases Methocarbamol"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Central nervous system stimulation ranging from dizziness to seizures, has been reported particularly with use of Lindane Lotion. Although seizures were almost always associated with ingestion or misuse of the product (to include repeat treatment), seizures and deaths have been reported when Lindane Shampoo was used according to directions. Irritant dermatitis from contact with this product has also been reported. (See WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION.) Postmarketing Experience The following adverse reactions reflect the additional postmarketing experience of Lindane Shampoo. These events include alopecia, dermatitis, headache, pain, paresthesia, pruritus and urticaria. The relationship of some of these events to lindane therapy is unknown."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Pellets&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "TESTOSTERONE"
+        "brand_name": [
+          "Testopel"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Endocrine and Urogenital, Male. Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages (see CLINICAL PHARMACOLOGY). Skin and Appendages. Hirsutism, male pattern of baldness, and acne. Cardiovascular Disorders. Myocardial infarction, stroke. Fluid and Electrolyte Disturbances. Retention of sodium, chloride, water, potassium, calcium and inorganic phosphates. Gastrointestinal. Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatitis (see WARNINGS). Hematologic. Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous System. Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Metabolic. Increased serum cholesterol. Miscellaneous. Inflammation and pain at the site of subcutaneous implantation of testosterone containing pellets, and rarely anaphylactoid reactions. POST MARKETING EXPERIENCE Vascular Disorders: Venous thromboembolism (see WARNINGS)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Pellets&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "TESTOSTERONE"
+        "brand_name": [
+          "Testopel"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Endocrine and Urogenital Male. Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages (see CLINICAL PHARMACOLOGY). Skin and Appendages. Hirsutism, male pattern of baldness, and acne. Fluid and Electrolyte Disturbances. Retention of sodium, chloride, water, potassium, calcium and inorganic phosphates. Gastrointestinal. Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatitis (see WARNINGS). Hematologic. Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous System. Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Metabolic. Increased serum cholesterol. Miscellaneous. Inflammation and pain at the site of subcutaneous implantation of testosterone containing pellets, and rarely anaphylactoid reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

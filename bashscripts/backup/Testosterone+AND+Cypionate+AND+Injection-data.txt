@@ -1,0 +1,340 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=0
+Page 0 of 25
+        "generic_name": [
+          "TESTOSTERONE"
+        "brand_name": [
+          "Testim"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONSIn a controlled clinical study, 304 patients were treated with Testim(R) 50 mg or 100 mg or placebo gel for up to 90 days. Two hundred-five (205) patients received Testim(R) 50 mg or 100 mg daily and 99 patients received placebo. Patients with adverse events that were possibly or probably related to study drug and reported by >=1% of the Testim(R) patients and greater than placebo are listed in Table 3. Table 3: Incidence of Adverse Events Judged Possibly, Probably or Definitely Related to Use of Testim(R) in the Controlled Clinical Trial Event Testim(R)50 mg Testim(R)100 mg Placebo Application Site Reactions 2% 4% 3% Benign Prostatic Hyperplasia 0% 1% 1% Blood Pressure Diastolic Decreased 1% 0% 0% Blood Pressure Increased 1% 1% 0% Gynecomastia 1% 0% 0% Headache 1% 1% 0% Hematocrit/hemoglobin Increased 1% 2% 0% Hot Flushes 1% 0% 0% Insomnia 1% 0% 0% Lacrimation Increased 1% 0% 0% Mood Swings 1% 0% 0% Smell Disorder 1% 0% 0% Spontaneous Penile Erection 1% 0% 0% Taste Disorder 1% 1% 0% The following adverse events possibly or probably related to Testim(R) occurred in fewer than 1% of patients but were greater in Testim(R) groups compared to the placebo group: activated partial thromboplastin time prolonged, blood creatinine increased, prothrombin time prolonged, appetite increased, sensitive nipples, and acne. In this clinical trial of Testim(R), six patients had adverse events that led to their discontinuation. These events included: vertigo, coronary artery disease, depression with suicidal ideation, urinary tract infection/pneumonia (none of which were considered related to Testim(R) administration), mood swings and hypertension. No Testim(R) patients discontinued due to skin reaction. In one foreign Phase 3 trial, one subject discontinued due to a skin-related adverse event. In the pivotal U.S. and European Phase 3 trials combined, at the 50 mg dosage strength, the percentage of subjects reporting clinically notable increases in hematocrit or hemoglobin were similar to placebo. However, in the 100 mg dose group, 2.3% and 2.8% of patients had a clinically notable increase in hemoglobin (>= 19 gm/dL) or hematocrit (>= 58%), respectively. In the combined ongoing U.S. and European open label extension studies, approximately 140 patients received Testim(R) for at least 6 months. The preliminary results from these studies are consistent with those reported for the U.S. controlled clinical trial. DRUG ABUSE AND DEPENDENCETestim(R) contains testosterone, a Schedule III controlled substance as defined by the Anabolic Steroids Control Act. Oral ingestion of Testim(R) will not result in clinically significant serum testosterone concentrations due to extensive first-pass metabolism."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=1
+Page 1 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "drug_interactions": [
+        "Drug interactions: Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Miscellaneous: Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=2
+Page 2 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Cardiovascular Disorders - myocardial infarction, stroke Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS ). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders: venous thromboembolism Miscellaneous: Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=3
+Page 3 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "drug_interactions": [
+        "Drug interactions: Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Cardiovascular Disorders: myocardial infarction, stroke. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection. To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=4
+Page 4 of 25
+        "generic_name": [
+          "TESTOSTERONE"
+        "brand_name": [
+          "Testim"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oxyphenbutazone: Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. Insulin: In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements. Propranolol: In a published pharmacokinetic study of an injectable testosterone product, administration of testosterone cypionate led to an increased clearance of propranolol in the majority of men tested. It is unknown if this would apply to Testim(R). Corticosteroids: The concurrent administration of testosterone with ACTH or corticosteroids may enhance edema formation; thus these drugs should be administered cautiously, particularly in patients with cardiac or hepatic disease."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled clinical study, 304 patients were treated with Testim(R) 50 mg or 100 mg or placebo gel for up to 90 days. Two hundred-five (205) patients received Testim(R) 50 mg or 100 mg daily and 99 patients received placebo. Patients with adverse events that were possibly or probably related to study drug and reported by >=1% of the Testim(R) patients and greater than placebo are listed in Table 3. Table 3: Incidence of Adverse Events Judged Possibly, Probably or Definitely Related to Use of Testim(R) in the Controlled Clinical Trial Event Testim(R) 50 mg Testim(R) 100 mg Placebo Application Site Reactions 2% 4% 3% Benign Prostatic Hyperplasia 0% 1% 1% Blood Pressure Diastolic Decreased 1% 0% 0% Blood Pressure Increased 1% 1% 0% Gynecomastia 1% 0% 0% Headache 1% 1% 0% Hematocrit/hemoglobin Increased 1% 2% 0% Hot Flushes 1% 0% 0% Insomnia 1% 0% 0% Lacrimation Increased 1% 0% 0% Mood Swings 1% 0% 0% Smell Disorder 1% 0% 0% Spontaneous Penile Erection 1% 0% 0% Taste Disorder 1% 1% 0% The following adverse events possibly or probably related to Testim(R) occurred in fewer than 1% of patients but were greater in Testim(R) groups compared to the placebo group: activated partial thromboplastin time prolonged, blood creatinine increased, prothrombin time prolonged, appetite increased, sensitive nipples, and acne. In this clinical trial of Testim(R), six patients had adverse events that led to their discontinuation. These events included: vertigo, coronary artery disease, depression with suicidal ideation, urinary tract infection/pneumonia (none of which were considered related to Testim(R) administration), mood swings and hypertension. No Testim(R) patients discontinued due to skin reaction. In one foreign Phase 3 trial, one subject discontinued due to a skin-related adverse event. In the pivotal U.S. and European Phase 3 trials combined, at the 50 mg dosage strength, the percentage of subjects reporting clinically notable increases in hematocrit or hemoglobin were similar to placebo. However, in the 100 mg dose group, 2.3% and 2.8% of patients had a clinically notable increase in hemoglobin (>= 19 gm/dL) or hematocrit (>= 58%), respectively. In the combined ongoing U.S. and European open label extension studies, approximately 140 patients received Testim(R) for at least 6 months. The preliminary results from these studies are consistent with those reported for the U.S. controlled clinical trial. Postmarketing Experience The following adverse reactions have been identified during post-approval use of testosterone gel products. Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Secondary Exposure to Testosterone in Children Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarketing surveillance of testosterone gel products. Signs and symptoms of these reported cases have included enlargement of the clitoris (with surgical intervention) or of the penis, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age. In most cases with a reported outcome, these signs and symptoms were reported to have regressed with removal of the testosterone gel exposure. In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age. In some of the cases, direct contact with the sites of application on the skin of men using testosterone gel was reported. In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user's shirts and/or other fabrics, such as towels and sheets (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=5
+Page 5 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and Urogenital Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and Appendages Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and Electrolyte Disturbances Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (See WARNINGS ). Hematologic Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous System Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic Hypersensitivity, including skin manifestations and anaphylactoid reactions. Miscellaneous Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=6
+Page 6 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "drug_interactions": [
+        "Drug interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Cardiovascular Disorders: Myocardial infarction, stroke Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS ). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection. To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=7
+Page 7 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Depo-Testosterone"
+ 
+      "drug_interactions": [
+        "Drug interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Cardiovascular disorders: Myocardial infarction, stroke. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=8
+Page 8 of 25
+        "generic_name": [
+          "TESTOSTERONE"
+        "brand_name": [
+          "Testim"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oxyphenbutazone: Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. Insulin: In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements. Propranolol: In a published pharmacokinetic study of an injectable testosterone product, administration of testosterone cypionate led to an increased clearance of propranolol in the majority of men tested. It is unknown if this would apply to Testim(R). Corticosteroids: The concurrent administration of testosterone with ACTH or corticosteroids may enhance edema formation; thus these drugs should be administered cautiously, particularly in patients with cardiac or hepatic disease."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled clinical study, 304 patients were treated with Testim(R) 50 mg or 100 mg or placebo gel for up to 90 days. Two hundred-five (205) patients received Testim(R) 50 mg or 100 mg daily and 99 patients received placebo. Patients with adverse events that were possibly or probably related to study drug and reported by >=1% of the Testim(R) patients and greater than placebo are listed in Table 3. Table 3: Incidence of Adverse Events Judged Possibly, Probably or Definitely Related to Use of Testim(R) in the Controlled Clinical Trial Event Testim(R) 50 mg Testim(R) 100 mg Placebo Application Site Reactions 2% 4% 3% Benign Prostatic Hyperplasia 0% 1% 1% Blood Pressure Diastolic Decreased 1% 0% 0% Blood Pressure Increased 1% 1% 0% Gynecomastia 1% 0% 0% Headache 1% 1% 0% Hematocrit/hemoglobin Increased 1% 2% 0% Hot Flushes 1% 0% 0% Insomnia 1% 0% 0% Lacrimation Increased 1% 0% 0% Mood Swings 1% 0% 0% Smell Disorder 1% 0% 0% Spontaneous Penile Erection 1% 0% 0% Taste Disorder 1% 1% 0% The following adverse events possibly or probably related to Testim(R) occurred in fewer than 1% of patients but were greater in Testim(R) groups compared to the placebo group: activated partial thromboplastin time prolonged, blood creatinine increased, prothrombin time prolonged, appetite increased, sensitive nipples, and acne. In this clinical trial of Testim(R), six patients had adverse events that led to their discontinuation. These events included: vertigo, coronary artery disease, depression with suicidal ideation, urinary tract infection/pneumonia (none of which were considered related to Testim(R) administration), mood swings and hypertension. No Testim(R) patients discontinued due to skin reaction. In one foreign Phase 3 trial, one subject discontinued due to a skin-related adverse event. In the pivotal U.S. and European Phase 3 trials combined, at the 50 mg dosage strength, the percentage of subjects reporting clinically notable increases in hematocrit or hemoglobin were similar to placebo. However, in the 100 mg dose group, 2.3% and 2.8% of patients had a clinically notable increase in hemoglobin (>= 19 gm/dL) or hematocrit (>= 58%), respectively. In the combined ongoing U.S. and European open label extension studies, approximately 140 patients received Testim(R) for at least 6 months. The preliminary results from these studies are consistent with those reported for the U.S. controlled clinical trial. Postmarketing Experience The following adverse reactions have been identified during post-approval use of testosterone gel products. Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Secondary Exposure to Testosterone in Children Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarketing surveillance of testosterone gel products. Signs and symptoms of these reported cases have included enlargement of the clitoris (with surgical intervention) or of the penis, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age. In most cases with a reported outcome, these signs and symptoms were reported to have regressed with removal of the testosterone gel exposure. In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age. In some of the cases, direct contact with the sites of application on the skin of men using testosterone gel was reported. In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user's shirts and/or other fabrics, such as towels and sheets (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=9
+Page 9 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The following adverse reactions in the male have occurred with some androgens: Endocrine and Urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and Appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and Electrolyte Disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (See WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders: venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=10
+Page 10 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Depo-Testosterone"
+ 
+      "drug_interactions": [
+        "Drug interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Miscellaneous: Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=11
+Page 11 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Depo-Testosterone"
+ 
+      "drug_interactions": [
+        "Drug interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Miscellaneous: Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=12
+Page 12 of 25
+        "generic_name": [
+          "TESTOSTERONE ENANTHATE"
+        "brand_name": [
+          "Testosterone Enanthate"
+ 
+      "drug_interactions": [
+        "Drug Interactions 1. Anticoagulants: C-17 substituted derivatives of testosterone, such as methandrostenolone, have been reported to decrease the anticoagulant requirements of patients receiving oral anticoagulants. Patients receiving oral anticoagulant therapy require close monitoring, especially when androgens are started or stopped. 2. Oxyphenbutazone: Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. 3. Insulin: In diabetic patients, the metabolic effects of androgens may decrease blood glucose and insulin requirements. 4. ACTH and corticosteroids: Enhanced tendency toward edema. Use caution when giving these drugs together, especially in patients with hepatic or cardiac disease."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Endocrine and Urogenital: Female: The most common side effects of androgen therapy are amenorrhea and other menstrual irregularities, inhibition of gonadotropin secretion, and virilization, including deepening of the voice and clitoral enlargement. The latter usually is not reversible after androgens are discontinued. When administered to a pregnant woman, androgens cause virilization of external genitalia of the female fetus. Male: Gynecomastia, and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages (See CLINICAL PHARMACOLOGY). Skin and appendages: Hirsutism, male pattern of baldness, and acne. Fluid and Electrolyte Disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (See WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous System: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Metabolic: Increased serum cholesterol. Miscellaneous: Inflammation and pain at the site of intramuscular injection and, rarely, anaphylactoid reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=13
+Page 13 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements. Drug/Laboratory Test Interferences Androgens may decrease levels of thyroxine­binding globulin, resulting in decreased total T4 serum levels and increased resin uptake of T3 and T4. Free thyroid hormone levels remain unchanged, however, and there is no clinical evidence of thyroid dysfunction."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and Urogenital Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and Appendages Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and Electrolyte Disturbances Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS ). Hematologic Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous System Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic Hypersensitivity, including skin manifestations and anaphylactoid reactions. Miscellaneous Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=14
+Page 14 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and Urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and Appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Cardiovascular Disorders: myocardial infarction, stroke Fluid and Electrolyte Disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (See WARNINGS ). ​Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous System: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection. To report SUSPECTED ADVERSE REACTIONS, contact Watson Laboratories, Inc. at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=15
+Page 15 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and Urogenital Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and Appendages Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and Electrolyte Disturbances Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (See WARNINGS ). Hematologic Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous System Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic Hypersensitivity, including skin manifestations and anaphylactoid reactions. Miscellaneous Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=16
+Page 16 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Depo-Testosterone"
+ 
+      "drug_interactions": [
+        "Drug interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=17
+Page 17 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Depo-Testosterone"
+ 
+      "drug_interactions": [
+        "Drug interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=18
+Page 18 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "drug_interactions": [
+        "Drug interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS ). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection. To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceutical Corp. at 1-877-233-2001 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=19
+Page 19 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and Urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and Appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Cardiovascular Disorders: myocardial infarction, stroke Fluid and Electrolyte Disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (See WARNINGS ). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous System: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection. To report SUSPECTED ADVERSE REACTIONS, contact Watson Laboratories, Inc. at 1-800-272-5525 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=20
+Page 20 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "drug_interactions": [
+        "Drug interactions: Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Cardiovascular Disorders: Myocardial infarction, stroke. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection. To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=21
+Page 21 of 25
+        "generic_name": [
+          "TESTOSTERONE"
+        "brand_name": [
+          "Testim"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oxyphenbutazone: Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. Insulin: In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements. Propranolol: In a published pharmacokinetic study of an injectable testosterone product, administration of testosterone cypionate led to an increased clearance of propranolol in the majority of men tested. It is unknown if this would apply to Testim(R). Corticosteroids: The concurrent administration of testosterone with ACTH or corticosteroids may enhance edema formation; thus these drugs should be administered cautiously, particularly in patients with cardiac or hepatic disease."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In a controlled clinical study, 304 patients were treated with Testim(R) 50 mg or 100 mg or placebo gel for up to 90 days. Two hundred-five (205) patients received Testim(R) 50 mg or 100 mg daily and 99 patients received placebo. Patients with adverse events that were possibly or probably related to study drug and reported by >=1% of the Testim(R) patients and greater than placebo are listed in Table 3. Table 3: Incidence of Adverse Events Judged Possibly, Probably or Definitely Related to Use of Testim(R) in the Controlled Clinical Trial Event Testim(R) 50 mg Testim(R) 100 mg Placebo Application Site Reactions 2% 4% 3% Benign Prostatic Hyperplasia 0% 1% 1% Blood Pressure Diastolic Decreased 1% 0% 0% Blood Pressure Increased 1% 1% 0% Gynecomastia 1% 0% 0% Headache 1% 1% 0% Hematocrit/hemoglobin Increased 1% 2% 0% Hot Flushes 1% 0% 0% Insomnia 1% 0% 0% Lacrimation Increased 1% 0% 0% Mood Swings 1% 0% 0% Smell Disorder 1% 0% 0% Spontaneous Penile Erection 1% 0% 0% Taste Disorder 1% 1% 0% The following adverse events possibly or probably related to Testim(R) occurred in fewer than 1% of patients but were greater in Testim(R) groups compared to the placebo group: activated partial thromboplastin time prolonged, blood creatinine increased, prothrombin time prolonged, appetite increased, sensitive nipples, and acne. In this clinical trial of Testim(R), six patients had adverse events that led to their discontinuation. These events included: vertigo, coronary artery disease, depression with suicidal ideation, urinary tract infection/pneumonia (none of which were considered related to Testim(R) administration), mood swings and hypertension. No Testim(R) patients discontinued due to skin reaction. In one foreign Phase 3 trial, one subject discontinued due to a skin-related adverse event. In the pivotal U.S. and European Phase 3 trials combined, at the 50 mg dosage strength, the percentage of subjects reporting clinically notable increases in hematocrit or hemoglobin were similar to placebo. However, in the 100 mg dose group, 2.3% and 2.8% of patients had a clinically notable increase in hemoglobin (>= 19 gm/dL) or hematocrit (>= 58%), respectively. In the combined ongoing U.S. and European open label extension studies, approximately 140 patients received Testim(R) for at least 6 months. The preliminary results from these studies are consistent with those reported for the U.S. controlled clinical trial. Postmarketing Experience The following adverse reactions have been identified during post-approval use of testosterone gel products. Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Secondary Exposure to Testosterone in Children Cases of secondary exposure to testosterone resulting in virilization of children have been reported in postmarketing surveillance of testosterone gel products. Signs and symptoms of these reported cases have included enlargement of the clitoris (with surgical intervention) or of the penis, development of pubic hair, increased erections and libido, aggressive behavior, and advanced bone age. In most cases with a reported outcome, these signs and symptoms were reported to have regressed with removal of the testosterone gel exposure. In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age. In some of the cases, direct contact with the sites of application on the skin of men using testosterone gel was reported. In at least one reported case, the reporter considered the possibility of secondary exposure from items such as the testosterone gel user's shirts and/or other fabrics, such as towels and sheets (see WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=22
+Page 22 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE, ALCOHOL"
+        "brand_name": [
+          "Testone CIK"
+ 
+      "drug_interactions": [
+        "Drug interactions: Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders - venous thromboembolism Miscellaneous: Inflammation and pain at the site of intramuscular injection. To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=23
+Page 23 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Testosterone Cypionate"
+ 
+      "drug_interactions": [
+        "Drug interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Cardiovascular Disorders : Myocardial infarction, stroke Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS ). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular Disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection. To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-233-2001 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Testosterone+AND+Cypionate+AND+Injection&limit=1&skip=24
+Page 24 of 25
+        "generic_name": [
+          "TESTOSTERONE CYPIONATE"
+        "brand_name": [
+          "Depo-Testosterone"
+ 
+      "drug_interactions": [
+        "Drug interactions Androgens may increase sensitivity to oral anticoagulants. Dosage of the anticoagulant may require reduction in order to maintain satisfactory therapeutic hypoprothrombinemia. Concurrent administration of oxyphenbutazone and androgens may result in elevated serum levels of oxyphenbutazone. In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, insulin requirements."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions in the male have occurred with some androgens: Endocrine and urogenital: Gynecomastia and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages. Skin and appendages: Hirsutism, male pattern of baldness, seborrhea, and acne. Cardiovascular disorders: Myocardial infarction, stroke. Fluid and electrolyte disturbances: Retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates. Gastrointestinal: Nausea, cholestatic jaundice, alterations in liver function tests, rarely hepatocellular neoplasms and peliosis hepatis (see WARNINGS). Hematologic: Suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, and polycythemia. Nervous system: Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Allergic: Hypersensitivity, including skin manifestations and anaphylactoid reactions. Vascular disorders: Venous thromboembolism. Miscellaneous: Inflammation and pain at the site of intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+
+"ADVERSE REACTIONS Irritation may occur."$$
+"Adverse Reactions Occasional cases of local stinging and burning have been reported."$$
+"ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely."$$
+"ADVERSE REACTIONS Systemic acidosis has been reported in patients receiving urinary bladder irrigation with 0.25% acetic acid solution. Urologic pain and hematuria have been reported in patients receiving urinary bladder irrigation with 0.25% acetic acid solution."$$
+"ADVERSE REACTIONS Systemic acidosis, pain and hematuria have been reported in patients receiving urinary bladder irrigation with 0.25% Acetic Acid Irrigation, USP. Should adverse reactions occur, discontinue the irrigation and reevaluate the clinical status of the patient."$$
+"ADVERSE REACTIONS Systemic acidosis, pain, and hematuria have been reported in patients receiving urinary bladder irrigation with 0.25% acetic acid solution. If an adverse reaction does occur, discontinue administration of the irrigant, evaluate the patient, institute appropriate therapeutic countermeasures, and save the remainder of the fluid for examination, if deemed necessary."$$
+"Drug Interactions No incidence of drug interactions has been reported with concomitant use of Fem pH and any other medication."$$

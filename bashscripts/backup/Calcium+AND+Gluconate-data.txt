@@ -1,0 +1,344 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=0
+Page 0 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=1
+Page 1 of 29
+        "generic_name": [
+          "ASCORBIC ACID, CALCIUM CITRATE, IRON, VITAMIN D, DL- ALPHA- TOCOPHEROL ACETATE, THIAMINE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM, DOCONEXENT AND ICOSAPENT"
+        "brand_name": [
+          "CitraNatal Assure"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=2
+Page 2 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bardycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=3
+Page 3 of 29
+        "generic_name": [
+          "VITAMIN C, CALCIUM, IRON, VITAMIN D3, VITAMIN E, THIAMIN, RIBOFLAVIN, NIACINAMIDE, VITAMIN B6, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM"
+        "brand_name": [
+          "CitraNatal DHA"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=4
+Page 4 of 29
+        "generic_name": [
+          "VITAMIN A ACETATE, .ALPHA.-TOCOPHEROL ACETATE, ASCORBIC ACID, THIAMINE MONONITRATE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, BIOTIN, CALCIUM PANTOTHENATE, FOLIC ACID, CYANOCOBALAMIN, FLAVONE, FERROUS FUMARATE, CHROMIC CHLORIDE CR-51, MAGNESIUM OXIDE, MANGANESE GLUCONATE, CUPRIC OXIDE, SELENOMETHIONINE, AND ZINC OXIDE"
+        "brand_name": [
+          "BACMIN"
+ 
+      "drug_interactions": [
+        "Drug and Treatment Interactions As little as 5 mg pyridoxine daily can decrease the efficiency of levodopa in the treatment of parkinsonism. Therefore, BACMIN is not recommended for patients undergoing such therapy."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions have been reported with specific vitamins and minerals, but generally at levels substantially higher than those in BACMIN. However, allergic and idiosyncratic reactions are possible at lower levels. Iron, even at the usual recommended levels, has been associated with gastrointestinal intolerance in some patients."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=5
+Page 5 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local neocrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=6
+Page 6 of 29
+        "generic_name": [
+          "ASCORBIC ACID, CALCIUM CITRATE, IRON, VITAMIN D, .ALPHA.-TOCOPHEROL ACETATE, DL-, THIAMINE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM, DOCONE"
+        "brand_name": [
+          "CitraNatal Assure"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=7
+Page 7 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=8
+Page 8 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=9
+Page 9 of 29
+        "generic_name": [
+          "VITAMIN C, CALCIUM, IRON, VITAMIN D3, VITAMIN E, THIAMIN, RIBOFLAVIN, NIACINAMIDE, VITAMIN B6, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM"
+        "brand_name": [
+          "CitraNatal 90 DHA"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=10
+Page 10 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "drug_interactions": [
+        "Drug Interactions The inotropic and toxic effects of cardiac glycosides and calcium are synergistic and arrhythmias may occur if these drugs are given together (particularly when calcium is given intravenously). Intravenous administration of calcium should be avoided in patients receiving cardiac glycosides; if necessary, calcium should be given slowly in small amounts. Calcium complexes tetracycline antibiotics rendering them inactive. The two drugs should not be given at the same time orally nor should they be mixed for parenteral administration. Calcium Gluconate Injection has been reported to be incompatible with intravenous solutions containing various drugs. Published data are too varied and/or limited to permit generalizations, and specialized references should be consulted for specific information. Interaction with Ceftriaxone Sodium Injection: Do not use diluents containing calcium to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration because a precipitate can form. Precipitation of ceftriaxone-calcium can also occur when calcium-containing solutions are mixed with ceftriaxone in the same IV administration line. Calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition must not be administered simultaneously with ceftriaxone via a Y-site. However, in patients other than neonates, calcium-containing solutions and ceftriaxone may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid. In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone-calcium. There have been no reports of an interaction between oral calcium-containing products and ceftriaxone or interaction between calcium-containing products (IV or oral) and intramuscular ceftriaxone."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=11
+Page 11 of 29
+        "generic_name": [
+          "ACTIVATED CHARCOAL, AGERATINA AROMATICA ROOT, FERROUS IODIDE, GELSEMIUM SEMPERVIRENS ROOT, CALCIUM SULFIDE, HISTAMINE, INTERLEUKIN-12 HUMAN, INTERFERON GAMMA-1A, IODINE, POTASSIUM GLUCONATE, LYCOPODIUM CLAVATUM SPORE, CAJUPUT OIL, BLACK CURRANT, ROSA CANINA FRUIT, SEROTONIN, XANTHINE, ALMOND, APPLE, BANANA, BARLEY, BEAN, BEEF, CASHEW, CASEIN, EMMENTAL CULTURED, CASEIN, LACTOCOCCUS LACTIS CULTURED, CASEIN, LACTOCOCCUS LACTIS CULTURED AGED, CASEIN, LACTOCOCCUS LACTIS CULTURED"
+        "brand_name": [
+          "Foods"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=12
+Page 12 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=13
+Page 13 of 29
+        "generic_name": [
+          "VITAMIN C, CALCIUM, IRON, VITAMIN D3, VITAMIN E, THIAMIN, RIBOFLAVIN, NIACINAMIDE, VITAMIN B6, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM"
+        "brand_name": [
+          "CitraNatal 90 DHA"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=14
+Page 14 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=15
+Page 15 of 29
+        "generic_name": [
+          "VITAMIN C, CALCIUM, IRON, VITAMIN D3, VITAMIN E, THIAMIN, RIBOFLAVIN, NIACINAMIDE, VITAMIN B6, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM"
+        "brand_name": [
+          "CitraNatal Rx"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=16
+Page 16 of 29
+        "generic_name": [
+          "VITAMIN C, CALCIUM, IRON, VITAMIN D3, VITAMIN E, VITAMIN B1, VITAMIN B2, VITAMIN B3, VITAMIN B6, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM, DOCOSAHEXAENOIC ACID (DHA)"
+        "brand_name": [
+          "PNV OB DHA"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Caution should be exercised with patients with known allergies to fish or fish by-products. Call your doctor for medical advice about side effects. You may report suspected side effects to the FDA at 1-800-FDA-1088."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=17
+Page 17 of 29
+        "generic_name": [
+          "ASCORBIC ACID, CALCIUM CITRATE, IRON, CHOLECALCIFEROL, PYRIDOXINE HYDROCHLORIDE, AND FOLIC ACID"
+        "brand_name": [
+          "CitraNatal B-Calm"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=18
+Page 18 of 29
+        "generic_name": [
+          "CALCIUM BALANCE"
+        "brand_name": [
+          "Cal-5-Revive"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=19
+Page 19 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Patients may complain of tingling sensations, a sense of oppression or heat waves, and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=20
+Page 20 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Patients may complain of tingling sensations, a sense of oppression or heat waves, and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=21
+Page 21 of 29
+        "generic_name": [
+          "VITAMIN C, CALCIUM, IRON, VITAMIN D3, VITAMIN E, THIAMIN, RIBOFLAVIN, NIACINAMIDE, VITAMIN B6, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM"
+        "brand_name": [
+          "CitraNatal Rx"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=22
+Page 22 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=23
+Page 23 of 29
+        "generic_name": [
+          "CALCIUM GLUCONATE"
+        "brand_name": [
+          "Calcium Gluconate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Patients may complain of tingling sensations, a sense of oppression or heat waves and a calcium or chalky taste following the intravenous administration of calcium gluconate. Rapid intravenous injection of calcium salts may cause vasodilation, decreased blood pressure, bradycardia, cardiac arrhythmias, syncope and cardiac arrest. Use in digitalized patients may precipitate arrhythmias. Local necrosis and abscess formation may occur with intramuscular injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=24
+Page 24 of 29
+        "generic_name": [
+          "CALCIUM FLUORIDE, TRIBASIC CALCIUM PHOSPHATE, CALCIUM SULFATE ANHYDROUS, FERROSOFERRIC PHOSPHATE, POTASSIUM CHLORIDE, POTASSIUM PHOSPHATE, DIBASIC, MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE, SODIUM CHLORIDE, SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE, SODIUM SULFATE, AND SILICON DIOXIDE"
+        "brand_name": [
+          "BIOPLASMA SPORT WITH ELECTROLYTES"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=25
+Page 25 of 29
+        "generic_name": [
+          "VITAMIN C, CALCIUM, IRON, VITAMIN D3, VITAMIN E, THIAMIN, RIBOFLAVIN, NIACINAMIDE, VITAMIN B6, FOLIC ACID, IODINE, ZINC, COPPER, DOCUSATE SODIUM"
+        "brand_name": [
+          "CitraNatal DHA"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=26
+Page 26 of 29
+        "generic_name": [
+          "BORON GLUCONATE, CALCIUM GLUCONATE, CHROMIUM GLUCONATE, COBALT GLUCONATE, COPPER GLUCONATE, FERROUS GLUCONATE, POTASSIUM GLUCONATE, MAGNESIUM GLUCONICUM DIHYDRICUM, MANGANESE GLUCONATE, SODIUM GLUCONATE, NICKEL GLUCONATE, SELENIUM DIOXIDE, ZINCUM GLUCONICUM, KALI PHOSPHORICUM, VANADIUM METALLICUM, CALCAREA PHOSPHORICA"
+        "brand_name": [
+          "Electrolyte Plus"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=27
+Page 27 of 29
+        "generic_name": [
+          "CALCIUM CITRATE, CALCIUM CARBONATE, POTASSIUM IODIDE, MAGNESIUM CITRATE, ZINC CITRATE, COPPER GLUCONATE, AND FERROUS FUMARATE"
+        "brand_name": [
+          "PRENATAL CHELATED MINERAL"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Calcium+AND+Gluconate&limit=1&skip=28
+Page 28 of 29
+        "generic_name": [
+          "CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL SUCCINATE, D-, THIAMINE MONONITRATE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, CYANOCOBALAMIN, BIOTIN, CALCIUM PANTOTHENATE, IRON SUCROSE, HEME IRON POLYPEPTIDE, POTASSIUM IODIDE, ZINC OXIDE, SODIUM SELENATE AND COPPER GLUCONATE"
+        "brand_name": [
+          "VP-HEME OB"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS: Drugs which may interact with folate** include: Antiepileptic drugs (AED): The AED class including, but not limited to, phenytoin, carbamazepine, primidone, valproic acid, fosphenytoin, valproate, phenobarbital and lamotrigine have been shown to impair folate absorption and increase the metabolism of circulating folate. Additionally, concurrent use of folic acid has been associated with enhanced phenytoin metabolism, lowering the level of the AED in the blood and allowing breakthrough seizures to occur. Caution should be used when prescribing this product among patients who are receiving treatment with phenytoin and other anticonvulsants. Capecitabine: Folinic acid (5-formyltetrahydrofolate) may increase the toxicity of capecitabine. Cholestyramine: Reduces folic acid absorption and reduces serum folate levels. Colestipol: Reduces folic acid absorption and reduces serum folate levels. Cycloserine: Reduces folic acid absorption and reduces serum folate levels. Dihydrofolate Reductase Inhibitors (DHFRI): DHFRIs block the conversion of folic acid to its active forms, and lower plasma and red blood cell folate levels. DHFRIs include aminopterin, methotrexate, pyrimethamine, triamterene, and trimethoprim. Fluoxetine: Fluoxetine exerts a noncompetitive inhibition of the 5-methyltetrahydrofolate active transport in the intestine. Isotretinoin: Reduced folate levels have occurred in some patients taking isotretinoin. L-dopa, triamterene, colchicine, and trimethoprim may decrease plasma folate levels. Nonsteroidal Anti-inflammatory Drugs (NSAIDs): NSAIDs have been shown to inhibit some folate dependent enzymes in laboratory experiments. NSAIDs include ibuprofen, naproxen, indomethacin and sulindac. Oral Contraceptives: Serum folate levels may be depressed by oral contraceptive therapy. Methylprednisolone: Reduced serum folate levels have been noted after treatment with methylprednisolone. Pancreatic Enzymes: Reduced folate levels have occurred in some patients taking pancreatic extracts, such as pancreatin and pancrelipase. Pentamidine: Reduced folate levels have been seen with prolonged intravenous pentamidine. Pyrimethamine: High levels of folic acid may result in decreased serum levels of pyrimethamine. Smoking and Alcohol: Reduced serum folate levels have been noted. Sulfasalazine: Inhibits the absorption and metabolism of folic acid. Metformin treatment in patients with type 2 diabetes decreases serum folate. Warfarin can produce significant impairment in folate status after a 6-month therapy. Heme-iron: Can compete for transport and reduce folate absorption. Ensure adequate medical supervision to ensure proper iron levels. Folinic acid may enhance the toxicity of fluorouracil. Concurrent administration of chloramphenicol and folinic acid in folate-deficient patients may result in antagonism of the haematopoietic response to folate. Caution should be exercised with the concomitant use of folinic acid and trimethoprim-sulfamethoxazole for the acute treatment of Pneumocystis carinii pneumonia in patients with HIV infection as it is associated with increased rates of treatment failure and mortality in a placebo controlled study. **Folate is a broad term that includes folic acid and all reduced forms including l-methylfolate and folinic acid. VP-HEME OB Tabs does not contain l-methylfolate or folinic acid but these warnings are included as general folate information. Drugs which interact with vitamin B12: Drugs which interact with vitamin B12: Antibiotics, cholestyramine, colchicines, colestipol, metformin, para-aminosalicylic acid, and potassium chloride may decrease the absorption of vitamin B12. Nitrous oxide can produce a functional vitamin B12 deficiency. Drugs which interact with vitamin B6: Vitamin B6 should not be given to patients receiving the drug levodopa because the action of levodopa is antagonized by vitamin B6. However, vitamin B6 may be used concurrently in patients receiving a preparation containing both carbidopa and levodopa. Isoniazid can produce a vitamin B6 deficiency. Drugs which may interact with vitamin D3: Certain thiazide diuretics, such as hydrochlorothiazide, as well as antacids, bile acid sequestrants (such as cholestyramine), mineral oil, orlistat, olestra, cimetidine, and anticonvulsant medications may reduce the absorption or increase the catabolism of vitamin D. Vitamin D supplementation should not be given with calcium in those with hypercalcemia or conditions that may lead to hypercalcemia such as hyperparathyroidism and those who form calcium-containing kidney stones. Drugs which may interact with zinc: Concomitant administration of zinc supplements and certain antibiotics, specifically tetracyclines and quinolones, may decrease absorption of the antibiotic and potentially reduce its efficacy."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Allergic sensitization has been reported following both oral and parental administration of folic acid, and may possibly occur with other forms of folate. Paresthesia, somnolence, nausea and headaches have been reported with vitamin B6. Mild transient diarrhea, polycythemia vera, itching, transitory exanthema and the feeling of swelling of the entire body have been associated with vitamin B12."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

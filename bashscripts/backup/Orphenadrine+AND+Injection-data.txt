@@ -1,0 +1,36 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Orphenadrine+AND+Injection&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "ORPHENADRINE CITRATE"
+        "brand_name": [
+          "Orphenadrine Citrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions of orphenadrine are mainly due to the mild anti- cholinergic action of orphenadrine, and are usually associated with higher dosage. Dryness of the mouth is usually the first adverse effect to appear. When the daily dose is increased, possible adverse effects include: tachycardia, palpitation, urinary hesitancy or retention, blurred vision, dilatation of pupils, increased ocular tension, weakness, nausea, vomiting, headache, dizziness, constipation, drowsiness, hypersensitivity reactions, pruritus, hallucinations, agitation, tremor, gastric irritation, and rarely urticaria and other dermatoses. Infrequently, an elderly patient may experience some degree of mental confusion. These adverse reactions can usually be eliminated by reduction in dosage. Very rare cases of aplastic anemia associated with the use of orphenadrine tablets have been reported. No causal relationship has been established. Rare instances of anaphylactic reaction have been reported associated with the intramuscular injection of orphenadrine citrate injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Orphenadrine+AND+Injection&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "ORPHENADRINE CITRATE"
+        "brand_name": [
+          "Orphenadrine Citrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse effects of orphenadrine citrate are mainly due to the mild anticholinergic action, and are usually associated with higher dosage. Dryness of the mouth is usually the first adverse effect to appear. When the daily dose is increased, possible adverse effects include: tachycardia, palpitation, urinary hesitancy or retention, blurred vision, dilatation of pupils, increased ocular tension, weakness, nausea, vomiting, headache, dizziness, constipation, drowsiness, hypersensitivity reactions, pruritus, hallucinations, agitation, tremor, gastric irritation, and rarely urticaria and other dermatoses. Infrequently, an elderly patient may experience some degree of mental confusion. These adverse reactions can usually be eliminated by reduction in dosage. Very rare cases of aplastic anemia associated with the use of orphenadrine tablets have been reported. No causal relationship has been established. Rare instances of anaphylactic reaction have been reported associated with the intramuscular injection of orphenadrine citrate."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Orphenadrine+AND+Injection&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "ORPHENADRINE CITRATE"
+        "brand_name": [
+          "Orphenadrine Citrate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions of orphenadrine are mainly due to the mild anti-cholinergic action of orphenadrine, and are usually associated with higher dosage. Dryness of the mouth is usually the first adverse effect to appear. When the daily dose is increased, possible adverse effects include: tachycardia, palpitation, urinary hesitancy or retention, blurred vision, dilatation of pupils, increased ocular tension, weakness, nausea, vomiting, headache, dizziness, constipation, drowsiness, hypersensitivity reactions, pruritus, hallucinations, agitation, tremor, gastric irritation, and rarely urticaria and other dermatoses. Infrequently, an elderly patient may experience some degree of mental confusion. These adverse reactions can usually be eliminated by reduction in dosage. Very rare cases of aplastic anemia associated with the use of orphenadrine tablets have been reported. No causal relationship has been established. Rare instances of anaphylactic reaction have been reported associated with the intramuscular injection of Norflex Injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metipranolol+AND+Ophthalmic+AND+Solution&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "METIPRANOLOL"
+        "brand_name": [
+          "Metipranolol"
+ 
+      "drug_interactions": [
+        "Drug Interactions Metipranolol ophthalmic solution should be used with caution in patients who are receiving a beta-adrenergic blocking agent orally, because of the potential for additive effects on systemic beta-blockade. Close observation of the patient is recommended when a beta-blocker is administered to patients receiving catecholamine-depleting drugs such as reserpine, because of possible additive effects and the production of hypotension and/or bradycardia. Caution should be used in the coadministration of beta-adrenergic receptor blocking agents, such as metipranolol, and oral or intravenous calcium channel antagonists, because of possible precipitation of left ventricular failure, and hypotension. In patients with impaired cardiac function, who are receiving calcium channel antagonists, coadministration should be avoided. The concomitant use of beta-adrenergic receptor blocking agents with digitalis and calcium channel antagonists may have additive effects, prolonging atrioventricular conduction time. Caution should be used in patients using concomitant adrenergic psychotropic drugs. Ocular: In patients with angle-closure glaucoma, the immediate treatment objective is to re-open the angle by constriction of the pupil with a miotic agent. Metipranolol ophthalmic solution has little or no effect on the pupil, therefore, when it is used to reduce intraocular pressure in angle-closure glaucoma, it should be used only with concomitant administration of a miotic agent."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In clinical trials, the use of metipranolol ophthalmic solution has been associated with transient local discomfort. Other ocular adverse reactions, such as abnormal vision, blepharitis, blurred vision, browache, conjunctivitis, edema, eyelid dermatitis, photophobia, tearing, and uveitis have been reported in small numbers of patients. Other systemic adverse reactions, such as allergic reaction, angina, anxiety, arthritis, asthenia, atrial fibrillation, bradycardia, bronchitis, coughing, depression, dizziness, dyspnea, epistaxis, headache, hypertension, myalgia, myocardial infarct, nausea, nervousness, palpitation, rash, rhinitis, and somnolence have also been reported in small numbers of patients."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

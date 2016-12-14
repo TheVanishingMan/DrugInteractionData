@@ -1,0 +1,108 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use&limit=1&skip=0
+Page 0 of 9
+        "generic_name": [
+          "TECHNETIUM TC-99M"
+        "brand_name": [
+          "Ultra-Technekow V4"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic reactions including anaphylaxis have been reported infrequently following the administration of Sodium Pertechnetate Tc 99m."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use&limit=1&skip=1
+Page 1 of 9
+        "generic_name": [
+          "TECHNETIUM TC99M GENERATOR"
+        "brand_name": [
+          "TechneLite"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Allergic reactions including anaphylaxis have been reported infrequently following the administration of Sodium Pertechnetate Tc 99m Injection."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use&limit=1&skip=2
+Page 2 of 9
+        "generic_name": [
+          "TECHNETIUM TC-99M EXAMETAZIME"
+        "brand_name": [
+          "CERETEC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Rash with generalized erythema, facial edema and fever has been reported in less than 1% of patients. A transient increase in blood pressure was seen in 8% of patients."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use&limit=1&skip=3
+Page 3 of 9
+        "generic_name": [
+          "TECHNETIUM TC 99M-LABELED RED BLOOD CELLS"
+        "brand_name": [
+          "UltraTag RBC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS None known."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use&limit=1&skip=4
+Page 4 of 9
+        "generic_name": [
+          "TECHNETIUM TC-99M"
+        "brand_name": [
+          "Ultra-Technekow V4"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic reactions including anaphylaxis have been reported infrequently following the administration of Sodium Pertechnetate Tc 99m."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use&limit=1&skip=5
+Page 5 of 9
+        "generic_name": [
+          "TECHNETIUM TC 99M-LABELED RED BLOOD CELLS"
+        "brand_name": [
+          "Ultratag RBC"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS None known."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use&limit=1&skip=6
+Page 6 of 9
+        "generic_name": [
+          "TECHNETIUM TC-99M GENERATOR"
+        "brand_name": [
+          "Ultra-TechneKow DTE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic reactions including anaphylaxis have been reported infrequently following the administration of Sodium Pertechnetate Tc 99m."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use&limit=1&skip=7
+Page 7 of 9
+        "generic_name": [
+          "TECHNETIUM TC-99M SODIUM PERTECHNETATE"
+        "brand_name": [
+          "Drytec (Technetium Tc99m Generator)"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic reactions including anaphylaxis have been reported infrequently following the administration of sodium pertechnetate Tc99m."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Technetium+AND+Tc+AND+99m+AND+Generator+AND+For+AND+Diagnostic+AND+Use&limit=1&skip=8
+Page 8 of 9
+        "generic_name": [
+          "TECHNETIUM TC-99M"
+        "brand_name": [
+          "Ultra-TechneKow DTE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Allergic reactions including anaphylaxis have been reported infrequently following the administration of Sodium Pertechnetate Tc 99m."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mebendazole&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "MEBENDAZOLE"
+        "brand_name": [
+          "EMVERM"
+ 
+      "drug_interactions": [
+        "Drug Interactions Preliminary evidence suggests that cimetidine inhibits mebendazole metabolism and may result in an increase in plasma concentrations of mebendazole."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Transient symptoms of abdominal pain and diarrhea in cases of massive infection and expulsion of worms. Hypersensitivity Rash, urticaria and angioedema have been observed on rare occasions. Central Nervous System Very rare cases of convulsions have been reported. Liver There have been liver function test elevations [AST (SGOT), ALT (SGPT), and GGT] and rare reports of hepatitis when mebendazole was taken for prolonged periods and at dosages substantially above those recommended. Hematologic Neutropenia and agranulocytosis. (See WARNINGS )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mebendazole&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "MEBENDAZOLE"
+        "brand_name": [
+          "Mebendazole"
+ 
+      "drug_interactions": [
+        "Drug Interactions Preliminary evidence suggests that cimetidine inhibits mebendazole metabolism and may result in an increase in plasma concentrations of mebendazole."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Transient symptoms of abdominal pain and diarrhea in cases of massive infection and expulsion of worms. Hypersensitivity Rash, urticaria and angioedema have been observed on rare occasions. Central Nervous System Very rare cases of convulsions have been reported. Liver There have been liver function test elevations [AST (SGOT), ALT (SGPT), and GGT] and rare reports of hepatitis when mebendazole was taken for prolonged periods and at dosages substantially above those recommended. Hematologic Neutropenia and agranulocytosis. (See WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mebendazole&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "MEBENDAZOLE"
+        "brand_name": [
+          "MEBENDAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions Preliminary evidence suggests that cimetidine inhibits mebendazole metabolism and may result in an increase in plasma concentrations of mebendazole."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Gastrointestinal Transient symptoms of abdominal pain and diarrhea in cases of massive infection and expulsion of worms. Hypersensitivity Rash, urticaria and angioedema have been observed on rare occasions. Central Nervous System Very rare cases of convulsions have been reported. Liver There have been liver function test elevations [AST (SGOT), ALT (SGPT), and GGT] and rare reports of hepatitis when mebendazole was taken for prolonged periods and at dosages substantially above those recommended. Hematologic Neutropenia and agranulocytosis. (See WARNINGS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

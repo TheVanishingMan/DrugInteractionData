@@ -1,4 +1,3 @@
-Abacavir+AND+Sulfate
 Abacavir+AND+Sulfate+AND+and+AND+Lamivudine+AND+Tablets
 Abarelix
 Abatacept
@@ -39,8 +38,10 @@ Acetylcholine+AND+Chloride+AND+Intraocular+AND+Solution
 Acetylcysteine+AND+Effervescent+AND+Tablets+AND+for+AND+Oral+AND+Solution
 Acetylcysteine+AND+Injection
 Acetylcysteine+AND+Solution
+Achromycin+AND+V
 Acidul
 Aciphex
+Aciphex+AND+Sprinkle
 Acitretin
 Aclidinium+AND+Bromide
 Aclovate
@@ -75,6 +76,7 @@ Adalat+AND+CC
 Adalimumab+AND+Injection+AND+Solution+AND+for+AND+Subcutaneous+AND+Administration
 Adapalene
 Adapalene+AND+and+AND+Benzoyl+AND+Peroxide+AND+Gel
+Adapalene+AND+Cream
 Adapalene+AND+Gel
 Adasuve
 Adcetris
@@ -87,6 +89,7 @@ Adenoscan
 Adenosine
 Adenosine+AND+Injection
 Adenovirus
+Adlyxin
 Adoxa
 Adrenaclick
 Adrenalin
@@ -206,6 +209,7 @@ Amerge
 Americaine
 Amevive
 Amicar
+Amidate
 Amifostine
 Amikacin
 Amikin
@@ -297,6 +301,7 @@ Antizol
 Anturane
 Anturol
 Anusol+AND+Hc
+Anusol+AND+Rectal
 Anzemet+AND+Injection
 Anzemet+AND+Tablets
 ApexiCon+AND+E
@@ -394,6 +399,7 @@ Atripla
 Atropen
 Atropine
 Atropine+AND+and+AND+Pralidoxime+AND+Chloride+AND+Injection
+atropine+AND+sulfate
 Atrovent+AND+HFA
 Atrovent+AND+Nasal+AND+Spray
 Atryn
@@ -495,6 +501,7 @@ Belinostat+AND+for+AND+Injection+AND+for+AND+Intravenous+AND+Use
 Belladonna+AND+and+AND+Opium
 Belsomra
 Belviq
+Belviq+AND+XR
 Benadryl
 Benadryl+AND+Injection
 Benazepril
@@ -620,6 +627,7 @@ Budesonide
 Budesonide+AND+and+AND+Formoterol+AND+Fumarate+AND+Dihydrate
 Budesonide+AND+Inhalation+AND+Powder
 Budesonide+AND+Inhalation+AND+Suspension
+Budesonide+AND+Rectal+AND+Foam
 Bumetanide
 Bumex
 Bunavail
@@ -1156,6 +1164,8 @@ Deferoxamine
 Defibrotide+AND+Sodium+AND+for+AND+Intravenous+AND+Use
 Definity
 Defitelio
+Deflux
+Deflux+AND+Injection
 Degarelix+AND+for+AND+Injection
 Dehydrated+AND+Alcohol
 Dehydrated+AND+Alcohol+AND+Injection
@@ -1254,6 +1264,7 @@ Didronel
 Dienestrol
 Diethylpropion
 Difenoxin+AND+and+AND+Atropine
+Differin+AND+Cream
 Dificid
 Diflorasone+AND+Diacetate
 Diflorasone+AND+Diacetate+AND+Cream
@@ -1542,6 +1553,7 @@ Equagesic
 Equetro
 Eraxis
 Erbitux
+Erelzi
 Ergocalciferol
 Ergocalciferol+AND+Capsules
 Ergomar
@@ -1573,6 +1585,7 @@ Erythromycin+AND+Topical+AND+Gel
 Esbriet
 Escitalopram+AND+Oxalate
 Esclim
+Esgic
 Eskalith
 Eslicarbazepine+AND+Acetate+AND+Tablets
 Esmolol
@@ -1612,6 +1625,7 @@ Estrostep+AND+Fe
 Eszopiclone
 Etanercept
 Ethacrynic+AND+Acid
+Ethacrynic+AND+Acid+AND+Tablets
 Ethambutol
 Ethamolin
 Ethanolamine+AND+Oleate
@@ -1905,6 +1919,7 @@ Ganirelix+AND+Acetate+AND+Injection
 Gantanol
 Gantrisin
 Gardasil+AND+9
+Gatifloxacin
 Gatifloxacin+AND+Ophthalmic+AND+Solution
 Gattex
 Gazyva
@@ -1971,6 +1986,7 @@ Gonadorelin
 GoNitro
 Goserelin+AND+Acetate+AND+Implant
 Gralise
+granisetron
 Granisetron
 Granisetron+AND+Hydrochloride
 Granisetron+AND+Transdermal+AND+System
@@ -2037,6 +2053,7 @@ Hexachlorophene
 Hexadrol
 Hexalen
 Hexaminolevulinate+AND+Hydrochloride+AND+Intravesical+AND+Solution
+Hextend
 Hiberix
 HibTITER
 Hicon
@@ -2089,6 +2106,7 @@ Hydrocodone+AND+Bitartrate+AND+and+AND+Pseudoephedrine+AND+Hydrochloride
 Hydrocodone+AND+bitartrate+AND+Extended+AND+Release+AND+Capsules
 Hydrocortisone
 Hydrocortisone+AND+Acetate
+Hydrocortisone+AND+Acetate+AND+Rectal+AND+Suppositories
 Hydrocortisone+AND+and+AND+Pramoxine
 Hydrocortisone+AND+Butyrate
 Hydrocortisone+AND+Butyrate+AND+Lotion
@@ -2280,8 +2298,8 @@ Ismelin
 Ismo
 Isocarboxazid
 Isoflurane
+isoniazid
 Isoniazid
-Isoniazid+AND+Tablets
 Isoproterenol
 Isoptin+AND+SR
 Isopto+AND+Carpine
@@ -2392,6 +2410,7 @@ Koate
 Kombiglyze+AND+XR
 Konyne
 Korlym
+Kovanaze
 Kristalose
 Kristalose+AND+Lactulose+AND+Oral+AND+Solution
 Krystexxa
@@ -2506,6 +2525,7 @@ Lidocaine+AND+and+AND+Prilocaine
 Lidocaine+AND+and+AND+Prilocaine+AND+Periodontal+AND+Gel
 Lidocaine+AND+and+AND+Tetracaine
 Lidocaine+AND+HCl
+lidocaine+AND+HCl+AND+and+AND+epinephrine
 Lidocaine+AND+HCl+AND+Sterile+AND+Solution
 Lidocaine+AND+Hydrochloride+AND+Monohydrate
 Lidocaine+AND+Hydrochloride+AND+Ophthalmic+AND+Gel
@@ -2538,6 +2558,7 @@ Liposyn+AND+III+AND+30
 Liposyn+AND+III+AND+30+AND+Intravenous+AND+Far+AND+Emulsion
 Liptruzet
 Lisdexamfetamine+AND+Dimesylate
+lisinopril
 Lisinopril
 Lisinopril+AND+and+AND+Hydrochlorothiazide
 Lithium+AND+Carbonate
@@ -2545,6 +2566,7 @@ Lithium+AND+Carbonate+AND+Tablets
 Lithobid
 Livalo
 Livostin
+lixisenatide
 Lo+AND+Loestrin+AND+FE
 Lo+AND+Ovral
 Locoid+AND+Lipocream
@@ -2576,7 +2598,9 @@ Loratadine
 Loratadine+AND+and+AND+Pseudoephedrine
 Lorazepam
 Lorazepam+AND+Injection
+lorcaserin+AND+hydrochloride
 Lorcaserin+AND+Hydrochloride
+Lorcaserin+AND+Hydrochloride+AND+Extended+AND+Release+AND+Tablets
 Lortab+AND+10
 Lortab+AND+5
 Lortab+AND+Elixir
@@ -2993,7 +3017,7 @@ Natacyn
 Natalizumab
 Natamycin
 Natazia
-Nateglinide
+nateglinide
 Natesto
 Natpara
 Natrecor
@@ -3308,6 +3332,7 @@ Oxycodone+AND+HCl+AND+and+AND+Ibuprofen
 Oxycodone+AND+HCl+AND+USP+AND+Tablets
 Oxycodone+AND+Hydrochloride
 Oxycodone+AND+Hydrochloride+AND+and+AND+Naloxone+AND+Hydrochloride+AND+Extended+AND+Release+AND+Tablets
+oxycodone+AND+hydrochloride+AND+and+AND+naltrexone+AND+hydrochloride
 Oxycontin
 Oxymetholone
 Oxymorphone
@@ -3665,6 +3690,7 @@ Proparacaine+AND+Hydrochloride+AND+Ophthalmic+AND+Solution
 Propecia
 Propine
 Propofol
+Propofol+AND+Injectable+AND+Emulsion
 Propoxyphene
 Propoxyphene+AND+Napsylate+AND+and+AND+Acetaminophen
 Propranolol
@@ -3716,6 +3742,7 @@ Pyrazinamide
 Pyridium
 Pyridostigmine
 Pyrimethamine
+Qbrelis
 Qnasl
 Qoliana
 Qsymia
@@ -3743,6 +3770,7 @@ Quixin
 Qutenza
 Qvar
 Rabavert
+rabeprazole+AND+sodium
 Rabeprazole+AND+Sodium
 Rabies+AND+Vaccine
 Radiesse
@@ -4009,6 +4037,7 @@ Skelaxin
 Skelid
 Sklice
 Skyla
+Smoflipid
 Sodium+AND+Acetate
 Sodium+AND+Acetate+AND+Injection
 Sodium+AND+Bicarbonate
@@ -4033,6 +4062,8 @@ Sodium+AND+Tetradecyl
 Sofosbuvir+AND+Tablets
 Solage
 Solaraze
+Solesta
+Solesta+AND+Injectable+AND+Gel
 Solifenacin+AND+Succinate
 Soliris
 Solodyn
@@ -4081,7 +4112,6 @@ Sprix
 Sprycel
 Stadol
 Stalevo
-Starlix
 Staticin
 Stavudine
 Stavzor
@@ -4151,6 +4181,7 @@ Surfaxin
 Surmontil
 Survanta
 Sustiva
+Sustol
 Sutent
 Suvorexant+AND+Tablets
 Sylatron
@@ -4164,6 +4195,7 @@ Synalar
 Synalgos+AND+DC
 Synarel
 Synarel+AND+Nasal+AND+Solution
+Syndros
 Synera
 Synercid
 Synjardy
@@ -4188,6 +4220,7 @@ Taliglucerase+AND+Alfa
 Talimogene+AND+Laherparepvec+AND+Suspension+AND+for+AND+Intralesional+AND+Injection
 Taltz
 Talwin+AND+Compound
+Talwin+AND+Injection
 Talwin+AND+Nx
 Tambocor
 Tamiflu
@@ -4279,6 +4312,8 @@ Tetanus+AND+Toxoid
 Tetanus+AND+Toxoid+AND+Adsorbed
 Tetanus+AND+Toxoid+AND+Conjugate
 Tetrabenazine+AND+Tablets
+Tetracaine+AND+HCl+AND+and+AND+Oxymetazoline+AND+HC+AND+Nasal+AND+Spray
+tetracycline
 Tetracycline
 Tetracycline+AND+Periodontal
 Teveten
@@ -4394,6 +4429,8 @@ Tositumomab+AND+and+AND+Iodine+AND+1131+AND+Tositumomab
 Totect
 Toujeo
 Toviaz
+ToxiBan
+ToxiBan+AND+Granules+AND+and+AND+Suspension
 Trabectedin+AND+for+AND+Injection
 Tracleer
 Tracrium
@@ -4493,6 +4530,7 @@ TrophAmine
 Trospium+AND+Chloride+AND+Extended+AND+Release+AND+Capsule
 Trospium+AND+Chloride+AND+Tablets
 Trovafloxacin+AND+and+AND+Azithromycin
+Troxyca+AND+ER
 Trulicity
 Trusopt
 Truvada
@@ -4654,6 +4692,7 @@ Vidaza
 Videx
 Videx+AND+EC
 Viekira+AND+Pak
+Viekira+AND+XR
 Vigabatrin+AND+Oral+AND+Solution
 Vigamox
 VIGIV
@@ -4752,6 +4791,7 @@ Xibrom
 Xifaxan
 Xigduo+AND+XR
 Xigris
+Xiidra
 Ximino
 Xofigo
 Xolair
@@ -4826,6 +4866,7 @@ Zileutin
 Zileuton+AND+Extended+AND+Release+AND+Tablets
 Zinacef
 Zinbryta
+Zinc
 Zinecard
 Zingo
 Zioptan

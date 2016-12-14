@@ -1,12 +1,2 @@
-https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Mannitol+AND+IV&limit=1&skip=0
-Page 0 of 1
-        "generic_name": [
-          "MANNITOL"
-        "brand_name": [
-          "Mannitol"
- 
-      "adverse_reactions": [
-        "ADVERSE REACTIONS Reactions are infrequent and may include: Metabolic: fluid and electrolyte imbalance, acidosis, dehydration. Gastrointestinal: dryness of mouth, nausea, vomiting, diarrhea. Genitourinary: osmotic nephrosis, urinary retention. Central Nervous System: headache, convulsions, dizziness. Special Senses: Blurred vision, rhinitis. Cardiovascular: pulmonary edema, hypotension, hypertension, tachycardia, angina-like chest pains. Dermatologic: skin necrosis, thrombophlebitis. Hypersensitivity: urticaria. Miscellaneous: thirst, arm pain, chills, fever."
- 
- 
---------------------------------------------------------------------------------------------------------------------
+
+"ADVERSE REACTIONS Reactions are infrequent and may include: Metabolic: fluid and electrolyte imbalance, acidosis, dehydration. Gastrointestinal: dryness of mouth, nausea, vomiting, diarrhea. Genitourinary: osmotic nephrosis, urinary retention. Central Nervous System: headache, convulsions, dizziness. Special Senses: Blurred vision, rhinitis. Cardiovascular: pulmonary edema, hypotension, hypertension, tachycardia, angina-like chest pains. Dermatologic: skin necrosis, thrombophlebitis. Hypersensitivity: urticaria. Miscellaneous: thirst, arm pain, chills, fever."$$

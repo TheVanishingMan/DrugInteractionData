@@ -1,0 +1,148 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=0
+Page 0 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "NORITATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Safety data from 302 patients who used NORITATE (n=200) or vehicle control (n=102) once daily in clinical trials and experienced an adverse event considered to be treatment-related include: application site reaction (NORITATE 1, vehicle 1), condition aggravated (NORITATE 1, vehicle 0), paresthesia (NORITATE 0, vehicle 1), acne (NORITATE 1, vehicle 0), dry skin (NORITATE 0, vehicle 2). The majority of adverse reactions were mild to moderate in severity. Two patients treated with NORITATE once daily discontinued treatment because of adverse events: one for a severe flare of comedonal acne and one for rosacea aggravated. Additional clinical adverse effects reported spontaneously since the drug was marketed are uncommon and include tingling or numbness of extremities, allergic reactions, skin and eye irritation, rash, headache, nausea and dry mouth."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=1
+Page 1 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "Metronidazole"
+ 
+      "drug_interactions": [
+        "Drug interactions: Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the total incidence of adverse reactions associated with the use of metronidazole topical cream was approximately 10%. Skin discomfort (burning and stinging) was the most frequently reported event followed by erythema, skin irritation, pruritus and worsening of rosacea. All individual events occurred in less than 3% of patients. The following additional adverse experiences have been reported with the topical use of metronidazole: dryness, transient redness, metallic taste, tingling or numbness of extremities and nausea."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=2
+Page 2 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "METRONIDAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In controlled clinical trials, the total incidence of adverse reactions associated with the use of metronidazole topical cream was approximately 10%. Skin discomfort (burning and stinging) was the most frequently reported event followed by erythema, skin irritation, pruritus and worsening of rosacea. All individual events occurred in less than 3% of patients. The following additional adverse experiences have been reported with the topical use of metronidazole: dryness, transient redness, metallic taste, tingling or numbness of extremities and nausea."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=3
+Page 3 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "MetroCream"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In controlled clinical trials, the total incidence of adverse reactions associated with the use of METROCREAM(R) Topical Cream was approximately 10%. Skin discomfort (burning and stinging) was the most frequently reported event followed by erythema, skin irritation, pruritus and worsening of rosacea. All individual events occurred in less than 3% of patients. The following additional adverse experiences have been reported with the topical use of metronidazole: dryness, transient redness, metallic taste, tingling or numbness of extremities and nausea."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=4
+Page 4 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "Metronidazole"
+ 
+      "drug_interactions": [
+        "Drug interactions: Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the total incidence of adverse reactions associated with the use of metronidazole topical cream was approximately 10%. Skin discomfort (burning and stinging) was the most frequently reported event followed by erythema, skin irritation, pruritus and worsening of rosacea. All individual events occurred in less than 3% of patients. The following additional adverse experiences have been reported with the topical use of metronidazole: dryness, transient redness, metallic taste, tingling or numbness of extremities and nausea."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=5
+Page 5 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "Metronidazole"
+ 
+      "drug_interactions": [
+        "Drug interactions: Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombintime is not known."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the total incidence of adverse reactions associated with the use of Metronidazole Topical Cream was approximately10%. Skin discomfort (burning and stinging) was the most frequently reported event followed by erythema, skin irritation, pruritus and worsening of rosacea. All individual events occurred in less than 3% of patients. The following additional adverse experiences have been reported with the topical use of metonidazole: dryness, transient redness, metallic taste, tingling or numbness of extremities and nausea. To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=6
+Page 6 of 11
+        "generic_name": [
+          "METRONIDAZOLE TOPICAL CREAM, 0.75%"
+        "brand_name": [
+          "Metronidazole Topical Cream, 0.75%"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the total incidence of adverse reactions associated with the use of Metronidazole Topical Cream was approximately 10%. Skin discomfort (burning and stinging) was the most frequently reported event followed by erythema, skin irritation, pruritus and worsening of rosacea. All individual events occurred in less than 3% of patients. The following additional adverse experiences have been reported with the topical use of metronidazole: dryness, transient redness, metallic taste, tingling or numbness of extremities and nausea."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=7
+Page 7 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "Noritate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral metronidazole has been reported to potentiate the anticoagulant effect of coumarin and warfarin resulting in a prolongation of prothrombin time. Drug interactions should be kept in mind when NORITATE is prescribed for patients who are receiving anticoagulant treatment, although they are less likely to occur with topical metronidazole administration because of low absorption. (See CLINICAL PHARMACOLOGY , Pharmacokinetics section)"
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Safety data from 302 patients who used NORITATE (n=200) or vehicle control (n=102) once daily in clinical trials and experienced an adverse event considered to be treatment-related include: application site reaction (NORITATE 1, vehicle 1), condition aggravated (NORITATE 1, vehicle 0), paresthesia (NORITATE 0, vehicle 1), acne (NORITATE 1, vehicle 0), dry skin (NORITATE 0, vehicle 2). The majority of adverse reactions were mild to moderate in severity. Two patients treated with NORITATE once daily discontinued treatment because of adverse events: one for a severe flare of comedonal acne and one for rosacea aggravated. Additional clinical adverse effects reported spontaneously since the drug was marketed are uncommon and include tingling or numbness of extremities, allergic reactions, skin and eye irritation, rash, headache, nausea and dry mouth."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=8
+Page 8 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "Rosadan"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the total incidence of adverse reactions associated with the use of topical metronidazole cream was approximately 10%. Skin discomfort (burning and stinging) was the most frequently reported event followed by erythema, skin irritation, pruritus and worsening of rosacea. All individual events occurred in less than 3% of patients. The following additional adverse experiences have been reported with the topical use of metronidazole: dryness, transient redness, metallic taste, tingling or numbness of extremities and nausea."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=9
+Page 9 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "METRONIDAZOLE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In controlled clinical trials, the total incidence of adverse reactions associated with the use of Metronidazole Topical Cream was approximately 10%. Skin discomfort (burning and stinging) was the most frequently reported event followed by erythema, skin irritation, pruritus and worsening of rosacea. All individual events occurred in less than 3% of patients. The following additional adverse experiences have been reported with the topical use of metronidazole: dryness, transient redness, metallic taste, tingling or numbness of extremities and nausea."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Topical+AND+Cream&limit=1&skip=10
+Page 10 of 11
+        "generic_name": [
+          "METRONIDAZOLE"
+        "brand_name": [
+          "Metronidazole"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the total incidence of adverse reactions associated with the use of Metronidazole Topical Cream was approximately10%. Skin discomfort (burning and stinging) was the most frequently reported event followed by erythema, skin irritation, pruritus and worsening of rosacea. All individual events occurred in less than 3% of patients. The following additional adverse experiences have been reported with the topical use of metronidazole: dryness, transient redness, metallic taste, tingling or numbness of extremities and nausea. To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

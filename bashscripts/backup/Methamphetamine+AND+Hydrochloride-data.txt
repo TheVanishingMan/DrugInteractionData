@@ -1,0 +1,40 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methamphetamine+AND+Hydrochloride&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "METHAMPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Methamphetamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Insulin requirements in diabetes mellitus may be altered in association with the use of methamphetamine and the concomitant dietary regimen. Methamphetamine may decrease the hypotensive effect of guanethidine. Methamphetamine hydrochloride tablets should not be used concurrently with monoamine oxidase inhibitors (see CONTRAINDICATIONS). Concurrent administration of tricyclic antidepressants and indirect-acting sympathomimetic amines such as the amphetamines, should be closely supervised and dosage carefully adjusted. Phenothiazines are reported in the literature to antagonize the CNS stimulant action of the amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following are adverse reactions in decreasing order of severity within each category that have been reported: Cardiovascular: Elevation of blood pressure, tachycardia and palpitation. Fatal cardiorespiratory arrest has been reported, mostly in the context of abuse/misuse. Central Nervous System: Psychotic episodes have been rarely reported at recommended doses. Dizziness, dysphoria, overstimulation, euphoria, insomnia, tremor, restlessness and headache. Exacerbation of motor and phonic tics and Tourette's syndrome. Gastrointestinal: Diarrhea, constipation, dryness of mouth, unpleasant taste and other gastrointestinal disturbances. Hypersensitivity: Urticaria. Endocrine: Impotence and changes in libido; frequent or prolonged erections. Miscellaneous: Suppression of growth has been reported with the long-term use of stimulants in children (see WARNINGS). To report SUSPECTED ADVERSE REACTIONS, contact Mylan Pharmaceuticals Inc at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methamphetamine+AND+Hydrochloride&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "METHAMPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Desoxyn"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following are adverse reactions in decreasing order of severity within each category that have been reported: Cardiovascular: Elevation of blood pressure, tachycardia and palpitation. Fatal cardiorespiratory arrest has been reported, mostly in the context of abuse/misuse. Central Nervous System: Psychotic episodes have been rarely reported at recommended doses. Dizziness, dysphoria, overstimulation, euphoria, insomnia, tremor, restlessness and headache. Exacerbation of motor and phonic tics and Tourette's syndrome. Gastrointestinal: Diarrhea, constipation, dryness of mouth, unpleasant taste and other gastrointestinal disturbances. Hypersensitivity: Urticaria. Endocrine: Impotence and changes in libido; frequent or prolonged erections. Musculoskeletal: Rhabdomyolysis. Miscellaneous: Suppression of growth has been reported with the long-term use of stimulants in children (see WARNINGS ). To report SUSPECTED ADVERSE REACTIONS, contact Recordati Rare Diseases Inc. at 1-888-575-8344 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methamphetamine+AND+Hydrochloride&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "METHAMPHETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Methamphetamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Insulin requirements in diabetes mellitus may be altered in association with the use of methamphetamine and the concomitant dietary regimen. Methamphetamine may decrease the hypotensive effect of guanethidine. Methamphetamine hydrochloride tablets should not be used concurrently with monoamine oxidase inhibitors (see CONTRAINDICATIONS). Concurrent administration of tricyclic antidepressants and indirect-acting sympathomimetic amines such as the amphetamines, should be closely supervised and dosage carefully adjusted. Phenothiazines are reported in the literature to antagonize the CNS stimulant action of the amphetamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following are adverse reactions in decreasing order of severity within each category that have been reported: Cardiovascular: Elevation of blood pressure, tachycardia and palpitation. Fatal cardiorespiratory arrest has been reported, mostly in the context of abuse/misuse. Central Nervous System: Psychotic episodes have been rarely reported at recommended doses. Dizziness, dysphoria, overstimulation, euphoria, insomnia, tremor, restlessness and headache. Exacerbation of motor and phonic tics and Tourette's syndrome. Gastrointestinal: Diarrhea, constipation, dryness of mouth, unpleasant taste and other gastrointestinal disturbances. Hypersensitivity: Urticaria. Endocrine: Impotence and changes in libido; frequent or prolonged erections. Musculoskeletal: Rhabdomyolysis. Miscellaneous: Suppression of growth has been reported with the long-term use of stimulants in children (see WARNINGS). To report SUSPECTED ADVERSE REACTIONS, contact FDA at 1-800-FDA-1088 or www.fda.gov/medwatch or Mayne Pharma at 1-844-825-8500."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

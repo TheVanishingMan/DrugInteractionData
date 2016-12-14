@@ -1,0 +1,3192 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=0
+Page 0 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=1
+Page 1 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "HealthMart Loratadine ODT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=2
+Page 2 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=3
+Page 3 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "equaline allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=4
+Page 4 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=5
+Page 5 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "allergy relief d"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=6
+Page 6 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "smart sense allergy and congestion relief d"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=7
+Page 7 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "rexall allergy relief non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=8
+Page 8 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=9
+Page 9 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=10
+Page 10 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=11
+Page 11 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=12
+Page 12 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=13
+Page 13 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "ALLERGY RELIEF-D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=14
+Page 14 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "sunmark Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=15
+Page 15 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=16
+Page 16 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Topcare Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=17
+Page 17 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=18
+Page 18 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=19
+Page 19 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "meijer Childrens 24 Hour Allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=20
+Page 20 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=21
+Page 21 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine ODT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=22
+Page 22 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=23
+Page 23 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "good sense allergy and congestion relief non drowsy 24 hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=24
+Page 24 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=25
+Page 25 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=26
+Page 26 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Claritin-D 24 Hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=27
+Page 27 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Allergy Relief D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=28
+Page 28 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Wal-itin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=29
+Page 29 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=30
+Page 30 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Topcare Allergy Relief D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=31
+Page 31 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "HealthMart Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=32
+Page 32 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Children Claritin Allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=33
+Page 33 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=34
+Page 34 of 319
+        "generic_name": [
+          "LEVOCETIRIZINE DIHYDROCHLORIDE 5%, LORATADINE 5%"
+        "brand_name": [
+          "AlloPAX"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=35
+Page 35 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=36
+Page 36 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "24 hour allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=37
+Page 37 of 319
+        "generic_name": [
+          "PSEUDOEPHEDRINE SULFATE, LORATADINE"
+        "brand_name": [
+          "wal itin d non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=38
+Page 38 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=39
+Page 39 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Good Sense Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=40
+Page 40 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=41
+Page 41 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=42
+Page 42 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=43
+Page 43 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=44
+Page 44 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=45
+Page 45 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=46
+Page 46 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Non-Drowsy 24-Hour Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=47
+Page 47 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=48
+Page 48 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Leader Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=49
+Page 49 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Good Neighbor Pharmacy Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=50
+Page 50 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Equaline Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=51
+Page 51 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Sunmark Loratadine allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=52
+Page 52 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine ODT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=53
+Page 53 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "allergy relief d 12 hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=54
+Page 54 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine ODT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=55
+Page 55 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=56
+Page 56 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Premier Value Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=57
+Page 57 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine ODT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=58
+Page 58 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=59
+Page 59 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=60
+Page 60 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Quality Choice Childrens Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=61
+Page 61 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Preferred Plus (Kinray) Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=62
+Page 62 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Sunmark Loratadine ODT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=63
+Page 63 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Western Family Childrens Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=64
+Page 64 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=65
+Page 65 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Leader Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=66
+Page 66 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Good Neighbor Pharmacy Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=67
+Page 67 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=68
+Page 68 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=69
+Page 69 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=70
+Page 70 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Allergy Relief D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=71
+Page 71 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=72
+Page 72 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=73
+Page 73 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "berkley and jensen loratadine non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=74
+Page 74 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "LORATADINE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=75
+Page 75 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=76
+Page 76 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Leader allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=77
+Page 77 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=78
+Page 78 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=79
+Page 79 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=80
+Page 80 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=81
+Page 81 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=82
+Page 82 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Leader Allergy Relief D-24"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=83
+Page 83 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=84
+Page 84 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=85
+Page 85 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=86
+Page 86 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=87
+Page 87 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Claritin-D 24 Hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=88
+Page 88 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=89
+Page 89 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Allergy Dye Free"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=90
+Page 90 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Good Neighbor Pharmacy Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=91
+Page 91 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=92
+Page 92 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=93
+Page 93 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=94
+Page 94 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=95
+Page 95 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "kirkland signature allerclear d 24hr"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=96
+Page 96 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=97
+Page 97 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=98
+Page 98 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "allergy relief d 24 hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=99
+Page 99 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Preferred Plus Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=100
+Page 100 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=101
+Page 101 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Vicks QlearQuil All Day And All Night 24 Hour Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=102
+Page 102 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=103
+Page 103 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Smart Sense allergy and congestion relief indoor and outdoor allergies"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=104
+Page 104 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=105
+Page 105 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=106
+Page 106 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=107
+Page 107 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "FormuCare Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=108
+Page 108 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=109
+Page 109 of 319
+        "generic_name": [
+          "PSEUDOEPHEDRINE SULFATE, LORATADINE"
+        "brand_name": [
+          "Good Sense Allergy and Congestion Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=110
+Page 110 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine ODT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=111
+Page 111 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=112
+Page 112 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=113
+Page 113 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Topcare Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=114
+Page 114 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Welby health allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=115
+Page 115 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=116
+Page 116 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=117
+Page 117 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=118
+Page 118 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine OD"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=119
+Page 119 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=120
+Page 120 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=121
+Page 121 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=122
+Page 122 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Being Well Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=123
+Page 123 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Allergy Relief D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=124
+Page 124 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=125
+Page 125 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=126
+Page 126 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=127
+Page 127 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=128
+Page 128 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=129
+Page 129 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=130
+Page 130 of 319
+        "generic_name": [
+          "PSEUDOEPHEDRINE SULFATE, LORATADINE"
+        "brand_name": [
+          "allergy and congestion relief non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=131
+Page 131 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=132
+Page 132 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Wal itin D 12 hour allergy and congestion"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=133
+Page 133 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Hy-Vee Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=134
+Page 134 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=135
+Page 135 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "smart sense allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=136
+Page 136 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "health mart loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=137
+Page 137 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=138
+Page 138 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "up and up allergy plus congestion relief d"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=139
+Page 139 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "CounterAct Allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=140
+Page 140 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=141
+Page 141 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=142
+Page 142 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=143
+Page 143 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=144
+Page 144 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "cleartime"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=145
+Page 145 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=146
+Page 146 of 319
+        "generic_name": [
+          "PSEUDOEPHEDRINE SULFATE, LORATADINE"
+        "brand_name": [
+          "smart sense allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=147
+Page 147 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=148
+Page 148 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=149
+Page 149 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens 24 hour allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=150
+Page 150 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=151
+Page 151 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "equaline Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=152
+Page 152 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Care One Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=153
+Page 153 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=154
+Page 154 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=155
+Page 155 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=156
+Page 156 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Sunmark childrens loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=157
+Page 157 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=158
+Page 158 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=159
+Page 159 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=160
+Page 160 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=161
+Page 161 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=162
+Page 162 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=163
+Page 163 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=164
+Page 164 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin Reditabs"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=165
+Page 165 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=166
+Page 166 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "good sense allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=167
+Page 167 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "good sense allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=168
+Page 168 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "CareOne Allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=169
+Page 169 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Wal itin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=170
+Page 170 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Non-Drowsy Allergy Relief 24-Hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=171
+Page 171 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "harmon face values allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=172
+Page 172 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=173
+Page 173 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "SUNMARK ALLERGY RELIEF"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=174
+Page 174 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine ODT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=175
+Page 175 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=176
+Page 176 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Kirkland Signature AllerClear D 12 hr"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=177
+Page 177 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin Liqui-Gels"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=178
+Page 178 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Moore Medical Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=179
+Page 179 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=180
+Page 180 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "TopCare Allergy Relief D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=181
+Page 181 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Members Mark Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=182
+Page 182 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=183
+Page 183 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "wal itin d non drowsy 24 hour allergy and congestion"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=184
+Page 184 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "LORATADINE"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=185
+Page 185 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Best Choice Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=186
+Page 186 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "allergy relief medication"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=187
+Page 187 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=188
+Page 188 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Smart Sense Allergy Relief non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=189
+Page 189 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Topcare childrens allergy relief 24 hour non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=190
+Page 190 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Calmicid AC Acid Reducer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=191
+Page 191 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Allergy and Congestion Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=192
+Page 192 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=193
+Page 193 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "good neighbor pharmacy loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=194
+Page 194 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=195
+Page 195 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Allergy Dye Free"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=196
+Page 196 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=197
+Page 197 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=198
+Page 198 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Wal itin D non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=199
+Page 199 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=200
+Page 200 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=201
+Page 201 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Harris Teeter Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=202
+Page 202 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=203
+Page 203 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "TopCare Allergy Relief 24 hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=204
+Page 204 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Non-Drowsy 24-Hour Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=205
+Page 205 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief 24 hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=206
+Page 206 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "wal itin d"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=207
+Page 207 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Claritin-D 12 Hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=208
+Page 208 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=209
+Page 209 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=210
+Page 210 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=211
+Page 211 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "good neighbor pharmacy loratadine d"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=212
+Page 212 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=213
+Page 213 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=214
+Page 214 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=215
+Page 215 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=216
+Page 216 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=217
+Page 217 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Live Better Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=218
+Page 218 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=219
+Page 219 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "TopCare Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=220
+Page 220 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Up and Up allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=221
+Page 221 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "topcare clear time"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=222
+Page 222 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "good neighbor pharmacy cleartime"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=223
+Page 223 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Quality Choice Childrens Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=224
+Page 224 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=225
+Page 225 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin Reditabs"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=226
+Page 226 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "ALAVERT ALLERGY SINUS D-12"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=227
+Page 227 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=228
+Page 228 of 319
+        "generic_name": [
+          "LORATADINE 10 MG"
+        "brand_name": [
+          "Family Dollar Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=229
+Page 229 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "ShopRite Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=230
+Page 230 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Wal-itin Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=231
+Page 231 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Allergy Relief d 12"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=232
+Page 232 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=233
+Page 233 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "CareOne Allergy Relief 24 Hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=234
+Page 234 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=235
+Page 235 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=236
+Page 236 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=237
+Page 237 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=238
+Page 238 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief Childrens"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=239
+Page 239 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=240
+Page 240 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=241
+Page 241 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=242
+Page 242 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=243
+Page 243 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "up and up allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=244
+Page 244 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=245
+Page 245 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=246
+Page 246 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=247
+Page 247 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "loratadine d 24 hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=248
+Page 248 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=249
+Page 249 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Help I have allergies"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=250
+Page 250 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Allergy and Congestion Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=251
+Page 251 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Signature Care Allergy and Congestion Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=252
+Page 252 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=253
+Page 253 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=254
+Page 254 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "up and up allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=255
+Page 255 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=256
+Page 256 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Simply Right Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=257
+Page 257 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Sunmark Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=258
+Page 258 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=259
+Page 259 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Equaline Allergy relief non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=260
+Page 260 of 319
+        "generic_name": [
+          "PSEUDOEPHEDRINE SULFATE, LORATADINE"
+        "brand_name": [
+          "Wal itin D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=261
+Page 261 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=262
+Page 262 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=263
+Page 263 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "shoprite allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=264
+Page 264 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "health mart allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=265
+Page 265 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "fad first aid direct allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=266
+Page 266 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Health Mart Pharmacy Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=267
+Page 267 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Smart Sense Allergy and Congestion Relief-D"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=268
+Page 268 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Sound Body Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=269
+Page 269 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=270
+Page 270 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Wal Itin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=271
+Page 271 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "healthy accents allergy and congestion relief 24 hour non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=272
+Page 272 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Medicine Shoppe Allergy Relief D24"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=273
+Page 273 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "equate allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=274
+Page 274 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=275
+Page 275 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine ODT"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=276
+Page 276 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "dg health allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=277
+Page 277 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=278
+Page 278 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Premier Value Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=279
+Page 279 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=280
+Page 280 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=281
+Page 281 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Medicine Shoppe Loratadine Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=282
+Page 282 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "LEADER Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=283
+Page 283 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=284
+Page 284 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Leader Childrens Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=285
+Page 285 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief Childrens"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=286
+Page 286 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=287
+Page 287 of 319
+        "generic_name": [
+          "PSEUDOEPHEDRINE SULFATE, LORATADINE"
+        "brand_name": [
+          "allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=288
+Page 288 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=289
+Page 289 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=290
+Page 290 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "cleartime"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=291
+Page 291 of 319
+        "generic_name": [
+          "PSEUDOEPHEDRINE SULFATE, LORATADINE"
+        "brand_name": [
+          "allergy and congestion relief non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=292
+Page 292 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=293
+Page 293 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Berkley and Jensen Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=294
+Page 294 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=295
+Page 295 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "exchange select allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=296
+Page 296 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=297
+Page 297 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=298
+Page 298 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=299
+Page 299 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "sunmark loratadine d"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=300
+Page 300 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=301
+Page 301 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Sunmark childrens loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=302
+Page 302 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allegy Relief 24 hour non drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=303
+Page 303 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "preferred plus allergy and congestion relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=304
+Page 304 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE"
+        "brand_name": [
+          "health mart allergy and congestion"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=305
+Page 305 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Allergy Relief Non Drowsy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=306
+Page 306 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Healthy accents allergy relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=307
+Page 307 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=308
+Page 308 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "ALAVERT ALLERGY"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=309
+Page 309 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Good Neighbor Pharmacy Childrens Loratadine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=310
+Page 310 of 319
+        "generic_name": [
+          "LORATADINE, PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Good Neighbor Pharmacy loratadine d 24 hour"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=311
+Page 311 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Best Choice Childrens Loratadine Sugar Free"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=312
+Page 312 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin Antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=313
+Page 313 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "childrens allergy"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=314
+Page 314 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Loratadineantihistamine antihistamine"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=315
+Page 315 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "equate Childrens Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=316
+Page 316 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "7 Select Allergy Relief"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=317
+Page 317 of 319
+        "generic_name": [
+          "LORATADINE"
+        "brand_name": [
+          "Claritin"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Loratadine&limit=1&skip=318
+Page 318 of 319
+        "generic_name": [
+          "LORATADINE AND PSEUDOEPHEDRINE SULFATE"
+        "brand_name": [
+          "Loratadine and Pseudoephedrine Sulfate"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,1270 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=0
+Page 0 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Direct Rx"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS SECTION All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating. Excessive dryness of the mouth, blurred vision, urinary difficulty and tachycardia may indicate overdosage."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=1
+Page 1 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE, PHENYL SALICYLATE, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "URAMIT MB"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal - dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Burel Pharmaceuticals, Inc at 1-601-706-9819 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch. Drug Abuse And Dependence A dependence on the use of URAMIT MB(TM) has not been reported and due to the nature of its ingredients, abuse of URAMIT MB(TM) is not expected."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=2
+Page 2 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE, METHENAMINE, PHENYL SALICYLATE, SODIUM PHOSPHATE MONOBASIC, METHYLENE BLUE"
+        "brand_name": [
+          "UR N-C Urinary Antiseptic"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS: This drug should not be used with the following medications because very serious interactions may occur: live influenza virus vaccine, pramlintide. Because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine sulfate because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine sulfate, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine sulfate; antimyasthenics (concurrent use with hyoscyamine sulfate may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). This is not a complete list of all drug interactions. Tell your doctor or pharmacist of all prescription medications prior to use."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Cardiovascular: rapid heartbeat, flushing Central Nervous System: blurred vision, dizziness, drowsiness Genitourinary: difficulty micturition, acute urinary retention Gastrointestinal: dry mouth, nausea and vomiting Respiratory: shortness of breath or trouble breathing Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. The following number does not provide medical advice, but in the U.S. you may report suspected side effects to the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+      "warnings_and_cautions": [
+        "WARNINGS AND PRECAUTIONS: Do not exceed recommended dosage. This drug may make you dizzy or drowsy or cause blurred vision; use caution while driving, using machinery, or doing any activity that requires alertness or clear vision. Limit alcohol consumption. Cross sensitivity and/or related problems - patients intolerant of belladonna alkaloids or salicylates may be intolerant of this medication also. Delay in gastric emptying could complicate the management of gastric ulcers. There have been no studies to establish the safety of prolonged use of this product in humans. No known long-term animal studies have been performed to evaluate carcinogenic potential. Pregnancy: Teratogenic Effects. Pregnancy Category C: Hyoscyamine sulfate and methenamine cross the placenta. Studies have not been done in animals or humans. It is not known whether UR N-C tablets cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. UR N-C tablets should be given to a pregnant woman only if clearly needed. Nursing Mothers: Problems in humans have not been documented; however, methenamine and traces of hyoscyamine sulfate are excreted in breast milk. Accordingly, UR N-C tablets should be given to a lactating woman only if clearly needed. Discuss the risks and benefits with your doctor. Pediatric Use: Infants and young children are especially susceptible to the toxic effect of the belladonna alkaloids (hyoscyamine sulfate). This product contains salicylate, which is related to aspirin. Children and teenagers should not take aspirin, aspirin-containing or aspirin-related medications if they have chickenpox, influenza, or any undiagnosed illness without first consulting a doctor. A rare but serious illness known as Reye's syndrome may occur. This medication is not recommended for children younger than 6 years. Geriatric Use: Kidney function becomes impaired with age. This medication is removed by the kidneys. Therefore, use with caution in elderly patients as they may respond to usual doses of hyoscyamine sulfate with excitement, agitation, drowsiness or confusion."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=3
+Page 3 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Symax Duotab"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic-antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=4
+Page 4 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE AND SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Me-PB-Hyos"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbiturates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angioedema and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions. Adverse Events: To report an adverse event, please contact Method Pharmaceuticals Customer Service at 1-877-250-3427."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=5
+Page 5 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, ANHYDROUS, PHENYL SALICYLATE, METHYLENE BLUE AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "UroAv-81"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS As a result of hyoscyamine's effects on gastrointestinal motility and gastric emptying, absorption of other oral medications may be decreased during concurrent use with this combination medication. Urinary alkalizers and thiazide diuretics: May cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Antimuscarinics: Concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications. Antacids/antidiarrheals: Concurrent use may reduce absorption of hyoscyamine resulting in decreased therapeutic effectiveness. Concurrent use with antacids may cause urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine. Antimyasthenics: Concurrent use with hyoscyamine may further reduce intestinal motility, therefore, caution is recommended. Ketoconazole and hyoscyamine may cause increased gastrointestinal pH. Concurrent administration with hyoscyamine may result in marked reduction in the absorption of ketoconazole. Patients should be advised to take this combination at least 2 hours after ketoconazole. Monoamine oxidase (MAO) inhibitors: Concurrent use with hyoscyamine may intensify antimuscarinic side effects. Opioid (narcotic) analgesics may result in increased risk of severe constipation. Sulfonamides: These drugs may precipitate with formaldehyde in the urine increasing the danger of crystalluria. Patients should be advised that the urine and/or stools may become blue to blue-green as a result of the excretion of methylene blue. Drug Abuse And Dependence A dependence on the use of UroAv-81 Tablets has not been reported and due to the nature of its ingredients, abuse of UroAv-81 Tablets is not expected."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal - dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com ; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=6
+Page 6 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE, METHENAMINE, METHYLENE BLUE, AND SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE"
+        "brand_name": [
+          "INDIOMIN MB"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the exact mechanism of this drug interaction is unknown, methylene blue inhibits the action of monoamine oxidase A— an enzyme responsible for breaking down serotonin in the brain. It is believed that when methylene blue is given to patients taking serotonergic psychiatric medications, high levels of serotonin can build up in the brain, causing toxicity. This is referred to as Serotonin Syndrome. Signs and symptoms of Serotonin Syndrome include mental changes (confusion, hyperactivity, memory problems), muscle twitching, excessive sweating, shivering or shaking, diarrhea, trouble with coordination, and/or fever."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal - dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Burel Pharmaceuticals, Inc at 1-601-706-9819 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=7
+Page 7 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbituates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angiodema and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=8
+Page 8 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE, METHENAMINE, METHYLENE BLUE, PHENYL SALICYLATE, AND SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE"
+        "brand_name": [
+          "URELLE"
+ 
+      "adverse_reactions": [
+        "To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-877-999-8402 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=9
+Page 9 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, ANHYDROUS, PHENYL SALICYLATE, METHYLENE BLUE AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Uro-MP"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS As a result of hyoscyamine's effects on gastrointestinal motility and gastric emptying, absorption of other oral medications may be decreased during concurrent use with this combination medication. Urinary alkalizers and thiazide diuretics: May cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Antimuscarinics: Concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications. Antacids/antidiarrheals: Concurrent use may reduce absorption of hyoscyamine resulting in decreased therapeutic effectiveness. Concurrent use with antacids may cause urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine. Antimyasthenics: Concurrent use with hyoscyamine may further reduce intestinal motility, therefore, caution is recommended. Ketoconazole and hyoscyamine may cause increased gastrointestinal pH. Concurrent administration with hyoscyamine may result in marked reduction in the absorption of ketoconazole. Patients should be advised to take this combination at least 2 hours after ketoconazole. Monoamine oxidase (MAO) inhibitors: Concurrent use with hyoscyamine may intensify antimuscarinic side effects. Opioid (narcotic) analgesics may result in increased risk of severe constipation. Sulfonamides: These drugs may precipitate with formaldehyde in the urine increasing the danger of crystalluria. Patients should be advised that the urine and/or stools may become blue to blue-green as a result of the excretion of methylene blue. Drug Abuse And Dependence A dependence on the use of Uro-MP Capsules has not been reported and due to the nature of its ingredients, abuse of Uro-MP Capsules is not expected."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal -dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Method Pharmaceuticals, LLC at (877) 250-3427."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=10
+Page 10 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Tablets, USP before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=11
+Page 11 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal Extentabs"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness: insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbituates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angioedema and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=12
+Page 12 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE MONOBASIC, PHENYL SALICYLATE, METHYLENE BLUE, HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "UTA"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Cardiovascular -rapid pulse, flushing Central Nervous system -blurred vision, dizziness Respiratory -shortness of breath or trouble breathing Genitourinary -difficult micturition, acute urinary retention Gastrointestinal -dry mouth, nausea/vomiting"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=13
+Page 13 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, ANHYDROUS, PHENYL SALICYLATE, METHYLENE BLUE AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Uro-L"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS As a result of hyoscyamine's effects on gastrointestinal motility and gastric emptying, absorption of other oral medications may be decreased during concurrent use with this combination medication. Urinary alkalizers and thiazide diuretics: May cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Antimuscarinics: Concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications. Antacids/antidiarrheals: Concurrent use may reduce absorption of hyoscyamine resulting in decreased therapeutic effectiveness. Concurrent use with antacids may cause urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine. Antimyasthenics: Concurrent use with hyoscyamine may further reduce intestinal motility, therefore, caution is recommended. Ketoconazole and hyoscyamine may cause increased gastrointestinal pH. Concurrent administration with hyoscyamine may result in marked reduction in the absorption of ketoconazole. Patients should be advised to take this combination at least 2 hours after ketoconazole. Monoamine oxidase (MAO) inhibitors: Concurrent use with hyoscyamine may intensify antimuscarinic side effects. Opioid (narcotic) analgesics may result in increased risk of severe constipation. Sulfonamides: These drugs may precipitate with formaldehyde in the urine increasing the danger of crystalluria. Patients should be advised that the urine and/or stools may become blue to blue-green as a result of the excretion of methylene blue. Drug Abuse And Dependence A dependence on the use of Uro-L Tablets has not been reported and due to the nature of its ingredients, abuse of Uro-L Tablets is not expected."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal - dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Method Pharmaceuticals, LLC at (877) 250-3427."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=14
+Page 14 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Phenohytro"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbiturates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angioedema and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions. To report SUSPECTED ADVERSE REACTIONS, contact Winder Laboratories, LLC at 1-770-307-0702 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=15
+Page 15 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating. To report suspected adverse reactions, contact Virtus Pharmaceuticals OPCO II, LLC at 1-855-255-6076 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=16
+Page 16 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE EXTENDED-RELEASE"
+        "brand_name": [
+          "Hyoscyamine Sulfate Extended-Release"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=17
+Page 17 of 94
+        "generic_name": [
+          "METHENAMINE, BENZOIC ACID, PHENYL SALICYLATE, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyophen"
+ 
+      "drug_interactions": [
+        "Drug interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the Methylene blue."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: rapid heartbeat, flushing Central Nervous System: blurred vision, dizziness, drowsiness Genitourinary: difficult micturition, acute urinary retention Gastrointestinal: dry mouth, nausea and vomiting Respiratory: shortness of breath or trouble breathing Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Stellar Pharmacal at 1-800-845-7827 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch. Drug interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the Methylene blue."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=18
+Page 18 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "OSCIMIN"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic-antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=19
+Page 19 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "OSCIMIN"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic-antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=20
+Page 20 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Levsin"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when Levsin(R) is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of Levsin(R). Administer Levsin(R) before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=21
+Page 21 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "UROGESIC BLUE"
+ 
+      "drug_interactions": [
+        "Drug Interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde) doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) Inhibitors (concurrent use may intensify antimuscarinic side effects, opoid (narcotic) analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue green and the feces may be discolored as a result of the excretion of methylene blue."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness Respiratory - shortness of breath or troubled breathing Genitourinary - difficulty micturition, acute urinary retention Gastrointestinal - dry mouth, nausea/vomiting"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=22
+Page 22 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyosyne"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=23
+Page 23 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=24
+Page 24 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine"
+ 
+      "drug_interactions": [
+        "Drug Interactions Pregnancy Category C Animal reproduction studies have not been conducted with this product. It is also not known whether this product can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Hyoscyamine crosses the placenta. This product should be given to a pregnant woman only if clearly needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for Hyoscyamine Sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=25
+Page 25 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Tablets, USP before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=26
+Page 26 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE, METHENAMINE, METHYLENE BLUE, PHENYL SALICYLATE, AND SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE"
+        "brand_name": [
+          "AZUPHEN MB"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the exact mechanism of this drug interaction is unknown, methylene blue inhibits the action of monoamine oxidase A— an enzyme responsible for breaking down serotonin in the brain. It is believed that when methylene blue is given to patients taking serotonergic psychiatric medications, high levels of serotonin can build up in the brain, causing toxicity. This is referred to as Serotonin Syndrome. Signs and symptoms of Serotonin Syndrome include mental changes (confusion, hyperactivity, memory problems), muscle twitching, excessive sweating, shivering or shaking, diarrhea, trouble with coordination, and/or fever."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal - dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Burel Pharmaceuticals, Inc at 1-601-706-9819 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=27
+Page 27 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, ANHYDROUS, PHENYL SALICYLATE, METHYLENE BLUE AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "UroAv-B"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS As a result of hyoscyamine's effects on gastrointestinal motility and gastric emptying, absorption of other oral medications may be decreased during concurrent use with this combination medication. Urinary alkalizers and thiazide diuretics: May cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Antimuscarinics: Concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications. Antacids/antidiarrheals: Concurrent use may reduce absorption of hyoscyamine resulting in decreased therapeutic effectiveness. Concurrent use with antacids may cause urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine. Antimyasthenics: Concurrent use with hyoscyamine may further reduce intestinal motility, therefore, caution is recommended. Ketoconazole and hyoscyamine may cause increased gastrointestinal pH. Concurrent administration with hyoscyamine may result in marked reduction in the absorption of ketoconazole. Patients should be advised to take this combination at least 2 hours after ketoconazole. Monoamine oxidase (MAO) inhibitors: Concurrent use with hyoscyamine may intensify antimuscarinic side effects. Opioid (narcotic) analgesics may result in increased risk of severe constipation. Sulfonamides: These drugs may precipitate with formaldehyde in the urine increasing the danger of crystalluria. Patients should be advised that the urine and/or stools may become blue to blue-green as a result of the excretion of methylene blue. Drug Abuse And Dependence A dependence on the use of UroAv-B Capsules has not been reported and due to the nature of its ingredients, abuse of UroAv-B Capsules is not expected."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal -dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch ."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=28
+Page 28 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE EXTENDED-RELEASE"
+        "brand_name": [
+          "Hyoscyamine Sulfate Extended-Release"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=29
+Page 29 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE MONOBASIC, METHYLENE BLUE, HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "UTA"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Please report Adverse Reactions to SJ Pharmaceuticals; Attention: Adverse Reactions; 4200 Northside Parkway NW, Building 12, Atlanta, GA 30327. (877) 604-7575 Cardiovascular -rapid pulse, flushing Central Nervous system -blurred vision, dizziness Respiratory -shortness of breath or trouble breathing Genitourinary -difficult micturition, acute urinary retention Gastrointestinal -dry mouth, nausea/vomiting"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=30
+Page 30 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal"
+ 
+      "drug_interactions": [
+        "Drug Interactions Phenobarbital may decrease the effect of anticoagulants, and necessitate larger doses of the anticoagulant for optimal effect. When the phenobarbital is discontinued, the dose of the anticoagulant may have to be decreased."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria, and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbiturates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angioedema, and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Phenobarbital may produce excitement in some patients, rather than a sedative effect. To report SUSPECTED ADVERSE REACTIONS, contact Concordia Pharmaceuticals Inc. at 1-877-370-1142 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=31
+Page 31 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "OSCIMIN"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic-antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=32
+Page 32 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbituates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angiodema and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=33
+Page 33 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE, METHENAMINE, METHYLENE BLUE, PHENYL SALICYLATE, AND SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE"
+        "brand_name": [
+          "HYOLEV MB"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the exact mechanism of this drug interaction is unknown, methylene blue inhibits the action of monoamine oxidase A— an enzyme responsible for breaking down serotonin in the brain. It is believed that when methylene blue is given to patients taking serotonergic psychiatric medications, high levels of serotonin can build up in the brain, causing toxicity. This is referred to as Serotonin Syndrome. Signs and symptoms of Serotonin Syndrome include mental changes (confusion, hyperactivity, memory problems), muscle twitching, excessive sweating, shivering or shaking, diarrhea, trouble with coordination, and/or fever."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal - dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Burel Pharmaceuticals, Inc at 1-601-706-9819 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=34
+Page 34 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "HYOSCYAMINE SULFATE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=35
+Page 35 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "QUADRAPAX"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions associated with anticholinergics and/or anticonvulsants are: dry mouth; tachycardia; urinary hesitancy and retention; palpitation; blurred vision; prolonged pupil dilation; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, hives and/or other dermal manifestations; decreased sweating; impotence; suppression of lactation; constipation; bloated feeling and musculoskeletal pain. Elderly patients may react with symptoms of excitement, agitation and drowsiness to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=36
+Page 36 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE, PHENYL SALICYLATE, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Urin D/S"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Drug Interactions - because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the Methylene blue."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid heartbeat, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or trouble breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal - dry mouth, nausea and vomiting"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=37
+Page 37 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE, METHENAMINE, METHYLENE BLUE, PHENYL SALICYLATE, AND BENZOIC ACID"
+        "brand_name": [
+          "UROPHEN MB"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the exact mechanism of this drug interaction is unknown, methylene blue inhibits the action of monoamine oxidase A— an enzyme responsible for breaking down serotonin in the brain. It is believed that when methylene blue is given to patients taking serotonergic psychiatric medications, high levels of serotonin can build up in the brain, causing toxicity. This is referred to as Serotonin Syndrome. Signs and symptoms of Serotonin Syndrome include mental changes (confusion, hyperactivity, memory problems), muscle twitching, excessive sweating, shivering or shaking, diarrhea, trouble with coordination, and/or fever."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal - dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Burel Pharmaceuticals, Inc at 1-601-706-9819 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=38
+Page 38 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "HYOSCYAMINE SULFATE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=39
+Page 39 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Sublingual Tablets before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=40
+Page 40 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbituates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angiodema and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=41
+Page 41 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic- antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=42
+Page 42 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "QUADRAPAX"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions associated with anticholinergics and/or anticonvulsants are: dry mouth; tachycardia; urinary hesitancy and retention; palpitation; blurred vision; prolonged pupil dilation; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, hives and/or other dermal manifestations; decreased sweating; impotence; suppression of lactation; constipation; bloated feeling and musculoskeletal pain. Elderly patients may react with symptoms of excitement, agitation and drowsiness to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=43
+Page 43 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "hyoscyamine sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=44
+Page 44 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Sublingual Tablets before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=45
+Page 45 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "OSCIMIN"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic-antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=46
+Page 46 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbituates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angiodema and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=47
+Page 47 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbituates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angiodema and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions. To report SUSPECTED ADVERSE REACTIONS, contact AvKARE, Inc. at 1-855-361-3993 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=48
+Page 48 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate sl"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Additive adverse effects resulting from cholinergic blockade may occur when Hyoscyamine Sulfate SL Tablets 0.125 mg are administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of Hyoscyamine Sulfate. Administer Hyoscyamine Sulfate SL Tablets 0.125 mg before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with Hyoscyamine Sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and deceased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=49
+Page 49 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=50
+Page 50 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=51
+Page 51 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyosyne"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=52
+Page 52 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE EXTENDED-RELEASE"
+        "brand_name": [
+          "Hyoscyamine Sulfate Extended-Release"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=53
+Page 53 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE MONOBASIC, PHENYL SALICYLATE, METHYLENE BLUE, HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Utira-C"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: rapid heartbeat, flushing Central Nervous System: blurred vision, dizziness, drowsiness Genitourinary: difficult micturition, acute urinary retention Gastrointestinal: dry mouth, nausea and vomiting Respiratory: shortness of breath or trouble breathing Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Mission Pharmacal at 1-800-845-7827 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch. Drug interactions - As a result of hyoscyamine's effects on gastrointestinal motility and gastric emptying, absorption of other oral medications may be decreased during concurrent use with this combination medication. Urinary alkalizers and thiazide diuretics: May cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Antimuscarinics: Concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications. Antacids/antidiarrheals: Concurrent use may reduce absorption of hyoscyamine resulting in decreased therapeutic effectiveness. Concurrent use with antacids may cause urine to become alkaline reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde. Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine. Antimyasthenics: Concurrent use with hyoscyamine may further reduce intestinal motility, therefore caution is recommended. Ketoconazole and hyoscyamine may cause increased gastrointestinal pH. Concurrent administration with hyoscyamine may result in marked reduction in the absorption of ketaconazole. Patients should be advised to take this combination at least 2 hours after ketoconazole. Monoamine oxidase (MAO) inhibitors: Concurrent use with hyoscyamine may intensify antimuscarinic side effects. Opioid (narcotic) analgesics may result in increased risk of severe constipation. Sulfonamides: These drugs may precipitate with formaldehyde in the urine increasing the danger of crystalluria. Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the methylene blue."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=54
+Page 54 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "NuLev"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when NuLev(R) is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer NuLev(R) before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=55
+Page 55 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic- antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=56
+Page 56 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Symax SL"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic- antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=57
+Page 57 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Tablets, USP before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=58
+Page 58 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE, PHENYL SALICYLATE, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Phosphasal"
+ 
+      "drug_interactions": [
+        "Drug interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the Methylene blue."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: rapid heartbeat, flushing Central Nervous System: blurred vision, dizziness, drowsiness Genitourinary: difficult micturition, acute urinary retention Gastrointestinal: dry mouth, nausea and vomiting Respiratory: shortness of breath or trouble breathing Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Stellar Pharmacal at 1-800-845-7827 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch. Drug interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the Methylene blue."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=59
+Page 59 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE, PHENYL SALICYLATE, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Urimar-T"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS As a result of hyoscyamine's effects on gastrointestinal motility and gastric emptying, absorption of other oral medications may be decreased during concurrent use with this combination medication. Urinary alkalizers and thiazide diuretics May cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Antimuscarinics Concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications. Antacids/antidiarrheals Concurrent use may reduce absorption of hyoscyamine resulting in decreased therapeutic effectiveness. Concurrent use with antacids may cause urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde. Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine. Antimyasthenics Concurrent use with hyoscyamine may further reduce intestinal motility, therefore, caution is recommended. Ketoconazole and hyoscyamine may cause increased gastrointestinal pH. Concurrent administration with hyoscyamine may result in marked reduction in the absorption of ketoconazole. Patients should be advised to take this combination at least 2 hours after ketoconazole. Monoamine oxidase (MAO) inhibitors Concurrent use with hyoscyamine may intensify antimuscarinic side effects. Opioid (narcotic) analgesics may result in increased risk of severe constipation. Sulfonamides These drugs may precipitate with formaldehyde in the urine increasing the danger of crystalluria. Patients should be advised that the urine and/or stools may become blue to blue-green as a result of the excretion of methylene blue. Drug Abuse And Dependence A dependence on the use of URIMAR-T(TM) has not been reported and due to the nature of its ingredients, abuse of URIMAR T(TM) is not expected."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal -dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Marnel Pharmaceutical, Inc. at 337-232-1396, or FDA at 1-800-FDA-1088, www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=60
+Page 60 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "SE-DONNA PB HYOS"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions associated with anticholinergics and/or anticonvulsants are: dry mouth; tachycardia; urinary hesitancy and retention; palpitation; blurred vision; prolonged pupil dilation; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, hives and/or other dermal manifestations; decreased sweating; impotence; suppression of lactation; constipation; bloated feeling and musculoskeletal pain. Elderly patients may react with symptoms of excitement, agitation and drowsiness to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=61
+Page 61 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=62
+Page 62 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate SL"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=63
+Page 63 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Sublingual Tablets before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=64
+Page 64 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal"
+ 
+      "drug_interactions": [
+        "Drug Interactions Phenobarbital may decrease the effect of anticoagulants, and necessitate larger doses of the anticoagulant for optimal effect. When the phenobarbital is discontinued, the dose of the anticoagulant may have to be decreased."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria, and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbiturates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angioedema, and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Phenobarbital may produce excitement in some patients, rather than a sedative effect. To report SUSPECTED ADVERSE REACTIONS, contact Concordia Pharmaceuticals Inc. at 1-877-370-1142 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=65
+Page 65 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate SL"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating. To report suspected adverse reactions, contact Virtus Pharmaceuticals, OPCO II, LLC at 1-855-255-6076 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=66
+Page 66 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Tablets, USP before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=67
+Page 67 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Symax SR"
+ 
+      "drug_interactions": [
+        "Drug Interactions Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic- antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=68
+Page 68 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE EXTENDED-RELEASE"
+        "brand_name": [
+          "Hyoscyamine Sulfate Extended-Release"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=69
+Page 69 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE, METHENAMINE, METHYLENE BLUE, PHENYL SALICYLATE, AND SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE"
+        "brand_name": [
+          "Urelle"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the exact mechanism of this drug interaction is unknown, methylene blue inhibits the action of monoamine oxidase A— an enzyme responsible for breaking down serotonin in the brain. It is believed that when methylene blue is given to patients taking serotonergic psychiatric medications, high levels of serotonin can build up in the brain, causing toxicity. This is referred to as Serotonin Syndrome. Signs and symptoms of Serotonin Syndrome include mental changes (confusion, hyperactivity, memory problems), muscle twitching, excessive sweating, shivering or shaking, diarrhea, trouble with coordination, and/or fever."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=70
+Page 70 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "UROGESIC BLUE"
+ 
+      "drug_interactions": [
+        "Drug Interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde) doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) Inhibitors (concurrent use may intensify antimuscarinic side effects, opoid (narcotic) analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue green and the feces may be discolored as a result of the excretion of methylene blue."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness Respiratory - shortness of breath or troubled breathing Genitourinary - difficulty micturition, acute urinary retention Gastrointestinal - dry mouth, nausea/vomiting"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=71
+Page 71 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE AND SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Me-PB-Hyos"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions. Adverse Events: To report an adverse event, please contact Method Pharmaceuticals Customer Service at 1-877-250-3427."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=72
+Page 72 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Sublingual Tablets before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=73
+Page 73 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE, PHENYL SALICYLATE, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Ustell"
+ 
+      "drug_interactions": [
+        "Drug interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the Methylene blue."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: rapid heartbeat, flushing Central Nervous System: blurred vision, dizziness, drowsiness Genitourinary: difficult micturition, acute urinary retention Gastrointestinal: dry mouth, nausea and vomiting Respiratory: shortness of breath or trouble breathing Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Stellar Pharmacal at 1-800-845-7827 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch. Drug interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the Methylene blue."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=74
+Page 74 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Levsin"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when Levsin(R) is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=75
+Page 75 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbituates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angiodema and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=76
+Page 76 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine"
+ 
+      "drug_interactions": [
+        "Drug Interactions Pregnancy Category C Animal reproduction studies have not been conducted with this product. It is also not known whether this product can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Hyoscyamine crosses the placenta. This product should be given to a pregnant woman only if clearly needed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=77
+Page 77 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Tablets, USP before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=78
+Page 78 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=79
+Page 79 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "ANASPAZ"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all the following adverse reactions have been associated with ANASPAZ, but have been reported for drugs in the same pharmacological class, with anticholinergic / antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy, urinary retention, tachycardia, palpitations, blurred vision, mydriasis, cycloplegia, increased intraocular pressure, dry eyes, headache, nervousness, drowsiness, dizziness, weakness, mental confusion and/or excitement (especially in geriatric patients), flushing, insomnia, fever, altered sense of taste, nausea, vomiting, dysphagia, heartburn, constipation, bloated feeling, suppression of lactation, impotence, and decreased sweating. Allergic reactions or drug idiosyncrasies such as anaphylaxis, urticaria and other dermal manifestations may also occur."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=80
+Page 80 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "UROLET MB"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Although the exact mechanism of this drug interaction is unknown, methylene blue inhibits the action of monoamine oxidase A— an enzyme responsible for breaking down serotonin in the brain. It is believed that when methylene blue is given to patients taking serotonergic psychiatric medications, high levels of serotonin can build up in the brain, causing toxicity. This is referred to as Serotonin Syndrome. Signs and symptoms of Serotonin Syndrome include mental changes (confusion, hyperactivity, memory problems), muscle twitching, excessive sweating, shivering or shaking, diarrhea, trouble with coordination, and/or fever."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness, drowsiness Respiratory - shortness of breath or troubled breathing Genitourinary - difficult micturition, acute urinary retention Gastrointestinal - dry mouth, nausea and vomiting Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Burel Pharmaceuticals, Inc at 1-601-706-9819 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=81
+Page 81 of 94
+        "generic_name": [
+          "PHENOBARBITAL, HYOSCYAMINE SULFATE, ATROPINE SULFATE, SCOPOLAMINE HYDROBROMIDE"
+        "brand_name": [
+          "Donnatal"
+ 
+      "drug_interactions": [
+        "Drug Interactions Phenobarbital may decrease the effect of anticoagulants, and necessitate larger doses of the anticoagulant for optimal effect. When the phenobarbital is discontinued, the dose of the anticoagulant may have to be decreased."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria, and other dermal manifestations; and decreased sweating. Acquired hypersensitivity to barbiturates consists chiefly in allergic reactions that occur especially in persons who tend to have asthma, urticaria, angioedema, and similar conditions. Hypersensitivity reactions in this category include localized swelling, particularly of the eyelids, cheeks, or lips, and erythematous dermatitis. Rarely, exfoliative dermatitis (e.g. Stevens-Johnson syndrome and toxic epidermal necrolysis) may be caused by phenobarbital and can prove fatal. The skin eruption may be associated with fever, delirium, and marked degenerative changes in the liver and other parenchymatous organs. In a few cases, megaloblastic anemia has been associated with the chronic use of phenobarbital. Phenobarbital may produce excitement in some patients, rather than a sedative effect. To report SUSPECTED ADVERSE REACTIONS, contact Concordia Pharmaceuticals Inc. at 1-877-370-1142 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=82
+Page 82 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Levbid"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when Levbid(R) is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of Levbid(R)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=83
+Page 83 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Tablets, USP before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=84
+Page 84 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "ED-SPAZ"
+ 
+      "drug_interactions": [
+        "Drug Interactions Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer hyoscyamine sulfate before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=85
+Page 85 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Levsin SL"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when Levsin(R)/SL is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of Levsin(R)/SL. Administer Levsin(R)/SL before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=86
+Page 86 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Orally Disintegrating Tablets before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=87
+Page 87 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "UROGESIC BLUE"
+ 
+      "drug_interactions": [
+        "Drug Interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde) doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) Inhibitors (concurrent use may intensify antimuscarinic side effects, opoid (narcotic) analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue green and the feces may be discolored as a result of the excretion of methylene blue."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular - rapid pulse, flushing Central Nervous System - blurred vision, dizziness Respiratory - shortness of breath or troubled breathing Genitourinary - difficulty micturition, acute urinary retention Gastrointestinal - dry mouth, nausea/vomiting"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=88
+Page 88 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate SL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS All of the following adverse reactions have been reported with hyoscyamine sulfate. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=89
+Page 89 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Sublingual Tablets before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=90
+Page 90 of 94
+        "generic_name": [
+          "METHENAMINE, SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE, PHENYL SALICYLATE, METHYLENE BLUE, AND HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "URIBEL"
+ 
+      "drug_interactions": [
+        "Drug interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the Methylene blue."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: rapid heartbeat, flushing Central Nervous System: blurred vision, dizziness, drowsiness Genitourinary: difficulty micturition, acute urinary retention Gastrointestinal: dry mouth, nausea and vomiting Respiratory: shortness of breath or trouble breathing Serious allergic reactions to this drug are rare. Seek immediate medical attention if you notice symptoms of a serious allergic reaction, including itching, rash, severe dizziness, swelling or trouble breathing. This medication can cause urine and sometimes stools to turn blue to blue-green. This effect is harmless and will subside after medication is stopped. Call your doctor or physician for medical advice about side effects. To report SUSPECTED ADVERSE REACTIONS, contact Star Pharmaceuticals, LLC at 1-800-845-7827 or FDA at 1-800-FDA-1088, www.fda.gov/medwatch. Drug interactions because of this product's effect on gastrointestinal motility and gastric emptying, it may decrease the absorption of other oral medications during concurrent use such as: urinary alkalizers; thiazide diuretics (may cause the urine to become alkaline reducing the effectiveness of methenamine by inhibiting its conversion to formaldehyde); antimuscarinics (concurrent use may intensify antimuscarinic effects of hyoscyamine because of secondary antimuscarinic activities of these medications); antacids/antidiarrheals (may reduce absorption of hyoscyamine, concurrent use with antacids may cause urine to become alkaline, reducing effectiveness of methenamine by inhibiting its conversion to formaldehyde). Doses of these medications should be spaced 1 hour apart from doses of hyoscyamine; antimyasthenics (concurrent use with hyoscyamine may further reduce intestinal motility); ketoconazole (patients should be advised to take this combination at least 2 hours after ketoconazole); monoamine oxidase (MAO) inhibitors (concurrent use may intensify antimuscarinic side effects), opioid (narcotic analgesics may result in increased risk of severe constipation); sulfonamides (these drugs may precipitate with formaldehyde in the urine, increasing the danger of crystalluria). Patients should be advised that the urine may become blue to blue-green and the feces may be discolored as a result of the excretion of the Methylene blue."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=91
+Page 91 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic- antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=92
+Page 92 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Additive adverse effects resulting from cholinergic blockade may occur when hyoscyamine sulfate is administered concomitantly with other antimuscarinics, amantadine, haloperidol, phenothiazines, monoamine oxidase (MAO) inhibitors, tricyclic antidepressants or some antihistamines. Antacids may interfere with the absorption of hyoscyamine sulfate. Administer Hyoscyamine Sulfate Sublingual Tablets before meals; antacids after meals."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The following adverse reactions have been reported for hyoscyamine sulfate and for pharmacologically similar drugs with anticholinergic/antispasmodic action. Adverse reactions may include dryness of the mouth; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; fatigue; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; abdominal pain; diarrhea; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); short-term memory loss; hallucinations; and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hyoscyamine&limit=1&skip=93
+Page 93 of 94
+        "generic_name": [
+          "HYOSCYAMINE SULFATE"
+        "brand_name": [
+          "Hyoscyamine Sulfate"
+ 
+      "drug_interactions": [
+        "Drug Interactions Absorption of other oral medications may be decreased during concurrent use with anticholinergics due to decreased gastrointestinal motility and delayed gastric emptying. Drug interactions may occur when anticholinergics are used with the following medications: antacids, antidiarrheals (adsorbent), other anticholinergics, antimyasthenics, cyclopropane, haloperidol, ketoconazole, metoclopramide, opioid (narcotic) analgesics, and potassium chloride."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Not all of the following adverse reactions have been reported with hyoscyamine sulfate. The following adverse reactions have been reported for pharmacologically similar drugs with anticholinergic- antispasmodic action. Adverse reactions may include dryness of the mouth, urinary hesitancy and retention; blurred vision; tachycardia; palpitations; mydriasis; cycloplegia; increased ocular tension; loss of taste; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; allergic reactions or drug idiosyncrasies; urticaria and other dermal manifestations; ataxia; speech disturbance; some degree of mental confusion and/or excitement (especially in elderly persons); and decreased sweating."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

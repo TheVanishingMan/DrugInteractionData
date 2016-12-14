@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Armour+AND+Thyroid&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "ARMOUR THYROID"
+        "brand_name": [
+          "Armour thyroid"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period, are rare (SeeOVERDOSAGE)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

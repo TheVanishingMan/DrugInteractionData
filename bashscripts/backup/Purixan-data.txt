@@ -1,0 +1,16 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Purixan&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "PURIXAN"
+        "brand_name": [
+          "PURIXAN"
+ 
+      "drug_interactions": [
+        "7. DRUG INTERACTIONS Allopurinol: Avoid use (7.1) Warfarin: PURIXAN may inhibit the anticoagulant effect. (7.2) Certain drugs have been shown to interact with PURIXAN through pharmacokinetic and pharmacodynamic mechanisms. Interactions known to decrease the clearance of PURIXAN include inhibition of first-pass oxidative metabolism by xanthine oxidase and inhibition of thiopurine methyltransferase (TPMT). Consult the labeling of all concurrently used drugs to obtain further information about drug interactions with PURIXAN."
+      "adverse_reactions": [
+        "6. ADVERSE REACTIONS The most frequent adverse reaction (> 20% of patients) is myelosupression including anemia, neutropenia, and thrombocytopenia. Less common (5-20% of patients) adverse reactions include elevated transaminases, elevated bilirubin, intestinal ulceration, nausea, vomiting, anorexia, diarrhea and rashes. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Rare Disease Therapeutics, Inc., at 1 888-470-0904 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. The following serious adverse reactions are described elsewhere in the prescribing information: Myelosuppression [ see Warnings and Precautions (5.1) ] Hepatotoxicity [ see Warnings and Precautions (5.2) ] Immunosuppression [ see Warnings and Precautions (5.3) ] Embryo-Fetal Toxicity [ see Warnings and Precautions (5.4) ] Treatment Related Malignancies [ see Warnings and Precautions (5.5) ]"
+      "warnings_and_cautions": [
+        "5. WARNINGS AND PRECAUTIONS Myelosuppression: Monitor complete blood count (CBC) and adjust the dose of PURIXAN for severe neutropenia and thrombocytopenia. Evaluate patients with repeated severe myelosuppression for thiopurine S-methyltransferase (TPMT) deficiency. Patients with homozygous-TPMT deficiency require substantial dose reductions of PURIXAN. (5.1) Hepatotoxicity: Monitor transaminases and bilirubin. Hold or adjust the dose of PURIXAN. (5.2) Immunosuppression: Due to the immunosuppression associated with maintenance chemotherapy for ALL, response to all vaccines may be diminished and there is a risk of infection with live virus vaccines. Consult immunization guidelines for immunocompromised children. (5.3) Embryo-fetal toxicity: PURIXAN can cause fetal harm. Advise women of potential risk to a fetus. (5.4)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

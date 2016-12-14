@@ -1,0 +1,100 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dobutamine&limit=1&skip=0
+Page 0 of 8
+        "generic_name": [
+          "DOBUTAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dobutamine Hydrochloride in Dextrose"
+ 
+      "drug_interactions": [
+        "Drug Interactions There was no evidence of drug interactions in clinical studies in which dobutamine was administered concurrently with other drugs, including digitalis preparations, furosemide, spironolactone, lidocaine, glyceryl trinitrate, isosorbide dinitrate, morphine, atropine, heparin, protamine, potassium chloride, folic acid, and acetaminophen. Preliminary studies indicate that the concomitant use of dobutamine and nitroprusside results in a higher cardiac output and, usually, a lower pulmonary wedge pressure than when either drug is used alone."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity A 10 to 20-mm Hg increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see Warnings regarding exaggerated chronotropic and pressor effects). Approximately 5% of adult patients have had increased premature ventricular beats during infusions. These effects are dose related. Hypotension Precipitous decreases in blood pressure have occasionally been described in association with dobutamine therapy. Decreasing the dose or discontinuing the infusion typically results in rapid return of blood pressure to baseline values. In rare cases, however, intervention may be required and reversibility may not be immediate. Reactions at Sites of Intravenous Infusion Phlebitis has occasionally been reported. Local inflammatory changes have been described following inadvertent infiltration. Miscellaneous Uncommon Effects The following adverse effects have been reported in 1% to 3% of adult patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath. Administration of dobutamine, like other catecholamines, has been associated with decreases in serum potassium concentrations, rarely to hypokalemic values."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dobutamine&limit=1&skip=1
+Page 1 of 8
+        "generic_name": [
+          "DOBUTAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOBUTamine Hydrochloride in Dextrose"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity: A 10- to 20-mm Hg increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see WARNINGS regarding exaggerated chronotropic and pressor effects). Approximately 5% of adult patients have had increased premature ventricular beats during infusions. These effects are dose related. Hypotension: Precipitous decreases in blood pressure have occasionally been described in association with dobutamine therapy. Decreasing the dose or discontinuing the infusion typically results in rapid return of blood pressure to baseline values. In rare cases, however, intervention may be required and reversibility may not be immediate. Reactions at Sites of Intravenous Infusion: Phlebitis has occasionally been reported. Local inflammatory changes have been described following inadvertent infiltration. Miscellaneous Uncommon Effects: The following adverse effects have been reported in 1% to 3% of adult patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath. Administration of dobutamine, like other catecholamines, has been associated with decreases in serum potassium concentrations, rarely to hypokalemic values (See PRECAUTIONS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dobutamine&limit=1&skip=2
+Page 2 of 8
+        "generic_name": [
+          "DOBUTAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dobutamine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity— A 10- to 20-mm increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see WARNINGS regarding exaggerated chronotropic and pressor effects). Approximately 5% of patients have had increased premature ventricular beats during infusions. These effects are dose related. Hypotension— Precipitous decreases in blood pressure have occasionally been described in association with dobutamine therapy. Decreasing the dose or discontinuing the infusion typically results in rapid return of blood pressure to baseline values. In rare cases, however, intervention may be required and reversibility may not be immediate. Reactions at Sites of Intravenous Infusion— Phlebitis has occasionally been reported. Local inflammatory changes have been described following inadvertent infiltration. Isolated cases of cutaneous necrosis (destruction of skin tissue) have been reported. Miscellaneous Uncommon Effects— The following adverse effects have been reported in 1% to 3% of patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath. Isolated cases of thrombocytopenia have been reported. Administration of dobutamine, like other catecholamines, can produce a mild reduction in serum potassium concentration, rarely to hypokalemic levels (see PRECAUTIONS). Longer-Term Safety— Infusions of up to 72 hours have revealed no adverse effects other than those seen with shorter infusions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dobutamine&limit=1&skip=3
+Page 3 of 8
+        "generic_name": [
+          "DOBUTAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dobutamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity: A 10- to 20-mm increase in systolic blood pressure and an increase in heart rate of 5 to15 beats/minute have been noted in most patients (see WARNINGS regarding exaggerated chronotropic and pressor effects). Approximately 5% of patients have had increased premature ventricular beats during infusions. These effects are dose related. Hypotension: Precipitous decreases in blood pressure have occasionally been described in association with dobutamine therapy. Decreasing the dose or discontinuing the infusion typically results in rapid return of blood pressure to baseline values. In rare cases, however, intervention may be required and reversibility may not be immediate. Reactions at Sites of Intravenous Infusion: Phlebitis has occasionally been reported. Local inflammatory changes have been described following inadvertent infiltration. Miscellaneous Uncommon Effects: The following adverse effects have been reported in 1% to 3% ofpatients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath. Administration of dobutamine, like other catecholamines, has been associated with decreases in serum potassium concentrations, rarely to hypokalemic levels (See PRECAUTIONS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dobutamine&limit=1&skip=4
+Page 4 of 8
+        "generic_name": [
+          "DOBUTAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOBUTamine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity — A 10- to 20-mm increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see WARNINGS regarding exaggerated chronotropic and pressor effects). Approximately 5% of patients have had increased premature ventricular beats during infusions. These effects are dose related. Hypotension — Precipitous decreases in blood pressure have occasionally been described in association with dobutamine therapy. Decreasing the dose or discontinuing the infusion typically results in rapid return of blood pressure to baseline values. In rare cases, however, intervention may be required and reversibility may not be immediate. Reactions at Sites of Intravenous Infusion — Phlebitis has occasionally been reported. Local inflammatory changes have been described following inadvertent infiltration. Isolated cases of cutaneous necrosis (destruction of skin tissue) have been reported. Miscellaneous Uncommon Effects — The following adverse effects have been reported in 1% to 3% of patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath. Isolated cases of thrombocytopenia have been reported. Administration of dobutamine, like other catecholamines, can produce a mild reduction in serum potassium concentration, rarely to hypokalemic levels (see PRECAUTIONS). Longer-Term Safety — Infusions of up to 72 hours have revealed no adverse effects other than those seen with shorter infusions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dobutamine&limit=1&skip=5
+Page 5 of 8
+        "generic_name": [
+          "DOBUTAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Dobutamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "Adverse Reactions Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity A 10- to 20-mm increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see WARNINGS regarding exaggerated chronotropic and pressor effects). Approximately 5% of patients have had increased premature ventricular beats during infusions. These effects are dose related. Hypotension Precipitous decreases in blood pressure have occasionally been described in association with dobutamine therapy. Decreasing the dose or discontinuing the infusion typically results in rapid return of blood pressure to baseline values. In rare cases, however, intervention may be required and reversibility may not be immediate. Reactions at Sites of Intravenous Infusion Phlebitis has occasionally been reported. Local inflammatory changes have been described following inadvertent infiltration. Isolated cases of cutaneous necrosis (destruction of skin tissue) have been reported. Miscellaneous Uncommon Effects The following adverse effects have been reported in 1% to 3% of patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath. Isolated cases of thrombocytopenia have been reported. Administration of dobutamine, like other catecholamines, can produce a mild reduction in serum potassium concentration, rarely to hypokalemic levels (see PRECAUTIONS)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dobutamine&limit=1&skip=6
+Page 6 of 8
+        "generic_name": [
+          "DOBUTAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DOBUTAMINE HYDROCHLORIDE"
+ 
+      "drug_interactions": [
+        "Drug Interactions − Animal studies indicate that dobutamine may be ineffective if the patient has recently received a β-blocking drug. In such a case, the peripheral vascular resistance may increase. Preliminary studies indicate that the concomitant use of dobutamine and nitroprusside results in a higher cardiac output and, usually, a lower pulmonary wedge pressure than when either drug is used alone. There was no evidence of drug interactions in clinical studies in which dobutamine was administered concurrently with other drugs, including digitalis preparations, furosemide, spironolactone, lidocaine, nitroglycerin, isosorbide dinitrate, morphine, atropine, heparin, protamine, potassium chloride, folic acid, and acetaminophen."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity − A 10 to 20 mm increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see WARNINGS regarding exaggerated chronotropic and pressor effects). Approximately 5% of patients have had increased premature ventricular beats during infusions. These effects are dose related. Hypotension − Precipitous decreases in blood pressure have occasionally been described in association with dobutamine therapy. Decreasing the dose or discontinuing the infusion typically results in rapid return of blood pressure to baseline values. In rare cases, however, intervention may be required and reversibility may not be immediate. Reactions at Sites of Intravenous Infusion − Phlebitis has occasionally been reported. Local inflammatory changes have been described following inadvertent infiltration. Isolated cases of cutaneous necrosis (destruction of skin tissue) have been reported. Miscellaneous Uncommon Effects − The following adverse effects have been reported in 1% to 3% of patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath. Isolated cases of thrombocytopenia have been reported. Administration of dobutamine hydrochloride, like other catecholamines, can produce a mild reduction in serum potassium concentration, rarely to hypokalemic levels (see PRECAUTIONS). Longer-Term Safety − Infusions of up to 72 hours have revealed no adverse effects other than those seen with shorter infusions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Dobutamine&limit=1&skip=7
+Page 7 of 8
+        "generic_name": [
+          "DOBUTAMINE HYDROCHLORIDE INJECTION"
+        "brand_name": [
+          "Dobutamine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Increased Heart Rate, Blood Pressure, and Ventricular Ectopic Activity - A 10- to 20-mm increase in systolic blood pressure and an increase in heart rate of 5 to 15 beats/minute have been noted in most patients (see WARNINGS regarding exaggerated chronotropic and pressor effects). Approximately 5% of pateints have had increased premature ventricular beats during infusions. These effects are dose related. Hypotension - Preciipitous decreases in blood pressure have occasionally been described in association with dobutamine therapy. Decreasing the dose or discontinuing the infusion typically results in rapid return of blood pressure to baseline values. In rare cases, however, intervention may be required and reversibility may not be immediate. Reactions at Sites of Intravenous Infusion - Phlebitis has occasionally been reported. Local inflammatory changes have been described following inadvertent infiltration. Isolated cases of cutaneous necrosis (destruction of skin tissue) have been reported. Miscellaneous Uncommon Effects - The following adverse effects have been reported in 1% to 3% of patients: nausea, headache, anginal pain, nonspecific chest pain, palpitations, and shortness of breath. Isolated cases of thrombocytopenia have been reported. Administration of dobutamine, like other catecholamines, can produce a mild reduction in serum potassium concentration, rarely to hypokalemic levels (see PRECAUTIONS). Longer-Term Safety - Infusions of up to 72 hours have revealed no adverse effects other than those seen with shorter infusions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

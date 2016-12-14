@@ -1,0 +1,74 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methenamine+AND+Hippurate&limit=1&skip=0
+Page 0 of 6
+        "generic_name": [
+          "METHENAMINE HIPPURATE"
+        "brand_name": [
+          "Methenamine Hippurate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Minor adverse reactions have been reported in less than 3.5% of patients treated. These reactions have included nausea, upset stomach, dysuria, and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methenamine+AND+Hippurate&limit=1&skip=1
+Page 1 of 6
+        "generic_name": [
+          "METHENAMINE HIPPURATE"
+        "brand_name": [
+          "Methenamine Hippurate"
+ 
+      "drug_interactions": [
+        "Drug Interactions: The concomitant administration of methenamine hippurate and sulfamethizole or sulfathiazole is liable to result in the formation of a precipitate in the urine."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse effects of Methenamine Hippurate Tablets have been reported in fewer than 3.5% of patients treated. These reactions have included the following, in decreasing order of frequency: nausea, vomiting and rarely pruritus, rash, dysuria. Children have received Methenamine Hippurate Tablets at the recommended dosages as a prophylactic/suppressive regimen after initial treatment of acute episodes of pyuria. Side effects were encountered in only 1.1% of these children."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methenamine+AND+Hippurate&limit=1&skip=2
+Page 2 of 6
+        "generic_name": [
+          "METHENAMINE HIPPURATE"
+        "brand_name": [
+          "Hiprex"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Minor adverse reactions have been reported in less than 3.5% of patients treated. These reactions have included nausea, upset stomach, dysuria, and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methenamine+AND+Hippurate&limit=1&skip=3
+Page 3 of 6
+        "generic_name": [
+          "METHENAMINE HIPPURATE"
+        "brand_name": [
+          "Methenamine Hippurate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Minor adverse reactions have been reported in less than 3.5% of patients treated. These reactions have included nausea, upset stomach, dysuria, and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methenamine+AND+Hippurate&limit=1&skip=4
+Page 4 of 6
+        "generic_name": [
+          "METHENAMINE HIPPURATE"
+        "brand_name": [
+          "Methenamine Hippurate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Minor adverse reactions have been reported in less than 3.5% of patients treated. These reactions have included nausea, upset stomach, dysuria, and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methenamine+AND+Hippurate&limit=1&skip=5
+Page 5 of 6
+        "generic_name": [
+          "METHENAMINE HIPPURATE"
+        "brand_name": [
+          "Methenamine Hippurate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Minor adverse reactions have been reported in less than 3.5% of patients treated. These reactions have included nausea, upset stomach, dysuria, and rash."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

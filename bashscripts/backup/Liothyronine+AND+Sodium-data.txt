@@ -1,0 +1,384 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=0
+Page 0 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE). In rare instances, allergic skin reactions have been reported with liothyronine sodium tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=1
+Page 1 of 29
+        "generic_name": [
+          "FUCUS VESICULOSUS, SPONGIA TOSTA, IODIUM, LIOTHYRONINE SODIUM, PULSATILLA, GLANDULA SUPRARENALIS BOVINUM, PITUITARUM POSTERIUM, THYROIDINUM, CALCAREA CARBONICA, FERRUM IODATUM, KALI IODATUM, LYCOPUS VIRGINICUS, PHOSPHORICUM ACIDUM"
+        "brand_name": [
+          "Thyroplex"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=2
+Page 2 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE ). In rare instances, allergic skin reactions have been reported with liothyronine sodium tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=3
+Page 3 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T 4 and T 3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE ). In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=4
+Page 4 of 29
+        "generic_name": [
+          "LEVOTHYROXINE, LIOTHYRONINE"
+        "brand_name": [
+          "NP Thyroid 90"
+ 
+      "drug_interactions": [
+        "Drug Interactions—Oral Anticoagulants—Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics—Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine - Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore four to five hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives—Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period, are rare (See OVERDOSAGE)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=5
+Page 5 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Cytomel"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "Adverse Reactions Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see Overdosage). In rare instances, allergic skin reactions have been reported with Cytomel (liothyronine sodium) Tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=6
+Page 6 of 29
+        "generic_name": [
+          "LEVOTHYROXINE, LIOTHYRONINE"
+        "brand_name": [
+          "NP Thyroid 30"
+ 
+      "drug_interactions": [
+        "Drug Interactions—Oral Anticoagulants—Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics—Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine - Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore four to five hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives—Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period, are rare (See OVERDOSAGE)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=7
+Page 7 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "liothyronine sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE). In rare instances, allergic skin reactions have been reported with liothyronine sodium tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=8
+Page 8 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "LIOTHYRONINE SODIUM"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE). In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=9
+Page 9 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE ). In rare instances, allergic skin reactions have been reported with liothyronine sodium tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=10
+Page 10 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE ). In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=11
+Page 11 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Triostat"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBG). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroid hormones increase the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, use of vasopressors in patients receiving thyroid hormone preparations may increase the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Therefore, use caution when administering vasopressors with liothyronine (T3)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently reported adverse events were arrhythmia (6% of patients) and tachycardia (3%). Cardiopulmonary arrest, hypotension and myocardial infarction occurred in approximately 2% of patients. The following events occurred in approximately 1% or fewer of patients: angina, congestive heart failure, fever, hypertension, phlebitis and twitching. In rare instances, allergic skin reactions have been reported with liothyronine sodium tablets. For medical advice about your adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=12
+Page 12 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Cytomel"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "Adverse Reactions Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see Overdosage ). In rare instances, allergic skin reactions have been reported with Cytomel (liothyronine sodium) Tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=13
+Page 13 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE ). In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=14
+Page 14 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM, LEVOTHYROXINE SODIUM"
+        "brand_name": [
+          "Thyrolar"
+ 
+      "drug_interactions": [
+        "Drug Interactions—Oral Anticoagulants—Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics—Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine or Colestipol—Cholestyramine or colestipol binds both T4 and T3 in the intestine thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore, four to five hours should elapse between administration of cholestyramine or colestipol and thyroid hormones. Estrogen, Oral Contraceptives—Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started, thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS During postmarketing surveillance, the following events have been observed to have occured in patients administered Thyrolar: fatigue, sluggishness, increase in weight, alopecia, palpitations, dry skin, urticaria, headache, hyperhidrosis, pruritus, asthenia, increased blood pressure, arthralgia, myalgia, tremor, hypothyroidism, increase in TSH, decrease in TSH, nausea, chest pain, hypersensitivity, keratoconjunctivitis sicca, increased heart rate, irregular heart rate, anxiety, depression, and insomnia. Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period, are rare (See OVERDOSAGE )."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=15
+Page 15 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE ). In rare instances, allergic skin reactions have been reported with liothyronine sodium tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=16
+Page 16 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE ). In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=17
+Page 17 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants: Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics: Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Estrogen, Oral Contraceptives: Estrogens tend to increase serum thyroxine-binding globulin (TBG). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants: Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis: Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine: When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors: Thyroid hormones increase the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, use of vasopressors in patients receiving thyroid hormone preparations may increase the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Therefore, use caution when administering vasopressors with liothyronine (T3)."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently reported adverse events were arrhythmia (6% of patients) and tachycardia (3%). Cardiopulmonary arrest, hypotension and myocardial infarction occurred in approximately 2% of patients. The following events occurred in approximately 1% or fewer of patients: angina, congestive heart failure, fever, hypertension, phlebitis and twitching. In rare instances, allergic skin reactions have been reported with liothyronine sodium tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=18
+Page 18 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T and T in the intestine, thus impairing absorption of these thyroid hormones. studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. 4 3 In vitro Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see ). OVERDOSAGE In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=19
+Page 19 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE ). In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=20
+Page 20 of 29
+        "generic_name": [
+          "LEVOTHYROXINE, LIOTHYRONINE"
+        "brand_name": [
+          "NP Thyroid 30"
+ 
+      "drug_interactions": [
+        "Drug Interactions—Oral Anticoagulants—Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics—Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine - Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore four to five hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives—Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period, are rare (See OVERDOSAGE)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=21
+Page 21 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Cytomel"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE). In rare instances, allergic skin reactions have been reported with Cytomel (liothyronine sodium) Tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=22
+Page 22 of 29
+        "generic_name": [
+          "LEVOTHYROXINE, LIOTHYRONINE"
+        "brand_name": [
+          "NP Thyroid 90"
+ 
+      "drug_interactions": [
+        "Drug Interactions—Oral Anticoagulants—Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics—Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine - Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore four to five hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives—Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period, are rare (See OVERDOSAGE)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=23
+Page 23 of 29
+        "generic_name": [
+          "LEVOTHYROXINE AND LIOTHYRONINE"
+        "brand_name": [
+          "NP THYROID 90"
+ 
+      "drug_interactions": [
+        "DRUG INTERACTIONS Drug Interactions—Oral Anticoagulants—Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics—Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine - Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore four to five hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives—Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS ADVERSE REACTIONS: Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period, are rare (See OVERDOSAGE)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=24
+Page 24 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE ). In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=25
+Page 25 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "LIOTHYRONINE SODIUM"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE). In rare instances, allergic skin reactions have been reported with liothyronine sodium tablets."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=26
+Page 26 of 29
+        "generic_name": [
+          "LEVOTHYROXINE, LIOTHYRONINE"
+        "brand_name": [
+          "NP Thyroid 60"
+ 
+      "drug_interactions": [
+        "Drug Interactions—Oral Anticoagulants—Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics—Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine - Cholestyramine binds both T4 and T3 in the intestine, thus impairing absorption of these thyroid hormones. In vitro studies indicate that the binding is not easily removed. Therefore four to five hours should elapse between administration of cholestyramine and thyroid hormones. Estrogen, Oral Contraceptives—Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period, are rare (See OVERDOSAGE)."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=27
+Page 27 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "LIOTHYRONINE SODIUM"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see OVERDOSAGE). In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Liothyronine+AND+Sodium&limit=1&skip=28
+Page 28 of 29
+        "generic_name": [
+          "LIOTHYRONINE SODIUM"
+        "brand_name": [
+          "Liothyronine Sodium"
+ 
+      "drug_interactions": [
+        "Drug Interactions Oral Anticoagulants Thyroid hormones appear to increase catabolism of vitamin K-dependent clotting factors. If oral anticoagulants are also being given, compensatory increases in clotting factor synthesis are impaired. Patients stabilized on oral anticoagulants who are found to require thyroid replacement therapy should be watched very closely when thyroid is started. If a patient is truly hypothyroid, it is likely that a reduction in anticoagulant dosage will be required. No special precautions appear to be necessary when oral anticoagulant therapy is begun in a patient already stabilized on maintenance thyroid replacement therapy. Insulin or Oral Hypoglycemics Initiating thyroid replacement therapy may cause increases in insulin or oral hypoglycemic requirements. The effects seen are poorly understood and depend upon a variety of factors such as dose and type of thyroid preparations and endocrine status of the patient. Patients receiving insulin or oral hypoglycemics should be closely watched during initiation of thyroid replacement therapy. Cholestyramine Cholestyramine binds both T and T in the intestine, thus impairing absorption of these thyroid hormones. studies indicate that the binding is not easily removed. Therefore, 4 to 5 hours should elapse between administration of cholestyramine and thyroid hormones. 4 3 In vitro Estrogen, Oral Contraceptives Estrogens tend to increase serum thyroxine-binding globulin (TBg). In a patient with a nonfunctioning thyroid gland who is receiving thyroid replacement therapy, free levothyroxine may be decreased when estrogens are started thus increasing thyroid requirements. However, if the patient's thyroid gland has sufficient function, the decreased free thyroxine will result in a compensatory increase in thyroxine output by the thyroid. Therefore, patients without a functioning thyroid gland who are on thyroid replacement therapy may need to increase their thyroid dose if estrogens or estrogen-containing oral contraceptives are given. Tricyclic Antidepressants Use of thyroid products with imipramine and other tricyclic antidepressants may increase receptor sensitivity and enhance antidepressant activity; transient cardiac arrhythmias have been observed. Thyroid hormone activity may also be enhanced. Digitalis Thyroid preparations may potentiate the toxic effects of digitalis. Thyroid hormonal replacement increases metabolic rate, which requires an increase in digitalis dosage. Ketamine When administered to patients on a thyroid preparation, this parenteral anesthetic may cause hypertension and tachycardia. Use with caution and be prepared to treat hypertension, if necessary. Vasopressors Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and norepinephrine. Therefore, injection of these agents into patients receiving thyroid preparations increases the risk of precipitating coronary insufficiency, especially in patients with coronary artery disease. Careful observation is required."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Adverse reactions, other than those indicative of hyperthyroidism because of therapeutic overdosage, either initially or during the maintenance period are rare (see ). OVERDOSAGE In rare instances, allergic skin reactions have been reported with Liothyronine Sodium Tablets, USP."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

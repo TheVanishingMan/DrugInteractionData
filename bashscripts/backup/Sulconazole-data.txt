@@ -1,0 +1,24 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulconazole&limit=1&skip=0
+Page 0 of 2
+        "generic_name": [
+          "SULCONAZOLE NITRATE"
+        "brand_name": [
+          "Exelderm"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There were no systemic effects and only infrequent cutaneous adverse reactions in 1185 patients treated with sulconazole nitrate cream in controlled clinical trials. Approximately 3% of these patients reported itching, 3% burning or stinging, and 1% redness. These complaints did not usually interfere with treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Sulconazole&limit=1&skip=1
+Page 1 of 2
+        "generic_name": [
+          "SULCONAZOLE NITRATE"
+        "brand_name": [
+          "Exelderm"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS There were no systemic effects and only infrequent cutaneous adverse reactions in 370 patients treated with sulconazole nitrate solution in controlled clinical trials. Approximately 1% of these patients reported itching and 1% burning or stinging. These complaints did not usually interfere with treatment."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

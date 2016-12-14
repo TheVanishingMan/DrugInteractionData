@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluoxymesterone&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "FLUOXYMESTERONE"
+        "brand_name": [
+          "Androxy"
+ 
+      "drug_interactions": [
+        "Drug Interactions When administered concurrently, the following drugs may interact with androgens: Anticoagulants, oral C-17 substituted derivatives of testosterone, such as methandrostenolone, have been reported to decrease the anticoagulant requirement. Patients receiving oral anticoagulant therapy require close monitoring especially when androgens are started or stopped. Antidiabetic drugs and insulin In diabetic patients, the metabolic effects of androgens may decrease blood glucose and insulin requirements. ACTH and corticosteroids Enhanced tendency toward edema. Use caution when giving these drugs together, especially in patients with hepatic or cardiac disease. Oxyphenbutazone May result in elevated serum levels of oxyphenbutazone."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Endocrine and Urogenital, Female—The most common side effects of androgen therapy are amenorrhea and other menstrual irregularities, inhibition of gonadotropin secretion, and virilization, including deepening of the voice and clitoral enlargement. The latter usually is not reversible after androgens are discontinued. When administered to a pregnant woman, androgens cause virilization of external genitalia of the female fetus. Male—Gynecomastia, and excessive frequency and duration of penile erections. Oligospermia may occur at high dosages (see CLINICAL PHARMACOLOGY). Skin and Appendages—Hirsutism, male pattern baldness, and acne. Fluid and Electrolyte Disturbances—Retention of sodium, chloride, water, potassium, calcium (see WARNINGS), and inorganic phosphates. Gastrointestinal—Nausea, cholestatic jaundice, alterations in liver function tests; rarely, hepatocellular neoplasms, peliosis hepatis, hepatic coma, and death (See WARNINGS). Hematologic—Suppression of clotting factors II, V, VII, and X; bleeding in patients on concomitant anticoagulant therapy; and polycythemia. Nervous System—Increased or decreased libido, headache, anxiety, depression, and generalized paresthesia. Metabolic—Increased serum cholesterol. Miscellaneous—Hypersensitivity; rarely, anaphylactoid reactions."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

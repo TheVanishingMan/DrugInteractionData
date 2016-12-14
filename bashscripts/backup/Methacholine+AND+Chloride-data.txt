@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methacholine+AND+Chloride&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "METHACHOLINE CHLORIDE"
+        "brand_name": [
+          "Provocholine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Adverse reactions associated with 153 inhaled methacholine chloride challenges include one occurrence each of headache, throat irritation, Iightheadedness and itching. Provocholine(R) (methacholine chloride powder for inhalation) is to be administered only by inhalation. When administered orally or by injection, methacholine chloride is reported to be associated with nausea and vomiting, substernal pain or pressure, hypotension,fainting and transient complete heart block. (See OVERDOSAGE.)"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

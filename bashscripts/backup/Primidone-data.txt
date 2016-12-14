@@ -1,0 +1,204 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=0
+Page 0 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=1
+Page 1 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and redcell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to Primidone Tablets and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication. To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=2
+Page 2 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=3
+Page 3 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=4
+Page 4 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=5
+Page 5 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=6
+Page 6 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=7
+Page 7 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=8
+Page 8 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and redcell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=9
+Page 9 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication. To report SUSPECTED ADVERSE REACTIONS contact AvKARE, Inc. at 1-855-361-3993; email drugsafety@avkare.com; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=10
+Page 10 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=11
+Page 11 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Mysoline"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistant or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to Mysoline and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=12
+Page 12 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone tablets and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=13
+Page 13 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "PRIMIDONE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=14
+Page 14 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=15
+Page 15 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occurring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness and morbilliform skin eruptions. Granulocytopenia, agranulocytosis, and redcell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Primidone&limit=1&skip=16
+Page 16 of 17
+        "generic_name": [
+          "PRIMIDONE"
+        "brand_name": [
+          "Primidone"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequently occuring early side effects are ataxia and vertigo. These tend to disappear with continued therapy, or with reduction of initial dosage. Occasionally, the following have been reported: nausea, anorexia, vomiting, fatigue, hyperirritability, emotional disturbances, sexual impotency, diplopia, nystagmus, drowsiness, and morbilliform skin erruptions. Granulocytopenia, agranulocytosis, and red-cell hypoplasia and aplasia, have been reported rarely. These and, occasionally, other persistent or severe side effects may necessitate withdrawal of the drug. Megaloblastic anemia may occur as a rare idiosyncrasy to primidone and to other anticonvulsants. The anemia responds to folic acid without necessity of discontinuing medication."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

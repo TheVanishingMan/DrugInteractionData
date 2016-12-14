@@ -1,54 +1,6 @@
-https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Lotion&limit=1&skip=0
-Page 0 of 4
-        "generic_name": [
-          "METRONIDAZOLE"
-        "brand_name": [
-          "Metronidazole"
- 
-      "drug_interactions": [
-        "Drug Interactions Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."
-      "adverse_reactions": [
-        "ADVERSE REACTIONS In a controlled clinical trial, safety data from 141 patients who used metronidazole topical lotion (n=71), or the lotion vehicle (n=70), twice daily and experienced a local cutaneous adverse event which may or may not have been related to the treatments include: local allergic reaction, metronidazole topical lotion 2 (3%), lotion vehicle 0; contact dermatitis, metronidazole topical lotion 2 (3%), lotion vehicle 1 (1%); pruritus, metronidazole topical lotion 1 (1%), lotion vehicle 0; skin discomfort (burning and stinging), metronidazole topical lotion 1 (1%), lotion vehicle 2 (3%); erythema, metronidazole topical lotion 4 (6%), lotion vehicle 0; dry skin, metronidazole topical lotion 0, lotion vehicle 1 (1%); and worsening of rosacea, metronidazole topical lotion 1 (1%), and lotion vehicle 7 (10%). The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea."
- 
- 
---------------------------------------------------------------------------------------------------------------------
-https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Lotion&limit=1&skip=1
-Page 1 of 4
-        "generic_name": [
-          "METRONIDAZOLE"
-        "brand_name": [
-          "Metronidazole"
- 
-      "drug_interactions": [
-        "Drug Interactions Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."
-      "adverse_reactions": [
-        "ADVERSE REACTIONS In a controlled clinical trial, safety data from 141 patients who used metronidazole topical lotion (n=71), or the lotion vehicle (n=70), twice daily and experienced a local cutaneous adverse event which may or may not have been related to the treatments include: local allergic reaction, metronidazole topical lotion 2 (3%), lotion vehicle 0; contact dermatitis, metronidazole topical lotion 2 (3%), lotion vehicle 1 (1%); pruritus, metronidazole topical lotion 1 (1%), lotion vehicle 0; skin discomfort (burning and stinging), metronidazole topical lotion 1 (1%), lotion vehicle 2 (3%); erythema, metronidazole topical lotion 4 (6%), lotion vehicle 0; dry skin, metronidazole topical lotion 0, lotion vehicle 1 (1%); and worsening of rosacea, metronidazole topical lotion 1 (1%), and lotion vehicle 7 (10%). The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea."
- 
- 
---------------------------------------------------------------------------------------------------------------------
-https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Lotion&limit=1&skip=2
-Page 2 of 4
-        "generic_name": [
-          "METRONIDAZOLE"
-        "brand_name": [
-          "MetroLotion"
- 
-      "adverse_reactions": [
-        "ADVERSE REACTIONS In a controlled clinical trial, safety data from 141 patients who used MetroLotion(R) Topical Lotion (n=71), or the lotion vehicle (n=70), twice daily and experienced a local cutaneous adverse event which may or may not have been related to the treatments include: local allergic reaction, MetroLotion(R) Topical Lotion 2 (3%), lotion vehicle 0; contact dermatitis, MetroLotion(R) Topical Lotion 2 (3%), lotion vehicle 1 (1%); pruritus, MetroLotion(R) Topical Lotion 1 (1%), lotion vehicle 0; skin discomfort (burning and stinging), MetroLotion(R) Topical Lotion 1 (1%), lotion vehicle 2 (3%); erythema, MetroLotion(R) Topical Lotion 4 (6%), lotion vehicle 0; dry skin, MetroLotion(R) Topical Lotion 0, lotion vehicle 1 (l%); and worsening of rosacea, MetroLotion(R) Topical Lotion 1 (1%), lotion vehicle 7 (10%). The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea."
- 
- 
---------------------------------------------------------------------------------------------------------------------
-https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Metronidazole+AND+Lotion&limit=1&skip=3
-Page 3 of 4
-        "generic_name": [
-          "METRONIDAZOLE"
-        "brand_name": [
-          "metronidazole"
- 
-      "drug_interactions": [
-        "Drug Interactions: Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."
-      "adverse_reactions": [
-        "ADVERSE REACTIONS In a controlled clinical trial, safety data from 141 patients who used Metronidazole Lotion Topical Lotion (n=71), or the lotion vehicle (n=70), twice daily and experienced a local cutaneous adverse event which may or may not have been related to the treatments include: local allergic reaction, Metronidazole Topical Lotion 2 (3%), lotion vehicle 0; contact dermatitis, Metronidazole Lotion Topical Lotion 2 (3%), lotion vehicle 1 (1%); pruritus, Metronidazole Lotion Topical Lotion 1 (1%), lotion vehicle 0; skin discomfort (burning and stinging), Metronidazole Lotion Topical Lotion 1 (1%), lotion vehicle 2 (3%); erythema, Metronidazole Lotion Topical Lotion 4 (6%), lotion vehicle 0; dry skin, Metronidazole Lotion Topical Lotion 0, lotion vehicle 1 (1%); and worsening of rosacea, Metronidazole Lotion Topical Lotion 1 (1%), lotion vehicle 7 (10%). The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea."
- 
- 
---------------------------------------------------------------------------------------------------------------------
+
+"ADVERSE REACTIONS In a controlled clinical trial, safety data from 141 patients who used MetroLotion(R) Topical Lotion (n=71), or the lotion vehicle (n=70), twice daily and experienced a local cutaneous adverse event which may or may not have been related to the treatments include: local allergic reaction, MetroLotion(R) Topical Lotion 2 (3%), lotion vehicle 0; contact dermatitis, MetroLotion(R) Topical Lotion 2 (3%), lotion vehicle 1 (1%); pruritus, MetroLotion(R) Topical Lotion 1 (1%), lotion vehicle 0; skin discomfort (burning and stinging), MetroLotion(R) Topical Lotion 1 (1%), lotion vehicle 2 (3%); erythema, MetroLotion(R) Topical Lotion 4 (6%), lotion vehicle 0; dry skin, MetroLotion(R) Topical Lotion 0, lotion vehicle 1 (l%); and worsening of rosacea, MetroLotion(R) Topical Lotion 1 (1%), lotion vehicle 7 (10%). The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea."$$
+"ADVERSE REACTIONS In a controlled clinical trial, safety data from 141 patients who used Metronidazole Lotion Topical Lotion (n=71), or the lotion vehicle (n=70), twice daily and experienced a local cutaneous adverse event which may or may not have been related to the treatments include: local allergic reaction, Metronidazole Topical Lotion 2 (3%), lotion vehicle 0; contact dermatitis, Metronidazole Lotion Topical Lotion 2 (3%), lotion vehicle 1 (1%); pruritus, Metronidazole Lotion Topical Lotion 1 (1%), lotion vehicle 0; skin discomfort (burning and stinging), Metronidazole Lotion Topical Lotion 1 (1%), lotion vehicle 2 (3%); erythema, Metronidazole Lotion Topical Lotion 4 (6%), lotion vehicle 0; dry skin, Metronidazole Lotion Topical Lotion 0, lotion vehicle 1 (1%); and worsening of rosacea, Metronidazole Lotion Topical Lotion 1 (1%), lotion vehicle 7 (10%). The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea."$$
+"ADVERSE REACTIONS In a controlled clinical trial, safety data from 141 patients who used metronidazole topical lotion (n=71), or the lotion vehicle (n=70), twice daily and experienced a local cutaneous adverse event which may or may not have been related to the treatments include: local allergic reaction, metronidazole topical lotion 2 (3%), lotion vehicle 0; contact dermatitis, metronidazole topical lotion 2 (3%), lotion vehicle 1 (1%); pruritus, metronidazole topical lotion 1 (1%), lotion vehicle 0; skin discomfort (burning and stinging), metronidazole topical lotion 1 (1%), lotion vehicle 2 (3%); erythema, metronidazole topical lotion 4 (6%), lotion vehicle 0; dry skin, metronidazole topical lotion 0, lotion vehicle 1 (1%); and worsening of rosacea, metronidazole topical lotion 1 (1%), and lotion vehicle 7 (10%). The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea."$$
+"Drug Interactions Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."$$
+"Drug Interactions: Oral metronidazole has been reported to potentiate the anticoagulant effect of warfarin and coumarin anticoagulants, resulting in a prolongation of prothrombin time. The effect of topical metronidazole on prothrombin time is not known."$$

@@ -1,0 +1,48 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluorescein+AND+and+AND+Benoxinate&limit=1&skip=0
+Page 0 of 4
+        "generic_name": [
+          "FLUORESCEIN SODIUM AND BENOXINATE HYDROCHLORIDE"
+        "brand_name": [
+          "Fluorescein Sodium and Benoxinate Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Occasional temporary stinging, burning, and conjunctival redness have been reported after use of ocular anesthetics, as well as a rare, severe, immediate-type, apparent hyper-allergic corneal reaction, with acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluorescein+AND+and+AND+Benoxinate&limit=1&skip=1
+Page 1 of 4
+        "generic_name": [
+          "FLUORESCEIN SODIUM AND BENOXINATE HYDROCHLORIDE"
+        "brand_name": [
+          "ALTAFLUOR"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Occasional temporary stinging, burning and conjunctival redness have been reported after use of ocular anesthetics, as well as a rare, severe, immediate-type, apparent hyper-allergic corneal reaction, with acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. TO REPORT SUSPECTED ADVERSE REACTIONS, contact Altaire Pharmaceuticals, Inc., at 1-800-258-2471 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluorescein+AND+and+AND+Benoxinate&limit=1&skip=2
+Page 2 of 4
+        "generic_name": [
+          "FLUORESCEIN SODIUM 2.5MG (0.25%), BENOXINATE HYDROCHLORIDE 4MG (0.4%)"
+        "brand_name": [
+          "Flurox"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Occasional temporary stinging, burning, and conjunctival redness have been reported after use of ocular anesthetics, as well as a rare, severe, immediate-type, apparent hyper-allergic corneal reaction, with acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and someimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported. To report SUSPECTED ADVERSE REACTIONS, contact Altaire Pharmaceuticals, Inc. at (631) 722-5988"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Fluorescein+AND+and+AND+Benoxinate&limit=1&skip=3
+Page 3 of 4
+        "generic_name": [
+          "FLUORESCEIN SODIUM AND BENOXINATE HYDROCHLORIDE"
+        "brand_name": [
+          "FLURESS"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Occasional temporary stinging, burning and conjunctival redness have been reported after use of ocular anesthetics, as well as a rare severe, immediate-type, apparently hyperallergic corneal reaction with acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing or large areas of necrotic epithelium, corneal filaments and sometimes, iritis with descemetitis. Allergic contact dermatitis with drying and fissuring of the fingertips has been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

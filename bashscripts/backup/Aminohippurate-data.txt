@@ -1,0 +1,14 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Aminohippurate&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "AMINOHIPPURATE SODIUM"
+        "brand_name": [
+          "AMINOHIPPURATE SODIUM PAH"
+ 
+      "drug_interactions": [
+        "Drug Interactions Renal clearance measurements of PAH cannot be made with any significant accuracy in patients receiving sulfonamides, procaine, or thiazolesulfone. These compounds interfere with chemical color development essential to the analytical procedures. Probenecid depresses tubular secretion of certain weak acids such as PAH. Therefore, patients receiving probenecid will have erroneously low ERPF and TmPAH values."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Hypersensitivity reactions including anaphylaxis, angioedema, urticaria, vasomotor disturbances, flushing, tingling, nausea, vomiting, and cramps may occur. Patients may have a sensation of warmth or the desire to defecate or urinate during or shortly following initiation of infusion."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

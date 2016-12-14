@@ -1,0 +1,84 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Meprobamate&limit=1&skip=0
+Page 0 of 7
+        "generic_name": [
+          "MEPROBAMATE"
+        "brand_name": [
+          "Meprobamate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Central Nervous System Drowsiness, ataxia, dizziness, slurred speech, headache, vertigo, weakness, paresthesias, impairment of visual accommodation, euphoria, overstimulation, paradoxical excitement, fast EEG activity. Gastrointestinal Nausea, vomiting, diarrhea. Cardiovascular Palpitation, tachycardia, various forms of arrhythmia, transient ECG changes, syncope; also hypotensive crisis (including one fatal case). Allergic or Idiosyncratic Allergic or idiosyncratic reactions are usually seen within the period of the first to fourth dose in patients having had no previous contact with the drug. Milder reactions are characterized by an itchy, urticarial, or erythematous maculopapular rash which may be generalized or confined to the groin. Other reactions have included leukopenia, acute nonthrombocytopenic purpura, petechiae, ecchymoses, eosinophilia, peripheral edema, adenopathy, fever, fixed drug eruption with cross reaction to carisoprodol, and cross sensitivity between meprobamate/mebutamate and meprobamate/carbromal. More severe hypersensitivity reactions, rarely reported, include hyperpyrexia, chills, angioneurotic edema, bronchospasm, oliguria and anuria. Also, anaphylaxis, erythema multiforme, exfoliative dermatitis, stomatitis, proctitis, Stevens-Johnson syndrome and bullous dermatitis, including one fatal case of the latter following administration of meprobamate in combination with prednisolone. In case of allergic or idiosyncratic reactions to meprobamate, discontinue the drug and initiate appropriate symptomatic therapy, which may include epinephrine, antihistamines, and in severe cases, corticosteroids. In evaluating possible allergic reactions, also consider allergy to excipients. Hematologic (See also Allergic or Idiosyncratic.) Agranulocytosis and aplastic anemia have been reported. These cases rarely were fatal. Rare cases of thrombocytopenic purpura have been reported. Other Exacerbation of porphyric symptoms."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Meprobamate&limit=1&skip=1
+Page 1 of 7
+        "generic_name": [
+          "MEPROBAMATE"
+        "brand_name": [
+          "Meprobamate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Central Nervous System Drowsiness, ataxia, dizziness, slurred speech, headache, vertigo, weakness, paresthesias, impairment of visual accommodation, euphoria, overstimulation, paradoxical excitement, fast EEG activity. Gastrointestinal Nausea, vomiting, diarrhea. Cardiovascular Palpitation, tachycardia, various forms of arrhythmia, transient ECG changes, syncope; also hypotensive crisis (including one fatal case). Allergic or Idiosyncratic Allergic or idiosyncratic reactions are usually seen within the period of the first to fourth dose in patients having had no previous contact with the drug. Milder reactions are characterized by an itchy, urticarial, or erythematous maculopapular rash which may be generalized or confined to the groin. Other reactions have included leukopenia, acute nonthrombocytopenic purpura, petechiae, ecchymoses, eosinophilia, peripheral edema, adenopathy, fever, fixed drug eruption with cross reaction to carisoprodol, and cross sensitivity between meprobamate/mebutamate and meprobamate/carbromal. More severe hypersensitivity reactions, rarely reported, include hyperpyrexia, chills, angioneurotic edema, bronchospasm, oliguria and anuria. Also, anaphylaxis, erythema multiforme, exfoliative dermatitis, stomatitis, proctitis, Stevens-Johnson syndrome and bullous dermatitis, including one fatal case of the latter following administration of meprobamate in combination with prednisolone. In case of allergic or idiosyncratic reactions to meprobamate, discontinue the drug and initiate appropriate symptomatic therapy, which may include epinephrine, antihistamines, and in severe cases, corticosteroids. In evaluating possible allergic reactions, also consider allergy to excipients. Hematologic (See also Allergic or Idiosyncratic.) Agranulocytosis and aplastic anemia have been reported. These cases rarely were fatal. Rare cases of thrombocytopenic purpura have been reported. Other Exacerbation of porphyric symptoms."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Meprobamate&limit=1&skip=2
+Page 2 of 7
+        "generic_name": [
+          "MEPROBAMATE"
+        "brand_name": [
+          "Meprobamate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Central Nervous System Drowsiness, ataxia, dizziness, slurred speech, headache, vertigo, weakness, paresthesias, impairment of visual accommodation, euphoria, overstimulation, paradoxical excitement, fast EEG activity. Gastrointestinal Nausea, vomiting, diarrhea. Cardiovascular Palpitation, tachycardia, various forms of arrhythmia, transient ECG changes, syncope; also hypotensive crisis (including one fatal case). Allergic or Idiosyncratic Allergic or idiosyncratic reactions are usually seen within the period of the first to fourth dose in patients having had no previous contact with the drug. Milder reactions are characterized by an itchy, urticarial, or erythematous maculopapular rash which may be generalized or confined to the groin. Other reactions have included leukopenia, acute nonthrombocytopenic purpura, petechiae, ecchymoses, eosinophilia, peripheral edema, adenopathy, fever, fixed drug eruption with cross reaction to carisoprodol, and cross sensitivity between meprobamate/mebutamate and meprobamate/carbromal. More severe hypersensitivity reactions, rarely reported, include hyperpyrexia, chills, angioneurotic edema, bronchospasm, oliguria and anuria. Also, anaphylaxis, erythema multiforme, exfoliative dermatitis, stomatitis, proctitis, Stevens-Johnson syndrome and bullous dermatitis, including one fatal case of the latter following administration of meprobamate in combination with prednisolone. In case of allergic or idiosyncratic reactions to meprobamate, discontinue the drug and initiate appropriate symptomatic therapy, which may include epinephrine, antihistamines, and in severe cases, corticosteroids. In evaluating possible allergic reactions, also consider allergy to excipients. Hematologic (See also Allergic or Idiosyncratic.) Agranulocytosis and aplastic anemia have been reported. These cases rarely were fatal. Rare cases of thrombocytopenic purpura have been reported. Other Exacerbation of porphyric symptoms."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Meprobamate&limit=1&skip=3
+Page 3 of 7
+        "generic_name": [
+          "MEPROBAMATE"
+        "brand_name": [
+          "MEPROBAMATE"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Central Nervous System Drowsiness, ataxia, dizziness, slurred speech, headache, vertigo, weakness, paresthesias, impairment of visual accommodation, euphoria, overstimulation, paradoxical excitement, fast EEG activity. Gastrointestinal Nausea, vomiting, diarrhea. Cardiovascular Palpitation, tachycardia, various forms of arrhythmia, transient ECG changes, syncope; also hypotensive crisis (including one fatal case). Allergic or Idiosyncratic Allergic or idiosyncratic reactions are usually seen within the period of the first to fourth dose in patients having had no previous contact with the drug. Milder reactions are characterized by an itchy, urticarial, or erythematous maculopapular rash which may be generalized or confined to the groin. Other reactions have included leukopenia, acute nonthrombocytopenic purpura, petechiae, ecchymoses, eosinophilia, peripheral edema, adenopathy, fever, fixed drug eruption with cross reaction to carisoprodol, and cross sensitivity between meprobamate/mebutamate and meprobamate/carbromal. More severe hypersensitivity reactions, rarely reported, include hyperpyrexia, chills, angioneurotic edema, bronchospasm, oliguria and anuria. Also, anaphylaxis, erythema multiforme, exfoliative dermatitis, stomatitis, proctitis, Stevens-Johnson syndrome and bullous dermatitis, including one fatal case of the latter following administration of meprobamate in combination with prednisolone. In case of allergic or idiosyncratic reactions to meprobamate, discontinue the drug and initiate appropriate symptomatic therapy, which may include epinephrine, antihistamines, and in severe cases, corticosteroids. In evaluating possible allergic reactions, also consider allergy to excipients. Hematologic (See also Allergic or Idiosyncratic .) Agranulocytosis and aplastic anemia have been reported. These cases rarely were fatal. Rare cases of thrombocytopenic purpura have been reported. Other Exacerbation of porphyric symptoms."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Meprobamate&limit=1&skip=4
+Page 4 of 7
+        "generic_name": [
+          "MEPROBAMATE"
+        "brand_name": [
+          "Meprobamate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Central Nervous System Drowsiness, ataxia, dizziness, slurred speech, headache, vertigo, weakness, paresthesias, impairment of visual accommodation, euphoria, overstimulation, paradoxical excitement, fast EEG activity. Gastrointestinal Nausea, vomiting, diarrhea. Cardiovascular Palpitation, tachycardia, various forms of arrhythmia, transient ECG changes, syncope; also hypotensive crisis (including one fatal case). Allergic or Idiosyncratic Allergic or idiosyncratic reactions are usually seen within the period of the first to fourth dose in patients having had no previous contact with the drug. Milder reactions are characterized by an itchy, urticarial, or erythematous maculopapular rash which may be generalized or confined to the groin. Other reactions have included leukopenia, acute nonthrombocytopenic purpura, petechiae, ecchymoses, eosinophilia, peripheral edema, adenopathy, fever, fixed drug eruption with cross reaction to carisoprodol, and cross sensitivity between meprobamate/mebutamate and meprobamate/carbromal. More severe hypersensitivity reactions, rarely reported, include hyperpyrexia, chills, angioneurotic edema, bronchospasm, oliguria and anuria. Also, anaphylaxis, erythema multiforme, exfoliative dermatitis, stomatitis, proctitis, Stevens-Johnson syndrome and bullous dermatitis, including one fatal case of the latter following administration of meprobamate in combination with prednisolone. In case of allergic or idiosyncratic reactions to meprobamate, discontinue the drug and initiate appropriate symptomatic therapy, which may include epinephrine, antihistamines, and in severe cases, corticosteroids. In evaluating possible allergic reactions, also consider allergy to excipients. Hematologic (See also Allergic or Idiosyncratic.) Agranulocytosis and aplastic anemia have been reported. These cases rarely were fatal. Rare cases of thrombocytopenic purpura have been reported. Other Exacerbation of porphyric symptoms."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Meprobamate&limit=1&skip=5
+Page 5 of 7
+        "generic_name": [
+          "MEPROBAMATE"
+        "brand_name": [
+          "Meprobamate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Central Nervous System Drowsiness, ataxia, dizziness, slurred speech, headache, vertigo,weakness, paresthesias, impairment of visual accommodation,euphoria, overstimulation, paradoxical excitement, fast EEG activity. Gastrointestinal Nausea, vomiting, diarrhea. Cardiovascular Palpitation, tachycardia, various forms of arrhythmia, transient ECGchanges, syncope; also hypotensive crisis (including one fatal case). Allergic or Idiosyncratic Allergic or idiosyncratic reactions are usually seen within the period ofthe first to fourth dose in patients having had no previous contact withthe drug. Milder reactions are characterized by an itchy, urticarial, orerythematous maculopapular rash which may be generalized orconfined to the groin. Other reactions have included leukopenia, acutenonthrombocytopenic purpura, petechiae, ecchymoses, eosinophilia,peripheral edema, adenopathy, fever, fixed drug eruption with crossreaction to carisoprodol, and cross sensitivity betweenmeprobamate/mebutamate and meprobamate/carbromal. More severe hypersensitivity reactions, rarely reported, includehyperpyrexia, chills, angioneurotic edema, bronchospasm, oliguriaand anuria. Also, anaphylaxis, erythema multiforme, exfoliativedermatitis, stomatitis, proctitis, Stevens-Johnson syndrome andbullous dermatitis, including one fatal case of the latter followingadministration of meprobamate in combination with prednisolone. In case of allergic or idiosyncratic reactions to meprobamate,discontinue the drug and initiate appropriate symptomatic therapy,which may include epinephrine, antihistamines, and in severe cases,corticosteroids. In evaluating possible allergic reactions, also considerallergy to excipients. Hematologic (See also Allergic or Idiosyncratic ). Agranulocytosis and aplasticanemia have been reported. These cases rarely were fatal. Rare casesof thrombocytopenic purpura have been reported. Other Exacerbation of porphyric symptoms."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Meprobamate&limit=1&skip=6
+Page 6 of 7
+        "generic_name": [
+          "MEPROBAMATE"
+        "brand_name": [
+          "Meprobamate"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Central Nervous System Drowsiness, ataxia, dizziness, slurred speech, headache, vertigo, weakness, paresthesias, impairment of visual accommodation, euphoria, overstimulation, paradoxical excitement, fast EEG activity. Gastrointestinal Nausea, vomiting, diarrhea. Cardiovascular Palpitation, tachycardia, various forms of arrhythmia, transient ECG changes, syncope; also hypotensive crisis (including one fatal case). Allergic or Idiosyncratic Allergic or idiosyncratic reactions are usually seen within the period of the first to fourth dose in patients having had no previous contact with the drug. Milder reactions are characterized by an itchy, urticarial, or erythematous maculopapular rash which may be generalized or confined to the groin. Other reactions have included leukopenia, acute nonthrombocytopenic purpura, petechiae, ecchymoses, eosinophilia, peripheral edema, adenopathy, fever, fixed drug eruption with cross reaction to carisoprodol, and cross sensitivity between meprobamate/mebutamate and meprobamate/carbromal. More severe hypersensitivity reactions, rarely reported, include hyperpyrexia, chills, angioneurotic edema, bronchospasm, oliguria and anuria. Also, anaphylaxis, erythema multiforme, exfoliative dermatitis, stomatitis, proctitis, Stevens-Johnson syndrome and bullous dermatitis, including one fatal case of the latter following administration of meprobamate in combination with prednisolone. In case of allergic or idiosyncratic reactions to meprobamate, discontinue the drug and initiate appropriate symptomatic therapy, which may include epinephrine, antihistamines, and in severe cases, corticosteroids. In evaluating possible allergic reactions, also consider allergy to excipients. Hematologic (See also Allergic or Idiosyncratic.) Agranulocytosis and aplastic anemia have been reported. These cases rarely were fatal. Rare cases of thrombocytopenic purpura have been reported. Other Exacerbation of porphyric symptoms."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

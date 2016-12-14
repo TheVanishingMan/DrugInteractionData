@@ -1,0 +1,156 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=0
+Page 0 of 13
+        "generic_name": [
+          "ERYTHROMYCIN AND BENZOYL PEROXIDE"
+        "brand_name": [
+          "Erythromycin-Benzoyl Peroxide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of adverse reactions associated with the use of Erythromycin-Benzoyl Peroxide Topical Gel was approximately 3%. These were dryness and urticarial reaction. The following additional local adverse reactions have been reported occasionally: irritation of the skin including peeling, itching, burning sensation, erythema, inflammation of the face, eyes and nose, and irritation of the eyes. Skin discoloration, oiliness and tenderness of the skin have also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=1
+Page 1 of 13
+        "generic_name": [
+          "ERYTHROMYCIN"
+        "brand_name": [
+          "ERYGEL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of burning associated with erythromycin topical gel USP, 2% was approximately 25%. The following additional local adverse reactions have been reported occasionally: peeling, dryness, itching, erythema, and oiliness. Irritation of the eyes and tenderness of the skin have also been reported with the topical use of erythromycin. A generalized urticarial reaction, possibly related to the use of erythromycin, which required systemic steroid therapy has been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=2
+Page 2 of 13
+        "generic_name": [
+          "ERYTHROMYCIN"
+        "brand_name": [
+          "ERYGEL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of burning associated with erythromycin topical gel USP, 2% was approximately 25%. The following additional local adverse reactions have been reported occasionally: peeling, dryness, itching, erythema, and oiliness. Irritation of the eyes and tenderness of the skin have also been reported with the topical use of erythromycin. A generalized urticarial reaction, possibly related to the use of erythromycin, which required systemic steroid therapy has been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=3
+Page 3 of 13
+        "generic_name": [
+          "ERYTHROMYCIN AND BENZOYL PEROXIDE"
+        "brand_name": [
+          "Benzamycin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of adverse reactions associated with the use of BENZAMYCIN Topical Gel was approximately 3%. These were dryness and urticarial reaction. The following additional local adverse reactions have been reported occasionally: irritation of the skin including peeling, itching, burning sensation, erythema, inflammation of the face, eyes and nose, and irritation of the eyes. Skin discoloration, oiliness and tenderness of the skin have also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=4
+Page 4 of 13
+        "generic_name": [
+          "ERYTHROMYCIN"
+        "brand_name": [
+          "Erythromycin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of burning associated with erythromycin topical gel USP, 2% was approximately 25%. The following additional local adverse reactions have been reported occasionally: peeling, dryness, itching, erythema, and oiliness. Irritation of the eyes and tenderness of the skin have also been reported with the topical use of erythromycin. A generalized urticarial reaction, possibly related to the use of erythromycin, which required systemic steroid therapy has been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=5
+Page 5 of 13
+        "generic_name": [
+          "ERYTHROMYCIN AND BENZOYL PEROXIDE"
+        "brand_name": [
+          "Erythromycin-Benzoyl Peroxide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of adverse reactions associated with the use of Erythromycin-Benzoyl Peroxide Topical Gel was approximately 3%. These were dryness and urticarial reaction. The following additional local adverse reactions have been reported occasionally: irritation of the skin including peeling, itching, burning sensation, erythema, inflammation of the face, eyes and nose, and irritation of the eyes. Skin discoloration, oiliness and tenderness of the skin have also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=6
+Page 6 of 13
+        "generic_name": [
+          "ERYTHROMYCIN AND BENZOYL PEROXIDE"
+        "brand_name": [
+          "Erythromycin and Benzoyl Peroxide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of adverse reactions associated with the use of erythromycin and benzoyl peroxide topical gel USP, 3%;5% was approximately 3%. These were dryness and urticarial reaction. The following additional local adverse reactions have been reported occasionally: irritation of the skin including peeling, itching, burning sensation, erythema, inflammation of the face, eyes and nose, and irritation of the eyes. Skin discoloration, oiliness and tenderness of the skin have also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=7
+Page 7 of 13
+        "generic_name": [
+          "ERYTHROMYCIN"
+        "brand_name": [
+          "Erythromycin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: In controlled clinical trials, the incidence of burning associated with Erythromycin Topical Gel USP, 2% was approximately 25%. The following additional local adverse reactions have been reported occasionally: peeling, dryness, itching, erythema, and oiliness. Irritation of the eyes and tenderness of the skin have also been reported with the topical use of erythromycin. A generalized urticarial reaction, possibly related to the use of erythromycin, which required systemic steroid therapy has been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=8
+Page 8 of 13
+        "generic_name": [
+          "ERYTHROMYCIN-BENZOYL PEROXIDE"
+        "brand_name": [
+          "Erythromycin-Benzoyl Peroxide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of adverse reactions associated with the use of Erythromycin-Benzoyl Peroxide Topical Gel was approximately 3%. These were dryness and urticarial reaction. The following additional local adverse reactions have been reported occasionally: irritation of the skin including peeling, itching, burning sensation, erythema, inflammation of the face, eyes and nose, and irritation of the eyes. Skin discoloration, oiliness and tenderness of the skin have also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=9
+Page 9 of 13
+        "generic_name": [
+          "ERYTHROMYCIN"
+        "brand_name": [
+          "Erythromycin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of burning associated with erythromycin topical gel USP, 2% was approximately 25%. The following additional local adverse reactions have been reported occasionally: peeling, dryness, itching, erythema, and oiliness. Irritation of the eyes and tenderness of the skin have also been reported with the topical use of erythromycin. A generalized urticarial reaction, possibly related to the use of erythromycin, which required systemic steroid therapy has been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=10
+Page 10 of 13
+        "generic_name": [
+          "ERYTHROMYCIN AND BENZOYL PEROXIDE"
+        "brand_name": [
+          "Erythromycin and Benzoyl Peroxide"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of adverse reactions associated with the use of Erythromycin-Benzoyl Peroxide Topical Gel was approximately 3%. These were dryness and urticarial reaction. The following additional local adverse reactions have been reported occasionally: irritation of the skin including peeling, itching, burning sensation, erythema, inflammation of the face, eyes and nose, and irritation of the eyes. Skin discoloration, oiliness and tenderness of the skin have also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=11
+Page 11 of 13
+        "generic_name": [
+          "ERYTHROMYCIN AND BENZOYL PEROXIDE"
+        "brand_name": [
+          "Benzamycin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of adverse reactions associated with the use of BENZAMYCIN Topical Gel was approximately 3%. These were dryness and urticarial reaction. The following additional local adverse reactions have been reported occasionally: irritation of the skin including peeling, itching, burning sensation, erythema, inflammation of the face, eyes and nose, and irritation of the eyes. Skin discoloration, oiliness and tenderness of the skin have also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Erythromycin+AND+Topical+AND+Gel&limit=1&skip=12
+Page 12 of 13
+        "generic_name": [
+          "ERYTHROMYCIN"
+        "brand_name": [
+          "Erythromycin"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS In controlled clinical trials, the incidence of burning associated with erythromycin topical gel USP, 2% was approximately 25%. The following additional local adverse reactions have been reported occasionally: peeling, dryness, itching, erythema, and oiliness. Irritation of the eyes and tenderness of the skin have also been reported with the topical use of erythromycin. A generalized urticarial reaction, possibly related to the use of erythromycin, which required systemic steroid therapy has been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

@@ -1,14 +1,3 @@
-https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Methsuximide&limit=1&skip=0
-Page 0 of 1
-        "generic_name": [
-          "METHSUXIMIDE"
-        "brand_name": [
-          "Celontin"
- 
-      "drug_interactions": [
-        "Drug Interactions Since Celontin (methsuximide) may interact with concurrently administered antiepileptic drugs, periodic serum level determinations of these drugs may be necessary (eg, methsuximide may increase the plasma concentrations of phenytoin and phenobarbital)."
-      "adverse_reactions": [
-        "ADVERSE REACTIONS Gastrointestinal System: Gastrointestinal symptoms occur frequently and have included nausea or vomiting, anorexia, diarrhea, weight loss, epigastric and abdominal pain, and constipation. Hemopoietic System: Hemopoietic complications associated with the administration of methsuximide have included eosinophilia, leukopenia, monocytosis, and pancytopenia with or without bone marrow suppression. Nervous System: Neurologic and sensory reactions reported during therapy with methsuximide have included drowsiness, ataxia or dizziness, irritability and nervousness, headache, blurred vision, photophobia, hiccups, and insomnia. Drowsiness, ataxia, and dizziness have been the most frequent side effects noted. Psychologic abnormalities have included confusion, instability, mental slowness, depression, hypochondriacal behavior, and aggressiveness. There have been rare reports of psychosis, suicidal behavior, and auditory hallucinations. Integumentary System: Dermatologic manifestations which have occurred with the administration of methsuximide have included urticaria, Stevens-Johnson syndrome, and pruritic erythematous rashes. Cardiovascular: Hyperemia. Genitourinary System: Proteinuria, microscopic hematuria. Body as a Whole: Periorbital edema."
- 
- 
---------------------------------------------------------------------------------------------------------------------
+
+"ADVERSE REACTIONS Gastrointestinal System: Gastrointestinal symptoms occur frequently and have included nausea or vomiting, anorexia, diarrhea, weight loss, epigastric and abdominal pain, and constipation. Hemopoietic System: Hemopoietic complications associated with the administration of methsuximide have included eosinophilia, leukopenia, monocytosis, and pancytopenia with or without bone marrow suppression. Nervous System: Neurologic and sensory reactions reported during therapy with methsuximide have included drowsiness, ataxia or dizziness, irritability and nervousness, headache, blurred vision, photophobia, hiccups, and insomnia. Drowsiness, ataxia, and dizziness have been the most frequent side effects noted. Psychologic abnormalities have included confusion, instability, mental slowness, depression, hypochondriacal behavior, and aggressiveness. There have been rare reports of psychosis, suicidal behavior, and auditory hallucinations. Integumentary System: Dermatologic manifestations which have occurred with the administration of methsuximide have included urticaria, Stevens-Johnson syndrome, and pruritic erythematous rashes. Cardiovascular: Hyperemia. Genitourinary System: Proteinuria, microscopic hematuria. Body as a Whole: Periorbital edema."$$
+"Drug Interactions Since Celontin (methsuximide) may interact with concurrently administered antiepileptic drugs, periodic serum level determinations of these drugs may be necessary (eg, methsuximide may increase the plasma concentrations of phenytoin and phenobarbital)."$$

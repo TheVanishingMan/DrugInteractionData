@@ -1,0 +1,42 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:PEG+AND+Electrolytes+AND+Solution&limit=1&skip=0
+Page 0 of 3
+        "generic_name": [
+          "PEG-3350 AND ELECTROLYTES"
+        "brand_name": [
+          "COLYTE"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Drugs That May Increase Risks Due to Fluid and Electrolyte Abnormalities Use caution when prescribing Colyte for patients with conditions, or who are using medications, that increase the risk for fluid and electrolyte disturbances or may increase the risk of adverse events of seizures, arrhythmias, and prolonged QT in the setting of fluid and electrolyte abnormalities. Consider additional patient evaluations as appropriate (see Precautions) in patients taking these concomitant medications. Potential for Altered Drug Absorption Oral medication administered within one hour of the start of administration of Colyte may be flushed from the gastrointestinal tract and the medication may not be absorbed properly."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in clinical studies of another drug and may not reflect the rates observed in practice. Nausea, abdominal fullness and bloating are the most common adverse reactions (occurring in up to 50% of patients) to administration of Colyte. Abdominal cramps, vomiting and anal irritation occur less frequently. These adverse reactions are transient and usually subside rapidly. Isolated cases of urticaria, rhinorrhea, dermatitis, and rarely anaphylaxis, angioedema, tongue edema, and face edema have been reported which may represent allergic reactions. To report Suspected Adverse Reactions contact Meda Pharmaceuticals Inc. at toll free 1-866-210-5953 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:PEG+AND+Electrolytes+AND+Solution&limit=1&skip=1
+Page 1 of 3
+        "generic_name": [
+          "PEG-3350 AND ELECTROLYTES"
+        "brand_name": [
+          "GoLYTELY"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Oral medication administered within one hour of the start of administration of GoLYTELY for Oral Solution may be flushed from the gastrointestinal tract and not absorbed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Nausea, abdominal fullness and bloating are the most common adverse reactions (occurring in up to 50% of patients) to administration of GoLYTELY for Oral Solution. Abdominal cramps, vomiting and anal irritation occur less frequently. These adverse reactions are transient and subside rapidly. Isolated cases of urticaria, rhinorrhea, dermatitis and (rarely) anaphylactic reaction have been reported which may represent allergic reactions. Published literature contains isolated reports of serious adverse reactions following the administration of PEG-ELS products in patients over 60 years of age. These adverse events include upper GI bleeding from Mallory-Weiss Tear, esophageal perforation, asystole, sudden dyspnea with pulmonary edema, and "butterfly-like" infiltrates on chest X-ray after vomiting and aspirating PEG."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:PEG+AND+Electrolytes+AND+Solution&limit=1&skip=2
+Page 2 of 3
+        "generic_name": [
+          "PEG-3350 AND ELECTROLYTES"
+        "brand_name": [
+          "PEG-3350 and Electrolytes"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Oral medication administered within one hour of the start of administration of PEG-3350 and Electrolytes for Oral Solution may be flushed from the gastrointestinal tract and not absorbed."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: Nausea, abdominal fullness and bloating are the most common adverse reactions (occurring in up to 50% of patients) to administration of PEG-3350 and Electrolytes for Oral Solution. Abdominal cramps, vomiting and anal irritation occur less frequently. These adverse reactions are transient and subside rapidly. Isolated cases of urticaria, rhinorrhea, dermatitis and (rarely) anaphylactic reaction have been reported which may represent allergic reactions. Published literature contains isolated reports of serious adverse reactions following the administration of PEG-ELS products in patients over 60 years of age. These adverse events include upper GI bleeding from Mallory-Weiss Tear, esophageal perforation, asystole, sudden dyspnea with pulmonary edema, and "butterfly-like" infiltrates on chest X-ray after vomiting and aspirating PEG."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

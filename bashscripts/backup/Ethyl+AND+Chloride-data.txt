@@ -1,0 +1,250 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=0
+Page 0 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Zylast Antiseptic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=1
+Page 1 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Zylast Antiseptic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=2
+Page 2 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Deb InstantFoam Alcohol Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=3
+Page 3 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Deb Med InstantFOAM OptiDose Hand Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=4
+Page 4 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Dial Professional Antibacterial Hand Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=5
+Page 5 of 25
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE, LIDOCAINE, BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE, WATER, ISOPROPYL ALCOHOL, BENZOCAINE, ASPIRIN, ETHYL ALCOHOL"
+        "brand_name": [
+          "Good Neighbor Pharmacy Emergency Preparedness and First Aid Contains 167 Pieces"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=6
+Page 6 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "ProFormance Series Foam Alcohol Hand Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=7
+Page 7 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Clean Choice Alcohol Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=8
+Page 8 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Appeal Alcohol Foaming Hand Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=9
+Page 9 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "CTCA Foaming Hand Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=10
+Page 10 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "InstantFOAM alcohol hand sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=11
+Page 11 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "SURGICEPT Waterless, Surgical Handscrub and Healthcare Personnel Handwash"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=12
+Page 12 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Deb InstantFoam Alcohol Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=13
+Page 13 of 25
+        "generic_name": [
+          "BENZALKONIUM CHLORIDE,BACITRACIN ZINC,NEOMYCIN SULFATE,POLYMYXIN B SULFATE, ETHYL ALCOHOL"
+        "brand_name": [
+          "Emergency Preparedness"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=14
+Page 14 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Proformance Foam Alcohol Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=15
+Page 15 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Epi-Clenz Instant Hand Antiseptic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=16
+Page 16 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL LIQUID"
+        "brand_name": [
+          "Tork Hand Sanitizer Alcohol Foam"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=17
+Page 17 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Zylast Antiseptic Surgical Scrub"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=18
+Page 18 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Deb InstantFOAM Alcohol Hand Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=19
+Page 19 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "ICS3 Blue Healthcare Hand Antiseptic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=20
+Page 20 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Appeal Alcohol Foaming Hand Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=21
+Page 21 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Zylast Antiseptic"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=22
+Page 22 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Purell Sanitizing Hand Wipes"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=23
+Page 23 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "Deb Med InstantFOAM Hand Sanitizer"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ethyl+AND+Chloride&limit=1&skip=24
+Page 24 of 25
+        "generic_name": [
+          "ETHYL ALCOHOL"
+        "brand_name": [
+          "ORCHID BY H E B VANILLA BROWN SUGAR"
+ 
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

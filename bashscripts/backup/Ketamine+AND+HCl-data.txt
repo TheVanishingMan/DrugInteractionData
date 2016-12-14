@@ -1,0 +1,54 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketamine+AND+HCl&limit=1&skip=0
+Page 0 of 4
+        "generic_name": [
+          "KETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "ketamine hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Prolonged recovery time may occur if barbiturates and/or narcotics are used concurrently with ketamine hydrochloride. Ketamine hydrochloride is clinically compatible with the commonly used general and local anesthetic agents when an adequate respiratory exchange is maintained."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Blood pressure and pulse rate are frequently elevated following administration of ketamine hydrochloride alone. However, hypotension and bradycardia have been observed. Arrhythmia has also occurred. Respiration: Although respiration is frequently stimulated, severe depression of respiration or apnea may occur following rapid intravenous administration of high doses of ketamine hydrochloride. Laryngospasms and other forms of airway obstruction have occurred during ketamine hydrochloride anesthesia. Eye: Diplopia and nystagmus have been noted following ketamine hydrochloride administration. It also may cause a slight elevation in intraocular pressure measurement. Genitourinary: Severe irritative and inflammatory urinary tract and bladder symptoms including cystitis have been reported in individuals with history of chronic ketamine use or abuse. Psychological: (See Special Note.) Neurological: In some patients, enhanced skeletal muscle tone may be manifested by tonic and clonic movements sometimes resembling seizures (see DOSAGE AND ADMINISTRATION Section). Gastrointestinal: Anorexia, nausea and vomiting have been observed; however, this is not usually severe and allows the great majority of patients to take liquids by mouth shortly after regaining consciousness (see DOSAGE AND ADMINISTRATION Section). General: Anaphylaxis. Local pain and exanthema at the injection site have infrequently been reported. Transient erythema and/or morbilliform rash have also been reported. For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact JHP at 1-866-923-2547 or MEDWATCH at 1-800-FDA-1088 (1-800-332-1088) or http://www.fda.gov/medwatch/."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketamine+AND+HCl&limit=1&skip=1
+Page 1 of 4
+        "generic_name": [
+          "KETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Ketalar"
+ 
+      "drug_interactions": [
+        "Drug Interactions Prolonged recovery time may occur if barbiturates and/or narcotics are used concurrently with Ketalar. Ketalar is clinically compatible with the commonly used general and local anesthetic agents when an adequate respiratory exchange is maintained."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular: Blood pressure and pulse rate are frequently elevated following administration of Ketalar alone. However, hypotension and bradycardia have been observed. Arrhythmia has also occurred. Respiration: Although respiration is frequently stimulated, severe depression of respiration or apnea may occur following rapid intravenous administration of high doses of Ketalar. Laryngospasms and other forms of airway obstruction have occurred during Ketalar anesthesia. Eye: Diplopia and nystagmus have been noted following Ketalar administration. It also may cause a slight elevation in intraocular pressure measurement. Genitourinary: In individuals with history of chronic ketamine use or abuse, lower urinary tract and bladder symptoms including dysuria, increased urinary frequency, urgency, urge incontinence, and hematuria have been reported. In addition, diagnostic studies performed due to these symptoms have reported cystitis (including cystitis non-infective, cystitis interstitial, cystitis ulcerative, cystitis erosive and cystitis hemorrhagic) as well as hydronephrosis and reduced bladder capacity. Psychological: (See Special Note.) Neurological: In some patients, enhanced skeletal muscle tone may be manifested by tonic and clonic movements sometimes resembling seizures (see DOSAGE AND ADMINISTRATION Section). Gastrointestinal: Anorexia, nausea and vomiting have been observed; however, this is not usually severe and allows the great majority of patients to take liquids by mouth shortly after regaining consciousness (see DOSAGE AND ADMINISTRATION Section). General: Anaphylaxis. Local pain and exanthema at the injection site have infrequently been reported. Transient erythema and/or morbilliform rash have also been reported. For medical advice about adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact Par Pharmaceutical, Inc. at 1-800-828-9393 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketamine+AND+HCl&limit=1&skip=2
+Page 2 of 4
+        "generic_name": [
+          "KETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Ketamine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Prolonged recovery time may occur if barbiturates and/or narcotics are used concurrently with ketamine. Ketamine is clinically compatible with the commonly used general and local anesthetic agents when an adequate respiratory exchange is maintained."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular Blood pressure and pulse rate are frequently elevated following administration of ketamine alone. However, hypotension and bradycardia have been observed. Arrhythmia has also occurred. Respiration Although respiration is frequently stimulated, severe depression of respiration or apnea may occur following rapid intravenous administration of high doses of ketamine. Laryngospasms and other forms of airway obstruction have occurred during ketamine anesthesia. Eye Diplopia and nystagmus have been noted following ketamine administration. It also may cause a slight elevation in intraocular pressure measurement. Psychological: (See SPECIAL NOTE.) Neurological In some patients, enhanced skeletal muscle tone may be manifested by tonic and clonic movements sometimes resembling seizures (see DOSAGE AND ADMINISTRATION section). Gastrointestinal Anorexia, nausea and vomiting have been observed; however, this is not usually severe and allows the great majority of patients to take liquids by mouth shortly after regaining consciousness (see DOSAGE AND ADMINISTRATION section). General: Anaphylaxis Local pain and exanthema at the injection site have infrequently been reported. Transient erythema and/or morbilliform rash have also been reported."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Ketamine+AND+HCl&limit=1&skip=3
+Page 3 of 4
+        "generic_name": [
+          "KETAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Ketamine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS Cardiovascular Blood pressure and pulse rate are frequently elevated following administration of ketamine alone. However, hypotension and bradycardia have been observed. Arrhythmia has also occurred. Respiration Although respiration is frequently stimulated, severe depression of respiration or apnea may occur following rapid intravenous administration of high doses of ketamine. Laryngospasms and other forms of airway obstruction have occurred during ketamine anesthesia. Eye Diplopia and nystagmus have been noted following ketamine administration. It also may cause a slight elevation in intraocular pressure measurement. Genitourinary Severe irritative and inflammatory urinary tract and bladder symptoms including cystitis have been reported in individuals with history of chronic ketamine use or abuse. Psychological: (See SPECIAL NOTE.) Neurological In some patients, enhanced skeletal muscle tone may be manifested by tonic and clonic movements sometimes resembling seizures (see DOSAGE AND ADMINISTRATION section). Gastrointestinal Anorexia, nausea and vomiting have been observed; however, this is not usually severe and allows the great majority of patients to take liquids by mouth shortly after regaining consciousness (see DOSAGE AND ADMINISTRATION section). General: Anaphylaxis Local pain and exanthema at the injection site have infrequently been reported. Transient erythema and/or morbilliform rash have also been reported. For medical advice about your adverse reactions contact your medical professional. To report SUSPECTED ADVERSE REACTIONS, contact Hospira, Inc. at 1-800-441-4100 or electronically at ProductComplaintsPP@hospira.com, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

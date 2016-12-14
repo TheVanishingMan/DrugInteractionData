@@ -1,0 +1,12 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Hydrocortisone+AND+Probutate+AND+Cream&limit=1&skip=0
+Page 0 of 1
+        "generic_name": [
+          "HYDROCORTISONE PROBUTATE"
+        "brand_name": [
+          "PANDEL"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions reported for Pandel(R) (hydrocortisone probutate) Cream, 0.1% have included burning in 4, stinging in 2, and moderate paresthesia in 1 out of 226 patients. The following local adverse reactions are reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings. These reactions are listed in an approximate decreasing order of occurrence: burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infections, skin atrophy, striae, miliaria."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------

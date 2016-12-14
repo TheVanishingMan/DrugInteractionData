@@ -1,0 +1,294 @@
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=0
+Page 0 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Hypotension, headache, palpitations, tachycardia, extrasystoles. Hemolytic anemia, thrombocytopenia, agranulocytosis. Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Urinary frequency, difficult urination, urinary retention, early menses. Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=1
+Page 1 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Hypotension, headache, palpitations, tachycardia, extrasystoles. Hemolytic anemia, thrombocytopenia, agranulocytosis. Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Urinary frequency, difficult urination, urinary retention, early menses. Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=2
+Page 2 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Hypotension, headache, palpitations, tachycardia, extrasystoles. Hemolytic anemia, thrombocytopenia, agranulocytosis. Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Urinary frequency, difficult urination, urinary retention, early menses. Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=3
+Page 3 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.) MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. General Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Cardiovascular System Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System , , , , fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Sedation sleepiness dizziness disturbed coordination Gastrointestinal System , anorexia, nausea, vomiting, diarrhea, constipation. Epigastric distress Genitourinary System Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System , tightness of chest and wheezing, nasal stuffiness. Thickening of bronchial secretions"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=4
+Page 4 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.) MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. General Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Cardiovascular System Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Gastrointestinal System Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Genitourinary System Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=5
+Page 5 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Hypotension, headache, palpitations, tachycardia, extrasystoles. Hemolytic anemia, thrombocytopenia, agranulocytosis. Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Urinary frequency, difficult urination, urinary retention, early menses. Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=6
+Page 6 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "DiphenhydrAMINE Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored: General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose, and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination , fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GI System: Epigastric distress , anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions , tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=7
+Page 7 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored: General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose, and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GI System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions, tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=8
+Page 8 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored: 1. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose, and throat. 2. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. 3. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. 4. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination , fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. 5. GI System: Epigastric distress , anorexia, nausea, vomiting, diarrhea, constipation. 6. GU System: Urinary frequency, difficult urination, urinary retention, early menses. 7. Respiratory System: Thickening of bronchial secretions , tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=9
+Page 9 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.) MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. General Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Cardiovascular System Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Gastrointestinal System Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Genitourinary System Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=10
+Page 10 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. GENERAL Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. CARDIOVASCULAR SYSTEM Hypotension, headache, palpitations, tachycardia, extrasystoles. HEMATOLOGIC SYSTEM Hemolytic anemia, thrombocytopenia, agranulocytosis. NERVOUS SYSTEM Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GASTROINTESTINAL SYSTEM Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. GENITOURINARY SYSTEM Urinary frequency, difficult urination, urinary retention, early menses. RESPIRATORY SYSTEM Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=11
+Page 11 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.) MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored. 1. General: Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. 2. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. 3. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. 4. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. 5. GI System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. 6. GU System: Urinary frequency, difficult urination, urinary retention, early menses. 7. Respiratory System: Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=12
+Page 12 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions: Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc). MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored: General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose, and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GI System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions, tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=13
+Page 13 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.) MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored. 1. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose, and throat 2. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles 3. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis 4. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions 5. GI System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation 6. GU System: Urinary frequency, difficult urination, urinary retention, early menses 7. Respiratory System: Thickening of bronchial secretions, tightness of chest or throat and wheezing, nasal stuffiness"
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=14
+Page 14 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.) MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. General Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Cardiovascular System Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Gastrointestinal System Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Genitourinary System Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=15
+Page 15 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS: The most frequent adverse reactions are underscored. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GI System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions, tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=16
+Page 16 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation , sleepiness , dizziness , disturbed coordination , fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GI System: Epigastric distress , anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions , tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=17
+Page 17 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.) MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. General Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Cardiovascular System Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Gastrointestinal System Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Genitourinary System Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=18
+Page 18 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "drug_interactions": [
+        "Drug Interactions Diphenhydramine hydrochloride has additive effects with alcohol and other CNS depressants (hypnotics, sedatives, tranquilizers, etc.) MAO inhibitors prolong and intensify the anticholinergic (drying) effects of antihistamines."
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are italicized. General Urticaria; drug rash; anaphylactic shock; photosensitivity; excessive perspiration; chills; dryness of mouth, nose and throat. Cardiovascular System Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. Gastrointestinal System Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. Genitourinary System Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System Thickening of bronchial secretions, tightness of chest and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=19
+Page 19 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine Hydrochloride"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored: General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose, and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GI System: Epigastric distress, anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions, tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=20
+Page 20 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation , sleepiness , dizziness , disturbed coordination , fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GI System: Epigastric distress , anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions , tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=21
+Page 21 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation , sleepiness , dizziness , disturbed coordination , fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GI System: Epigastric distress , anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions , tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
+https://api.fda.gov/drug/label.json?api_key=mIN5BAt8Q4kciIz367SmtW9t6aWsj0oF6bafJBOd&search=generic_name:Diphenhydramine+AND+Injection&limit=1&skip=22
+Page 22 of 23
+        "generic_name": [
+          "DIPHENHYDRAMINE HYDROCHLORIDE"
+        "brand_name": [
+          "Diphenhydramine"
+ 
+      "adverse_reactions": [
+        "ADVERSE REACTIONS The most frequent adverse reactions are underscored. General: Urticaria, drug rash, anaphylactic shock, photosensitivity, excessive perspiration, chills, dryness of mouth, nose and throat. Cardiovascular System: Hypotension, headache, palpitations, tachycardia, extrasystoles. Hematologic System: Hemolytic anemia, thrombocytopenia, agranulocytosis. Nervous System: Sedation , sleepiness , dizziness , disturbed coordination , fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesia, blurred vision, diplopia, vertigo, tinnitus, acute labyrinthitis, neuritis, convulsions. GI System: Epigastric distress , anorexia, nausea, vomiting, diarrhea, constipation. GU System: Urinary frequency, difficult urination, urinary retention, early menses. Respiratory System: Thickening of bronchial secretions , tightness of chest or throat and wheezing, nasal stuffiness."
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------
